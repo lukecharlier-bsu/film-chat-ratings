@@ -1,0 +1,4538 @@
+[
+  {
+    "movie_name": "Luca",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/ipjC",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:1.0, memoriesomovies:3.5",
+    "variance": 1.5625
+  },
+  {
+    "movie_name": "Faces of Death",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/wiLC",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.0, memoriesomovies:3.5",
+    "variance": 1.5625
+  },
+  {
+    "movie_name": "Minions: The Rise of Gru",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/fz9w",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "big_brant:0.5, lukecharlier:2.5",
+    "variance": 1.0
+  },
+  {
+    "movie_name": "Bugonia",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/qeWY",
+    "avg_rating": 3.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:2.0, lukecharlier:4.0, memoriesomovies:2.0, paityne:4.0",
+    "variance": 1.0
+  },
+  {
+    "movie_name": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/5xme",
+    "avg_rating": 2.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.0, memoriesomovies:3.0",
+    "variance": 1.0
+  },
+  {
+    "movie_name": "Skinamarink",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/ByDO",
+    "avg_rating": 2.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:2.5, lukecharlier:1.5, memoriesomovies:4.0, paityne:2.5",
+    "variance": 0.7969
+  },
+  {
+    "movie_name": "Avatar: Fire and Ash",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/2W7s",
+    "avg_rating": 3.12,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:2.0, memoriesomovies:4.0, paityne:2.5",
+    "variance": 0.7969
+  },
+  {
+    "movie_name": "The Social Network",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/17ue",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, memoriesomovies:4.5, paityne:3.0",
+    "variance": 0.7222
+  },
+  {
+    "movie_name": "The Monkey",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Gwiu",
+    "avg_rating": 2.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:1.0, paityne:2.5",
+    "variance": 0.7222
+  },
+  {
+    "movie_name": "Chainsaw Man \u2013 The Movie: Reze Arc",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Kgyu",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.5, lukecharlier:3.5, paityne:2.5",
+    "variance": 0.6667
+  },
+  {
+    "movie_name": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/gaTc",
+    "avg_rating": 2.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:1.0, lukecharlier:2.5, memoriesomovies:3.0, paityne:1.5",
+    "variance": 0.625
+  },
+  {
+    "movie_name": "Halloween",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/f0uE",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:2.5",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "Godzilla",
+    "year": 1954,
+    "letterboxd_uri": "https://boxd.it/28kc",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:3.5",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "Thor: The Dark World",
+    "year": 2013,
+    "letterboxd_uri": "https://boxd.it/2DqA",
+    "avg_rating": 1.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:0.5, memoriesomovies:2.0",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "Star Wars",
+    "year": 1977,
+    "letterboxd_uri": "https://boxd.it/72s",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:5.0",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "The Grand Budapest Hotel",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/3ZqO",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:5.0",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "C'mon C'mon",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/nrI0",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:3.0",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "Rosemary's Baby",
+    "year": 1968,
+    "letterboxd_uri": "https://boxd.it/29zM",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:5.0",
+    "variance": 0.5625
+  },
+  {
+    "movie_name": "All of Us Strangers",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/Bz3C",
+    "avg_rating": 4.12,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:5.0, paityne:3.0",
+    "variance": 0.5469
+  },
+  {
+    "movie_name": "A Minecraft Movie",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/zRro",
+    "avg_rating": 1.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:0.5, lukecharlier:2.0, paityne:2.0",
+    "variance": 0.5
+  },
+  {
+    "movie_name": "Marcel the Shell with Shoes On",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/wMAk",
+    "avg_rating": 3.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:4.0, paityne:2.5",
+    "variance": 0.5
+  },
+  {
+    "movie_name": "The Black Phone",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/sqFE",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:2.5, paityne:4.0",
+    "variance": 0.5
+  },
+  {
+    "movie_name": "Scream VI",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/zdfW",
+    "avg_rating": 3.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:2.0, paityne:3.5",
+    "variance": 0.5
+  },
+  {
+    "movie_name": "Sinners",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/KQMM",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.0, memoriesomovies:4.5, paityne:3.0",
+    "variance": 0.4219
+  },
+  {
+    "movie_name": "John Wick: Chapter 4",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/mh48",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:3.0",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "A Quiet Place",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/fVJQ",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:4.0, paityne:2.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Cruella",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/bbKg",
+    "avg_rating": 2.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.0, paityne:3.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "The French Dispatch of the Liberty, Kansas Evening Sun",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/jLP8",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Shaun of the Dead",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/29J8",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "mother!",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/dgRU",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, paityne:5.0",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Fight Club",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/2a9q",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Men",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/tlc0",
+    "avg_rating": 2.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.0, paityne:3.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "The Boy and the Heron",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/ipeM",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Civil War",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/z1jW",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:4.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Idiocracy",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/20RW",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5, paityne:2.5",
+    "variance": 0.3889
+  },
+  {
+    "movie_name": "Die My Love",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/D5cI",
+    "avg_rating": 3.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:2.5, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.375
+  },
+  {
+    "movie_name": "Barbarian",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/yohi",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:3.5, paityne:5.0",
+    "variance": 0.3125
+  },
+  {
+    "movie_name": "Everything Everywhere All at Once",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/jUk4",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.5, memoriesomovies:5.0, paityne:4.0",
+    "variance": 0.3125
+  },
+  {
+    "movie_name": "Scream",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/o0lg",
+    "avg_rating": 3.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:2.5, paityne:3.5",
+    "variance": 0.2969
+  },
+  {
+    "movie_name": "Toy Story",
+    "year": 1995,
+    "letterboxd_uri": "https://boxd.it/29qA",
+    "avg_rating": 4.12,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.5, memoriesomovies:5.0, paityne:4.0",
+    "variance": 0.2969
+  },
+  {
+    "movie_name": "Violent Night",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/xXBA",
+    "avg_rating": 2.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:1.5, lukecharlier:2.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "A Bug's Life",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/1Yyy",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.0, memoriesomovies:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Cars",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/29ho",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.5, lukecharlier:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Ex Machina",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/7T2k",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "All Quiet on the Western Front",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/H08",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/mK0a",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:2.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "John Wick: Chapter 3 \u2013 Parabellum",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/gmFw",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "letterboxd_uri": "https://boxd.it/2b5E",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Phoenician Scheme",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/H0Ca",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.0, memoriesomovies:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Solo: A Star Wars Story",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/bGWs",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Mission: Impossible \u2013 Fallout",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/bSVc",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Spider-Man 2",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/2a88",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Unbearable Weight of Massive Talent",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/o6eK",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:2.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Spider-Man: No Way Home",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/nwRw",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Thor",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/1WQU",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Batman v Superman: Dawn of Justice",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/6fBW",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.0, paityne:1.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Stand by Me",
+    "year": 1986,
+    "letterboxd_uri": "https://boxd.it/2aOe",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Dumb and Dumber",
+    "year": 1994,
+    "letterboxd_uri": "https://boxd.it/206m",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Bug Off!",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/53zW",
+    "avg_rating": 1.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:0.5, paityne:1.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/1YAO",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/3utM",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.0, memoriesomovies:2.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Child's Play",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/jpX0",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "A Christmas Story",
+    "year": 1983,
+    "letterboxd_uri": "https://boxd.it/29sw",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:5.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Indiana Jones and the Dial of Destiny",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/b8vM",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Punch-Drunk Love",
+    "year": 2002,
+    "letterboxd_uri": "https://boxd.it/20E4",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:5.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Fantastic Mr. Fox",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1WyQ",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Last Showgirl",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/KWtm",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Sideways",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/1Y5c",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/nL2y",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.0, paityne:2.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Bad Lieutenant",
+    "year": 1992,
+    "letterboxd_uri": "https://boxd.it/1Src",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Moonlight",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/d6bE",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:5.0, paityne:4.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/gH0O",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Fallout",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/tViI",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Sound of Metal",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/i7Q4",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Django Unchained",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/2cCk",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:4.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Buffalo '66",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/1YC6",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "The Exorcist",
+    "year": 1973,
+    "letterboxd_uri": "https://boxd.it/1Yoo",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Little Women",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/aSVk",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "My Old Ass",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/zLP0",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "American Beauty",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/71Y",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Blue Velvet",
+    "year": 1986,
+    "letterboxd_uri": "https://boxd.it/29BI",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/igPu",
+    "avg_rating": 2.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:1.5, lukecharlier:2.5, paityne:2.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "We're All Going to the World's Fair",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/tbmY",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.0, memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Lightyear",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/qV1G",
+    "avg_rating": 2.33,
+    "rater_count": 3,
+    "breakdown": "big_brant:2.0, lukecharlier:3.0, paityne:2.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "WALL\u00b7E",
+    "year": 2008,
+    "letterboxd_uri": "https://boxd.it/1VEo",
+    "avg_rating": 4.67,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:4.0, memoriesomovies:5.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Brave",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/bVG",
+    "avg_rating": 2.33,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.0, lukecharlier:2.0, paityne:2.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "The Departed",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/28MA",
+    "avg_rating": 4.67,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Toy Story 2",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/29qq",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.5, lukecharlier:3.5, memoriesomovies:4.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Malignant",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/mViE",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:2.5, paityne:3.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Avengers: Infinity War",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/9vEe",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Sorry to Bother You",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/f21E",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Halloween",
+    "year": 1978,
+    "letterboxd_uri": "https://boxd.it/2wRu",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Uncut Gems",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/gXGc",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/1Aq6",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Don't Worry Darling",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/mViu",
+    "avg_rating": 2.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:1.5, memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Superbad",
+    "year": 2007,
+    "letterboxd_uri": "https://boxd.it/20hO",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Se7en",
+    "year": 1995,
+    "letterboxd_uri": "https://boxd.it/29zs",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Coraline",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1NhQ",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:5.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Saltburn",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/z4eg",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "The Tree of Life",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/1Zu8",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:5.0, paityne:4.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "10 Things I Hate About You",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/23AO",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:4.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "The Godfather",
+    "year": 1972,
+    "letterboxd_uri": "https://boxd.it/2aNK",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "Avatar: The Way of Water",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/2E2E",
+    "avg_rating": 3.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.0, memoriesomovies:3.0, paityne:3.0",
+    "variance": 0.1875
+  },
+  {
+    "movie_name": "The Menu",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/lScm",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.5, memoriesomovies:3.5, paityne:4.5",
+    "variance": 0.1875
+  },
+  {
+    "movie_name": "The Zone of Interest",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/gJsA",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.1875
+  },
+  {
+    "movie_name": "Anora",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/Egcw",
+    "avg_rating": 3.75,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.1875
+  },
+  {
+    "movie_name": "The Naked Gun",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Da9k",
+    "avg_rating": 3.75,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, paityne:3.0",
+    "variance": 0.1875
+  },
+  {
+    "movie_name": "Hamnet",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/woVy",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.5, memoriesomovies:3.5, paityne:4.5",
+    "variance": 0.1875
+  },
+  {
+    "movie_name": "Top Gun: Maverick",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/cjr4",
+    "avg_rating": 3.88,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "X",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/sxVa",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:4.0, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Monsters, Inc.",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/2a46",
+    "avg_rating": 4.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.0, paityne:5.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "The Lighthouse",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/icFU",
+    "avg_rating": 4.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "The Whale",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/tw4c",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:3.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Aftersun",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/Arw0",
+    "avg_rating": 4.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:5.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "The Northman",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/nK2s",
+    "avg_rating": 3.88,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:4.5, paityne:3.5",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/fVNI",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Superman",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/E9IU",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Eddington",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/o6MC",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Megalopolis",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/lPBS",
+    "avg_rating": 3.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.0, memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Weapons",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/EMTM",
+    "avg_rating": 4.12,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:3.5, paityne:4.5",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "28 Years Later",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/FEGM",
+    "avg_rating": 3.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.5, memoriesomovies:3.0, paityne:3.0",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Sonic the Hedgehog 2",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/pb8O",
+    "avg_rating": 2.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:2.0, lukecharlier:3.0, memoriesomovies:2.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Schindler's List",
+    "year": 1993,
+    "letterboxd_uri": "https://boxd.it/2aq2",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Finding Nemo",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/72i",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.5, lukecharlier:3.5, memoriesomovies:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Heathers",
+    "year": 1989,
+    "letterboxd_uri": "https://boxd.it/26x4",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/kSz4",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Booksmart",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/igNS",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Joker",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/h4cS",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "GoodFellas",
+    "year": 1990,
+    "letterboxd_uri": "https://boxd.it/29FA",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Death on the Nile",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/ifpg",
+    "avg_rating": 1.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.0, memoriesomovies:1.5, paityne:1.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Taxi Driver",
+    "year": 1976,
+    "letterboxd_uri": "https://boxd.it/2b8y",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:5.0, paityne:4.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Bones and All",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/tLd4",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Good Time",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/fcFu",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Babylon",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/mM02",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/70w",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:5.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Air",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/Arlc",
+    "avg_rating": 3.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:2.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Poor Things",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/tNWU",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "The Witch",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/9X0m",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, paityne:5.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Y2K",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/FnHI",
+    "avg_rating": 2.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.0, memoriesomovies:3.0, paityne:2.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Nosferatu",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/f5eG",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5, paityne:4.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Lost in Translation",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/2b0E",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Before Sunrise",
+    "year": 1995,
+    "letterboxd_uri": "https://boxd.it/2bcU",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:5.0, paityne:4.5",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Project Hail Mary",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/pEeQ",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:4.0",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Thor: Love and Thunder",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/mMAY",
+    "avg_rating": 2.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:2.5, memoriesomovies:2.0, paityne:2.5",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "Pearl",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/zPbe",
+    "avg_rating": 3.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:3.5, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "The Fabelmans",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/ugoM",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "Soul",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/ioLA",
+    "avg_rating": 4.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "The Dark Knight",
+    "year": 2008,
+    "letterboxd_uri": "https://boxd.it/2b0k",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "Oppenheimer",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/wUow",
+    "avg_rating": 4.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "Inside Out 2",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/CFrC",
+    "avg_rating": 3.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:3.5, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.125
+  },
+  {
+    "movie_name": "Mad Max: Fury Road",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/2DjO",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Toy Story 3",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/1WRe",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Good Dinosaur",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/3AD4",
+    "avg_rating": 1.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:1.5, lukecharlier:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Coco",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/bYJQ",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Cars 2",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/H4Y",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:2.0, lukecharlier:2.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Cars 3",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/7IPq",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:2.5, lukecharlier:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Finding Dory",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/4aAA",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.0, lukecharlier:2.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/2b5u",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "No Country for Old Men",
+    "year": 2007,
+    "letterboxd_uri": "https://boxd.it/21ew",
+    "avg_rating": 4.75,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Blade Runner 2049",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/b8wK",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "2001: A Space Odyssey",
+    "year": 1968,
+    "letterboxd_uri": "https://boxd.it/2bf0",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Past Lives",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/oNB8",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Barbie",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/bCLK",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "John Wick",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/7dEc",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Holdovers",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/vHza",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Deadpool & Wolverine",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/jq8s",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, lukecharlier:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Caregiver",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/OqgI",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, lukecharlier:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Challengers",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/zld0",
+    "avg_rating": 4.25,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Ne Zha 2",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/B2qe",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Alien: Romulus",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/zGqO",
+    "avg_rating": 3.75,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Sorry, Baby",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/JKNi",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Highest 2 Lowest",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/LcIC",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Roofman",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/LcIW",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Baltimorons",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/SBYa",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Glass Onion",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/oCkK",
+    "avg_rating": 3.75,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Judas and the Black Messiah",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/lsew",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/rNS0",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Sonic the Hedgehog",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/gdK8",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Bad Trip",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/lgRG",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Bill & Ted Face the Music",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/i7BI",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Jojo Rabbit",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/iEBG",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Spider-Man: Far From Home",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/fegG",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Jumanji: The Next Level",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/ixu4",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/kLDI",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Saw II",
+    "year": 2005,
+    "letterboxd_uri": "https://boxd.it/2aRs",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Doctor Strange",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/8MH8",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Crimes of the Future",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/uTuY",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "A Beautiful Mind",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/2amk",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Jaws",
+    "year": 1975,
+    "letterboxd_uri": "https://boxd.it/2a5e",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Spider-Man: Homecoming",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/aboM",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/8MxC",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Evil Dead",
+    "year": 1981,
+    "letterboxd_uri": "https://boxd.it/29Go",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Spider-Man",
+    "year": 2002,
+    "letterboxd_uri": "https://boxd.it/2a8i",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Batman Begins",
+    "year": 2005,
+    "letterboxd_uri": "https://boxd.it/2aIg",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Terrifier 2",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/oI10",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Deadpool",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/9fOC",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Home Alone",
+    "year": 1990,
+    "letterboxd_uri": "https://boxd.it/29Fg",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Hangover",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1GjK",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Scream",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/24EC",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Orphan: First Kill",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/sxZc",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.0, paityne:2.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Godzilla",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/47OE",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Jurassic Park",
+    "year": 1993,
+    "letterboxd_uri": "https://boxd.it/2aA2",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": 2008,
+    "letterboxd_uri": "https://boxd.it/2aR8",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/2bb8",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Office Space",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/28Em",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "21 Jump Street",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/J0",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Nobody",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/mLqS",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Evil Dead II",
+    "year": 1987,
+    "letterboxd_uri": "https://boxd.it/29Ge",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Shazam!",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/8WBu",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Empire Strikes Back",
+    "year": 1980,
+    "letterboxd_uri": "https://boxd.it/27Vw",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "National Lampoon's Christmas Vacation",
+    "year": 1989,
+    "letterboxd_uri": "https://boxd.it/22wQ",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Mission: Impossible",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/29d2",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Mission: Impossible \u2013 Rogue Nation",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/5rI4",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Halloween Kills",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/mxzG",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "EO",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/txhc",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Knock at the Cabin",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/npL2",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "I Saw the Devil",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/FaK",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Zoolander",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/1YMA",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Ice Merchants",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/Arx8",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Cocaine Bear",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/ugw2",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Fargo",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/2aHM",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Paint",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/uYp0",
+    "avg_rating": 0.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.0, paityne:0.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Peter Rabbit",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/di8W",
+    "avg_rating": 0.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:0.5, paityne:1.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Evil Dead Rise",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/qIvo",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "12 Angry Men",
+    "year": 1957,
+    "letterboxd_uri": "https://boxd.it/2auI",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Are You There God? It's Me, Margaret.",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/kiYC",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Mission: Impossible \u2013 Dead Reckoning",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/l7zS",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Lego Batman Movie",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/azp0",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Funny Games",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/1WKM",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:5.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Anyone But You",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/EzA8",
+    "avg_rating": 1.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.5, paityne:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Trainspotting",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/29XY",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Thor: Ragnarok",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/8MHi",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Airplane!",
+    "year": 1980,
+    "letterboxd_uri": "https://boxd.it/29yu",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Stalker",
+    "year": 1979,
+    "letterboxd_uri": "https://boxd.it/28PO",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Love Lies Bleeding",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/zN4q",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Dazed and Confused",
+    "year": 1993,
+    "letterboxd_uri": "https://boxd.it/1Ylk",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Terrifier 3",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/D8tM",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Heretic",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/H1lY",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Babygirl",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/Fvai",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Presence",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/H88i",
+    "avg_rating": 1.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.5, paityne:2.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Tropic Thunder",
+    "year": 2008,
+    "letterboxd_uri": "https://boxd.it/20WM",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Cure",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/1blA",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "In Bruges",
+    "year": 2008,
+    "letterboxd_uri": "https://boxd.it/20n8",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Mission: Impossible \u2013 The Final Reckoning",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/l7A2",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Conversation",
+    "year": 1974,
+    "letterboxd_uri": "https://boxd.it/2a38",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Breakfast Club",
+    "year": 1985,
+    "letterboxd_uri": "https://boxd.it/27q4",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Wuthering Heights",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/OdIa",
+    "avg_rating": 2.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.0, paityne:2.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "letterboxd_uri": "https://boxd.it/2ape",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Companion",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/F04o",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Reservoir Dogs",
+    "year": 1992,
+    "letterboxd_uri": "https://boxd.it/2agc",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Synecdoche, New York",
+    "year": 2008,
+    "letterboxd_uri": "https://boxd.it/23zw",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:5.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Her",
+    "year": 2013,
+    "letterboxd_uri": "https://boxd.it/4O24",
+    "avg_rating": 4.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:5.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "A Clockwork Orange",
+    "year": 1971,
+    "letterboxd_uri": "https://boxd.it/2aVE",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Kill Bill: Vol. 2",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/2au4",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Pitch Perfect",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/3OsE",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Invisible Man",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/kWlA",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Midsommar",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/jhxe",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Suspiria",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/cioI",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "I, Tonya",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/dzR0",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Gone Girl",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/6hQu",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Jennifer's Body",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1Efw",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Fantastic Planet",
+    "year": 1973,
+    "letterboxd_uri": "https://boxd.it/1KnQ",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Marriage Story",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/hJAw",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/2Pa",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Conjuring",
+    "year": 2013,
+    "letterboxd_uri": "https://boxd.it/4sr2",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Spencer",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/qPMG",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Old",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/npKI",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.5, paityne:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Guillermo del Toro's Pinocchio",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/kjMW",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Interstellar",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/4VZ8",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Dogtooth",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/158K",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/pZCY",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.5, paityne:3.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Blonde",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/9AG0",
+    "avg_rating": 1.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.0, paityne:1.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "MaXXXine",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/CIM4",
+    "avg_rating": 2.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.0, paityne:2.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Donnie Darko",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/2b2A",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Carrie",
+    "year": 1976,
+    "letterboxd_uri": "https://boxd.it/20ZQ",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Flow",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/v1Ei",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "In the Mood for Love",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/29tE",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Wicked",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/e8ME",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "We Need to Talk About Kevin",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/2pTS",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Moment",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/SCkg",
+    "avg_rating": 3.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "The Devil Wears Prada",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/2awE",
+    "avg_rating": 3.75,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Jurassic World Dominion",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/ikXW",
+    "avg_rating": 1.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:1.5, lukecharlier:2.0, paityne:2.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Up",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1OEc",
+    "avg_rating": 4.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Ratatouille",
+    "year": 2007,
+    "letterboxd_uri": "https://boxd.it/27ww",
+    "avg_rating": 4.67,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Monsters University",
+    "year": 2013,
+    "letterboxd_uri": "https://boxd.it/bQm",
+    "avg_rating": 2.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.0, lukecharlier:2.5, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Inside Out",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/4KHC",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "letterboxd_uri": "https://boxd.it/2baO",
+    "avg_rating": 4.67,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Thing",
+    "year": 1982,
+    "letterboxd_uri": "https://boxd.it/294O",
+    "avg_rating": 4.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Truman Show",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/18U8",
+    "avg_rating": 4.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Talk to Me",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/C6uQ",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Smile",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/xjfE",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, lukecharlier:3.0, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Godzilla Minus One",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/zu4c",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Five Nights at Freddy's",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/ikHu",
+    "avg_rating": 2.17,
+    "rater_count": 3,
+    "breakdown": "big_brant:2.5, lukecharlier:2.0, memoriesomovies:2.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Hundreds of Beavers",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/CyUM",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Gladiator II",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/kqQQ",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Frankenstein",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Ecsg",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "HIM",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/BfYI",
+    "avg_rating": 1.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:1.5, lukecharlier:2.0, memoriesomovies:2.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Train Dreams",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/LdDo",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Candyman",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/kHFg",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Knives Out",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/jWEA",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Suicide Squad",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/fw6O",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Baby Driver",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/bhF2",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Worst Person in the World",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/oyws",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Inception",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/1skk",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Get Out",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/eOCm",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Shining",
+    "year": 1980,
+    "letterboxd_uri": "https://boxd.it/29Nu",
+    "avg_rating": 4.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:5.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Parasite",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/hTha",
+    "avg_rating": 4.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:5.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Black Widow",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/hWV8",
+    "avg_rating": 2.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.0, memoriesomovies:2.5, paityne:2.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Lamb",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/tFwE",
+    "avg_rating": 2.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:3.0, paityne:2.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Three Thousand Years of Longing",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/kmoy",
+    "avg_rating": 2.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.5, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "American Psycho",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/28Vs",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Last Night in Soho",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/lbJC",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Hot Fuzz",
+    "year": 2007,
+    "letterboxd_uri": "https://boxd.it/2416",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "T\u00c1R",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/uNIA",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Banshees of Inisherin",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/p7XS",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Eternals",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/j36o",
+    "avg_rating": 2.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Moonrise Kingdom",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/2Wng",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Requiem for a Dream",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/29VI",
+    "avg_rating": 4.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:5.0, paityne:5.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Nightmare Alley",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/m0HC",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Infinity Pool",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/oPSK",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Perfect Blue",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/1W7A",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/i8C8",
+    "avg_rating": 2.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.0, memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Asteroid City",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/s3ds",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/azpY",
+    "avg_rating": 4.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Dream Scenario",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/v2h0",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Dune: Part Two",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/pUfA",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Fall Guy",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/s0Bm",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Kinds of Kindness",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/CWPw",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:3.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Twisters",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/qV7a",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "May December",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/vEE2",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Beetlejuice Beetlejuice",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/yyGs",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Florida Project",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/dMG0",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "A Real Pain",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/CjNG",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Queer",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/E4RW",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Paris, Texas",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/29Ts",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Barry Lyndon",
+    "year": 1975,
+    "letterboxd_uri": "https://boxd.it/25A2",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Mean Girls",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/1VNg",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Life of Chuck",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/vMTu",
+    "avg_rating": 3.33,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Caught Stealing",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/LnyS",
+    "avg_rating": 3.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.5, paityne:3.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "House",
+    "year": 1977,
+    "letterboxd_uri": "https://boxd.it/1vsm",
+    "avg_rating": 3.67,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "28 Years Later: The Bone Temple",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/MwlA",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Send Help",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/JuhA",
+    "avg_rating": 3.83,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:3.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Nirvanna the Band the Show the Movie",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/HG9a",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "La La Land",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/a5fa",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Good Will Hunting",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/2ahY",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:4.0",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Drama",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/OA2w",
+    "avg_rating": 4.17,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Batman",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/eDGs",
+    "avg_rating": 4.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.5, memoriesomovies:4.0, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Emily the Criminal",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/wBOq",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Bodies Bodies Bodies",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/iRcE",
+    "avg_rating": 3.88,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Bros",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/mJZw",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Whiplash",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/7bQA",
+    "avg_rating": 4.88,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Oldboy",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/29R2",
+    "avg_rating": 4.88,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Puss in Boots: The Last Wish",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/aaie",
+    "avg_rating": 4.12,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Beau Is Afraid",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/u2gE",
+    "avg_rating": 4.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "I Saw the TV Glow",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/woVe",
+    "avg_rating": 4.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Longlegs",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/KzLM",
+    "avg_rating": 2.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:2.5, lukecharlier:2.5, memoriesomovies:2.5, paityne:3.0",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Furiosa: A Mad Max Saga",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/tABk",
+    "avg_rating": 3.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.0, lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "The Substance",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/zanS",
+    "avg_rating": 4.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Bring Her Back",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Hxlc",
+    "avg_rating": 4.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Warfare",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/LbRo",
+    "avg_rating": 3.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5, memoriesomovies:3.0, paityne:3.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "One Battle After Another",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/DUHM",
+    "avg_rating": 4.88,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.5, paityne:5.0",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "The Smashing Machine",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/syUC",
+    "avg_rating": 3.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Zootopia 2",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/F0vO",
+    "avg_rating": 3.38,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:3.0, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Sentimental Value",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/GwcG",
+    "avg_rating": 4.12,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Marty Supreme",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Off0",
+    "avg_rating": 4.62,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:5.0, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "Nope",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/sDCe",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Jackass Forever",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/opUg",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Turning Red",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/ipkq",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Bad Guys",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/nkg4",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Toy Story 4",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/9ALu",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Incredibles",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/1XLm",
+    "avg_rating": 5.0,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Incredibles 2",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/7IPg",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Onward",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/io92",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Akira",
+    "year": 1988,
+    "letterboxd_uri": "https://boxd.it/2b1i",
+    "avg_rating": 5.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Spirited Away",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/2b4m",
+    "avg_rating": 5.0,
+    "rater_count": 3,
+    "breakdown": "big_brant:5.0, memoriesomovies:5.0, paityne:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "It's Such a Beautiful Day",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/hCY2",
+    "avg_rating": 5.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "There Will Be Blood",
+    "year": 2007,
+    "letterboxd_uri": "https://boxd.it/20Z2",
+    "avg_rating": 5.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0, paityne:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Citizen Kane",
+    "year": 1941,
+    "letterboxd_uri": "https://boxd.it/71O",
+    "avg_rating": 5.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/2b5O",
+    "avg_rating": 5.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "City of God",
+    "year": 2002,
+    "letterboxd_uri": "https://boxd.it/2a2a",
+    "avg_rating": 5.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:5.0, memoriesomovies:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "John Wick: Chapter 2",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/ayGu",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Killers of the Flower Moon",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/gHp0",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.5, lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Materialists",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/GZlW",
+    "avg_rating": 4.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "F1",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/yjVM",
+    "avg_rating": 3.5,
+    "rater_count": 4,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Mickey 17",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/q1Dk",
+    "avg_rating": 4.0,
+    "rater_count": 4,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Black Bag",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/KRbM",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "big_brant:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Wake Up Dead Man",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/uAKS",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Avengers: Endgame",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/9vE4",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Irishman",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/dYOq",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Black Panther",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/8MHs",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Hereditary",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/hNVe",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Ant-Man and the Wasp",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/cqUW",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Saw III",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/2aRC",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Dune",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/fA7G",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Licorice Pizza",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/qTKY",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/6YK",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Morbius",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/j978",
+    "avg_rating": 0.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:0.5, paityne:0.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Umma",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/scAg",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.5, paityne:1.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "It",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/bC8e",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Saw",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/2aWW",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/llco",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Bullet Train",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/qW26",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, paityne:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Fall",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/Bf6G",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Arrival",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/aNGk",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Avengers",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/1xFW",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Guardians of the Galaxy",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/3VH2",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Suicide Squad",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/9row",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.5, paityne:1.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The World's End",
+    "year": 2013,
+    "letterboxd_uri": "https://boxd.it/3EiO",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Spider-Man 3",
+    "year": 2007,
+    "letterboxd_uri": "https://boxd.it/2a7Y",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Tragedy of Macbeth",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/lMi4",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Magnolia",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/2aze",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Halloween Ends",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/mO8M",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Terrifier",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/eRzg",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.5, paityne:1.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Forrest Gump",
+    "year": 1994,
+    "letterboxd_uri": "https://boxd.it/728",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Encanto",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/kPRu",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Zootopia",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/84xS",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Zombieland",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1En6",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "A Nightmare on Elm Street",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/2aw0",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Child's Play",
+    "year": 1988,
+    "letterboxd_uri": "https://boxd.it/1VTo",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Lost City",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/sg0Q",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, paityne:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Woman King",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/r9a8",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Moonage Daydream",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/A8Co",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Minority Report",
+    "year": 2002,
+    "letterboxd_uri": "https://boxd.it/2aWi",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The BFG",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/81cs",
+    "avg_rating": 1.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.0, paityne:1.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Raiders of the Lost Ark",
+    "year": 1981,
+    "letterboxd_uri": "https://boxd.it/2bbs",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Sixth Sense",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/29Js",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Venom",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/b8wA",
+    "avg_rating": 2.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.0, memoriesomovies:2.0, paityne:2.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Amazing Spider-Man",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/27PI",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Lego Movie",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/4pDO",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Mitchells vs. the Machines",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/i7xm",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "House of Gucci",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/nVkC",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, paityne:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "letterboxd_uri": "https://boxd.it/29GI",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/2agQ",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Elf",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/1VyK",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/4vru",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Mission: Impossible \u2013 Ghost Protocol",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/psI",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Annihilation",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/9yzm",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "letterboxd_uri": "https://boxd.it/1YPY",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Suspiria",
+    "year": 1977,
+    "letterboxd_uri": "https://boxd.it/1SNW",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "M3GAN",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/jxmG",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Rango",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/QPk",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Dark Knight Rises",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/H3m",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Little Miss Sunshine",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/29EW",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Blade Runner",
+    "year": 1982,
+    "letterboxd_uri": "https://boxd.it/2bcA",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Sisu",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/vHpu",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Bottoms",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/uGf2",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Exorcist: Believer",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/uotK",
+    "avg_rating": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:1.5, paityne:1.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Anatomy of a Fall",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/yuDE",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Killer",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/u6WE",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Iron Claw",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/w5Pm",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/1SYq",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Popstar: Never Stop Never Stopping",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/blDa",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Catch Me If You Can",
+    "year": 2002,
+    "letterboxd_uri": "https://boxd.it/29VS",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Teachers' Lounge",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/BINY",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Drive-Away Dolls",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/A8vi",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Beautiful Missing People",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/xNqs",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, memoriesomovies:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Late Night with the Devil",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/zo6G",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Run Lola Run",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/2b8o",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Robot Dreams",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/vBZm",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Cuckoo",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/wMjI",
+    "avg_rating": 2.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:2.5, memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Joker: Folie \u00e0 Deux",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/xBoE",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Wild Robot",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/IWFy",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Memories of Murder",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/1TSo",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Election",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/1YEc",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Brutalist",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/k4BO",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Hell of a Summer",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/BLQQ",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Thunderbolts*",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/BfbQ",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Final Destination Bloodlines",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/l5y4",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Friendship",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/L6Dc",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Fantastic 4: First Steps",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/mP6C",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Shin Godzilla",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/a9lm",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Shawshank Redemption",
+    "year": 1994,
+    "letterboxd_uri": "https://boxd.it/2aHi",
+    "avg_rating": 4.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Boogie Nights",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/23um",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Before Sunset",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/2bcg",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Planes, Trains and Automobiles",
+    "year": 1987,
+    "letterboxd_uri": "https://boxd.it/26zE",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Wolf of Wall Street",
+    "year": 2013,
+    "letterboxd_uri": "https://boxd.it/3C1m",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Primate",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Obz6",
+    "avg_rating": 2.0,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:2.0, paityne:2.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "No Other Choice",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/nKiA",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Master",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/2cBG",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Phantom Thread",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/e4uc",
+    "avg_rating": 4.0,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Pulp Fiction",
+    "year": 1994,
+    "letterboxd_uri": "https://boxd.it/29Pq",
+    "avg_rating": 4.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Black Swan",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/Sw0",
+    "avg_rating": 5.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:5.0, paityne:5.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Lobster",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/7tnw",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "I'm Thinking of Ending Things",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/i4IQ",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/hSyO",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Lady Bird",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/dGNE",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Shape of Water",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/dZ5m",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Call Me by Your Name",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/dYmm",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Final Destination",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/1YrC",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Silence of the Lambs",
+    "year": 1991,
+    "letterboxd_uri": "https://boxd.it/2aHW",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Ghostbusters: Afterlife",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/f4Pw",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Lost Daughter",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/kgww",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Kimi",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/u7LW",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Nightcrawler",
+    "year": 2014,
+    "letterboxd_uri": "https://boxd.it/780m",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Marie Antoinette",
+    "year": 2006,
+    "letterboxd_uri": "https://boxd.it/27Wa",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.0, paityne:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Wonka",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/tCQm",
+    "avg_rating": 2.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.5, paityne:2.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Eyes Wide Shut",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/2axs",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Virgin Suicides",
+    "year": 1999,
+    "letterboxd_uri": "https://boxd.it/28JG",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Clueless",
+    "year": 1995,
+    "letterboxd_uri": "https://boxd.it/1Ygk",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/jkPq",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Daisies",
+    "year": 1966,
+    "letterboxd_uri": "https://boxd.it/LZk",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Wicked: For Good",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/AyfK",
+    "avg_rating": 3.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.0, paityne:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Eyes Without a Face",
+    "year": 1960,
+    "letterboxd_uri": "https://boxd.it/1j9i",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, paityne:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Hoppers",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/OFpg",
+    "avg_rating": 3.5,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, paityne:3.5",
+    "variance": 0.0
+  }
+]

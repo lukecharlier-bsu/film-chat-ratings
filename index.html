@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Letterboxd Group Ratings</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #14181c;
+      --surface: #1f2937;
+      --border: #2d3748;
+      --accent: #00c030;
+      --accent2: #e05c3a;
+      --text: #d1d5db;
+      --muted: #6b7280;
+      --white: #f9fafb;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #0d1117;
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    header h1 { color: var(--white); font-size: 50px; letter-spacing: 0.02em; }
+    header h1 span { color: var(--accent); }
+
+    .meta { font-size: 12px; color: var(--muted); }
+
+    main { max-width: 1100px; margin: 32px auto; padding: 0 24px; }
+
+    .tabs {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      padding: 10px 18px;
+      font-size: 14px;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .tab-btn.active { color: var(--white); border-bottom-color: var(--accent); }
+    .tab-btn:hover  { color: var(--white); }
+
+    .table-wrap { overflow-x: auto; }
+
+    table { width: 100%; border-collapse: collapse; }
+
+    thead th {
+      text-align: left;
+      padding: 10px 14px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+    }
+
+    tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
+    tbody tr:hover { background: var(--surface); }
+    tbody td { padding: 11px 14px; vertical-align: middle; }
+
+    .rank { color: var(--muted); font-size: 13px; width: 40px; }
+
+    .movie-title { font-weight: 600; color: var(--white); }
+    .movie-title a { color: inherit; text-decoration: none; }
+    .movie-title a:hover { color: var(--accent); }
+
+    .year { color: var(--muted); }
+
+    .avg-rating { font-size: 16px; font-weight: 700; color: var(--accent); }
+    .controversy-score { font-size: 16px; font-weight: 700; color: var(--accent2); }
+
+    .stars { letter-spacing: -2px; font-size: 16px; }
+
+    .breakdown { font-size: 12px; color: var(--muted); }
+    .breakdown span {
+      display: inline-block;
+      background: var(--border);
+      border-radius: 4px;
+      padding: 2px 7px;
+      margin: 2px 3px 2px 0;
+    }
+
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .controls label { color: var(--muted); font-size: 13px; }
+
+    .controls input[type=number],
+    .controls select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--white);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 13px;
+    }
+
+    .controls input[type=number] { width: 90px; }
+
+    .empty { color: var(--muted); text-align: center; padding: 40px; font-size: 15px; }
+
+    /* Members grid */
+    .member-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 16px;
+    }
+
+    .member-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      transition: border-color 0.15s, transform 0.15s;
+    }
+
+    .member-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+    .member-card .member-name { font-size: 16px; font-weight: 700; color: var(--white); }
+    .member-card .member-count { font-size: 13px; color: var(--muted); }
+    .member-card .member-link { font-size: 12px; color: var(--accent); margin-top: 4px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>&#127916; Letterboxd <span>Group Ratings</span></h1>
+  <div class="meta" id="meta">Loading...</div>
+</header>
+
+<main>
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="top">Top 100</button>
+    <button class="tab-btn" data-tab="controversial">Most Controversial</button>
+    <button class="tab-btn" data-tab="members">Members</button>
+  </div>
+
+  <div id="tab-top">
+    <div class="controls">
+      <label>Min raters: <input type="number" id="top-min-raters" value="2" min="1" max="20" /></label>
+      <label>Year: <input type="text" id="top-year" placeholder="e.g. 2021 or 2010s" /></label>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>Film</th><th>Year</th><th>Avg Rating</th><th>Raters</th><th>Breakdown</th></tr>
+        </thead>
+        <tbody id="top-body"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="top-empty" style="display:none">No films match that filter.</div>
+  </div>
+
+  <div id="tab-controversial" style="display:none">
+    <div class="controls">
+      <label>Min raters: <input type="number" id="con-min-raters" value="2" min="2" max="20" /></label>
+      <label>Year: <input type="text" id="con-year" placeholder="e.g. 2021 or 2010s" /></label>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>Film</th><th>Year</th><th>Avg Rating</th><th>Variance</th><th>Raters</th><th>Breakdown</th></tr>
+        </thead>
+        <tbody id="con-body"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="con-empty" style="display:none">No films match that filter.</div>
+  </div>
+
+  <div id="tab-members" style="display:none">
+    <div class="member-grid" id="member-grid"></div>
+    <div class="empty" id="members-empty" style="display:none">No members yet.</div>
+  </div>
+</main>
+
+<script>
+  // ── Tab switching ──────────────────────────────────────────────────────
+  const tabs = { top: 'tab-top', controversial: 'tab-controversial', members: 'tab-members' };
+
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      Object.values(tabs).forEach(id => document.getElementById(id).style.display = 'none');
+      document.getElementById(tabs[btn.dataset.tab]).style.display = '';
+    });
+  });
+
+  // ── Helpers ────────────────────────────────────────────────────────────
+  function starsHtml(rating) {
+    const full = Math.floor(rating);
+    const half = (rating % 1) >= 0.5;
+    return `<span class="stars" title="${rating}">${'★'.repeat(full)}${half ? '½' : ''}</span>`;
+  }
+
+  function breakdownHtml(breakdown) {
+    return breakdown.split(', ').map(part => {
+      const [user, val] = part.split(':');
+      return `<span>${user} ${starsHtml(parseFloat(val))}</span>`;
+    }).join('');
+  }
+
+  // ── Data store — loaded once, filtered on demand ──────────────────────
+  let allTop = [];
+  let allCon = [];
+
+  function yearMatch(movie, input) {
+    if (!input) return true;
+    const s = input.trim();
+    if (/^\d{4}s$/i.test(s)) {
+      // e.g. "2020s" → match 2020–2029
+      const decade = parseInt(s);
+      return movie.year >= decade && movie.year < decade + 10;
+    }
+    const exact = parseInt(s);
+    return !isNaN(exact) && movie.year === exact;
+  }
+
+  function renderTop() {
+    const min = parseInt(document.getElementById('top-min-raters').value) || 1;
+    const yearInput = document.getElementById('top-year').value;
+    const filtered = allTop.filter(m => m.rater_count >= min && yearMatch(m, yearInput)).slice(0, 100);
+    const body = document.getElementById('top-body');
+    const empty = document.getElementById('top-empty');
+    body.innerHTML = '';
+    if (!filtered.length) { empty.style.display = ''; return; }
+    empty.style.display = 'none';
+    filtered.forEach((m, i) => {
+      body.insertAdjacentHTML('beforeend', `
+        <tr>
+          <td class="rank">${i + 1}</td>
+          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td class="year">${m.year || '—'}</td>
+          <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
+          <td>${m.rater_count}</td>
+          <td class="breakdown">${breakdownHtml(m.breakdown)}</td>
+        </tr>`);
+    });
+  }
+
+  function renderCon() {
+    const min = parseInt(document.getElementById('con-min-raters').value) || 2;
+    const yearInput = document.getElementById('con-year').value;
+    const filtered = allCon.filter(m => m.rater_count >= min && yearMatch(m, yearInput)).slice(0, 25);
+    const body = document.getElementById('con-body');
+    const empty = document.getElementById('con-empty');
+    body.innerHTML = '';
+    if (!filtered.length) { empty.style.display = ''; return; }
+    empty.style.display = 'none';
+    filtered.forEach((m, i) => {
+      body.insertAdjacentHTML('beforeend', `
+        <tr>
+          <td class="rank">${i + 1}</td>
+          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td class="year">${m.year || '—'}</td>
+          <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
+          <td class="controversy-score">${m.variance.toFixed(2)}</td>
+          <td>${m.rater_count}</td>
+          <td class="breakdown">${breakdownHtml(m.breakdown)}</td>
+        </tr>`);
+    });
+  }
+
+  // ── Load data ──────────────────────────────────────────────────────────
+  async function init() {
+    const [topData, conData, membersData, meta] = await Promise.all([
+      fetch('data/top.json').then(r => r.json()),
+      fetch('data/controversial.json').then(r => r.json()),
+      fetch('data/members.json').then(r => r.json()),
+      fetch('data/meta.json').then(r => r.json()),
+    ]);
+
+    document.getElementById('meta').textContent = `Updated ${meta.last_updated}`;
+
+    allTop = topData;
+    allCon = conData;
+
+    // Re-render whenever any filter changes
+    document.getElementById('top-min-raters').addEventListener('input', renderTop);
+    document.getElementById('top-year').addEventListener('input', renderTop);
+    document.getElementById('con-min-raters').addEventListener('input', renderCon);
+    document.getElementById('con-year').addEventListener('input', renderCon);
+
+    renderTop();
+    renderCon();
+
+    // Members (no filter needed)
+    const grid = document.getElementById('member-grid');
+    if (!membersData.length) {
+      document.getElementById('members-empty').style.display = '';
+    } else {
+      membersData.forEach(u => {
+        grid.insertAdjacentHTML('beforeend', `
+          <a class="member-card" href="${u.profile_url}" target="_blank">
+            <div class="member-name">@${u.username}</div>
+            <div class="member-count">${u.rating_count.toLocaleString()} ratings</div>
+            <div class="member-link">letterboxd.com/${u.username} ↗</div>
+          </a>`);
+      });
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>
