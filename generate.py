@@ -77,9 +77,9 @@ def load_csvs() -> tuple[dict, list[str]]:
                     movies[key] = {"name": name, "year": year, "uri": uri, "ratings": {}}
                 movies[key]["ratings"][username] = rating
 
-                # CSV rows are newest-first, so first rated row = most recent
+                # CSV rows are newest-first, so first row = most recent (used as fallback)
                 if username not in latest:
-                    latest[username] = {"name": name, "rating": rating, "date": date, "uri": uri}
+                    latest[username] = {"name": name, "rating": rating, "date": date, "uri": uri, "source": "csv"}
 
     return movies, users, latest
 
@@ -140,9 +140,10 @@ def poll_rss(users: list[str], movies: dict, latest: dict):
                 movies[key]["uri"] = uri
             movies[key]["ratings"][username] = rating
 
-            # RSS feed is ordered newest-first, so first entry per user = most recent
-            if username not in latest:
-                latest[username] = {"name": movie_name, "rating": rating, "date": None, "uri": uri}
+            # RSS feed is ordered newest-first — first rated entry per user = most recent.
+            # This overrides CSV since RSS is always more up to date.
+            if username not in latest or latest[username].get("source") == "csv":
+                latest[username] = {"name": movie_name, "rating": rating, "uri": uri, "source": "rss"}
 
 
 # ── Step 3: Compute outputs ───────────────────────────────────────────────

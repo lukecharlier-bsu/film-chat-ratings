@@ -7,7 +7,8 @@
       "name": "The Batman",
       "rating": 4.5,
       "date": "2022-11-30",
-      "uri": "https://boxd.it/eDGs"
+      "uri": "https://boxd.it/eDGs",
+      "source": "csv"
     }
   },
   {
@@ -15,10 +16,10 @@
     "rating_count": 519,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "Malignant",
-      "rating": 3.5,
-      "date": "2021-09-29",
-      "uri": "https://boxd.it/mViE"
+      "name": "Faces of Death",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/faces-of-death-2026/",
+      "source": "rss"
     }
   },
   {
@@ -26,10 +27,10 @@
     "rating_count": 1503,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "Parasite",
-      "rating": 5.0,
-      "date": "2022-02-26",
-      "uri": "https://boxd.it/hTha"
+      "name": "Piranha 3D",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/piranha-3d/",
+      "source": "rss"
     }
   },
   {
@@ -37,10 +38,10 @@
     "rating_count": 1604,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "La La Land",
-      "rating": 5.0,
-      "date": "2019-12-16",
-      "uri": "https://boxd.it/a5fa"
+      "name": "Pizza Movie",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/pizza-movie-2026/",
+      "source": "rss"
     }
   },
   {
@@ -48,10 +49,10 @@
     "rating_count": 362,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "Get Out",
-      "rating": 4.0,
-      "date": "2022-01-11",
-      "uri": "https://boxd.it/eOCm"
+      "name": "Hoppers",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/hoppers/",
+      "source": "rss"
     }
   }
 ]
