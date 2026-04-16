@@ -44,6 +44,7 @@ def load_csvs() -> tuple[dict, list[str]]:
     """
     movies: dict = {}
     users:  list = []
+    latest: dict = {}  # username -> {"name": str, "rating": float, "date": str}
 
     for folder in sorted(RATINGS_DIR.iterdir()):
         if not folder.is_dir():
@@ -69,13 +70,18 @@ def load_csvs() -> tuple[dict, list[str]]:
 
                 year_str = row.get("Year", "").strip()
                 year = int(year_str) if year_str.isdigit() else None
+                date = row.get("Date", "").strip() or None
 
                 key = (name.lower().strip(), year)
                 if key not in movies:
                     movies[key] = {"name": name, "year": year, "uri": uri, "ratings": {}}
                 movies[key]["ratings"][username] = rating
 
-    return movies, users
+                # CSV rows are newest-first, so first rated row = most recent
+                if username not in latest:
+                    latest[username] = {"name": name, "rating": rating, "date": date, "uri": uri}
+
+    return movies, users, latest
 
 
 # ── Step 2: Poll RSS feeds ────────────────────────────────────────────────
@@ -89,7 +95,7 @@ def parse_stars(title: str) -> float | None:
     return s.count("★") + (0.5 if "½" in s else 0)
 
 
-def poll_rss(users: list[str], movies: dict):
+def poll_rss(users: list[str], movies: dict, latest: dict):
     """
     Fetches each user's RSS feed and merges any new/updated ratings into movies.
     Modifies movies in place.
@@ -130,10 +136,13 @@ def poll_rss(users: list[str], movies: dict):
             key = (movie_name.lower().strip(), year)
             if key not in movies:
                 movies[key] = {"name": movie_name, "year": year, "uri": uri, "ratings": {}}
-            # Only overwrite URI if we don't already have one from the CSV (boxd.it links are cleaner)
             elif not movies[key]["uri"] and uri:
                 movies[key]["uri"] = uri
             movies[key]["ratings"][username] = rating
+
+            # RSS feed is ordered newest-first, so first entry per user = most recent
+            if username not in latest:
+                latest[username] = {"name": movie_name, "rating": rating, "date": None, "uri": uri}
 
 
 # ── Step 3: Compute outputs ───────────────────────────────────────────────
@@ -173,7 +182,7 @@ def compute_controversial(movies: dict) -> list[dict]:
     return results
 
 
-def compute_members(users: list[str], movies: dict) -> list[dict]:
+def compute_members(users: list[str], movies: dict, latest: dict) -> list[dict]:
     counts = {u: 0 for u in users}
     for info in movies.values():
         for username in info["ratings"]:
@@ -182,9 +191,10 @@ def compute_members(users: list[str], movies: dict) -> list[dict]:
 
     return [
         {
-            "username":     u,
-            "rating_count": counts.get(u, 0),
-            "profile_url":  f"https://letterboxd.com/{u}/",
+            "username":      u,
+            "rating_count":  counts.get(u, 0),
+            "profile_url":   f"https://letterboxd.com/{u}/",
+            "latest":        latest.get(u),
         }
         for u in sorted(users)
     ]
@@ -203,17 +213,17 @@ if __name__ == "__main__":
     DATA_DIR.mkdir(exist_ok=True)
 
     print("Loading CSVs...")
-    movies, users = load_csvs()
+    movies, users, latest = load_csvs()
     print(f"  {len(users)} members, {len(movies)} unique films from CSVs")
 
     print("Polling RSS feeds...")
-    poll_rss(users, movies)
+    poll_rss(users, movies, latest)
     print(f"  {len(movies)} unique films after RSS merge")
 
     print("Writing data files...")
     write_json(DATA_DIR / "top.json",           compute_top(movies))
     write_json(DATA_DIR / "controversial.json",  compute_controversial(movies))
-    write_json(DATA_DIR / "members.json",        compute_members(users, movies))
+    write_json(DATA_DIR / "members.json",        compute_members(users, movies, latest))
     write_json(DATA_DIR / "meta.json",           {
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     })

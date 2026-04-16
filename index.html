@@ -151,6 +151,9 @@
     .member-card:hover { border-color: var(--accent); transform: translateY(-2px); }
     .member-card .member-name { font-size: 16px; font-weight: 700; color: var(--white); }
     .member-card .member-count { font-size: 13px; color: var(--muted); }
+    .member-card .member-latest { font-size: 12px; color: var(--muted); }
+    .member-card .member-latest a { color: var(--text); text-decoration: none; }
+    .member-card .member-latest a:hover { color: var(--accent); }
     .member-card .member-link { font-size: 12px; color: var(--accent); margin-top: 4px; }
   </style>
 </head>
@@ -323,10 +326,14 @@
       document.getElementById('members-empty').style.display = '';
     } else {
       membersData.forEach(u => {
+        const latestHtml = u.latest
+          ? `<div class="member-latest">Last rated: <a href="${u.latest.uri || '#'}" target="_blank">${u.latest.name}</a> ${starsHtml(u.latest.rating)}</div>`
+          : '';
         grid.insertAdjacentHTML('beforeend', `
           <a class="member-card" href="${u.profile_url}" target="_blank">
             <div class="member-name">@${u.username}</div>
             <div class="member-count">${u.rating_count.toLocaleString()} ratings</div>
+            ${latestHtml}
             <div class="member-link">letterboxd.com/${u.username} ↗</div>
           </a>`);
       });

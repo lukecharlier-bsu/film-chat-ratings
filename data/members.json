@@ -2,26 +2,56 @@
   {
     "username": "big_brant",
     "rating_count": 167,
-    "profile_url": "https://letterboxd.com/big_brant/"
+    "profile_url": "https://letterboxd.com/big_brant/",
+    "latest": {
+      "name": "The Batman",
+      "rating": 4.5,
+      "date": "2022-11-30",
+      "uri": "https://boxd.it/eDGs"
+    }
   },
   {
     "username": "lukecharlier",
     "rating_count": 519,
-    "profile_url": "https://letterboxd.com/lukecharlier/"
+    "profile_url": "https://letterboxd.com/lukecharlier/",
+    "latest": {
+      "name": "Malignant",
+      "rating": 3.5,
+      "date": "2021-09-29",
+      "uri": "https://boxd.it/mViE"
+    }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1502,
-    "profile_url": "https://letterboxd.com/memoriesomovies/"
+    "rating_count": 1503,
+    "profile_url": "https://letterboxd.com/memoriesomovies/",
+    "latest": {
+      "name": "Parasite",
+      "rating": 5.0,
+      "date": "2022-02-26",
+      "uri": "https://boxd.it/hTha"
+    }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1603,
-    "profile_url": "https://letterboxd.com/moviebuff501/"
+    "rating_count": 1604,
+    "profile_url": "https://letterboxd.com/moviebuff501/",
+    "latest": {
+      "name": "La La Land",
+      "rating": 5.0,
+      "date": "2019-12-16",
+      "uri": "https://boxd.it/a5fa"
+    }
   },
   {
     "username": "paityne",
     "rating_count": 362,
-    "profile_url": "https://letterboxd.com/paityne/"
+    "profile_url": "https://letterboxd.com/paityne/",
+    "latest": {
+      "name": "Get Out",
+      "rating": 4.0,
+      "date": "2022-01-11",
+      "uri": "https://boxd.it/eOCm"
+    }
   }
 ]
