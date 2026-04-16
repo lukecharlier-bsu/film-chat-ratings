@@ -1,5 +1,16 @@
 [
   {
+    "username": "batmatt208",
+    "rating_count": 451,
+    "profile_url": "https://letterboxd.com/batmatt208/",
+    "latest": {
+      "name": "Pizza Movie",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/pizza-movie-2026/",
+      "source": "rss"
+    }
+  },
+  {
     "username": "big_brant",
     "rating_count": 167,
     "profile_url": "https://letterboxd.com/big_brant/",
@@ -52,6 +63,17 @@
       "name": "Hoppers",
       "rating": 3.5,
       "uri": "https://letterboxd.com/paityne/film/hoppers/",
+      "source": "rss"
+    }
+  },
+  {
+    "username": "skylerinthecine",
+    "rating_count": 3190,
+    "profile_url": "https://letterboxd.com/skylerinthecine/",
+    "latest": {
+      "name": "Pizza Movie",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/pizza-movie-2026/",
       "source": "rss"
     }
   }
