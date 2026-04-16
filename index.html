@@ -320,6 +320,11 @@
     allTop = topData;
     allCon = conData;
 
+    // Set default min raters to majority of members
+    const majority = Math.ceil(membersData.length / 2);
+    document.getElementById('top-min-raters').value = majority;
+    document.getElementById('con-min-raters').value = majority;
+
     // Re-render whenever any filter changes
     document.getElementById('top-min-raters').addEventListener('input', renderTop);
     document.getElementById('top-year').addEventListener('input', renderTop);
