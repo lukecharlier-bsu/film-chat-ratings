@@ -184,6 +184,11 @@
     <div class="controls">
       <label>Min raters: <input type="number" id="top-min-raters" value="2" min="1" max="20" /></label>
       <label>Year: <input type="text" id="top-year" placeholder="e.g. 2021 or 2010s" /></label>
+      <label>Blindspots:
+        <select id="top-blindspot">
+          <option value="">Everyone</option>
+        </select>
+      </label>
     </div>
     <div class="table-wrap">
       <table>
@@ -264,7 +269,14 @@
   function renderTop() {
     const min = parseInt(document.getElementById('top-min-raters').value) || 1;
     const yearInput = document.getElementById('top-year').value;
-    const filtered = allTop.filter(m => m.rater_count >= min && yearMatch(m, yearInput)).slice(0, 100);
+    const blindspot = document.getElementById('top-blindspot').value;
+    const filtered = allTop.filter(m => {
+      if (m.rater_count < min) return false;
+      if (!yearMatch(m, yearInput)) return false;
+      // Blindspot: exclude films where the selected member appears in the breakdown
+      if (blindspot && m.breakdown.split(', ').some(p => p.split(':')[0] === blindspot)) return false;
+      return true;
+    }).slice(0, 100);
     const body = document.getElementById('top-body');
     const empty = document.getElementById('top-empty');
     body.innerHTML = '';
@@ -326,8 +338,18 @@
     document.getElementById('con-min-raters').value = majority;
 
     // Re-render whenever any filter changes
+    // Populate blindspot dropdown from members
+    const blindspotSelect = document.getElementById('top-blindspot');
+    membersData.forEach(u => {
+      const opt = document.createElement('option');
+      opt.value = u.username;
+      opt.textContent = '@' + u.username;
+      blindspotSelect.appendChild(opt);
+    });
+
     document.getElementById('top-min-raters').addEventListener('input', renderTop);
     document.getElementById('top-year').addEventListener('input', renderTop);
+    document.getElementById('top-blindspot').addEventListener('change', renderTop);
     document.getElementById('con-min-raters').addEventListener('input', renderCon);
     document.getElementById('con-year').addEventListener('input', renderCon);
 
