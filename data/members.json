@@ -24,12 +24,12 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 519,
+    "rating_count": 520,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "Faces of Death",
-      "rating": 1.0,
-      "uri": "https://letterboxd.com/lukecharlier/film/faces-of-death-2026/",
+      "name": "The Big Lebowski",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-big-lebowski/",
       "source": "rss"
     }
   },
@@ -38,9 +38,9 @@
     "rating_count": 1503,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "Piranha 3D",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/memoriesomovies/film/piranha-3d/",
+      "name": "Indiana Jones and the Last Crusade",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/indiana-jones-and-the-last-crusade/4/",
       "source": "rss"
     }
   },
@@ -49,9 +49,9 @@
     "rating_count": 1604,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Pizza Movie",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/pizza-movie-2026/",
+      "name": "The Zone of Interest",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-zone-of-interest/1/",
       "source": "rss"
     }
   },
@@ -68,12 +68,12 @@
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3190,
+    "rating_count": 3192,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Pizza Movie",
-      "rating": 2.5,
-      "uri": "https://letterboxd.com/skylerinthecine/film/pizza-movie-2026/",
+      "name": "Pollock",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/pollock/",
       "source": "rss"
     }
   }

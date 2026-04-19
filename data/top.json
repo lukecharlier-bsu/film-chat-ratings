@@ -1416,6 +1416,14 @@
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5, skylerinthecine:4.5"
   },
   {
+    "movie_name": "The Big Lebowski",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/2b6C",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5"
+  },
+  {
     "movie_name": "The SpongeBob SquarePants Movie",
     "year": 2004,
     "letterboxd_uri": "https://boxd.it/1SYq",
@@ -3734,14 +3742,6 @@
     "avg_rating": 4.33,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, skylerinthecine:4.5"
-  },
-  {
-    "movie_name": "The Big Lebowski",
-    "year": 1998,
-    "letterboxd_uri": "https://boxd.it/2b6C",
-    "avg_rating": 4.33,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5"
   },
   {
     "movie_name": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
@@ -18032,6 +18032,14 @@
     "breakdown": "skylerinthecine:3.5"
   },
   {
+    "movie_name": "The Christophers",
+    "year": 2025,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/the-christophers/",
+    "avg_rating": 3.5,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.5"
+  },
+  {
     "movie_name": "Scream",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/o0lg",
@@ -24590,6 +24598,14 @@
     "avg_rating": 3.0,
     "rater_count": 1,
     "breakdown": "memoriesomovies:3.0"
+  },
+  {
+    "movie_name": "Pollock",
+    "year": 2000,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/pollock/",
+    "avg_rating": 3.0,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.0"
   },
   {
     "movie_name": "Spider-Man: Far From Home",

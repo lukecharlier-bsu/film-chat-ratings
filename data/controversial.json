@@ -6246,6 +6246,15 @@
     "variance": 0.125
   },
   {
+    "movie_name": "The Big Lebowski",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/2b6C",
+    "avg_rating": 4.5,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
+    "variance": 0.125
+  },
+  {
     "movie_name": "Final Destination",
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/1YrC",
@@ -10923,15 +10932,6 @@
     "avg_rating": 4.17,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, paityne:4.0, skylerinthecine:4.0",
-    "variance": 0.0556
-  },
-  {
-    "movie_name": "The Big Lebowski",
-    "year": 1998,
-    "letterboxd_uri": "https://boxd.it/2b6C",
-    "avg_rating": 4.33,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
     "variance": 0.0556
   },
   {
