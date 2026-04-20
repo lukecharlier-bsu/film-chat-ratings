@@ -7866,6 +7866,15 @@
     "variance": 0.0625
   },
   {
+    "movie_name": "Barton Fink",
+    "year": 1991,
+    "letterboxd_uri": "https://boxd.it/2aFQ",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
+    "variance": 0.0625
+  },
+  {
     "movie_name": "Wild at Heart",
     "year": 1990,
     "letterboxd_uri": "https://boxd.it/2aii",
@@ -13171,8 +13180,8 @@
     "year": 2003,
     "letterboxd_uri": "https://boxd.it/20mE",
     "avg_rating": 3.5,
-    "rater_count": 2,
-    "breakdown": "lukecharlier:3.5, skylerinthecine:3.5",
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "variance": 0.0
   },
   {
@@ -15909,6 +15918,15 @@
     "avg_rating": 3.0,
     "rater_count": 2,
     "breakdown": "paityne:3.0, skylerinthecine:3.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Smiley Face",
+    "year": 2007,
+    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:4.0",
     "variance": 0.0
   }
 ]

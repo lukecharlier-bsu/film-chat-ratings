@@ -4368,6 +4368,14 @@
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5"
   },
   {
+    "movie_name": "Barton Fink",
+    "year": 1991,
+    "letterboxd_uri": "https://boxd.it/2aFQ",
+    "avg_rating": 4.25,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5"
+  },
+  {
     "movie_name": "The Double Life of V\u00e9ronique",
     "year": 1991,
     "letterboxd_uri": "https://boxd.it/28va",
@@ -7160,6 +7168,14 @@
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.0"
   },
   {
+    "movie_name": "Smiley Face",
+    "year": 2007,
+    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+    "avg_rating": 4.0,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:4.0"
+  },
+  {
     "movie_name": "Wendy",
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/dZV8",
@@ -7451,14 +7467,6 @@
     "movie_name": "The Hudsucker Proxy",
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/1SJA",
-    "avg_rating": 4.0,
-    "rater_count": 1,
-    "breakdown": "memoriesomovies:4.0"
-  },
-  {
-    "movie_name": "Barton Fink",
-    "year": 1991,
-    "letterboxd_uri": "https://boxd.it/2aFQ",
     "avg_rating": 4.0,
     "rater_count": 1,
     "breakdown": "memoriesomovies:4.0"
@@ -12784,6 +12792,14 @@
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, skylerinthecine:3.5"
   },
   {
+    "movie_name": "Holes",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/20mE",
+    "avg_rating": 3.5,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, moviebuff501:3.5, skylerinthecine:3.5"
+  },
+  {
     "movie_name": "Back to the Future Part II",
     "year": 1989,
     "letterboxd_uri": "https://boxd.it/2aYI",
@@ -13075,14 +13091,6 @@
     "movie_name": "Wes Craven's New Nightmare",
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/1TsU",
-    "avg_rating": 3.5,
-    "rater_count": 2,
-    "breakdown": "lukecharlier:3.5, skylerinthecine:3.5"
-  },
-  {
-    "movie_name": "Holes",
-    "year": 2003,
-    "letterboxd_uri": "https://boxd.it/20mE",
     "avg_rating": 3.5,
     "rater_count": 2,
     "breakdown": "lukecharlier:3.5, skylerinthecine:3.5"
@@ -30902,6 +30910,14 @@
     "avg_rating": 2.0,
     "rater_count": 1,
     "breakdown": "skylerinthecine:2.0"
+  },
+  {
+    "movie_name": "Our Hero, Balthazar",
+    "year": 2025,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/our-hero-balthazar/",
+    "avg_rating": 2.0,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:2.0"
   },
   {
     "movie_name": "Star Wars: The Rise of Skywalker",

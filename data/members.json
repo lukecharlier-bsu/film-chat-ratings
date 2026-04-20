@@ -35,23 +35,23 @@
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1503,
+    "rating_count": 1504,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "Indiana Jones and the Last Crusade",
-      "rating": 4.5,
-      "uri": "https://letterboxd.com/memoriesomovies/film/indiana-jones-and-the-last-crusade/4/",
+      "name": "Smiley Face",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1604,
+    "rating_count": 1607,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "The Zone of Interest",
-      "rating": 4.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/the-zone-of-interest/1/",
+      "name": "Our Hero, Balthazar",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/our-hero-balthazar/",
       "source": "rss"
     }
   },
@@ -68,12 +68,12 @@
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3192,
+    "rating_count": 3193,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Pollock",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/skylerinthecine/film/pollock/",
+      "name": "Barton Fink",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/barton-fink/",
       "source": "rss"
     }
   }
