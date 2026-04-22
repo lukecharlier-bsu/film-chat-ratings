@@ -46,34 +46,34 @@
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1607,
+    "rating_count": 1608,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Our Hero, Balthazar",
-      "rating": 2.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/our-hero-balthazar/",
+      "name": "Speed Racer",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/speed-racer/",
       "source": "rss"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 362,
+    "rating_count": 364,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "Hoppers",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/paityne/film/hoppers/",
+      "name": "Faces of Death",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/paityne/film/faces-of-death-2026/",
       "source": "rss"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3193,
+    "rating_count": 3194,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Barton Fink",
+      "name": "Vera Drake",
       "rating": 4.5,
-      "uri": "https://letterboxd.com/skylerinthecine/film/barton-fink/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/vera-drake/",
       "source": "rss"
     }
   }
