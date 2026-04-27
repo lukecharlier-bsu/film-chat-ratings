@@ -1,12 +1,12 @@
 [
   {
     "username": "batmatt208",
-    "rating_count": 451,
+    "rating_count": 454,
     "profile_url": "https://letterboxd.com/batmatt208/",
     "latest": {
-      "name": "Pizza Movie",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/batmatt208/film/pizza-movie-2026/",
+      "name": "Michael",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
       "source": "rss"
     }
   },
@@ -24,56 +24,56 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 520,
+    "rating_count": 521,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "The Big Lebowski",
-      "rating": 5.0,
-      "uri": "https://letterboxd.com/lukecharlier/film/the-big-lebowski/",
+      "name": "Minari",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/minari/",
       "source": "rss"
     }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1504,
+    "rating_count": 1505,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "Smiley Face",
+      "name": "Boogie Nights",
       "rating": 4.0,
-      "uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+      "uri": "https://letterboxd.com/memoriesomovies/film/boogie-nights/1/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1608,
+    "rating_count": 1613,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Speed Racer",
-      "rating": 4.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/speed-racer/",
+      "name": "Mother Mary",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
       "source": "rss"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 364,
+    "rating_count": 366,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "Faces of Death",
-      "rating": 1.5,
-      "uri": "https://letterboxd.com/paityne/film/faces-of-death-2026/",
+      "name": "Mother Mary",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/paityne/film/mother-mary-2026/",
       "source": "rss"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3194,
+    "rating_count": 3203,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Vera Drake",
-      "rating": 4.5,
-      "uri": "https://letterboxd.com/skylerinthecine/film/vera-drake/",
+      "name": "Ghost World",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/ghost-world/",
       "source": "rss"
     }
   }

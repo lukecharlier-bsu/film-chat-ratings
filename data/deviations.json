@@ -360,6 +360,16 @@
     "deviation": 1.14
   },
   {
+    "movie_name": "The Ladykillers",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/22Z4",
+    "avg_rating": 1.75,
+    "lb_avg": 2.89,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.0, skylerinthecine:1.5",
+    "deviation": -1.14
+  },
+  {
     "movie_name": "Cimarron",
     "year": 1931,
     "letterboxd_uri": "https://boxd.it/VQC",
@@ -477,16 +487,6 @@
     "lb_avg": 3.55,
     "rater_count": 2,
     "breakdown": "batmatt208:0.5, skylerinthecine:4.5",
-    "deviation": -1.05
-  },
-  {
-    "movie_name": "Good Luck, Have Fun, Don't Die",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/Glua",
-    "avg_rating": 2.33,
-    "lb_avg": 3.38,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:1.5, moviebuff501:3.0, skylerinthecine:2.5",
     "deviation": -1.05
   },
   {
@@ -1130,6 +1130,16 @@
     "deviation": -0.88
   },
   {
+    "movie_name": "Good Luck, Have Fun, Don't Die",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Glua",
+    "avg_rating": 2.5,
+    "lb_avg": 3.38,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:2.0, moviebuff501:3.0, skylerinthecine:2.5",
+    "deviation": -0.88
+  },
+  {
     "movie_name": "The Theory of Everything",
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/7YtA",
@@ -1277,6 +1287,16 @@
     "lb_avg": 2.85,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:2.0",
+    "deviation": -0.85
+  },
+  {
+    "movie_name": "Michael",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
+    "avg_rating": 2.75,
+    "lb_avg": 3.6,
+    "rater_count": 2,
+    "breakdown": "batmatt208:2.5, moviebuff501:3.0",
     "deviation": -0.85
   },
   {
@@ -2107,6 +2127,16 @@
     "lb_avg": 3.46,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:2.5",
+    "deviation": -0.71
+  },
+  {
+    "movie_name": "The Wiz",
+    "year": 1978,
+    "letterboxd_uri": "https://boxd.it/1wG0",
+    "avg_rating": 2.75,
+    "lb_avg": 3.46,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:2.5, skylerinthecine:3.0",
     "deviation": -0.71
   },
   {
@@ -3480,6 +3510,16 @@
     "deviation": 0.57
   },
   {
+    "movie_name": "Alpha",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/N008",
+    "avg_rating": 3.83,
+    "lb_avg": 3.26,
+    "rater_count": 3,
+    "breakdown": "batmatt208:4.0, memoriesomovies:3.5, skylerinthecine:4.0",
+    "deviation": 0.57
+  },
+  {
     "movie_name": "Euphoria: F*ck Anyone Who\u2019s Not a Sea Blob",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/tMkU",
@@ -3790,6 +3830,16 @@
     "deviation": -0.55
   },
   {
+    "movie_name": "Baby Reindeer",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/MwSa",
+    "avg_rating": 4.5,
+    "lb_avg": 3.95,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:4.5, skylerinthecine:4.5",
+    "deviation": 0.55
+  },
+  {
     "movie_name": "Venom: The Last Dance",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/ynqo",
@@ -3798,16 +3848,6 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:3.0",
     "deviation": -0.55
-  },
-  {
-    "movie_name": "Minari",
-    "year": 2020,
-    "letterboxd_uri": "https://boxd.it/mL9M",
-    "avg_rating": 4.62,
-    "lb_avg": 4.08,
-    "rater_count": 4,
-    "breakdown": "batmatt208:4.5, memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:4.5",
-    "deviation": 0.54
   },
   {
     "movie_name": "Roofman",
@@ -3900,6 +3940,16 @@
     "deviation": -0.54
   },
   {
+    "movie_name": "Je Tu Il Elle",
+    "year": 1974,
+    "letterboxd_uri": "https://boxd.it/3gWK",
+    "avg_rating": 4.25,
+    "lb_avg": 3.71,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
+    "deviation": 0.54
+  },
+  {
     "movie_name": "H\u00e4xan",
     "year": 1922,
     "letterboxd_uri": "https://boxd.it/n4O",
@@ -3918,16 +3968,6 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:1.0",
     "deviation": -0.54
-  },
-  {
-    "movie_name": "Baby Reindeer",
-    "year": 2024,
-    "letterboxd_uri": "https://boxd.it/MwSa",
-    "avg_rating": 4.5,
-    "lb_avg": 3.96,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.5, skylerinthecine:4.5",
-    "deviation": 0.54
   },
   {
     "movie_name": "Spider-Man: No Way Home",
@@ -4007,16 +4047,6 @@
     "lb_avg": 4.47,
     "rater_count": 3,
     "breakdown": "memoriesomovies:5.0, moviebuff501:5.0, skylerinthecine:5.0",
-    "deviation": 0.53
-  },
-  {
-    "movie_name": "Je Tu Il Elle",
-    "year": 1974,
-    "letterboxd_uri": "https://boxd.it/3gWK",
-    "avg_rating": 4.25,
-    "lb_avg": 3.72,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "deviation": 0.53
   },
   {
@@ -4290,6 +4320,16 @@
     "deviation": -0.51
   },
   {
+    "movie_name": "Nowhere",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/286E",
+    "avg_rating": 4.5,
+    "lb_avg": 3.99,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
+    "deviation": 0.51
+  },
+  {
     "movie_name": "But I'm a Cheerleader",
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/1CW4",
@@ -4320,6 +4360,16 @@
     "deviation": -0.5
   },
   {
+    "movie_name": "Minari",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/mL9M",
+    "avg_rating": 4.58,
+    "lb_avg": 4.08,
+    "rater_count": 6,
+    "breakdown": "batmatt208:4.5, lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:4.5",
+    "deviation": 0.5
+  },
+  {
     "movie_name": "CODA",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/tbf4",
@@ -4337,16 +4387,6 @@
     "lb_avg": 4.13,
     "rater_count": 4,
     "breakdown": "big_brant:5.0, lukecharlier:4.5, moviebuff501:4.5, skylerinthecine:4.5",
-    "deviation": 0.5
-  },
-  {
-    "movie_name": "Indiana Jones and the Last Crusade",
-    "year": 1989,
-    "letterboxd_uri": "https://boxd.it/2baO",
-    "avg_rating": 4.6,
-    "lb_avg": 4.1,
-    "rater_count": 5,
-    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.5, skylerinthecine:4.5",
     "deviation": 0.5
   },
   {
@@ -4490,16 +4530,6 @@
     "deviation": -0.5
   },
   {
-    "movie_name": "Nowhere",
-    "year": 1997,
-    "letterboxd_uri": "https://boxd.it/286E",
-    "avg_rating": 4.5,
-    "lb_avg": 4.0,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
-    "deviation": 0.5
-  },
-  {
     "movie_name": "Ghostlight",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/K5c8",
@@ -4518,6 +4548,26 @@
     "rater_count": 3,
     "breakdown": "batmatt208:3.0, moviebuff501:3.5, skylerinthecine:3.0",
     "deviation": -0.49
+  },
+  {
+    "movie_name": "Marty Supreme",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/Off0",
+    "avg_rating": 4.57,
+    "lb_avg": 4.08,
+    "rater_count": 7,
+    "breakdown": "batmatt208:4.0, big_brant:4.5, lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
+    "deviation": 0.49
+  },
+  {
+    "movie_name": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "letterboxd_uri": "https://boxd.it/2baO",
+    "avg_rating": 4.6,
+    "lb_avg": 4.11,
+    "rater_count": 5,
+    "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.5, skylerinthecine:4.5",
+    "deviation": 0.49
   },
   {
     "movie_name": "Taxi Driver",
@@ -4568,16 +4618,6 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:4.0, skylerinthecine:2.5",
     "deviation": -0.49
-  },
-  {
-    "movie_name": "Alpha",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/N008",
-    "avg_rating": 3.75,
-    "lb_avg": 3.26,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:3.5, skylerinthecine:4.0",
-    "deviation": 0.49
   },
   {
     "movie_name": "Captain America: The Winter Soldier",
@@ -4677,16 +4717,6 @@
     "lb_avg": 2.02,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, memoriesomovies:2.5, moviebuff501:3.0, skylerinthecine:2.0",
-    "deviation": 0.48
-  },
-  {
-    "movie_name": "Marty Supreme",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/Off0",
-    "avg_rating": 4.57,
-    "lb_avg": 4.09,
-    "rater_count": 7,
-    "breakdown": "batmatt208:4.0, big_brant:4.5, lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
     "deviation": 0.48
   },
   {
@@ -5550,6 +5580,16 @@
     "deviation": -0.44
   },
   {
+    "movie_name": "Oldboy",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/29R2",
+    "avg_rating": 4.8,
+    "lb_avg": 4.36,
+    "rater_count": 5,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0, paityne:4.5, skylerinthecine:4.5",
+    "deviation": 0.44
+  },
+  {
     "movie_name": "No Country for Old Men",
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/21ew",
@@ -5687,16 +5727,6 @@
     "lb_avg": 3.93,
     "rater_count": 7,
     "breakdown": "batmatt208:4.5, big_brant:4.5, lukecharlier:4.0, memoriesomovies:5.0, moviebuff501:4.5, paityne:3.0, skylerinthecine:5.0",
-    "deviation": 0.43
-  },
-  {
-    "movie_name": "Oldboy",
-    "year": 2003,
-    "letterboxd_uri": "https://boxd.it/29R2",
-    "avg_rating": 4.8,
-    "lb_avg": 4.37,
-    "rater_count": 5,
-    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0, paityne:4.5, skylerinthecine:4.5",
     "deviation": 0.43
   },
   {
@@ -6078,6 +6108,16 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:5.0",
     "deviation": -0.42
+  },
+  {
+    "movie_name": "Ghost World",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/28Dy",
+    "avg_rating": 4.0,
+    "lb_avg": 3.58,
+    "rater_count": 2,
+    "breakdown": "paityne:4.0, skylerinthecine:4.0",
+    "deviation": 0.42
   },
   {
     "movie_name": "El Camino: A Breaking Bad Movie",
@@ -7475,8 +7515,8 @@
     "letterboxd_uri": "https://boxd.it/29Go",
     "avg_rating": 4.0,
     "lb_avg": 3.65,
-    "rater_count": 3,
-    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, skylerinthecine:3.5",
+    "rater_count": 4,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:3.5",
     "deviation": 0.35
   },
   {
@@ -7640,16 +7680,6 @@
     "deviation": -0.35
   },
   {
-    "movie_name": "Witness for the Prosecution",
-    "year": 1957,
-    "letterboxd_uri": "https://boxd.it/18H4",
-    "avg_rating": 4.75,
-    "lb_avg": 4.4,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.5, moviebuff501:5.0",
-    "deviation": 0.35
-  },
-  {
     "movie_name": "Pitch Perfect 2",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/7tNa",
@@ -7787,6 +7817,16 @@
     "lb_avg": 3.66,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:3.5",
+    "deviation": 0.34
+  },
+  {
+    "movie_name": "Witness for the Prosecution",
+    "year": 1957,
+    "letterboxd_uri": "https://boxd.it/18H4",
+    "avg_rating": 4.75,
+    "lb_avg": 4.41,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:5.0",
     "deviation": 0.34
   },
   {
@@ -8700,6 +8740,16 @@
     "deviation": -0.29
   },
   {
+    "movie_name": "Intolerable Cruelty",
+    "year": 2003,
+    "letterboxd_uri": "https://boxd.it/1T7i",
+    "avg_rating": 2.75,
+    "lb_avg": 3.04,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:2.5, skylerinthecine:3.0",
+    "deviation": -0.29
+  },
+  {
     "movie_name": "Where Is the Friend's House?",
     "year": 1987,
     "letterboxd_uri": "https://boxd.it/ELg",
@@ -8818,16 +8868,6 @@
     "rater_count": 3,
     "breakdown": "moviebuff501:3.0, paityne:2.0, skylerinthecine:3.0",
     "deviation": -0.29
-  },
-  {
-    "movie_name": "Thelma & Louise",
-    "year": 1991,
-    "letterboxd_uri": "https://boxd.it/28Ew",
-    "avg_rating": 4.5,
-    "lb_avg": 4.21,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
-    "deviation": 0.29
   },
   {
     "movie_name": "Willy Wonka & the Chocolate Factory",
@@ -9050,6 +9090,16 @@
     "deviation": -0.28
   },
   {
+    "movie_name": "The Hudsucker Proxy",
+    "year": 1994,
+    "letterboxd_uri": "https://boxd.it/1SJA",
+    "avg_rating": 4.0,
+    "lb_avg": 3.72,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
+    "deviation": 0.28
+  },
+  {
     "movie_name": "Rushmore",
     "year": 1998,
     "letterboxd_uri": "https://boxd.it/1TAO",
@@ -9138,6 +9188,16 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:2.0",
     "deviation": -0.28
+  },
+  {
+    "movie_name": "Thelma & Louise",
+    "year": 1991,
+    "letterboxd_uri": "https://boxd.it/28Ew",
+    "avg_rating": 4.5,
+    "lb_avg": 4.22,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
+    "deviation": 0.28
   },
   {
     "movie_name": "Brooklyn",
@@ -10170,6 +10230,16 @@
     "deviation": -0.24
   },
   {
+    "movie_name": "Sully",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/cD8Q",
+    "avg_rating": 3.25,
+    "lb_avg": 3.49,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
+    "deviation": -0.24
+  },
+  {
     "movie_name": "Us",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/gnV6",
@@ -11018,6 +11088,16 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.5",
     "deviation": 0.21
+  },
+  {
+    "movie_name": "Mother Mary",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
+    "avg_rating": 2.83,
+    "lb_avg": 3.04,
+    "rater_count": 3,
+    "breakdown": "moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
+    "deviation": -0.21
   },
   {
     "movie_name": "Spiral: From the Book of Saw",
@@ -15080,16 +15160,6 @@
     "deviation": -0.07
   },
   {
-    "movie_name": "Nirvanna the Band the Show the Movie",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/HG9a",
-    "avg_rating": 4.25,
-    "lb_avg": 4.32,
-    "rater_count": 6,
-    "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.5",
-    "deviation": -0.07
-  },
-  {
     "movie_name": "Incredibles 2",
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/7IPg",
@@ -15450,6 +15520,16 @@
     "deviation": 0.06
   },
   {
+    "movie_name": "Nirvanna the Band the Show the Movie",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/HG9a",
+    "avg_rating": 4.25,
+    "lb_avg": 4.31,
+    "rater_count": 6,
+    "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.5",
+    "deviation": -0.06
+  },
+  {
     "movie_name": "Sir\u0101t",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/HxJo",
@@ -15468,6 +15548,16 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.5, skylerinthecine:5.0",
     "deviation": 0.06
+  },
+  {
+    "movie_name": "Shoplifters",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/ifY6",
+    "avg_rating": 4.25,
+    "lb_avg": 4.31,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
+    "deviation": -0.06
   },
   {
     "movie_name": "Night of the Living Dead",
@@ -15738,16 +15828,6 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.5",
     "deviation": 0.05
-  },
-  {
-    "movie_name": "Shoplifters",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/ifY6",
-    "avg_rating": 4.25,
-    "lb_avg": 4.3,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
-    "deviation": -0.05
   },
   {
     "movie_name": "Lovers Rock",
