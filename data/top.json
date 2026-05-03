@@ -1458,15 +1458,6 @@
     "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:4.5"
   },
   {
-    "movie_name": "The Big Lebowski",
-    "year": 1998,
-    "letterboxd_uri": "https://boxd.it/2b6C",
-    "avg_rating": 4.5,
-    "lb_avg": 4.11,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5"
-  },
-  {
     "movie_name": "Flee",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/ponM",
@@ -1888,15 +1879,6 @@
     "lb_avg": 4.06,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0"
-  },
-  {
-    "movie_name": "First Reformed",
-    "year": 2017,
-    "letterboxd_uri": "https://boxd.it/go9C",
-    "avg_rating": 4.5,
-    "lb_avg": 4.03,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5"
   },
   {
     "movie_name": "Cameraperson",
@@ -3870,15 +3852,6 @@
     "breakdown": "batmatt208:4.5, big_brant:4.5, lukecharlier:4.5, memoriesomovies:4.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:4.5"
   },
   {
-    "movie_name": "Everything Everywhere All at Once",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/jUk4",
-    "avg_rating": 4.43,
-    "lb_avg": 4.25,
-    "rater_count": 7,
-    "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0"
-  },
-  {
     "movie_name": "The Zone of Interest",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/gJsA",
@@ -3967,6 +3940,15 @@
     "lb_avg": 4.12,
     "rater_count": 5,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:4.5"
+  },
+  {
+    "movie_name": "The Big Lebowski",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/2b6C",
+    "avg_rating": 4.4,
+    "lb_avg": 4.11,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5"
   },
   {
     "movie_name": "The Father",
@@ -4131,6 +4113,15 @@
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, paityne:4.0, skylerinthecine:5.0"
   },
   {
+    "movie_name": "Everything Everywhere All at Once",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/jUk4",
+    "avg_rating": 4.36,
+    "lb_avg": 4.25,
+    "rater_count": 7,
+    "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0"
+  },
+  {
     "movie_name": "Aftersun",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/Arw0",
@@ -4235,6 +4226,15 @@
     "letterboxd_uri": "https://boxd.it/tbhu",
     "avg_rating": 4.33,
     "lb_avg": 4.19,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5"
+  },
+  {
+    "movie_name": "First Reformed",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/go9C",
+    "avg_rating": 4.33,
+    "lb_avg": 4.03,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5"
   },
@@ -4901,6 +4901,15 @@
     "letterboxd_uri": "https://boxd.it/25zS",
     "avg_rating": 4.25,
     "lb_avg": 3.86,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5"
+  },
+  {
+    "movie_name": "Werckmeister Harmonies",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/1zzw",
+    "avg_rating": 4.25,
+    "lb_avg": 4.31,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5"
   },
@@ -8397,15 +8406,6 @@
     "breakdown": "memoriesomovies:4.0"
   },
   {
-    "movie_name": "Werckmeister Harmonies",
-    "year": 2000,
-    "letterboxd_uri": "https://boxd.it/1zzw",
-    "avg_rating": 4.0,
-    "lb_avg": 4.31,
-    "rater_count": 1,
-    "breakdown": "memoriesomovies:4.0"
-  },
-  {
     "movie_name": "Show Me Love",
     "year": 1998,
     "letterboxd_uri": "https://boxd.it/1TmW",
@@ -11815,6 +11815,33 @@
     "lb_avg": 4.25,
     "rater_count": 1,
     "breakdown": "moviebuff501:4.0"
+  },
+  {
+    "movie_name": "Drop Dead Gorgeous",
+    "year": 1999,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/drop-dead-gorgeous/",
+    "avg_rating": 4.0,
+    "lb_avg": 3.88,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0"
+  },
+  {
+    "movie_name": "Graduation",
+    "year": 2016,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/graduation-2016/",
+    "avg_rating": 4.0,
+    "lb_avg": 3.74,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0"
+  },
+  {
+    "movie_name": "Mon Oncle",
+    "year": 1958,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/mon-oncle/",
+    "avg_rating": 4.0,
+    "lb_avg": 4.04,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0"
   },
   {
     "movie_name": "Top Gun: Maverick",
@@ -20322,6 +20349,24 @@
     "breakdown": "skylerinthecine:3.5"
   },
   {
+    "movie_name": "Hokum",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+    "avg_rating": 3.5,
+    "lb_avg": 3.55,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:3.5"
+  },
+  {
+    "movie_name": "Uptown Girls",
+    "year": 2003,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/uptown-girls/",
+    "avg_rating": 3.5,
+    "lb_avg": 4.02,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.5"
+  },
+  {
     "movie_name": "My Father's Shadow",
     "year": 2025,
     "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/my-fathers-shadow-2025/",
@@ -23182,6 +23227,15 @@
     "lb_avg": 4.06,
     "rater_count": 2,
     "breakdown": "paityne:3.0, skylerinthecine:3.0"
+  },
+  {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.42,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0"
   },
   {
     "movie_name": "Amazing Grace",
@@ -27729,6 +27783,33 @@
     "breakdown": "memoriesomovies:3.0"
   },
   {
+    "movie_name": "I Want Your Sex",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/i-want-your-sex/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.52,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:3.0"
+  },
+  {
+    "movie_name": "Power Ballad",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/power-ballad/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.46,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:3.0"
+  },
+  {
+    "movie_name": "True Romance",
+    "year": 1993,
+    "letterboxd_uri": "https://letterboxd.com/paityne/film/true-romance/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.95,
+    "rater_count": 1,
+    "breakdown": "paityne:3.0"
+  },
+  {
     "movie_name": "Hail, Caesar!",
     "year": 2016,
     "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/hail-caesar-2016/",
@@ -27979,15 +28060,6 @@
     "lb_avg": 3.2,
     "rater_count": 3,
     "breakdown": "moviebuff501:3.5, paityne:2.5, skylerinthecine:2.5"
-  },
-  {
-    "movie_name": "Mother Mary",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
-    "avg_rating": 2.83,
-    "lb_avg": 3.04,
-    "rater_count": 3,
-    "breakdown": "moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5"
   },
   {
     "movie_name": "Bullet Train",
@@ -28620,15 +28692,6 @@
     "breakdown": "big_brant:2.5, lukecharlier:3.0, skylerinthecine:2.5"
   },
   {
-    "movie_name": "House of Gucci",
-    "year": 2021,
-    "letterboxd_uri": "https://boxd.it/nVkC",
-    "avg_rating": 2.67,
-    "lb_avg": 2.93,
-    "rater_count": 3,
-    "breakdown": "lukecharlier:3.0, paityne:3.0, skylerinthecine:2.0"
-  },
-  {
     "movie_name": "Hell of a Summer",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/BLQQ",
@@ -28789,6 +28852,15 @@
     "lb_avg": 2.86,
     "rater_count": 4,
     "breakdown": "lukecharlier:1.0, memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:3.5"
+  },
+  {
+    "movie_name": "Mother Mary",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
+    "avg_rating": 2.62,
+    "lb_avg": 3.0,
+    "rater_count": 4,
+    "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5"
   },
   {
     "movie_name": "Wonka",
@@ -32173,6 +32245,15 @@
     "lb_avg": 3.13,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, memoriesomovies:2.5, moviebuff501:2.5, skylerinthecine:2.5"
+  },
+  {
+    "movie_name": "House of Gucci",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/nVkC",
+    "avg_rating": 2.38,
+    "lb_avg": 2.93,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:3.0, moviebuff501:1.5, paityne:3.0, skylerinthecine:2.0"
   },
   {
     "movie_name": "Don't Worry Darling",

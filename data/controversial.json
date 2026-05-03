@@ -1360,6 +1360,16 @@
     "variance": 0.4219
   },
   {
+    "movie_name": "House of Gucci",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/nVkC",
+    "avg_rating": 2.38,
+    "lb_avg": 2.93,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:3.0, moviebuff501:1.5, paityne:3.0, skylerinthecine:2.0",
+    "variance": 0.4219
+  },
+  {
     "movie_name": "Suspiria",
     "year": 1977,
     "letterboxd_uri": "https://boxd.it/1SNW",
@@ -2000,16 +2010,6 @@
     "variance": 0.3367
   },
   {
-    "movie_name": "Everything Everywhere All at Once",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/jUk4",
-    "avg_rating": 4.43,
-    "lb_avg": 4.25,
-    "rater_count": 7,
-    "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0",
-    "variance": 0.3163
-  },
-  {
     "movie_name": "The Northman",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/nK2s",
@@ -2330,6 +2330,16 @@
     "variance": 0.2969
   },
   {
+    "movie_name": "Mother Mary",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
+    "avg_rating": 2.62,
+    "lb_avg": 3.0,
+    "rater_count": 4,
+    "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
+    "variance": 0.2969
+  },
+  {
     "movie_name": "The Menu",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/lScm",
@@ -2368,6 +2378,16 @@
     "rater_count": 6,
     "breakdown": "batmatt208:3.5, lukecharlier:3.5, memoriesomovies:2.0, moviebuff501:3.0, paityne:3.5, skylerinthecine:3.0",
     "variance": 0.2847
+  },
+  {
+    "movie_name": "Everything Everywhere All at Once",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/jUk4",
+    "avg_rating": 4.36,
+    "lb_avg": 4.25,
+    "rater_count": 7,
+    "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0",
+    "variance": 0.2653
   },
   {
     "movie_name": "Inside Out 2",
@@ -4160,16 +4180,6 @@
     "variance": 0.2222
   },
   {
-    "movie_name": "House of Gucci",
-    "year": 2021,
-    "letterboxd_uri": "https://boxd.it/nVkC",
-    "avg_rating": 2.67,
-    "lb_avg": 2.93,
-    "rater_count": 3,
-    "breakdown": "lukecharlier:3.0, paityne:3.0, skylerinthecine:2.0",
-    "variance": 0.2222
-  },
-  {
     "movie_name": "Ralph Breaks the Internet",
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/edAy",
@@ -4627,16 +4637,6 @@
     "lb_avg": 3.2,
     "rater_count": 3,
     "breakdown": "moviebuff501:3.5, paityne:2.5, skylerinthecine:2.5",
-    "variance": 0.2222
-  },
-  {
-    "movie_name": "Mother Mary",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
-    "avg_rating": 2.83,
-    "lb_avg": 3.04,
-    "rater_count": 3,
-    "breakdown": "moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
     "variance": 0.2222
   },
   {
@@ -6510,6 +6510,16 @@
     "variance": 0.14
   },
   {
+    "movie_name": "The Big Lebowski",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/2b6C",
+    "avg_rating": 4.4,
+    "lb_avg": 4.11,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5",
+    "variance": 0.14
+  },
+  {
     "movie_name": "T\u00c1R",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/uNIA",
@@ -7207,16 +7217,6 @@
     "lb_avg": 3.56,
     "rater_count": 5,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, moviebuff501:3.0, paityne:2.5, skylerinthecine:3.0",
-    "variance": 0.1
-  },
-  {
-    "movie_name": "The Big Lebowski",
-    "year": 1998,
-    "letterboxd_uri": "https://boxd.it/2b6C",
-    "avg_rating": 4.5,
-    "lb_avg": 4.11,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5",
     "variance": 0.1
   },
   {
@@ -8725,6 +8725,16 @@
     "letterboxd_uri": "https://boxd.it/25zS",
     "avg_rating": 4.25,
     "lb_avg": 3.86,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Werckmeister Harmonies",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/1zzw",
+    "avg_rating": 4.25,
+    "lb_avg": 4.31,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "variance": 0.0625
@@ -12320,6 +12330,16 @@
     "variance": 0.0556
   },
   {
+    "movie_name": "First Reformed",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/go9C",
+    "avg_rating": 4.33,
+    "lb_avg": 4.03,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
+    "variance": 0.0556
+  },
+  {
     "movie_name": "Dunkirk",
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/d0Y6",
@@ -15160,16 +15180,6 @@
     "variance": 0.0
   },
   {
-    "movie_name": "First Reformed",
-    "year": 2017,
-    "letterboxd_uri": "https://boxd.it/go9C",
-    "avg_rating": 4.5,
-    "lb_avg": 4.03,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
-    "variance": 0.0
-  },
-  {
     "movie_name": "The Salesman",
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/d2we",
@@ -17777,6 +17787,16 @@
     "lb_avg": 3.56,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.42,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "variance": 0.0
   }
 ]

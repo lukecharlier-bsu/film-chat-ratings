@@ -3610,6 +3610,16 @@
     "deviation": 0.56
   },
   {
+    "movie_name": "House of Gucci",
+    "year": 2021,
+    "letterboxd_uri": "https://boxd.it/nVkC",
+    "avg_rating": 2.38,
+    "lb_avg": 2.93,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:3.0, moviebuff501:1.5, paityne:3.0, skylerinthecine:2.0",
+    "deviation": -0.56
+  },
+  {
     "movie_name": "Air",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/Arlc",
@@ -5040,16 +5050,6 @@
     "deviation": -0.47
   },
   {
-    "movie_name": "First Reformed",
-    "year": 2017,
-    "letterboxd_uri": "https://boxd.it/go9C",
-    "avg_rating": 4.5,
-    "lb_avg": 4.03,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
-    "deviation": 0.47
-  },
-  {
     "movie_name": "Dancer in the Dark",
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/71E",
@@ -6120,6 +6120,16 @@
     "deviation": 0.42
   },
   {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.42,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
+    "deviation": -0.42
+  },
+  {
     "movie_name": "El Camino: A Breaking Bad Movie",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/kv0q",
@@ -6570,16 +6580,6 @@
     "deviation": -0.39
   },
   {
-    "movie_name": "The Big Lebowski",
-    "year": 1998,
-    "letterboxd_uri": "https://boxd.it/2b6C",
-    "avg_rating": 4.5,
-    "lb_avg": 4.11,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5",
-    "deviation": 0.39
-  },
-  {
     "movie_name": "The Royal Tenenbaums",
     "year": 2001,
     "letterboxd_uri": "https://boxd.it/1YHU",
@@ -6987,6 +6987,16 @@
     "lb_avg": 3.63,
     "rater_count": 2,
     "breakdown": "paityne:3.0, skylerinthecine:3.5",
+    "deviation": -0.38
+  },
+  {
+    "movie_name": "Mother Mary",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
+    "avg_rating": 2.62,
+    "lb_avg": 3.0,
+    "rater_count": 4,
+    "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
     "deviation": -0.38
   },
   {
@@ -8490,6 +8500,16 @@
     "deviation": 0.3
   },
   {
+    "movie_name": "First Reformed",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/go9C",
+    "avg_rating": 4.33,
+    "lb_avg": 4.03,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
+    "deviation": 0.3
+  },
+  {
     "movie_name": "Black Mirror: Fifteen Million Merits",
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/hQYU",
@@ -8707,6 +8727,16 @@
     "lb_avg": 4.31,
     "rater_count": 5,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
+    "deviation": 0.29
+  },
+  {
+    "movie_name": "The Big Lebowski",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/2b6C",
+    "avg_rating": 4.4,
+    "lb_avg": 4.11,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5",
     "deviation": 0.29
   },
   {
@@ -9548,16 +9578,6 @@
     "rater_count": 5,
     "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:4.5",
     "deviation": 0.26
-  },
-  {
-    "movie_name": "House of Gucci",
-    "year": 2021,
-    "letterboxd_uri": "https://boxd.it/nVkC",
-    "avg_rating": 2.67,
-    "lb_avg": 2.93,
-    "rater_count": 3,
-    "breakdown": "lukecharlier:3.0, paityne:3.0, skylerinthecine:2.0",
-    "deviation": -0.26
   },
   {
     "movie_name": "National Lampoon's Vacation",
@@ -11090,16 +11110,6 @@
     "deviation": 0.21
   },
   {
-    "movie_name": "Mother Mary",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
-    "avg_rating": 2.83,
-    "lb_avg": 3.04,
-    "rater_count": 3,
-    "breakdown": "moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
-    "deviation": -0.21
-  },
-  {
     "movie_name": "Spiral: From the Book of Saw",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/meXk",
@@ -11658,16 +11668,6 @@
     "rater_count": 4,
     "breakdown": "batmatt208:3.0, lukecharlier:3.0, moviebuff501:2.5, skylerinthecine:2.5",
     "deviation": -0.18
-  },
-  {
-    "movie_name": "Everything Everywhere All at Once",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/jUk4",
-    "avg_rating": 4.43,
-    "lb_avg": 4.25,
-    "rater_count": 7,
-    "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0",
-    "deviation": 0.18
   },
   {
     "movie_name": "Perfect Days",
@@ -13770,6 +13770,16 @@
     "deviation": 0.11
   },
   {
+    "movie_name": "Everything Everywhere All at Once",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/jUk4",
+    "avg_rating": 4.36,
+    "lb_avg": 4.25,
+    "rater_count": 7,
+    "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0",
+    "deviation": 0.11
+  },
+  {
     "movie_name": "Elvis",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/mK4w",
@@ -15553,6 +15563,16 @@
     "movie_name": "Shoplifters",
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/ifY6",
+    "avg_rating": 4.25,
+    "lb_avg": 4.31,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
+    "deviation": -0.06
+  },
+  {
+    "movie_name": "Werckmeister Harmonies",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/1zzw",
     "avg_rating": 4.25,
     "lb_avg": 4.31,
     "rater_count": 2,
