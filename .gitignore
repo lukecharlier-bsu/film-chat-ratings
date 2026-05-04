@@ -3,3 +3,5 @@ __pycache__/
 letterboxd.db
 .DS_Store
 ratings data/
+tmdb api key.txt
+tmdb api key copy.txt
