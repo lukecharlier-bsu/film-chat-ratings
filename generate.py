@@ -26,6 +26,7 @@ import time
 # We use this instead of the requests library to avoid adding a dependency.
 import urllib.request
 import urllib.error
+import urllib.parse
 
 # json — Python's built-in library for writing JSON files.
 # json.dumps() converts a Python list/dict into a JSON string.
@@ -55,13 +56,14 @@ import feedparser
 # directory as this script."
 RATINGS_DIR   = Path("ratings data")      # where the Letterboxd export folders live
 DATA_DIR      = Path("data")             # where we write the output JSON files
-LB_CACHE_FILE = DATA_DIR / "lb_ratings.json"  # cache of global LB averages
+LB_CACHE_FILE   = DATA_DIR / "lb_ratings.json"   # cache of global LB averages
+TMDB_CACHE_FILE = DATA_DIR / "tmdb_cache.json"   # cache of TMDB metadata
+TMDB_POSTER_BASE = "https://image.tmdb.org/t/p/w92"
 
-# How many top films (by group avg) to fetch LB global ratings for.
-# We don't fetch all 2000+ films — just the most relevant ones.
-# Fetching takes ~0.4s per film, so 300 films ≈ 2 minutes on first run.
-# Subsequent runs are instant because of the cache.
-LB_FETCH_LIMIT = 300
+# Read TMDB API key from local file (never commit this file to git).
+# Falls back to empty string — TMDB fetch is skipped if no key is found.
+_tmdb_key_file = Path("tmdb api key.txt")
+TMDB_API_KEY = _tmdb_key_file.read_text(encoding="utf-8").strip() if _tmdb_key_file.exists() else ""
 
 
 # ── Step 1: Load CSVs ─────────────────────────────────────────────────────
@@ -410,11 +412,14 @@ def fetch_all_lb_ratings(movies: dict) -> dict:
 
     results = {}
     fetched_count = 0
+    total = len(top_uris)
 
-    for uri in top_uris:
+    for i, uri in enumerate(top_uris, 1):
         # Check if we have a fresh cache entry (fetched today).
         # We only re-fetch if it's a new film or the cache is from a previous day.
-        if uri in cache and cache[uri].get("fetched") == today:
+        fetched_on = cache.get(uri, {}).get("fetched")
+        cache_age = (datetime.strptime(today, "%Y-%m-%d") - datetime.strptime(fetched_on, "%Y-%m-%d")).days if fetched_on else 999
+        if uri in cache and cache_age < 14:
             # Cache hit — use it directly, no network request needed.
             if cache[uri].get("avg") is not None:
                 results[uri] = cache[uri]["avg"]
@@ -423,6 +428,7 @@ def fetch_all_lb_ratings(movies: dict) -> dict:
         # Cache miss — need to fetch from Letterboxd.
         page_url = film_page_url(uri)
         avg = fetch_lb_rating(page_url)
+        print(f"  ({i}/{total}) {page_url} → {avg}", flush=True)
 
         # Store in cache regardless of success (even None, so we don't retry today).
         cache[uri] = {"avg": avg, "fetched": today}
@@ -441,6 +447,151 @@ def fetch_all_lb_ratings(movies: dict) -> dict:
     print(f"  Fetched {fetched_count} new LB ratings ({len(results)} total with cache)")
 
     return results
+
+
+# ── Step 2c: Fetch TMDB metadata (year, genres, poster) ──────────────────
+
+def load_tmdb_cache() -> dict:
+    if TMDB_CACHE_FILE.exists():
+        return json.loads(TMDB_CACHE_FILE.read_text(encoding="utf-8"))
+    return {}
+
+
+def fetch_tmdb_genres() -> dict:
+    """Fetches the TMDB genre ID → name mapping once. Returns {} on failure."""
+    if not TMDB_API_KEY:
+        return {}
+    url = f"https://api.themoviedb.org/3/genre/movie/list?api_key={TMDB_API_KEY}&language=en-US"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        return {g["id"]: g["name"] for g in data.get("genres", [])}
+    except Exception:
+        return {}
+
+
+def fetch_tmdb_data(title: str, year: int | None, genres_map: dict) -> dict | None:
+    """
+    Searches TMDB for a film by title (+year) and returns:
+      { "tmdb_year": int, "genres": [str, ...], "poster": str | None }
+
+    Picks the best match from the top 5 results — prefers exact title match,
+    then closest release year to what Letterboxd reported.
+    If no results with the year constraint, retries without it.
+    """
+    if not TMDB_API_KEY:
+        return None
+
+    query = urllib.parse.quote(title)
+    year_param = f"&year={year}" if year else ""
+    url = (f"https://api.themoviedb.org/3/search/movie"
+           f"?api_key={TMDB_API_KEY}&query={query}{year_param}&language=en-US&page=1")
+
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except Exception:
+        return None
+
+    results = data.get("results", [])
+    if not results:
+        # Nothing found with year constraint — retry without it
+        if year:
+            return fetch_tmdb_data(title, None, genres_map)
+        return None
+
+    # Pick best match: exact title first, then closest year
+    title_lower = title.lower()
+    best = None
+    best_year_diff = 999
+
+    for r in results[:5]:
+        r_title = r.get("title", "").lower()
+        r_year_str = r.get("release_date", "")[:4]
+        r_year = int(r_year_str) if r_year_str.isdigit() else None
+        year_diff = abs((r_year or 0) - (year or 0)) if year and r_year else 999
+
+        if r_title == title_lower:
+            if best is None or year_diff < best_year_diff:
+                best = r
+                best_year_diff = year_diff
+        elif best is None:
+            best = r
+            best_year_diff = year_diff
+
+    if not best:
+        best = results[0]
+
+    r_year_str = best.get("release_date", "")[:4]
+    tmdb_year = int(r_year_str) if r_year_str.isdigit() else year
+    genres = [genres_map[gid] for gid in best.get("genre_ids", []) if gid in genres_map]
+    poster_path = best.get("poster_path")
+    poster = (TMDB_POSTER_BASE + poster_path) if poster_path else None
+
+    return {"tmdb_year": tmdb_year, "genres": genres, "poster": poster}
+
+
+def fetch_all_tmdb_data(movies: dict) -> None:
+    """
+    Fetches TMDB metadata for every film and stores it IN PLACE in each info dict.
+    Uses a 30-day cache — genres and posters rarely change.
+    Saves the cache after every fetch so Ctrl+C is safe.
+    """
+    if not TMDB_API_KEY:
+        print("  No TMDB API key found — skipping.")
+        return
+
+    cache = load_tmdb_cache()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    genres_map = fetch_tmdb_genres()
+    print(f"  Loaded {len(genres_map)} genres from TMDB")
+
+    total = len(movies)
+    fetched_count = 0
+
+    for i, (key, info) in enumerate(movies.items(), 1):
+        name, year = key
+        cache_key = f"{name}|{year}"
+
+        fetched_on = cache.get(cache_key, {}).get("fetched")
+        cache_age = (
+            (datetime.strptime(today, "%Y-%m-%d") - datetime.strptime(fetched_on, "%Y-%m-%d")).days
+            if fetched_on else 999
+        )
+
+        if cache_key in cache and cache_age < 30:
+            entry = cache[cache_key]
+            info["tmdb_year"] = entry.get("tmdb_year")
+            info["genres"]    = entry.get("genres", [])
+            info["poster"]    = entry.get("poster")
+            continue
+
+        # Cache miss — fetch from TMDB
+        result = fetch_tmdb_data(info["name"], info["year"], genres_map)
+        if result:
+            info["tmdb_year"] = result["tmdb_year"]
+            info["genres"]    = result["genres"]
+            info["poster"]    = result["poster"]
+            fetched_count += 1
+        else:
+            info["tmdb_year"] = info["year"]
+            info["genres"]    = []
+            info["poster"]    = None
+
+        cache[cache_key] = {
+            "tmdb_year": info["tmdb_year"],
+            "genres":    info["genres"],
+            "poster":    info["poster"],
+            "fetched":   today,
+        }
+
+        TMDB_CACHE_FILE.write_text(json.dumps(cache, indent=2), encoding="utf-8")
+        print(f"  ({i}/{total}) {info['name']} ({year}) → {info['genres']}", flush=True)
+        time.sleep(0.1)
+
+    print(f"  Fetched {fetched_count} new TMDB entries ({total} total with cache)")
 
 
 # ── Step 3: Compute outputs ───────────────────────────────────────────────
@@ -471,12 +622,14 @@ def build_row(info: dict, lb_ratings: dict | None = None) -> dict:
 
     return {
         "movie_name":     info["name"],
-        "year":           info["year"],
+        "year":           info.get("tmdb_year") or info["year"],  # TMDB year is more accurate
         "letterboxd_uri": info["uri"],
         "avg_rating":     avg,
-        "lb_avg":         lb_avg,   # global LB average, or null if unavailable
+        "lb_avg":         lb_avg,
         "rater_count":    len(ratings),
         "breakdown":      breakdown,
+        "genres":         info.get("genres", []),
+        "poster":         info.get("poster"),
     }
 
 
@@ -631,8 +784,11 @@ if __name__ == "__main__":
     poll_rss(users, movies, latest)
     print(f"  {len(movies)} unique films after RSS merge")
 
-    # ── Step 2b: Fetch global Letterboxd ratings ──
-    # Only fetches the top LB_FETCH_LIMIT films and caches the rest.
+    # ── Step 2b: Fetch TMDB metadata (year, genres, poster) ──
+    print("Fetching TMDB metadata...")
+    fetch_all_tmdb_data(movies)
+
+    # ── Step 2c: Fetch global Letterboxd ratings ──
     print("Fetching Letterboxd global ratings...")
     lb_ratings = fetch_all_lb_ratings(movies)
 

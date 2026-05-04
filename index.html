@@ -127,6 +127,9 @@
 
     .controls input[type=number] { width: 90px; }
 
+    .poster-thumb { width: 32px; height: 48px; object-fit: cover; border-radius: 3px; vertical-align: middle; margin-right: 8px; }
+    .poster-placeholder { display: inline-block; width: 32px; height: 48px; background: var(--border); border-radius: 3px; vertical-align: middle; margin-right: 8px; }
+
     .empty { color: var(--muted); text-align: center; padding: 40px; font-size: 15px; }
 
     /* Members grid */
@@ -195,6 +198,11 @@
           <option value="">Everyone</option>
         </select>
       </label>
+      <label>Genre:
+        <select id="top-genre">
+          <option value="">All genres</option>
+        </select>
+      </label>
     </div>
     <div class="table-wrap">
       <table>
@@ -211,6 +219,11 @@
     <div class="controls">
       <label>Min raters: <input type="number" id="con-min-raters" value="2" min="2" max="20" /></label>
       <label>Year: <input type="text" id="con-year" placeholder="e.g. 2021 or 2010s" /></label>
+      <label>Genre:
+        <select id="con-genre">
+          <option value="">All genres</option>
+        </select>
+      </label>
     </div>
     <div class="table-wrap">
       <table>
@@ -227,6 +240,11 @@
   <div id="tab-vsworld" style="display:none">
     <div class="controls">
       <label>Min raters: <input type="number" id="vs-min-raters" value="2" min="1" max="20" /></label>
+      <label>Genre:
+        <select id="vs-genre">
+          <option value="">All genres</option>
+        </select>
+      </label>
     </div>
     <div class="table-wrap">
       <table>
@@ -289,15 +307,22 @@
     return !isNaN(exact) && movie.year === exact;
   }
 
+  function posterHtml(m) {
+    return m.poster
+      ? `<img class="poster-thumb" src="${m.poster}" alt="" loading="lazy">`
+      : `<span class="poster-placeholder"></span>`;
+  }
+
   function renderTop() {
     const min = parseInt(document.getElementById('top-min-raters').value) || 1;
     const yearInput = document.getElementById('top-year').value;
     const blindspot = document.getElementById('top-blindspot').value;
+    const genre = document.getElementById('top-genre').value;
     const filtered = allTop.filter(m => {
       if (m.rater_count < min) return false;
       if (!yearMatch(m, yearInput)) return false;
-      // Blindspot: exclude films where the selected member appears in the breakdown
       if (blindspot && m.breakdown.split(', ').some(p => p.split(':')[0] === blindspot)) return false;
+      if (genre && !(m.genres || []).includes(genre)) return false;
       return true;
     }).slice(0, 100);
     const body = document.getElementById('top-body');
@@ -309,7 +334,7 @@
       body.insertAdjacentHTML('beforeend', `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td class="movie-title">${posterHtml(m)}<a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
           <td class="year">${m.year || '—'}</td>
           <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
           <td class="lb-avg">${m.lb_avg != null ? m.lb_avg : '—'}</td>
@@ -321,7 +346,12 @@
 
   function renderVs() {
     const min = parseInt(document.getElementById('vs-min-raters').value) || 1;
-    const filtered = allVs.filter(m => m.rater_count >= min).slice(0, 50);
+    const genre = document.getElementById('vs-genre').value;
+    const filtered = allVs.filter(m => {
+      if (m.rater_count < min) return false;
+      if (genre && !(m.genres || []).includes(genre)) return false;
+      return true;
+    }).slice(0, 50);
     const body = document.getElementById('vs-body');
     const empty = document.getElementById('vs-empty');
     body.innerHTML = '';
@@ -333,7 +363,7 @@
       body.insertAdjacentHTML('beforeend', `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td class="movie-title">${posterHtml(m)}<a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
           <td class="year">${m.year || '—'}</td>
           <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
           <td class="lb-avg">${m.lb_avg != null ? m.lb_avg : '—'}</td>
@@ -347,7 +377,13 @@
   function renderCon() {
     const min = parseInt(document.getElementById('con-min-raters').value) || 2;
     const yearInput = document.getElementById('con-year').value;
-    const filtered = allCon.filter(m => m.rater_count >= min && yearMatch(m, yearInput)).slice(0, 25);
+    const genre = document.getElementById('con-genre').value;
+    const filtered = allCon.filter(m => {
+      if (m.rater_count < min) return false;
+      if (!yearMatch(m, yearInput)) return false;
+      if (genre && !(m.genres || []).includes(genre)) return false;
+      return true;
+    }).slice(0, 25);
     const body = document.getElementById('con-body');
     const empty = document.getElementById('con-empty');
     body.innerHTML = '';
@@ -357,7 +393,7 @@
       body.insertAdjacentHTML('beforeend', `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td class="movie-title">${posterHtml(m)}<a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
           <td class="year">${m.year || '—'}</td>
           <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
           <td class="controversy-score">${m.variance.toFixed(2)}</td>
@@ -398,12 +434,27 @@
       blindspotSelect.appendChild(opt);
     });
 
+    // Populate genre dropdowns from all unique genres across top data
+    const allGenres = [...new Set(allTop.flatMap(m => m.genres || []))].sort();
+    ['top-genre', 'con-genre', 'vs-genre'].forEach(id => {
+      const sel = document.getElementById(id);
+      allGenres.forEach(g => {
+        const opt = document.createElement('option');
+        opt.value = g;
+        opt.textContent = g;
+        sel.appendChild(opt);
+      });
+    });
+
     document.getElementById('top-min-raters').addEventListener('input', renderTop);
     document.getElementById('top-year').addEventListener('input', renderTop);
     document.getElementById('top-blindspot').addEventListener('change', renderTop);
+    document.getElementById('top-genre').addEventListener('change', renderTop);
     document.getElementById('con-min-raters').addEventListener('input', renderCon);
     document.getElementById('con-year').addEventListener('input', renderCon);
+    document.getElementById('con-genre').addEventListener('change', renderCon);
     document.getElementById('vs-min-raters').addEventListener('input', renderVs);
+    document.getElementById('vs-genre').addEventListener('change', renderVs);
 
     renderTop();
     renderCon();
