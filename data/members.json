@@ -24,34 +24,34 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 521,
+    "rating_count": 522,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "Minari",
-      "rating": 4.5,
-      "uri": "https://letterboxd.com/lukecharlier/film/minari/",
+      "name": "The Devil Wears Prada 2",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
       "source": "rss"
     }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1505,
+    "rating_count": 1506,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "Everything Everywhere All at Once",
-      "rating": 4.5,
-      "uri": "https://letterboxd.com/memoriesomovies/film/everything-everywhere-all-at-once/7/",
+      "name": "A.I. Artificial Intelligence",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/ai-artificial-intelligence/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1619,
+    "rating_count": 1620,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "I Want Your Sex",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/i-want-your-sex/",
+      "name": "Leviticus",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
       "source": "rss"
     }
   },
@@ -68,12 +68,12 @@
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3209,
+    "rating_count": 3212,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Drop Dead Gorgeous",
+      "name": "The Bling Ring",
       "rating": 4.0,
-      "uri": "https://letterboxd.com/skylerinthecine/film/drop-dead-gorgeous/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-bling-ring/",
       "source": "rss"
     }
   }

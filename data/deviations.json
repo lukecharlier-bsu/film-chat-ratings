@@ -620,6 +620,16 @@
     "deviation": -1.03
   },
   {
+    "movie_name": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/29Ve",
+    "avg_rating": 4.67,
+    "lb_avg": 3.65,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:5.0, moviebuff501:4.0, skylerinthecine:5.0",
+    "deviation": 1.02
+  },
+  {
     "movie_name": "Fear and Loathing in Las Vegas",
     "year": 1998,
     "letterboxd_uri": "https://boxd.it/27Xs",
@@ -1268,16 +1278,6 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
     "deviation": -0.85
-  },
-  {
-    "movie_name": "A.I. Artificial Intelligence",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/29Ve",
-    "avg_rating": 4.5,
-    "lb_avg": 3.65,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
-    "deviation": 0.85
   },
   {
     "movie_name": "After the Hunt",
@@ -6120,16 +6120,6 @@
     "deviation": 0.42
   },
   {
-    "movie_name": "The Devil Wears Prada 2",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
-    "avg_rating": 3.0,
-    "lb_avg": 3.42,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
-    "deviation": -0.42
-  },
-  {
     "movie_name": "El Camino: A Breaking Bad Movie",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/kv0q",
@@ -6970,6 +6960,16 @@
     "deviation": 0.38
   },
   {
+    "movie_name": "Oddity",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/K9pg",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:2.5",
+    "deviation": -0.38
+  },
+  {
     "movie_name": "Eternity",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/LYtK",
@@ -6997,6 +6997,16 @@
     "lb_avg": 3.0,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
+    "deviation": -0.38
+  },
+  {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:3.0",
     "deviation": -0.38
   },
   {
@@ -8588,6 +8598,16 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.0",
     "deviation": 0.3
+  },
+  {
+    "movie_name": "Hokum",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+    "avg_rating": 3.25,
+    "lb_avg": 3.55,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
+    "deviation": -0.3
   },
   {
     "movie_name": "Toy Story 4",

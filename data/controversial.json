@@ -3620,16 +3620,6 @@
     "variance": 0.25
   },
   {
-    "movie_name": "A.I. Artificial Intelligence",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/29Ve",
-    "avg_rating": 4.5,
-    "lb_avg": 3.65,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
-    "variance": 0.25
-  },
-  {
     "movie_name": "Red, White & Royal Blue",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/z3iG",
@@ -3777,6 +3767,16 @@
     "lb_avg": 4.41,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Oddity",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/K9pg",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:2.5",
     "variance": 0.25
   },
   {
@@ -4617,6 +4617,16 @@
     "lb_avg": 2.96,
     "rater_count": 3,
     "breakdown": "moviebuff501:3.0, paityne:2.0, skylerinthecine:3.0",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/29Ve",
+    "avg_rating": 4.67,
+    "lb_avg": 3.65,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:5.0, moviebuff501:4.0, skylerinthecine:5.0",
     "variance": 0.2222
   },
   {
@@ -11200,6 +11210,16 @@
     "variance": 0.0625
   },
   {
+    "movie_name": "Hokum",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+    "avg_rating": 3.25,
+    "lb_avg": 3.55,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
+    "variance": 0.0625
+  },
+  {
     "movie_name": "Bodies Bodies Bodies",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/iRcE",
@@ -17780,6 +17800,16 @@
     "variance": 0.0
   },
   {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:3.0",
+    "variance": 0.0
+  },
+  {
     "movie_name": "Smiley Face",
     "year": 2007,
     "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
@@ -17787,16 +17817,6 @@
     "lb_avg": 3.56,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0",
-    "variance": 0.0
-  },
-  {
-    "movie_name": "The Devil Wears Prada 2",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
-    "avg_rating": 3.0,
-    "lb_avg": 3.42,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "variance": 0.0
   }
 ]

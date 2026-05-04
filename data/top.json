@@ -1233,6 +1233,15 @@
     "breakdown": "moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0"
   },
   {
+    "movie_name": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/29Ve",
+    "avg_rating": 4.67,
+    "lb_avg": 3.65,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:5.0, moviebuff501:4.0, skylerinthecine:5.0"
+  },
+  {
     "movie_name": "Resurrection",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/x9DG",
@@ -2192,15 +2201,6 @@
     "letterboxd_uri": "https://boxd.it/2a6Q",
     "avg_rating": 4.5,
     "lb_avg": 4.36,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0"
-  },
-  {
-    "movie_name": "A.I. Artificial Intelligence",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/29Ve",
-    "avg_rating": 4.5,
-    "lb_avg": 3.65,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:5.0"
   },
@@ -11817,6 +11817,15 @@
     "breakdown": "moviebuff501:4.0"
   },
   {
+    "movie_name": "The Bling Ring",
+    "year": 2013,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/the-bling-ring/",
+    "avg_rating": 4.0,
+    "lb_avg": 3.01,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0"
+  },
+  {
     "movie_name": "Drop Dead Gorgeous",
     "year": 1999,
     "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/drop-dead-gorgeous/",
@@ -17316,15 +17325,6 @@
     "breakdown": "moviebuff501:3.5"
   },
   {
-    "movie_name": "Oddity",
-    "year": 2024,
-    "letterboxd_uri": "https://boxd.it/K9pg",
-    "avg_rating": 3.5,
-    "lb_avg": 3.38,
-    "rater_count": 1,
-    "breakdown": "moviebuff501:3.5"
-  },
-  {
     "movie_name": "The Awful Truth",
     "year": 1937,
     "letterboxd_uri": "https://boxd.it/1NBc",
@@ -20349,11 +20349,11 @@
     "breakdown": "skylerinthecine:3.5"
   },
   {
-    "movie_name": "Hokum",
+    "movie_name": "Leviticus",
     "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
     "avg_rating": 3.5,
-    "lb_avg": 3.55,
+    "lb_avg": 3.69,
     "rater_count": 1,
     "breakdown": "moviebuff501:3.5"
   },
@@ -21807,6 +21807,15 @@
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.5"
   },
   {
+    "movie_name": "Hokum",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+    "avg_rating": 3.25,
+    "lb_avg": 3.55,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:3.0"
+  },
+  {
     "movie_name": "Shang-Chi and the Legend of the Ten Rings",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/kLDI",
@@ -22536,6 +22545,15 @@
     "breakdown": "moviebuff501:3.5, paityne:3.0, skylerinthecine:2.5"
   },
   {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:3.0"
+  },
+  {
     "movie_name": "Good Boys",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/iW1G",
@@ -23085,6 +23103,15 @@
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0"
   },
   {
+    "movie_name": "Oddity",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/K9pg",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:2.5"
+  },
+  {
     "movie_name": "The Godfather Part III",
     "year": 1990,
     "letterboxd_uri": "https://boxd.it/2aN6",
@@ -23227,15 +23254,6 @@
     "lb_avg": 4.06,
     "rater_count": 2,
     "breakdown": "paityne:3.0, skylerinthecine:3.0"
-  },
-  {
-    "movie_name": "The Devil Wears Prada 2",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
-    "avg_rating": 3.0,
-    "lb_avg": 3.42,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0"
   },
   {
     "movie_name": "Amazing Grace",
