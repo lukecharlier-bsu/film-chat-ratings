@@ -207,7 +207,7 @@
     <div class="table-wrap">
       <table>
         <thead>
-          <tr><th>#</th><th>Film</th><th>Year</th><th>Group Avg</th><th>LB Avg</th><th>Raters</th><th>Breakdown</th></tr>
+          <tr><th>#</th><th></th><th>Film</th><th>Year</th><th>Group Avg</th><th>LB Avg</th><th>Raters</th><th>Breakdown</th></tr>
         </thead>
         <tbody id="top-body"></tbody>
       </table>
@@ -228,7 +228,7 @@
     <div class="table-wrap">
       <table>
         <thead>
-          <tr><th>#</th><th>Film</th><th>Year</th><th>Avg Rating</th><th>Variance</th><th>Raters</th><th>Breakdown</th></tr>
+          <tr><th>#</th><th></th><th>Film</th><th>Year</th><th>Avg Rating</th><th>Variance</th><th>Raters</th><th>Breakdown</th></tr>
         </thead>
         <tbody id="con-body"></tbody>
       </table>
@@ -249,7 +249,7 @@
     <div class="table-wrap">
       <table>
         <thead>
-          <tr><th>#</th><th>Film</th><th>Year</th><th>Group Avg</th><th>LB Avg</th><th>Deviation</th><th>Raters</th><th>Breakdown</th></tr>
+          <tr><th>#</th><th></th><th>Film</th><th>Year</th><th>Group Avg</th><th>LB Avg</th><th>Deviation</th><th>Raters</th><th>Breakdown</th></tr>
         </thead>
         <tbody id="vs-body"></tbody>
       </table>
@@ -334,7 +334,8 @@
       body.insertAdjacentHTML('beforeend', `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td class="movie-title">${posterHtml(m)}<a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td style="width:40px;padding:6px 8px">${posterHtml(m)}</td>
+          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
           <td class="year">${m.year || '—'}</td>
           <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
           <td class="lb-avg">${m.lb_avg != null ? m.lb_avg : '—'}</td>
@@ -363,7 +364,8 @@
       body.insertAdjacentHTML('beforeend', `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td class="movie-title">${posterHtml(m)}<a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td style="width:40px;padding:6px 8px">${posterHtml(m)}</td>
+          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
           <td class="year">${m.year || '—'}</td>
           <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
           <td class="lb-avg">${m.lb_avg != null ? m.lb_avg : '—'}</td>
@@ -393,7 +395,8 @@
       body.insertAdjacentHTML('beforeend', `
         <tr>
           <td class="rank">${i + 1}</td>
-          <td class="movie-title">${posterHtml(m)}<a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
+          <td style="width:40px;padding:6px 8px">${posterHtml(m)}</td>
+          <td class="movie-title"><a href="${m.letterboxd_uri || '#'}" target="_blank">${m.movie_name}</a></td>
           <td class="year">${m.year || '—'}</td>
           <td class="avg-rating">${starsHtml(m.avg_rating)} <small>${m.avg_rating}</small></td>
           <td class="controversy-score">${m.variance.toFixed(2)}</td>
