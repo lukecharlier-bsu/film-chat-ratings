@@ -21601,6 +21601,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg"
   },
   {
+    "movie_name": "I Love Boosters",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
+    "avg_rating": 3.75,
+    "lb_avg": 3.86,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:4.5",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg"
+  },
+  {
     "movie_name": "Die My Love",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/D5cI",
@@ -44610,21 +44625,6 @@
       "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/lMLS2OFBbNYMSB1ZbVp4q2S4zTU.jpg"
-  },
-  {
-    "movie_name": "I Love Boosters",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
-    "avg_rating": 3.0,
-    "lb_avg": 3.86,
-    "rater_count": 1,
-    "breakdown": "moviebuff501:3.0",
-    "genres": [
-      "Comedy",
-      "Science Fiction",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg"
   },
   {
     "movie_name": "Shanghai Express",
