@@ -4,7 +4,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/GTB0",
     "avg_rating": 2.5,
-    "lb_avg": 3.55,
+    "lb_avg": 3.56,
     "rater_count": 2,
     "breakdown": "batmatt208:0.5, skylerinthecine:4.5",
     "genres": [
@@ -334,7 +334,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/irU6",
     "avg_rating": 2.0,
-    "lb_avg": 2.55,
+    "lb_avg": 2.56,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, moviebuff501:1.0",
     "genres": [
@@ -486,7 +486,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/OA2w",
     "avg_rating": 3.67,
-    "lb_avg": 3.75,
+    "lb_avg": 3.72,
     "rater_count": 6,
     "breakdown": "batmatt208:1.5, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.0",
     "genres": [
@@ -518,7 +518,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/wiLC",
     "avg_rating": 2.12,
-    "lb_avg": 3.06,
+    "lb_avg": 2.97,
     "rater_count": 4,
     "breakdown": "lukecharlier:1.0, memoriesomovies:3.5, moviebuff501:2.5, paityne:1.5",
     "genres": [
@@ -550,7 +550,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/KEvY",
     "avg_rating": 2.33,
-    "lb_avg": 2.56,
+    "lb_avg": 2.55,
     "rater_count": 3,
     "breakdown": "batmatt208:3.0, big_brant:3.0, moviebuff501:1.0",
     "genres": [
@@ -686,7 +686,7 @@
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/27V2",
     "avg_rating": 2.67,
-    "lb_avg": 3.1,
+    "lb_avg": 3.11,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:1.5, skylerinthecine:3.0",
     "genres": [
@@ -793,7 +793,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/nlQC",
     "avg_rating": 3.75,
-    "lb_avg": 3.56,
+    "lb_avg": 3.55,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, memoriesomovies:4.5, moviebuff501:3.5, skylerinthecine:4.5",
     "genres": [
@@ -1044,7 +1044,7 @@
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/lqPg",
     "avg_rating": 1.75,
-    "lb_avg": 2.47,
+    "lb_avg": 2.46,
     "rater_count": 2,
     "breakdown": "batmatt208:1.0, skylerinthecine:2.5",
     "genres": [
@@ -1058,7 +1058,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/AagY",
     "avg_rating": 3.25,
-    "lb_avg": 2.83,
+    "lb_avg": 2.82,
     "rater_count": 2,
     "breakdown": "batmatt208:2.5, lukecharlier:4.0",
     "genres": [
@@ -1119,7 +1119,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/FlAU",
     "avg_rating": 1.75,
-    "lb_avg": 1.8,
+    "lb_avg": 1.79,
     "rater_count": 2,
     "breakdown": "batmatt208:1.0, moviebuff501:2.5",
     "genres": [
@@ -1353,7 +1353,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/sbH6",
     "avg_rating": 3.25,
-    "lb_avg": 3.14,
+    "lb_avg": 3.13,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:2.5",
     "genres": [],
@@ -1398,7 +1398,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/if7w",
     "avg_rating": 2.75,
-    "lb_avg": 3.57,
+    "lb_avg": 3.58,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:3.5",
     "genres": [
@@ -1552,11 +1552,25 @@
     "variance": 0.5625
   },
   {
+    "movie_name": "Bunnylovr",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/QxM6",
+    "avg_rating": 2.25,
+    "lb_avg": 3.0,
+    "rater_count": 2,
+    "breakdown": "batmatt208:1.5, skylerinthecine:3.0",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/xam7kecWAUaNlfp261kNAZJU8co.jpg",
+    "variance": 0.5625
+  },
+  {
     "movie_name": "Avatar: Fire and Ash",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/2W7s",
     "avg_rating": 2.86,
-    "lb_avg": 3.56,
+    "lb_avg": 3.55,
     "rater_count": 7,
     "breakdown": "batmatt208:2.5, big_brant:4.0, lukecharlier:2.0, memoriesomovies:4.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:2.5",
     "genres": [
@@ -1949,7 +1963,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/igPu",
     "avg_rating": 2.33,
-    "lb_avg": 3.29,
+    "lb_avg": 3.28,
     "rater_count": 6,
     "breakdown": "batmatt208:1.5, big_brant:1.5, lukecharlier:2.5, moviebuff501:3.5, paityne:2.5, skylerinthecine:2.5",
     "genres": [
@@ -1997,7 +2011,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/jLP8",
     "avg_rating": 3.58,
-    "lb_avg": 3.67,
+    "lb_avg": 3.66,
     "rater_count": 6,
     "breakdown": "batmatt208:3.0, lukecharlier:2.5, memoriesomovies:4.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:4.5",
     "genres": [
@@ -2028,7 +2042,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/zRro",
     "avg_rating": 1.08,
-    "lb_avg": 2.45,
+    "lb_avg": 2.44,
     "rater_count": 6,
     "breakdown": "batmatt208:0.5, big_brant:0.5, lukecharlier:2.0, moviebuff501:1.0, paityne:2.0, skylerinthecine:0.5",
     "genres": [
@@ -2061,7 +2075,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/OdIa",
     "avg_rating": 2.4,
-    "lb_avg": 2.76,
+    "lb_avg": 2.74,
     "rater_count": 5,
     "breakdown": "batmatt208:3.5, lukecharlier:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:1.5",
     "genres": [
@@ -2183,7 +2197,7 @@
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/23AO",
     "avg_rating": 4.12,
-    "lb_avg": 4.05,
+    "lb_avg": 4.06,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -2332,7 +2346,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Km9K",
     "avg_rating": 4.17,
-    "lb_avg": 3.7,
+    "lb_avg": 3.71,
     "rater_count": 3,
     "breakdown": "batmatt208:3.5, memoriesomovies:5.0, skylerinthecine:4.0",
     "genres": [
@@ -2346,7 +2360,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/HRoU",
     "avg_rating": 3.83,
-    "lb_avg": 3.12,
+    "lb_avg": 3.11,
     "rater_count": 3,
     "breakdown": "batmatt208:3.0, memoriesomovies:4.5, skylerinthecine:4.0",
     "genres": [
@@ -2361,7 +2375,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/RTTU",
     "avg_rating": 2.83,
-    "lb_avg": 3.47,
+    "lb_avg": 3.46,
     "rater_count": 3,
     "breakdown": "batmatt208:2.0, memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -2424,7 +2438,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/aPvy",
     "avg_rating": 3.33,
-    "lb_avg": 3.81,
+    "lb_avg": 3.82,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:2.5, skylerinthecine:3.5",
     "genres": [
@@ -2580,7 +2594,7 @@
     "year": 1972,
     "letterboxd_uri": "https://boxd.it/1Vpe",
     "avg_rating": 4.17,
-    "lb_avg": 4.17,
+    "lb_avg": 4.18,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:5.0",
     "genres": [
@@ -2661,7 +2675,7 @@
     "year": 1974,
     "letterboxd_uri": "https://boxd.it/2aNq",
     "avg_rating": 4.17,
-    "lb_avg": 4.58,
+    "lb_avg": 4.59,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:5.0",
     "genres": [
@@ -2766,6 +2780,21 @@
     "variance": 0.375
   },
   {
+    "movie_name": "Michael",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
+    "avg_rating": 2.5,
+    "lb_avg": 3.61,
+    "rater_count": 4,
+    "breakdown": "batmatt208:2.5, memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:1.5",
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+    "variance": 0.375
+  },
+  {
     "movie_name": "The Brutalist",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/k4BO",
@@ -2814,7 +2843,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/xBoE",
     "avg_rating": 1.8,
-    "lb_avg": 2.35,
+    "lb_avg": 2.34,
     "rater_count": 5,
     "breakdown": "batmatt208:1.0, lukecharlier:2.5, moviebuff501:1.5, paityne:2.5, skylerinthecine:1.5",
     "genres": [
@@ -2830,7 +2859,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/SCkg",
     "avg_rating": 2.7,
-    "lb_avg": 3.44,
+    "lb_avg": 3.43,
     "rater_count": 5,
     "breakdown": "batmatt208:2.0, memoriesomovies:3.0, moviebuff501:2.0, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -2906,7 +2935,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/D5cI",
     "avg_rating": 3.71,
-    "lb_avg": 3.19,
+    "lb_avg": 3.18,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:2.5, memoriesomovies:3.5, moviebuff501:3.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -3013,7 +3042,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/e8ME",
     "avg_rating": 3.4,
-    "lb_avg": 3.78,
+    "lb_avg": 3.77,
     "rater_count": 5,
     "breakdown": "batmatt208:2.5, memoriesomovies:4.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -3156,7 +3185,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/lPBS",
     "avg_rating": 3.43,
-    "lb_avg": 2.29,
+    "lb_avg": 2.28,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:3.0, memoriesomovies:3.5, moviebuff501:2.5, paityne:3.0, skylerinthecine:4.0",
     "genres": [
@@ -3172,7 +3201,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/yjVM",
     "avg_rating": 3.07,
-    "lb_avg": 3.65,
+    "lb_avg": 3.64,
     "rater_count": 7,
     "breakdown": "batmatt208:2.0, big_brant:3.5, lukecharlier:3.5, memoriesomovies:3.5, moviebuff501:3.0, paityne:3.5, skylerinthecine:2.5",
     "genres": [
@@ -3312,7 +3341,7 @@
     "year": 1983,
     "letterboxd_uri": "https://boxd.it/29sw",
     "avg_rating": 4.25,
-    "lb_avg": 3.55,
+    "lb_avg": 3.56,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:3.5",
     "genres": [
@@ -3327,7 +3356,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/4VZ8",
     "avg_rating": 4.25,
-    "lb_avg": 4.44,
+    "lb_avg": 4.45,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.0, moviebuff501:5.0, paityne:4.5, skylerinthecine:3.5",
     "genres": [
@@ -3406,7 +3435,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/pEeQ",
     "avg_rating": 3.33,
-    "lb_avg": 4.33,
+    "lb_avg": 4.32,
     "rater_count": 6,
     "breakdown": "batmatt208:2.5, lukecharlier:3.5, memoriesomovies:3.0, moviebuff501:4.0, paityne:4.0, skylerinthecine:3.0",
     "genres": [
@@ -3468,7 +3497,7 @@
     "year": 1975,
     "letterboxd_uri": "https://boxd.it/25A2",
     "avg_rating": 4.0,
-    "lb_avg": 4.4,
+    "lb_avg": 4.41,
     "rater_count": 5,
     "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:5.0",
     "genres": [
@@ -3546,7 +3575,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/HUtS",
     "avg_rating": 3.62,
-    "lb_avg": 3.67,
+    "lb_avg": 3.66,
     "rater_count": 4,
     "breakdown": "batmatt208:3.0, memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:4.5",
     "genres": [
@@ -3622,7 +3651,7 @@
     "year": 2026,
     "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
     "avg_rating": 2.62,
-    "lb_avg": 3.0,
+    "lb_avg": 2.98,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
     "genres": [
@@ -3699,7 +3728,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/jUk4",
     "avg_rating": 4.36,
-    "lb_avg": 4.25,
+    "lb_avg": 4.24,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:3.5, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:5.0",
     "genres": [
@@ -4048,7 +4077,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/Eu34",
     "avg_rating": 4.0,
-    "lb_avg": 3.99,
+    "lb_avg": 4.0,
     "rater_count": 2,
     "breakdown": "batmatt208:4.5, skylerinthecine:3.5",
     "genres": [
@@ -4173,22 +4202,6 @@
     "variance": 0.25
   },
   {
-    "movie_name": "Sorry to Bother You",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/f21E",
-    "avg_rating": 4.0,
-    "lb_avg": 3.73,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5, paityne:3.5, skylerinthecine:4.5",
-    "genres": [
-      "Fantasy",
-      "Science Fiction",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
-    "variance": 0.25
-  },
-  {
     "movie_name": "Dumb and Dumber",
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/206m",
@@ -4207,7 +4220,7 @@
     "year": 2001,
     "letterboxd_uri": "https://boxd.it/53zW",
     "avg_rating": 1.0,
-    "lb_avg": 2.87,
+    "lb_avg": 2.88,
     "rater_count": 2,
     "breakdown": "lukecharlier:0.5, paityne:1.5",
     "genres": [
@@ -4237,7 +4250,7 @@
     "year": 2004,
     "letterboxd_uri": "https://boxd.it/29ZK",
     "avg_rating": 2.0,
-    "lb_avg": 3.57,
+    "lb_avg": 3.58,
     "rater_count": 2,
     "breakdown": "lukecharlier:2.5, skylerinthecine:1.5",
     "genres": [
@@ -4327,7 +4340,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/mP6C",
     "avg_rating": 3.0,
-    "lb_avg": 3.35,
+    "lb_avg": 3.34,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, moviebuff501:2.5, paityne:3.5, skylerinthecine:2.5",
     "genres": [
@@ -4670,7 +4683,7 @@
     "year": 1977,
     "letterboxd_uri": "https://boxd.it/Eew",
     "avg_rating": 4.5,
-    "lb_avg": 4.43,
+    "lb_avg": 4.44,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -4826,7 +4839,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/421s",
     "avg_rating": 4.0,
-    "lb_avg": 2.79,
+    "lb_avg": 2.78,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:3.5",
     "genres": [
@@ -4888,7 +4901,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/gcyg",
     "avg_rating": 1.5,
-    "lb_avg": 2.35,
+    "lb_avg": 2.36,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, moviebuff501:1.0",
     "genres": [
@@ -5148,7 +5161,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/jqdM",
     "avg_rating": 2.5,
-    "lb_avg": 2.6,
+    "lb_avg": 2.59,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, moviebuff501:3.0",
     "genres": [
@@ -5178,7 +5191,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Q7ge",
     "avg_rating": 4.0,
-    "lb_avg": 3.22,
+    "lb_avg": 3.21,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:4.5",
     "genres": [
@@ -5240,7 +5253,7 @@
     "year": 1929,
     "letterboxd_uri": "https://boxd.it/4dW",
     "avg_rating": 2.0,
-    "lb_avg": 2.34,
+    "lb_avg": 2.33,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:1.5",
     "genres": [
@@ -5256,7 +5269,7 @@
     "year": 1934,
     "letterboxd_uri": "https://boxd.it/25Ng",
     "avg_rating": 4.5,
-    "lb_avg": 4.17,
+    "lb_avg": 4.18,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -5379,7 +5392,7 @@
     "year": 2001,
     "letterboxd_uri": "https://boxd.it/29Q4",
     "avg_rating": 1.5,
-    "lb_avg": 2.98,
+    "lb_avg": 2.99,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:1.0",
     "genres": [
@@ -5567,7 +5580,7 @@
     "year": 2004,
     "letterboxd_uri": "https://boxd.it/1VYe",
     "avg_rating": 2.0,
-    "lb_avg": 3.03,
+    "lb_avg": 3.04,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.5, skylerinthecine:2.5",
     "genres": [
@@ -6158,7 +6171,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/EviY",
     "avg_rating": 3.0,
-    "lb_avg": 2.88,
+    "lb_avg": 2.87,
     "rater_count": 2,
     "breakdown": "paityne:3.5, skylerinthecine:2.5",
     "genres": [
@@ -6230,6 +6243,38 @@
     "variance": 0.25
   },
   {
+    "movie_name": "Blackhat",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/62Te",
+    "avg_rating": 3.0,
+    "lb_avg": 3.01,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:2.5, skylerinthecine:3.5",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+    "variance": 0.25
+  },
+  {
+    "movie_name": "Mortal Kombat II",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mortal-kombat-ii/",
+    "avg_rating": 3.0,
+    "lb_avg": 3.0,
+    "rater_count": 2,
+    "breakdown": "batmatt208:3.5, moviebuff501:2.5",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+    "variance": 0.25
+  },
+  {
     "movie_name": "Scream",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/o0lg",
@@ -6265,7 +6310,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/9vE4",
     "avg_rating": 3.6,
-    "lb_avg": 3.96,
+    "lb_avg": 3.97,
     "rater_count": 5,
     "breakdown": "batmatt208:3.5, lukecharlier:3.5, memoriesomovies:3.5, moviebuff501:4.5, skylerinthecine:3.0",
     "genres": [
@@ -6304,6 +6349,22 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+    "variance": 0.24
+  },
+  {
+    "movie_name": "Sorry to Bother You",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/f21E",
+    "avg_rating": 3.9,
+    "lb_avg": 3.73,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:3.5, moviebuff501:3.5, paityne:3.5, skylerinthecine:4.5",
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
     "variance": 0.24
   },
   {
@@ -6357,7 +6418,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/kOP8",
     "avg_rating": 0.83,
-    "lb_avg": 2.27,
+    "lb_avg": 2.28,
     "rater_count": 3,
     "breakdown": "batmatt208:0.5, moviebuff501:1.5, skylerinthecine:0.5",
     "genres": [
@@ -6371,7 +6432,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/mViu",
     "avg_rating": 2.33,
-    "lb_avg": 3.09,
+    "lb_avg": 3.1,
     "rater_count": 6,
     "breakdown": "batmatt208:3.0, lukecharlier:1.5, memoriesomovies:2.5, moviebuff501:2.0, paityne:2.5, skylerinthecine:2.5",
     "genres": [
@@ -6578,7 +6639,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/5hla",
     "avg_rating": 3.33,
-    "lb_avg": 3.61,
+    "lb_avg": 3.6,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:4.0",
     "genres": [
@@ -6863,7 +6924,7 @@
     "year": 1966,
     "letterboxd_uri": "https://boxd.it/29B4",
     "avg_rating": 4.33,
-    "lb_avg": 4.39,
+    "lb_avg": 4.38,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -6877,7 +6938,7 @@
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/27Vc",
     "avg_rating": 2.67,
-    "lb_avg": 3.12,
+    "lb_avg": 3.13,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:2.0, skylerinthecine:3.0",
     "genres": [
@@ -6908,7 +6969,7 @@
     "year": 1959,
     "letterboxd_uri": "https://boxd.it/2aNA",
     "avg_rating": 4.67,
-    "lb_avg": 4.27,
+    "lb_avg": 4.28,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:5.0, skylerinthecine:5.0",
     "genres": [
@@ -7298,7 +7359,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/nL2y",
     "avg_rating": 1.5,
-    "lb_avg": 2.16,
+    "lb_avg": 2.15,
     "rater_count": 5,
     "breakdown": "batmatt208:1.0, lukecharlier:1.0, moviebuff501:2.0, paityne:2.0, skylerinthecine:1.5",
     "genres": [
@@ -7422,7 +7483,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/29ho",
     "avg_rating": 3.75,
-    "lb_avg": 3.9,
+    "lb_avg": 3.91,
     "rater_count": 4,
     "breakdown": "big_brant:4.5, lukecharlier:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -7573,7 +7634,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/EMTM",
     "avg_rating": 3.93,
-    "lb_avg": 3.61,
+    "lb_avg": 3.6,
     "rater_count": 7,
     "breakdown": "batmatt208:3.5, big_brant:4.0, lukecharlier:4.5, memoriesomovies:3.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:3.5",
     "genres": [
@@ -7794,7 +7855,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/BfYI",
     "avg_rating": 1.62,
-    "lb_avg": 2.53,
+    "lb_avg": 2.52,
     "rater_count": 4,
     "breakdown": "batmatt208:1.0, big_brant:1.5, lukecharlier:2.0, memoriesomovies:2.0",
     "genres": [
@@ -7825,7 +7886,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/x9DG",
     "avg_rating": 4.62,
-    "lb_avg": 4.04,
+    "lb_avg": 4.05,
     "rater_count": 4,
     "breakdown": "batmatt208:4.5, memoriesomovies:5.0, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -7840,7 +7901,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/MfY6",
     "avg_rating": 2.62,
-    "lb_avg": 3.38,
+    "lb_avg": 3.34,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
@@ -8060,7 +8121,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/3utM",
     "avg_rating": 1.62,
-    "lb_avg": 3.19,
+    "lb_avg": 3.2,
     "rater_count": 4,
     "breakdown": "lukecharlier:1.0, memoriesomovies:2.0, moviebuff501:1.5, skylerinthecine:2.0",
     "genres": [
@@ -8076,7 +8137,7 @@
     "year": 1975,
     "letterboxd_uri": "https://boxd.it/29GI",
     "avg_rating": 3.88,
-    "lb_avg": 4.15,
+    "lb_avg": 4.14,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -8092,7 +8153,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/EzA8",
     "avg_rating": 1.88,
-    "lb_avg": 2.82,
+    "lb_avg": 2.81,
     "rater_count": 4,
     "breakdown": "lukecharlier:1.5, moviebuff501:1.5, paityne:2.0, skylerinthecine:2.5",
     "genres": [
@@ -8400,7 +8461,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/LnyS",
     "avg_rating": 3.0,
-    "lb_avg": 3.41,
+    "lb_avg": 3.4,
     "rater_count": 6,
     "breakdown": "batmatt208:2.5, lukecharlier:3.0, memoriesomovies:3.5, moviebuff501:3.5, paityne:3.0, skylerinthecine:2.5",
     "genres": [
@@ -8416,7 +8477,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/QxVi",
     "avg_rating": 3.5,
-    "lb_avg": 2.79,
+    "lb_avg": 2.8,
     "rater_count": 3,
     "breakdown": "batmatt208:3.5, big_brant:4.0, skylerinthecine:3.0",
     "genres": [
@@ -8426,25 +8487,11 @@
     "variance": 0.1667
   },
   {
-    "movie_name": "Pizza Movie",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/Vvtc",
-    "avg_rating": 3.0,
-    "lb_avg": 3.02,
-    "rater_count": 3,
-    "breakdown": "batmatt208:3.5, moviebuff501:3.0, skylerinthecine:2.5",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg",
-    "variance": 0.1667
-  },
-  {
     "movie_name": "The Good Dinosaur",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/3AD4",
     "avg_rating": 2.0,
-    "lb_avg": 2.96,
+    "lb_avg": 2.97,
     "rater_count": 3,
     "breakdown": "big_brant:1.5, lukecharlier:2.0, skylerinthecine:2.5",
     "genres": [
@@ -8476,7 +8523,7 @@
     "year": 1998,
     "letterboxd_uri": "https://boxd.it/1Yyy",
     "avg_rating": 3.5,
-    "lb_avg": 3.49,
+    "lb_avg": 3.5,
     "rater_count": 3,
     "breakdown": "big_brant:3.0, memoriesomovies:4.0, skylerinthecine:3.5",
     "genres": [
@@ -8555,7 +8602,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/uYDm",
     "avg_rating": 1.5,
-    "lb_avg": 2.4,
+    "lb_avg": 2.39,
     "rater_count": 3,
     "breakdown": "lukecharlier:1.5, moviebuff501:2.0, skylerinthecine:1.0",
     "genres": [
@@ -8760,7 +8807,7 @@
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/2aqc",
     "avg_rating": 4.0,
-    "lb_avg": 4.4,
+    "lb_avg": 4.41,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:3.5",
     "genres": [
@@ -8930,7 +8977,7 @@
     "year": 2012,
     "letterboxd_uri": "https://boxd.it/2ZA8",
     "avg_rating": 4.0,
-    "lb_avg": 4.01,
+    "lb_avg": 4.02,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:3.5",
     "genres": [
@@ -8975,7 +9022,7 @@
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/158K",
     "avg_rating": 3.5,
-    "lb_avg": 3.7,
+    "lb_avg": 3.69,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, paityne:3.0, skylerinthecine:4.0",
     "genres": [
@@ -9444,7 +9491,7 @@
     "year": 1996,
     "letterboxd_uri": "https://boxd.it/29n2",
     "avg_rating": 4.5,
-    "lb_avg": 3.65,
+    "lb_avg": 3.64,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9459,7 +9506,7 @@
     "year": 1993,
     "letterboxd_uri": "https://boxd.it/2b3e",
     "avg_rating": 4.0,
-    "lb_avg": 3.81,
+    "lb_avg": 3.8,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:4.5, skylerinthecine:4.0",
     "genres": [
@@ -9551,7 +9598,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/JpbW",
     "avg_rating": 3.0,
-    "lb_avg": 3.07,
+    "lb_avg": 3.06,
     "rater_count": 3,
     "breakdown": "moviebuff501:3.5, paityne:3.0, skylerinthecine:2.5",
     "genres": [
@@ -9566,7 +9613,7 @@
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/kWlA",
     "avg_rating": 3.3,
-    "lb_avg": 3.4,
+    "lb_avg": 3.39,
     "rater_count": 5,
     "breakdown": "batmatt208:3.0, memoriesomovies:3.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -9794,7 +9841,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/icFU",
     "avg_rating": 4.75,
-    "lb_avg": 4.01,
+    "lb_avg": 4.0,
     "rater_count": 6,
     "breakdown": "batmatt208:5.0, big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.0, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -10035,7 +10082,7 @@
     "year": 1976,
     "letterboxd_uri": "https://boxd.it/2b8y",
     "avg_rating": 4.6,
-    "lb_avg": 4.11,
+    "lb_avg": 4.1,
     "rater_count": 5,
     "breakdown": "lukecharlier:4.0, memoriesomovies:5.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -10097,7 +10144,7 @@
     "year": 2003,
     "letterboxd_uri": "https://boxd.it/2b0E",
     "avg_rating": 3.6,
-    "lb_avg": 3.76,
+    "lb_avg": 3.75,
     "rater_count": 5,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, moviebuff501:4.0, paityne:4.0, skylerinthecine:3.5",
     "genres": [
@@ -10128,7 +10175,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/a5fa",
     "avg_rating": 4.4,
-    "lb_avg": 4.12,
+    "lb_avg": 4.13,
     "rater_count": 5,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -10202,7 +10249,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/ikHu",
     "avg_rating": 1.83,
-    "lb_avg": 2.58,
+    "lb_avg": 2.57,
     "rater_count": 6,
     "breakdown": "batmatt208:1.5, big_brant:2.5, lukecharlier:2.0, memoriesomovies:2.0, moviebuff501:1.5, skylerinthecine:1.5",
     "genres": [
@@ -10522,7 +10569,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/LdFE",
     "avg_rating": 3.0,
-    "lb_avg": 3.28,
+    "lb_avg": 3.27,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, memoriesomovies:3.0, moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -10570,7 +10617,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/H4Y",
     "avg_rating": 2.0,
-    "lb_avg": 3.09,
+    "lb_avg": 3.1,
     "rater_count": 4,
     "breakdown": "big_brant:2.0, lukecharlier:2.5, moviebuff501:1.5, skylerinthecine:2.0",
     "genres": [
@@ -10665,7 +10712,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/9row",
     "avg_rating": 1.5,
-    "lb_avg": 2.25,
+    "lb_avg": 2.26,
     "rater_count": 4,
     "breakdown": "lukecharlier:1.5, moviebuff501:2.0, paityne:1.5, skylerinthecine:1.0",
     "genres": [
@@ -10681,7 +10728,7 @@
     "year": 1981,
     "letterboxd_uri": "https://boxd.it/29Go",
     "avg_rating": 4.0,
-    "lb_avg": 3.65,
+    "lb_avg": 3.64,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -11028,7 +11075,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/MwlA",
     "avg_rating": 3.58,
-    "lb_avg": 3.87,
+    "lb_avg": 3.85,
     "rater_count": 6,
     "breakdown": "batmatt208:3.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -11123,7 +11170,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/syUC",
     "avg_rating": 3.57,
-    "lb_avg": 3.21,
+    "lb_avg": 3.2,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:3.5, memoriesomovies:3.5, moviebuff501:3.0, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -11139,7 +11186,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Off0",
     "avg_rating": 4.57,
-    "lb_avg": 4.08,
+    "lb_avg": 4.07,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.5, lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -11262,7 +11309,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/nKiA",
     "avg_rating": 4.0,
-    "lb_avg": 4.09,
+    "lb_avg": 4.08,
     "rater_count": 6,
     "breakdown": "batmatt208:3.5, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.0",
     "genres": [
@@ -11311,7 +11358,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/KzLM",
     "avg_rating": 2.5,
-    "lb_avg": 3.3,
+    "lb_avg": 3.29,
     "rater_count": 7,
     "breakdown": "batmatt208:2.5, big_brant:2.5, lukecharlier:2.5, memoriesomovies:2.5, moviebuff501:2.0, paityne:3.0, skylerinthecine:2.5",
     "genres": [
@@ -11342,7 +11389,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/i1VW",
     "avg_rating": 2.75,
-    "lb_avg": 2.57,
+    "lb_avg": 2.56,
     "rater_count": 2,
     "breakdown": "batmatt208:3.0, moviebuff501:2.5",
     "genres": [
@@ -11388,7 +11435,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/iwYi",
     "avg_rating": 2.25,
-    "lb_avg": 2.87,
+    "lb_avg": 2.86,
     "rater_count": 2,
     "breakdown": "batmatt208:2.0, moviebuff501:2.5",
     "genres": [
@@ -11470,7 +11517,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/jpmy",
     "avg_rating": 3.75,
-    "lb_avg": 3.97,
+    "lb_avg": 3.98,
     "rater_count": 2,
     "breakdown": "batmatt208:4.0, skylerinthecine:3.5",
     "genres": [
@@ -11533,7 +11580,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/e0qK",
     "avg_rating": 2.75,
-    "lb_avg": 2.82,
+    "lb_avg": 2.81,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
@@ -11579,7 +11626,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/meXk",
     "avg_rating": 2.25,
-    "lb_avg": 2.05,
+    "lb_avg": 2.04,
     "rater_count": 2,
     "breakdown": "batmatt208:2.0, lukecharlier:2.5",
     "genres": [
@@ -11689,7 +11736,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/p7XS",
     "avg_rating": 4.25,
-    "lb_avg": 4.11,
+    "lb_avg": 4.12,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -11866,11 +11913,23 @@
     "variance": 0.0625
   },
   {
+    "movie_name": "Milk & Serial",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/J2Za",
+    "avg_rating": 2.75,
+    "lb_avg": 3.34,
+    "rater_count": 2,
+    "breakdown": "batmatt208:2.5, paityne:3.0",
+    "genres": [],
+    "poster": null,
+    "variance": 0.0625
+  },
+  {
     "movie_name": "Shelby Oaks",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/zmMK",
     "avg_rating": 2.25,
-    "lb_avg": 2.54,
+    "lb_avg": 2.52,
     "rater_count": 2,
     "breakdown": "batmatt208:2.0, moviebuff501:2.5",
     "genres": [
@@ -11899,7 +11958,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/YqXW",
     "avg_rating": 1.75,
-    "lb_avg": 3.05,
+    "lb_avg": 3.04,
     "rater_count": 2,
     "breakdown": "batmatt208:1.5, skylerinthecine:2.0",
     "genres": [],
@@ -11927,7 +11986,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/JuhA",
     "avg_rating": 3.75,
-    "lb_avg": 3.4,
+    "lb_avg": 3.36,
     "rater_count": 6,
     "breakdown": "batmatt208:3.5, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:4.0",
     "genres": [
@@ -11960,7 +12019,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/HG9a",
     "avg_rating": 4.25,
-    "lb_avg": 4.31,
+    "lb_avg": 4.3,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -12116,7 +12175,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/tFwE",
     "avg_rating": 2.75,
-    "lb_avg": 3.12,
+    "lb_avg": 3.11,
     "rater_count": 4,
     "breakdown": "lukecharlier:2.5, memoriesomovies:3.0, paityne:2.5, skylerinthecine:3.0",
     "genres": [
@@ -12132,7 +12191,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/jFTI",
     "avg_rating": 2.75,
-    "lb_avg": 2.85,
+    "lb_avg": 2.84,
     "rater_count": 2,
     "breakdown": "lukecharlier:3.0, moviebuff501:2.5",
     "genres": [
@@ -12338,7 +12397,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/4pDO",
     "avg_rating": 4.25,
-    "lb_avg": 3.84,
+    "lb_avg": 3.85,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -12509,7 +12568,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/uYp0",
     "avg_rating": 0.75,
-    "lb_avg": 2.37,
+    "lb_avg": 2.36,
     "rater_count": 2,
     "breakdown": "lukecharlier:1.0, paityne:0.5",
     "genres": [
@@ -12681,7 +12740,7 @@
     "year": 1997,
     "letterboxd_uri": "https://boxd.it/23um",
     "avg_rating": 4.25,
-    "lb_avg": 4.21,
+    "lb_avg": 4.2,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -12695,7 +12754,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/4O24",
     "avg_rating": 4.75,
-    "lb_avg": 3.97,
+    "lb_avg": 3.96,
     "rater_count": 4,
     "breakdown": "memoriesomovies:5.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -12775,7 +12834,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/3SWy",
     "avg_rating": 3.75,
-    "lb_avg": 3.86,
+    "lb_avg": 3.87,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:3.5",
     "genres": [
@@ -12808,7 +12867,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/7GJg",
     "avg_rating": 3.25,
-    "lb_avg": 3.44,
+    "lb_avg": 3.45,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -12838,7 +12897,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1U82",
     "avg_rating": 3.25,
-    "lb_avg": 4.18,
+    "lb_avg": 4.19,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -13058,7 +13117,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/j0NY",
     "avg_rating": 3.25,
-    "lb_avg": 2.41,
+    "lb_avg": 2.4,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -13207,7 +13266,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/gcz4",
     "avg_rating": 2.75,
-    "lb_avg": 2.87,
+    "lb_avg": 2.86,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.5, moviebuff501:3.0",
     "genres": [
@@ -13323,6 +13382,21 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jIfW4p27B30zSfGCohB2S4cTRz4.jpg",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Dheepan",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/a890",
+    "avg_rating": 3.25,
+    "lb_avg": 3.63,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/qNMjRNrIzvljInNLf3aLYZI3Ih4.jpg",
     "variance": 0.0625
   },
   {
@@ -13606,7 +13680,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/S6c",
     "avg_rating": 4.25,
-    "lb_avg": 4.26,
+    "lb_avg": 4.27,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "genres": [
@@ -13620,7 +13694,7 @@
     "year": 1997,
     "letterboxd_uri": "https://boxd.it/26vC",
     "avg_rating": 3.25,
-    "lb_avg": 3.81,
+    "lb_avg": 3.82,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -13759,7 +13833,7 @@
     "year": 1987,
     "letterboxd_uri": "https://boxd.it/2avQ",
     "avg_rating": 3.75,
-    "lb_avg": 3.88,
+    "lb_avg": 3.87,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:4.0",
     "genres": [
@@ -13839,6 +13913,20 @@
       "Western"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+    "variance": 0.0625
+  },
+  {
+    "movie_name": "Red Beard",
+    "year": 1965,
+    "letterboxd_uri": "https://boxd.it/251m",
+    "avg_rating": 3.75,
+    "lb_avg": 4.41,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, skylerinthecine:4.0",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/iYNH3Re0JSypoYaWvZtERUnNaJL.jpg",
     "variance": 0.0625
   },
   {
@@ -14077,7 +14165,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/yoPY",
     "avg_rating": 4.25,
-    "lb_avg": 4.15,
+    "lb_avg": 4.16,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "genres": [
@@ -14248,7 +14336,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/2CxU",
     "avg_rating": 4.75,
-    "lb_avg": 3.75,
+    "lb_avg": 3.74,
     "rater_count": 2,
     "breakdown": "memoriesomovies:5.0, skylerinthecine:4.5",
     "genres": [
@@ -14384,7 +14472,7 @@
     "year": 2005,
     "letterboxd_uri": "https://boxd.it/1UVS",
     "avg_rating": 3.25,
-    "lb_avg": 3.45,
+    "lb_avg": 3.46,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -14945,7 +15033,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/mic8",
     "avg_rating": 3.25,
-    "lb_avg": 3.51,
+    "lb_avg": 3.5,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -14985,21 +15073,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/n0xQThLhrymktXzQbD0KwwUMXSB.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "The Love That Remains",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/LWuG",
-    "avg_rating": 3.75,
-    "lb_avg": 3.64,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, moviebuff501:3.5",
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
     "variance": 0.0625
   },
   {
@@ -15256,7 +15329,7 @@
     "year": 1965,
     "letterboxd_uri": "https://boxd.it/1MLK",
     "avg_rating": 4.75,
-    "lb_avg": 4.24,
+    "lb_avg": 4.25,
     "rater_count": 2,
     "breakdown": "moviebuff501:5.0, skylerinthecine:4.5",
     "genres": [
@@ -15404,7 +15477,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/mdxU",
     "avg_rating": 2.25,
-    "lb_avg": 2.63,
+    "lb_avg": 2.64,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:2.0",
     "genres": [
@@ -15546,7 +15619,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/9WbS",
     "avg_rating": 3.75,
-    "lb_avg": 3.92,
+    "lb_avg": 3.93,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -15563,7 +15636,7 @@
     "year": 1988,
     "letterboxd_uri": "https://boxd.it/29ry",
     "avg_rating": 4.25,
-    "lb_avg": 3.97,
+    "lb_avg": 3.98,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.5, skylerinthecine:4.0",
     "genres": [
@@ -15719,7 +15792,7 @@
     "year": 1995,
     "letterboxd_uri": "https://boxd.it/1YYc",
     "avg_rating": 3.25,
-    "lb_avg": 4.1,
+    "lb_avg": 4.09,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -15869,7 +15942,7 @@
     "year": 1991,
     "letterboxd_uri": "https://boxd.it/28vu",
     "avg_rating": 3.75,
-    "lb_avg": 3.71,
+    "lb_avg": 3.72,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -16059,7 +16132,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/nshk",
     "avg_rating": 2.75,
-    "lb_avg": 2.84,
+    "lb_avg": 2.83,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
@@ -16263,7 +16336,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/Cl0c",
     "avg_rating": 3.25,
-    "lb_avg": 3.51,
+    "lb_avg": 3.52,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -16293,7 +16366,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/FOA",
     "avg_rating": 3.25,
-    "lb_avg": 3.6,
+    "lb_avg": 3.61,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -16309,7 +16382,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/D4g0",
     "avg_rating": 3.25,
-    "lb_avg": 3.89,
+    "lb_avg": 3.9,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -16338,7 +16411,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/IZFc",
     "avg_rating": 2.25,
-    "lb_avg": 2.9,
+    "lb_avg": 2.89,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:2.0",
     "genres": [
@@ -16381,7 +16454,7 @@
     "year": 1983,
     "letterboxd_uri": "https://boxd.it/2b7g",
     "avg_rating": 3.75,
-    "lb_avg": 4.14,
+    "lb_avg": 4.15,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, paityne:3.5",
     "genres": [
@@ -16758,7 +16831,7 @@
     "year": 1998,
     "letterboxd_uri": "https://boxd.it/27Xs",
     "avg_rating": 2.75,
-    "lb_avg": 3.77,
+    "lb_avg": 3.76,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, paityne:2.5",
     "genres": [
@@ -16961,7 +17034,7 @@
     "year": 1978,
     "letterboxd_uri": "https://boxd.it/1wG0",
     "avg_rating": 2.75,
-    "lb_avg": 3.46,
+    "lb_avg": 3.47,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:3.0",
     "genres": [
@@ -17258,7 +17331,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/R6yo",
     "avg_rating": 3.25,
-    "lb_avg": 3.83,
+    "lb_avg": 3.84,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -17378,7 +17451,7 @@
     "year": 2012,
     "letterboxd_uri": "https://boxd.it/2TTo",
     "avg_rating": 3.75,
-    "lb_avg": 3.72,
+    "lb_avg": 3.73,
     "rater_count": 2,
     "breakdown": "paityne:4.0, skylerinthecine:3.5",
     "genres": [
@@ -17405,32 +17478,17 @@
     "variance": 0.0625
   },
   {
-    "movie_name": "Michael",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
-    "avg_rating": 2.75,
-    "lb_avg": 3.6,
+    "movie_name": "Living",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/syDQ",
+    "avg_rating": 3.25,
+    "lb_avg": 3.59,
     "rater_count": 2,
-    "breakdown": "batmatt208:2.5, moviebuff501:3.0",
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
-      "Music",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "Hokum",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
-    "avg_rating": 3.25,
-    "lb_avg": 3.55,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg",
     "variance": 0.0625
   },
   {
@@ -17916,7 +17974,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/uoni",
     "avg_rating": 4.17,
-    "lb_avg": 3.95,
+    "lb_avg": 3.96,
     "rater_count": 3,
     "breakdown": "batmatt208:4.5, memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -17977,7 +18035,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/vBaI",
     "avg_rating": 3.33,
-    "lb_avg": 3.57,
+    "lb_avg": 3.58,
     "rater_count": 3,
     "breakdown": "batmatt208:3.0, memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
@@ -18114,7 +18172,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/yyGs",
     "avg_rating": 3.17,
-    "lb_avg": 3.18,
+    "lb_avg": 3.17,
     "rater_count": 6,
     "breakdown": "batmatt208:3.0, lukecharlier:3.5, memoriesomovies:3.0, moviebuff501:3.5, paityne:3.0, skylerinthecine:3.0",
     "genres": [
@@ -18185,11 +18243,25 @@
     "variance": 0.0556
   },
   {
+    "movie_name": "Pizza Movie",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/Vvtc",
+    "avg_rating": 3.17,
+    "lb_avg": 3.02,
+    "rater_count": 3,
+    "breakdown": "batmatt208:3.5, moviebuff501:3.0, skylerinthecine:3.0",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg",
+    "variance": 0.0556
+  },
+  {
     "movie_name": "Toy Story 3",
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1WRe",
     "avg_rating": 4.67,
-    "lb_avg": 4.01,
+    "lb_avg": 4.02,
     "rater_count": 3,
     "breakdown": "big_brant:5.0, lukecharlier:4.5, skylerinthecine:4.5",
     "genres": [
@@ -18469,7 +18541,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1DD8",
     "avg_rating": 3.17,
-    "lb_avg": 3.64,
+    "lb_avg": 3.65,
     "rater_count": 3,
     "breakdown": "lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -18503,7 +18575,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/glS",
     "avg_rating": 3.83,
-    "lb_avg": 3.92,
+    "lb_avg": 3.93,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.0, moviebuff501:3.5, skylerinthecine:4.0",
     "genres": [
@@ -18517,7 +18589,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/QPk",
     "avg_rating": 3.83,
-    "lb_avg": 3.74,
+    "lb_avg": 3.75,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, skylerinthecine:3.5",
     "genres": [
@@ -18582,7 +18654,7 @@
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/azp0",
     "avg_rating": 4.17,
-    "lb_avg": 3.96,
+    "lb_avg": 3.97,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -18742,7 +18814,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/Obz6",
     "avg_rating": 2.17,
-    "lb_avg": 2.58,
+    "lb_avg": 2.57,
     "rater_count": 3,
     "breakdown": "lukecharlier:2.0, moviebuff501:2.5, paityne:2.0",
     "genres": [
@@ -18894,7 +18966,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/eL34",
     "avg_rating": 3.17,
-    "lb_avg": 3.26,
+    "lb_avg": 3.27,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -19007,7 +19079,7 @@
     "year": 2008,
     "letterboxd_uri": "https://boxd.it/1S0A",
     "avg_rating": 4.17,
-    "lb_avg": 4.12,
+    "lb_avg": 4.13,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -19237,7 +19309,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/9QRe",
     "avg_rating": 4.33,
-    "lb_avg": 3.87,
+    "lb_avg": 3.88,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -19283,7 +19355,7 @@
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/1Efw",
     "avg_rating": 3.83,
-    "lb_avg": 3.46,
+    "lb_avg": 3.45,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, paityne:4.0, skylerinthecine:4.0",
     "genres": [
@@ -19313,7 +19385,7 @@
     "year": 2005,
     "letterboxd_uri": "https://boxd.it/2b2q",
     "avg_rating": 4.17,
-    "lb_avg": 4.15,
+    "lb_avg": 4.16,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -19381,22 +19453,6 @@
       "Adventure"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/2rTW4s1kgvoqVs0Kv8ARle1SrkF.jpg",
-    "variance": 0.0556
-  },
-  {
-    "movie_name": "Top Gun",
-    "year": 1986,
-    "letterboxd_uri": "https://boxd.it/29JC",
-    "avg_rating": 3.33,
-    "lb_avg": 3.5,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:3.5, moviebuff501:3.0, skylerinthecine:3.5",
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
     "variance": 0.0556
   },
   {
@@ -19545,7 +19601,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/29cI",
     "avg_rating": 3.17,
-    "lb_avg": 3.4,
+    "lb_avg": 3.41,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -19561,7 +19617,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/94Hg",
     "avg_rating": 3.67,
-    "lb_avg": 3.83,
+    "lb_avg": 3.82,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:4.0",
     "genres": [
@@ -19637,7 +19693,7 @@
     "year": 1989,
     "letterboxd_uri": "https://boxd.it/1JAY",
     "avg_rating": 4.83,
-    "lb_avg": 4.14,
+    "lb_avg": 4.15,
     "rater_count": 3,
     "breakdown": "memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [
@@ -19915,7 +19971,7 @@
     "year": 1979,
     "letterboxd_uri": "https://boxd.it/6ZS",
     "avg_rating": 4.83,
-    "lb_avg": 4.43,
+    "lb_avg": 4.44,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:5.0, skylerinthecine:5.0",
     "genres": [
@@ -20318,7 +20374,7 @@
     "year": 1966,
     "letterboxd_uri": "https://boxd.it/LZk",
     "avg_rating": 4.17,
-    "lb_avg": 4.01,
+    "lb_avg": 4.0,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -20418,6 +20474,21 @@
     "variance": 0.0556
   },
   {
+    "movie_name": "The Love That Remains",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/LWuG",
+    "avg_rating": 3.83,
+    "lb_avg": 3.66,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:4.0",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
+    "variance": 0.0556
+  },
+  {
     "movie_name": "Jay Kelly",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/EsWw",
@@ -20452,7 +20523,7 @@
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/1Efm",
     "avg_rating": 3.83,
-    "lb_avg": 3.74,
+    "lb_avg": 3.75,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -20546,7 +20617,7 @@
     "year": 2008,
     "letterboxd_uri": "https://boxd.it/20UQ",
     "avg_rating": 4.17,
-    "lb_avg": 3.55,
+    "lb_avg": 3.59,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -20657,7 +20728,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/LYtK",
     "avg_rating": 3.33,
-    "lb_avg": 3.71,
+    "lb_avg": 3.7,
     "rater_count": 3,
     "breakdown": "moviebuff501:3.5, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -20666,6 +20737,36 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "The Sheep Detectives",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
+    "avg_rating": 3.33,
+    "lb_avg": 3.83,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.0",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Hokum",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+    "avg_rating": 3.17,
+    "lb_avg": 3.45,
+    "rater_count": 3,
+    "breakdown": "moviebuff501:3.5, paityne:3.0, skylerinthecine:3.0",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
     "variance": 0.0556
   },
   {
@@ -20751,7 +20852,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/gnV6",
     "avg_rating": 3.88,
-    "lb_avg": 3.64,
+    "lb_avg": 3.63,
     "rater_count": 4,
     "breakdown": "batmatt208:3.5, memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -20784,7 +20885,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/5xlK",
     "avg_rating": 1.88,
-    "lb_avg": 2.3,
+    "lb_avg": 2.29,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, memoriesomovies:2.0, moviebuff501:2.0, skylerinthecine:1.5",
     "genres": [
@@ -21019,7 +21120,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/u36A",
     "avg_rating": 2.38,
-    "lb_avg": 3.13,
+    "lb_avg": 3.12,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, memoriesomovies:2.5, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -21098,7 +21199,7 @@
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/aboM",
     "avg_rating": 3.38,
-    "lb_avg": 3.48,
+    "lb_avg": 3.49,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -21240,7 +21341,7 @@
     "year": 2012,
     "letterboxd_uri": "https://boxd.it/27PI",
     "avg_rating": 2.88,
-    "lb_avg": 3.53,
+    "lb_avg": 3.54,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.0, memoriesomovies:3.0, moviebuff501:2.5, skylerinthecine:3.0",
     "genres": [
@@ -21304,7 +21405,7 @@
     "year": 1989,
     "letterboxd_uri": "https://boxd.it/22wQ",
     "avg_rating": 3.88,
-    "lb_avg": 3.5,
+    "lb_avg": 3.51,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -21379,7 +21480,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/azpY",
     "avg_rating": 4.38,
-    "lb_avg": 4.39,
+    "lb_avg": 4.4,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -21442,7 +21543,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/zN4q",
     "avg_rating": 3.38,
-    "lb_avg": 3.53,
+    "lb_avg": 3.52,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -21597,7 +21698,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/2awE",
     "avg_rating": 3.88,
-    "lb_avg": 3.84,
+    "lb_avg": 3.83,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:4.0",
     "genres": [
@@ -21605,6 +21706,21 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "variance": 0.0469
+  },
+  {
+    "movie_name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+    "avg_rating": 3.12,
+    "lb_avg": 3.24,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:3.0, moviebuff501:3.0, paityne:3.5, skylerinthecine:3.0",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
     "variance": 0.0469
   },
   {
@@ -21745,7 +21861,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/OFpg",
     "avg_rating": 3.6,
-    "lb_avg": 3.79,
+    "lb_avg": 3.77,
     "rater_count": 5,
     "breakdown": "batmatt208:4.0, memoriesomovies:3.5, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -21860,7 +21976,7 @@
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/2aze",
     "avg_rating": 4.4,
-    "lb_avg": 4.23,
+    "lb_avg": 4.22,
     "rater_count": 5,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5",
     "genres": [
@@ -21942,6 +22058,20 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+    "variance": 0.04
+  },
+  {
+    "movie_name": "Obsession",
+    "year": 2025,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+    "avg_rating": 4.1,
+    "lb_avg": 4.19,
+    "rater_count": 5,
+    "breakdown": "batmatt208:4.0, lukecharlier:4.0, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.0",
+    "genres": [
+      "Thriller"
+    ],
+    "poster": null,
     "variance": 0.04
   },
   {
@@ -22072,7 +22202,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/F0vO",
     "avg_rating": 3.43,
-    "lb_avg": 3.69,
+    "lb_avg": 3.68,
     "rater_count": 7,
     "breakdown": "batmatt208:3.5, big_brant:3.5, lukecharlier:3.0, memoriesomovies:3.5, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -22349,7 +22479,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/CepE",
     "avg_rating": 2.0,
-    "lb_avg": 2.66,
+    "lb_avg": 2.65,
     "rater_count": 3,
     "breakdown": "batmatt208:2.0, moviebuff501:2.0, skylerinthecine:2.0",
     "genres": [
@@ -22427,7 +22557,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/GZlW",
     "avg_rating": 4.0,
-    "lb_avg": 2.9,
+    "lb_avg": 2.89,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.0, skylerinthecine:4.0",
     "genres": [
@@ -22442,7 +22572,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/KV9g",
     "avg_rating": 2.5,
-    "lb_avg": 2.47,
+    "lb_avg": 2.45,
     "rater_count": 2,
     "breakdown": "batmatt208:2.5, memoriesomovies:2.5",
     "genres": [
@@ -23005,7 +23135,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/blDa",
     "avg_rating": 4.0,
-    "lb_avg": 3.62,
+    "lb_avg": 3.63,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -23097,7 +23227,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/C5Lc",
     "avg_rating": 2.5,
-    "lb_avg": 2.88,
+    "lb_avg": 2.87,
     "rater_count": 2,
     "breakdown": "lukecharlier:2.5, moviebuff501:2.5",
     "genres": [
@@ -23225,7 +23355,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/26Ja",
     "avg_rating": 4.0,
-    "lb_avg": 4.21,
+    "lb_avg": 4.22,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -23487,7 +23617,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/oIv0",
     "avg_rating": 4.5,
-    "lb_avg": 3.78,
+    "lb_avg": 3.77,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -23763,7 +23893,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/FPS",
     "avg_rating": 2.0,
-    "lb_avg": 2.98,
+    "lb_avg": 2.99,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, skylerinthecine:2.0",
     "genres": [
@@ -23809,7 +23939,7 @@
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/24as",
     "avg_rating": 3.5,
-    "lb_avg": 3.85,
+    "lb_avg": 3.86,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -23904,7 +24034,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/ZQc",
     "avg_rating": 4.0,
-    "lb_avg": 4.0,
+    "lb_avg": 3.99,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -24072,6 +24202,22 @@
     "variance": 0.0
   },
   {
+    "movie_name": "Top Gun",
+    "year": 1986,
+    "letterboxd_uri": "https://boxd.it/29JC",
+    "avg_rating": 3.5,
+    "lb_avg": 3.51,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.5",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "variance": 0.0
+  },
+  {
     "movie_name": "Angel's Egg",
     "year": 1985,
     "letterboxd_uri": "https://boxd.it/1LeA",
@@ -24092,7 +24238,7 @@
     "year": 1980,
     "letterboxd_uri": "https://boxd.it/1UO8",
     "avg_rating": 3.5,
-    "lb_avg": 3.64,
+    "lb_avg": 3.63,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
@@ -24181,7 +24327,7 @@
     "year": 1986,
     "letterboxd_uri": "https://boxd.it/1YIe",
     "avg_rating": 4.5,
-    "lb_avg": 3.99,
+    "lb_avg": 4.0,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -24281,7 +24427,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/f4Pw",
     "avg_rating": 2.5,
-    "lb_avg": 3.01,
+    "lb_avg": 3.0,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.5, paityne:2.5",
     "genres": [
@@ -24297,7 +24443,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/sOP4",
     "avg_rating": 4.0,
-    "lb_avg": 3.61,
+    "lb_avg": 3.6,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -24326,7 +24472,7 @@
     "year": 1922,
     "letterboxd_uri": "https://boxd.it/n4O",
     "avg_rating": 3.5,
-    "lb_avg": 4.04,
+    "lb_avg": 4.05,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
@@ -24459,7 +24605,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/hQZ4",
     "avg_rating": 3.5,
-    "lb_avg": 3.7,
+    "lb_avg": 3.69,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [],
@@ -24642,7 +24788,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/CFtS",
     "avg_rating": 2.5,
-    "lb_avg": 2.27,
+    "lb_avg": 2.26,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.5, moviebuff501:2.5",
     "genres": [
@@ -24659,7 +24805,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/CNkk",
     "avg_rating": 4.0,
-    "lb_avg": 3.49,
+    "lb_avg": 3.48,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0",
     "genres": [
@@ -24673,7 +24819,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/36oo",
     "avg_rating": 4.0,
-    "lb_avg": 3.84,
+    "lb_avg": 3.85,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -24798,7 +24944,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/77xu",
     "avg_rating": 4.0,
-    "lb_avg": 3.31,
+    "lb_avg": 3.3,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -24857,7 +25003,7 @@
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/1zgk",
     "avg_rating": 1.0,
-    "lb_avg": 2.52,
+    "lb_avg": 2.53,
     "rater_count": 2,
     "breakdown": "memoriesomovies:1.0, skylerinthecine:1.0",
     "genres": [
@@ -24938,7 +25084,7 @@
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/21E0",
     "avg_rating": 2.0,
-    "lb_avg": 2.84,
+    "lb_avg": 2.85,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, skylerinthecine:2.0",
     "genres": [
@@ -24955,7 +25101,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/dUu2",
     "avg_rating": 2.5,
-    "lb_avg": 3.21,
+    "lb_avg": 3.2,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.5, skylerinthecine:2.5",
     "genres": [
@@ -25201,7 +25347,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/dZrW",
     "avg_rating": 4.0,
-    "lb_avg": 4.06,
+    "lb_avg": 4.07,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -25217,7 +25363,7 @@
     "year": 2001,
     "letterboxd_uri": "https://boxd.it/2aZm",
     "avg_rating": 4.0,
-    "lb_avg": 3.93,
+    "lb_avg": 3.94,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -25232,7 +25378,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/McHG",
     "avg_rating": 3.5,
-    "lb_avg": 3.6,
+    "lb_avg": 3.59,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -25263,7 +25409,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/PGtA",
     "avg_rating": 3.5,
-    "lb_avg": 3.38,
+    "lb_avg": 3.37,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
@@ -25521,7 +25667,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/ErTw",
     "avg_rating": 4.0,
-    "lb_avg": 4.0,
+    "lb_avg": 4.01,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -25536,7 +25682,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/HSw6",
     "avg_rating": 2.5,
-    "lb_avg": 2.86,
+    "lb_avg": 2.85,
     "rater_count": 3,
     "breakdown": "memoriesomovies:2.5, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -25615,7 +25761,7 @@
     "year": 2005,
     "letterboxd_uri": "https://boxd.it/2aLa",
     "avg_rating": 3.0,
-    "lb_avg": 3.41,
+    "lb_avg": 3.42,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -25648,7 +25794,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/20QY",
     "avg_rating": 2.5,
-    "lb_avg": 3.34,
+    "lb_avg": 3.35,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -25784,7 +25930,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/16gq",
     "avg_rating": 1.0,
-    "lb_avg": 2.24,
+    "lb_avg": 2.25,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:1.0",
     "genres": [
@@ -25829,7 +25975,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/eaai",
     "avg_rating": 3.0,
-    "lb_avg": 3.38,
+    "lb_avg": 3.39,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -25909,7 +26055,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/fdiG",
     "avg_rating": 3.0,
-    "lb_avg": 3.17,
+    "lb_avg": 3.18,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -25925,7 +26071,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/9ru0",
     "avg_rating": 3.0,
-    "lb_avg": 2.77,
+    "lb_avg": 2.76,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -26163,7 +26309,7 @@
     "year": 1952,
     "letterboxd_uri": "https://boxd.it/29oY",
     "avg_rating": 5.0,
-    "lb_avg": 4.34,
+    "lb_avg": 4.35,
     "rater_count": 2,
     "breakdown": "moviebuff501:5.0, skylerinthecine:5.0",
     "genres": [
@@ -26225,7 +26371,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/CoVK",
     "avg_rating": 4.0,
-    "lb_avg": 3.76,
+    "lb_avg": 3.77,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -26335,7 +26481,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/4hka",
     "avg_rating": 3.0,
-    "lb_avg": 3.37,
+    "lb_avg": 3.38,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -26351,7 +26497,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/4hk0",
     "avg_rating": 3.0,
-    "lb_avg": 3.47,
+    "lb_avg": 3.48,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -26367,7 +26513,7 @@
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/bCF8",
     "avg_rating": 4.5,
-    "lb_avg": 4.13,
+    "lb_avg": 4.12,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -26724,7 +26870,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/Kd6s",
     "avg_rating": 1.0,
-    "lb_avg": 1.84,
+    "lb_avg": 1.83,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:1.0",
     "genres": [
@@ -26864,7 +27010,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/D9A",
     "avg_rating": 3.5,
-    "lb_avg": 3.71,
+    "lb_avg": 3.72,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -26990,7 +27136,7 @@
     "year": 1990,
     "letterboxd_uri": "https://boxd.it/1ROu",
     "avg_rating": 4.5,
-    "lb_avg": 4.23,
+    "lb_avg": 4.24,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -27171,7 +27317,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/MReU",
     "avg_rating": 3.0,
-    "lb_avg": 3.43,
+    "lb_avg": 3.42,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -27201,7 +27347,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/2bdy",
     "avg_rating": 3.5,
-    "lb_avg": 4.11,
+    "lb_avg": 4.12,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -27403,7 +27549,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/bfGM",
     "avg_rating": 3.5,
-    "lb_avg": 3.93,
+    "lb_avg": 3.92,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -27433,7 +27579,7 @@
     "year": 1995,
     "letterboxd_uri": "https://boxd.it/17uy",
     "avg_rating": 4.0,
-    "lb_avg": 4.18,
+    "lb_avg": 4.19,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -27479,7 +27625,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/prg0",
     "avg_rating": 3.0,
-    "lb_avg": 4.1,
+    "lb_avg": 4.11,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -27572,7 +27718,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/KzPa",
     "avg_rating": 1.5,
-    "lb_avg": 2.93,
+    "lb_avg": 2.9,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.5, skylerinthecine:1.5",
     "genres": [
@@ -27646,18 +27792,18 @@
     "variance": 0.0
   },
   {
-    "movie_name": "The Devil Wears Prada 2",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
-    "avg_rating": 3.0,
-    "lb_avg": 3.38,
-    "rater_count": 3,
-    "breakdown": "lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:3.0",
+    "movie_name": "La Notte",
+    "year": 1961,
+    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/la-notte/",
+    "avg_rating": 4.5,
+    "lb_avg": 4.29,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
-      "Comedy",
-      "Drama"
+      "Drama",
+      "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
     "variance": 0.0
   },
   {

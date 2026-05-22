@@ -1,12 +1,12 @@
 [
   {
     "username": "batmatt208",
-    "rating_count": 455,
+    "rating_count": 458,
     "profile_url": "https://letterboxd.com/batmatt208/",
     "latest": {
-      "name": "Mother Mary",
-      "rating": 2.0,
-      "uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
+      "name": "Mortal Kombat II",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/mortal-kombat-ii/",
       "source": "rss"
     }
   },
@@ -24,56 +24,56 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 522,
+    "rating_count": 523,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "The Devil Wears Prada 2",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+      "name": "Obsession",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/obsession-2025-2/",
       "source": "rss"
     }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1506,
+    "rating_count": 1508,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "A.I. Artificial Intelligence",
-      "rating": 5.0,
-      "uri": "https://letterboxd.com/memoriesomovies/film/ai-artificial-intelligence/",
+      "name": "The Sheep Detectives",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1620,
+    "rating_count": 1630,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Leviticus",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
+      "name": "I Love Boosters",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
       "source": "rss"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 367,
+    "rating_count": 372,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "True Romance",
+      "name": "Milk & Serial",
       "rating": 3.0,
-      "uri": "https://letterboxd.com/paityne/film/true-romance/",
+      "uri": "https://letterboxd.com/paityne/film/milk-serial/",
       "source": "rss"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3212,
+    "rating_count": 3238,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "The Bling Ring",
+      "name": "Red Beard",
       "rating": 4.0,
-      "uri": "https://letterboxd.com/skylerinthecine/film/the-bling-ring/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/red-beard/",
       "source": "rss"
     }
   }
