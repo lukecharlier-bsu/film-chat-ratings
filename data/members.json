@@ -1,12 +1,12 @@
 [
   {
     "username": "batmatt208",
-    "rating_count": 458,
+    "rating_count": 460,
     "profile_url": "https://letterboxd.com/batmatt208/",
     "latest": {
-      "name": "Mortal Kombat II",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/batmatt208/film/mortal-kombat-ii/",
+      "name": "Backrooms",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
       "source": "rss"
     }
   },
@@ -24,56 +24,56 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 523,
+    "rating_count": 524,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "Obsession",
+      "name": "Backrooms",
       "rating": 4.0,
-      "uri": "https://letterboxd.com/lukecharlier/film/obsession-2025-2/",
+      "uri": "https://letterboxd.com/lukecharlier/film/backrooms-2026/",
       "source": "rss"
     }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1508,
+    "rating_count": 1515,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "The Sheep Detectives",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
+      "name": "Terminator 2: Judgment Day",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/terminator-2-judgment-day/3/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1630,
+    "rating_count": 1641,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "I Love Boosters",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
+      "name": "Scary Movie",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-2026/",
       "source": "rss"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 372,
+    "rating_count": 374,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "Milk & Serial",
-      "rating": 3.0,
-      "uri": "https://letterboxd.com/paityne/film/milk-serial/",
+      "name": "Mulholland Drive",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/paityne/film/mulholland-drive/",
       "source": "rss"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3239,
+    "rating_count": 3238,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "I Love Boosters",
+      "name": "Tomboy",
       "rating": 4.5,
-      "uri": "https://letterboxd.com/skylerinthecine/film/i-love-boosters/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/tomboy-2011/",
       "source": "rss"
     }
   }

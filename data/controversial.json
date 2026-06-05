@@ -37,7 +37,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/eh1i",
     "avg_rating": 1.75,
-    "lb_avg": 2.93,
+    "lb_avg": 2.94,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:0.5",
     "genres": [
@@ -116,7 +116,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/di8W",
     "avg_rating": 1.5,
-    "lb_avg": 2.77,
+    "lb_avg": 2.78,
     "rater_count": 3,
     "breakdown": "lukecharlier:0.5, moviebuff501:3.0, paityne:1.0",
     "genres": [
@@ -289,7 +289,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/hHUa",
     "avg_rating": 4.0,
-    "lb_avg": 4.04,
+    "lb_avg": 4.03,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, skylerinthecine:5.0",
     "genres": [
@@ -362,18 +362,18 @@
   },
   {
     "movie_name": "The Twilight Saga: Breaking Dawn \u2013 Part 2",
-    "year": 2012,
+    "year": 2011,
     "letterboxd_uri": "https://boxd.it/DdC",
     "avg_rating": 2.0,
-    "lb_avg": 2.96,
+    "lb_avg": 2.97,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:3.0",
     "genres": [
+      "Adventure",
       "Fantasy",
-      "Drama",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
     "variance": 1.0
   },
   {
@@ -440,7 +440,7 @@
     "year": 2003,
     "letterboxd_uri": "https://boxd.it/1ICY",
     "avg_rating": 1.5,
-    "lb_avg": 2.61,
+    "lb_avg": 2.6,
     "rater_count": 2,
     "breakdown": "moviebuff501:0.5, skylerinthecine:2.5",
     "genres": [
@@ -471,11 +471,12 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/1CW4",
     "avg_rating": 3.5,
-    "lb_avg": 4.01,
+    "lb_avg": 4.02,
     "rater_count": 2,
     "breakdown": "paityne:2.5, skylerinthecine:4.5",
     "genres": [
       "Comedy",
+      "Drama",
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
@@ -486,7 +487,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/OA2w",
     "avg_rating": 3.67,
-    "lb_avg": 3.72,
+    "lb_avg": 3.7,
     "rater_count": 6,
     "breakdown": "batmatt208:1.5, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.0",
     "genres": [
@@ -494,7 +495,7 @@
       "Comedy",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
     "variance": 0.9722
   },
   {
@@ -510,7 +511,7 @@
       "Action",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/ySaaKHOLAQU5HoZqWmzDIj1VvZ1.jpg",
     "variance": 0.9219
   },
   {
@@ -518,7 +519,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/wiLC",
     "avg_rating": 2.12,
-    "lb_avg": 2.97,
+    "lb_avg": 2.93,
     "rater_count": 4,
     "breakdown": "lukecharlier:1.0, memoriesomovies:3.5, moviebuff501:2.5, paityne:1.5",
     "genres": [
@@ -584,7 +585,8 @@
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, lukecharlier:4.0, paityne:4.0, skylerinthecine:4.0",
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
     "variance": 0.75
@@ -818,7 +820,7 @@
       "Romance",
       "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3uX6xo6kZrylBrMIyLtrOS5BR9p.jpg",
     "variance": 0.6875
   },
   {
@@ -826,7 +828,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/qeWY",
     "avg_rating": 3.07,
-    "lb_avg": 3.85,
+    "lb_avg": 3.84,
     "rater_count": 7,
     "breakdown": "batmatt208:2.5, big_brant:2.0, lukecharlier:4.0, memoriesomovies:2.0, moviebuff501:3.5, paityne:4.0, skylerinthecine:3.5",
     "genres": [
@@ -842,7 +844,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/Bfbm",
     "avg_rating": 3.38,
-    "lb_avg": 3.77,
+    "lb_avg": 3.78,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:4.0",
     "genres": [
@@ -871,7 +873,7 @@
     "year": 2008,
     "letterboxd_uri": "https://boxd.it/200o",
     "avg_rating": 1.5,
-    "lb_avg": 2.13,
+    "lb_avg": 2.14,
     "rater_count": 3,
     "breakdown": "memoriesomovies:2.5, moviebuff501:0.5, skylerinthecine:1.5",
     "genres": [
@@ -891,7 +893,6 @@
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.0, skylerinthecine:5.0",
     "genres": [
       "Crime",
-      "Drama",
       "Mystery",
       "Thriller"
     ],
@@ -948,7 +949,7 @@
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/71Y",
     "avg_rating": 4.0,
-    "lb_avg": 3.95,
+    "lb_avg": 3.94,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.5, moviebuff501:5.0, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -995,7 +996,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/iF7M",
     "avg_rating": 2.25,
-    "lb_avg": 2.92,
+    "lb_avg": 2.93,
     "rater_count": 2,
     "breakdown": "batmatt208:1.5, moviebuff501:3.0",
     "genres": [
@@ -1139,11 +1140,11 @@
     "rater_count": 4,
     "breakdown": "batmatt208:3.5, memoriesomovies:5.0, moviebuff501:3.5, skylerinthecine:5.0",
     "genres": [
-      "Crime",
+      "Thriller",
       "Drama",
-      "Thriller"
+      "Crime"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
     "variance": 0.5625
   },
   {
@@ -1213,7 +1214,7 @@
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/2b7q",
     "avg_rating": 4.25,
-    "lb_avg": 4.34,
+    "lb_avg": 4.33,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:5.0",
     "genres": [
@@ -1274,7 +1275,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/ztfo",
     "avg_rating": 2.25,
-    "lb_avg": 3.12,
+    "lb_avg": 3.13,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, moviebuff501:1.5",
     "genres": [
@@ -1313,7 +1314,8 @@
     "breakdown": "moviebuff501:2.5, skylerinthecine:4.0",
     "genres": [
       "Comedy",
-      "Romance"
+      "Romance",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
     "variance": 0.5625
@@ -1365,7 +1367,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1ytW",
     "avg_rating": 2.75,
-    "lb_avg": 2.73,
+    "lb_avg": 2.74,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:3.5",
     "genres": [
@@ -1403,11 +1405,9 @@
     "breakdown": "moviebuff501:2.0, skylerinthecine:3.5",
     "genres": [
       "Animation",
-      "Music",
       "Comedy",
       "Crime",
-      "Mystery",
-      "Drama"
+      "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/AvV2nHEDQMWuRqAUrpcx2fB97CB.jpg",
     "variance": 0.5625
@@ -1552,33 +1552,31 @@
     "variance": 0.5625
   },
   {
+    "movie_name": "Scary Movie",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/24CG",
+    "avg_rating": 1.75,
+    "lb_avg": 3.23,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:2.5, skylerinthecine:1.0",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+    "variance": 0.5625
+  },
+  {
     "movie_name": "Bunnylovr",
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/QxM6",
     "avg_rating": 2.25,
-    "lb_avg": 3.0,
+    "lb_avg": 3.01,
     "rater_count": 2,
     "breakdown": "batmatt208:1.5, skylerinthecine:3.0",
     "genres": [
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/xam7kecWAUaNlfp261kNAZJU8co.jpg",
-    "variance": 0.5625
-  },
-  {
-    "movie_name": "I Love Boosters",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
-    "avg_rating": 3.75,
-    "lb_avg": 3.86,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.0, skylerinthecine:4.5",
-    "genres": [
-      "Comedy",
-      "Science Fiction",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xFW17AB8mGFgZTXkFcRPhWdS6LU.jpg",
     "variance": 0.5625
   },
   {
@@ -1602,7 +1600,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/o0Hc",
     "avg_rating": 2.62,
-    "lb_avg": 3.03,
+    "lb_avg": 3.04,
     "rater_count": 4,
     "breakdown": "batmatt208:1.5, moviebuff501:3.5, paityne:3.0, skylerinthecine:2.5",
     "genres": [
@@ -1664,7 +1662,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Gwiu",
     "avg_rating": 2.4,
-    "lb_avg": 2.62,
+    "lb_avg": 2.61,
     "rater_count": 5,
     "breakdown": "lukecharlier:3.0, memoriesomovies:1.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.0",
     "genres": [
@@ -1699,13 +1697,11 @@
     "rater_count": 4,
     "breakdown": "batmatt208:1.5, big_brant:0.5, lukecharlier:2.5, moviebuff501:1.5",
     "genres": [
-      "Action",
-      "Animation",
-      "Adventure",
       "Comedy",
-      "Family",
-      "Fantasy",
-      "Science Fiction"
+      "Crime",
+      "Science Fiction",
+      "Animation",
+      "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
     "variance": 0.5
@@ -1715,7 +1711,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/llco",
     "avg_rating": 2.5,
-    "lb_avg": 2.52,
+    "lb_avg": 2.53,
     "rater_count": 4,
     "breakdown": "lukecharlier:2.5, memoriesomovies:2.5, moviebuff501:1.5, skylerinthecine:3.5",
     "genres": [
@@ -1798,7 +1794,6 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
-      "Adventure",
       "Action",
       "Thriller",
       "Science Fiction"
@@ -1841,7 +1836,7 @@
     "year": 1968,
     "letterboxd_uri": "https://boxd.it/29zM",
     "avg_rating": 4.5,
-    "lb_avg": 4.21,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, paityne:5.0, skylerinthecine:5.0",
     "genres": [
@@ -2042,7 +2037,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/ipeM",
     "avg_rating": 4.08,
-    "lb_avg": 3.91,
+    "lb_avg": 3.9,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, lukecharlier:3.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:3.5, skylerinthecine:5.0",
     "genres": [
@@ -2071,11 +2066,25 @@
     "variance": 0.4514
   },
   {
+    "movie_name": "Obsession",
+    "year": 2025,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+    "avg_rating": 3.92,
+    "lb_avg": 4.16,
+    "rater_count": 6,
+    "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:2.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:4.0",
+    "genres": [
+      "Thriller"
+    ],
+    "poster": null,
+    "variance": 0.4514
+  },
+  {
     "movie_name": "Wonka",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/tCQm",
     "avg_rating": 2.6,
-    "lb_avg": 3.16,
+    "lb_avg": 3.15,
     "rater_count": 5,
     "breakdown": "batmatt208:1.5, memoriesomovies:2.5, moviebuff501:3.5, paityne:2.5, skylerinthecine:3.0",
     "genres": [
@@ -2091,7 +2100,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/OdIa",
     "avg_rating": 2.4,
-    "lb_avg": 2.74,
+    "lb_avg": 2.73,
     "rater_count": 5,
     "breakdown": "batmatt208:3.5, lukecharlier:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:1.5",
     "genres": [
@@ -2182,7 +2191,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/3ZqO",
     "avg_rating": 4.62,
-    "lb_avg": 4.24,
+    "lb_avg": null,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:5.0, moviebuff501:5.0, skylerinthecine:5.0",
     "genres": [
@@ -2197,7 +2206,7 @@
     "year": 1982,
     "letterboxd_uri": "https://boxd.it/2bcA",
     "avg_rating": 4.12,
-    "lb_avg": 4.1,
+    "lb_avg": 4.09,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, moviebuff501:5.0, skylerinthecine:4.5",
     "genres": [
@@ -2213,7 +2222,7 @@
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/23AO",
     "avg_rating": 4.12,
-    "lb_avg": 4.06,
+    "lb_avg": 4.05,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -2322,7 +2331,8 @@
     "breakdown": "batmatt208:1.5, lukecharlier:3.0, moviebuff501:2.5",
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
     "variance": 0.3889
@@ -2336,8 +2346,8 @@
     "rater_count": 6,
     "breakdown": "batmatt208:4.5, big_brant:4.0, memoriesomovies:4.0, moviebuff501:3.0, paityne:3.0, skylerinthecine:4.5",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
     "variance": 0.3889
@@ -2391,7 +2401,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/RTTU",
     "avg_rating": 2.83,
-    "lb_avg": 3.46,
+    "lb_avg": 3.45,
     "rater_count": 3,
     "breakdown": "batmatt208:2.0, memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -2582,13 +2592,8 @@
     "lb_avg": 3.88,
     "rater_count": 3,
     "breakdown": "memoriesomovies:5.0, moviebuff501:3.5, skylerinthecine:4.0",
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+    "genres": [],
+    "poster": null,
     "variance": 0.3889
   },
   {
@@ -2691,7 +2696,7 @@
     "year": 1974,
     "letterboxd_uri": "https://boxd.it/2aNq",
     "avg_rating": 4.17,
-    "lb_avg": 4.59,
+    "lb_avg": 4.58,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:5.0",
     "genres": [
@@ -2748,6 +2753,22 @@
     "variance": 0.3889
   },
   {
+    "movie_name": "I Love Boosters",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/i-love-boosters/",
+    "avg_rating": 3.83,
+    "lb_avg": 3.81,
+    "rater_count": 3,
+    "breakdown": "batmatt208:4.0, moviebuff501:3.0, skylerinthecine:4.5",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg",
+    "variance": 0.3889
+  },
+  {
     "movie_name": "Captain Marvel",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/9vSA",
@@ -2800,14 +2821,14 @@
     "year": 2026,
     "letterboxd_uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
     "avg_rating": 2.5,
-    "lb_avg": 3.61,
+    "lb_avg": 3.62,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:1.5",
     "genres": [
       "Music",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
     "variance": 0.375
   },
   {
@@ -2875,7 +2896,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/SCkg",
     "avg_rating": 2.7,
-    "lb_avg": 3.43,
+    "lb_avg": 3.42,
     "rater_count": 5,
     "breakdown": "batmatt208:2.0, memoriesomovies:3.0, moviebuff501:2.0, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -2951,7 +2972,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/D5cI",
     "avg_rating": 3.71,
-    "lb_avg": 3.18,
+    "lb_avg": 3.17,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:2.5, memoriesomovies:3.5, moviebuff501:3.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -3027,7 +3048,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/npL2",
     "avg_rating": 2.9,
-    "lb_avg": 2.86,
+    "lb_avg": 2.85,
     "rater_count": 5,
     "breakdown": "batmatt208:2.5, lukecharlier:3.0, memoriesomovies:3.5, moviebuff501:2.0, skylerinthecine:3.5",
     "genres": [
@@ -3090,7 +3111,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/AyfK",
     "avg_rating": 2.4,
-    "lb_avg": 3.41,
+    "lb_avg": 3.4,
     "rater_count": 5,
     "breakdown": "batmatt208:1.5, memoriesomovies:3.0, moviebuff501:2.5, paityne:3.0, skylerinthecine:2.0",
     "genres": [
@@ -3106,7 +3127,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/fVJQ",
     "avg_rating": 3.4,
-    "lb_avg": 3.64,
+    "lb_avg": 3.63,
     "rater_count": 5,
     "breakdown": "lukecharlier:3.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:2.5, skylerinthecine:3.5",
     "genres": [
@@ -3134,6 +3155,22 @@
     "variance": 0.34
   },
   {
+    "movie_name": "Backrooms",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+    "avg_rating": 3.1,
+    "lb_avg": 3.39,
+    "rater_count": 5,
+    "breakdown": "batmatt208:2.5, lukecharlier:4.0, memoriesomovies:2.5, moviebuff501:3.5, skylerinthecine:3.0",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "variance": 0.34
+  },
+  {
     "movie_name": "Anora",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/Egcw",
@@ -3146,7 +3183,7 @@
       "Comedy",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/oN0o3owobFjePDc5vMdLRAd0jkd.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/9leBvae1CCbti0BhoArm6kInKwF.jpg",
     "variance": 0.3367
   },
   {
@@ -3154,7 +3191,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/KQMM",
     "avg_rating": 3.86,
-    "lb_avg": 4.1,
+    "lb_avg": 4.09,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:3.0, memoriesomovies:4.5, moviebuff501:4.0, paityne:3.0, skylerinthecine:4.5",
     "genres": [
@@ -3251,10 +3288,10 @@
     "breakdown": "batmatt208:2.0, memoriesomovies:3.0, moviebuff501:3.5, skylerinthecine:2.5",
     "genres": [
       "Animation",
-      "Family",
-      "Fantasy",
+      "Action",
       "Adventure",
-      "Action"
+      "Fantasy",
+      "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
     "variance": 0.3125
@@ -3326,7 +3363,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/ifpg",
     "avg_rating": 1.75,
-    "lb_avg": 2.71,
+    "lb_avg": 2.72,
     "rater_count": 4,
     "breakdown": "lukecharlier:2.0, memoriesomovies:1.5, moviebuff501:2.5, paityne:1.0",
     "genres": [
@@ -3349,7 +3386,7 @@
       "Drama",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
     "variance": 0.3125
   },
   {
@@ -3372,7 +3409,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/4VZ8",
     "avg_rating": 4.25,
-    "lb_avg": 4.45,
+    "lb_avg": 4.44,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.0, moviebuff501:5.0, paityne:4.5, skylerinthecine:3.5",
     "genres": [
@@ -3404,7 +3441,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/29tE",
     "avg_rating": 4.25,
-    "lb_avg": 4.38,
+    "lb_avg": 4.37,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.5, moviebuff501:3.5, paityne:4.0, skylerinthecine:5.0",
     "genres": [
@@ -3451,7 +3488,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/pEeQ",
     "avg_rating": 3.33,
-    "lb_avg": 4.32,
+    "lb_avg": 4.31,
     "rater_count": 6,
     "breakdown": "batmatt208:2.5, lukecharlier:3.5, memoriesomovies:3.0, moviebuff501:4.0, paityne:4.0, skylerinthecine:3.0",
     "genres": [
@@ -3522,7 +3559,7 @@
       "War",
       "History"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
     "variance": 0.3
   },
   {
@@ -3576,7 +3613,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/HxJo",
     "avg_rating": 3.62,
-    "lb_avg": 3.56,
+    "lb_avg": 3.55,
     "rater_count": 4,
     "breakdown": "batmatt208:3.5, memoriesomovies:4.5, moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -3663,22 +3700,6 @@
     "variance": 0.2969
   },
   {
-    "movie_name": "Mother Mary",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
-    "avg_rating": 2.62,
-    "lb_avg": 2.98,
-    "rater_count": 4,
-    "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.5",
-    "genres": [
-      "Music",
-      "Fantasy",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
-    "variance": 0.2969
-  },
-  {
     "movie_name": "The Menu",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/lScm",
@@ -3698,7 +3719,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Hxlc",
     "avg_rating": 4.0,
-    "lb_avg": 3.68,
+    "lb_avg": 3.67,
     "rater_count": 7,
     "breakdown": "batmatt208:3.5, big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:3.0",
     "genres": [
@@ -3887,10 +3908,10 @@
     "rater_count": 5,
     "breakdown": "batmatt208:3.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:4.5, skylerinthecine:4.0",
     "genres": [
-      "Animation",
       "Adventure",
-      "Fantasy",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
     "variance": 0.26
@@ -4081,9 +4102,9 @@
     "breakdown": "batmatt208:3.0, moviebuff501:2.0",
     "genres": [
       "Animation",
-      "Music",
       "Comedy",
-      "Family"
+      "Family",
+      "Music"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
     "variance": 0.25
@@ -4176,10 +4197,10 @@
     "rater_count": 4,
     "breakdown": "big_brant:3.0, lukecharlier:2.0, paityne:2.0, skylerinthecine:3.0",
     "genres": [
+      "Adventure",
       "Animation",
       "Family",
-      "Fantasy",
-      "Adventure"
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
     "variance": 0.25
@@ -4280,7 +4301,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/1YVM",
     "avg_rating": 2.5,
-    "lb_avg": 2.98,
+    "lb_avg": 2.99,
     "rater_count": 2,
     "breakdown": "lukecharlier:3.0, skylerinthecine:2.0",
     "genres": [
@@ -4341,12 +4362,13 @@
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/1zvE",
     "avg_rating": 3.5,
-    "lb_avg": 3.41,
+    "lb_avg": 3.4,
     "rater_count": 2,
     "breakdown": "lukecharlier:3.0, skylerinthecine:4.0",
     "genres": [
       "Horror",
-      "Fantasy"
+      "Fantasy",
+      "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
     "variance": 0.25
@@ -4528,7 +4550,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/iOBQ",
     "avg_rating": 4.5,
-    "lb_avg": 4.06,
+    "lb_avg": 4.05,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -4592,7 +4614,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/1NI8",
     "avg_rating": 4.5,
-    "lb_avg": 4.12,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -4638,7 +4660,7 @@
     "year": 1993,
     "letterboxd_uri": "https://boxd.it/1TjS",
     "avg_rating": 3.5,
-    "lb_avg": 3.42,
+    "lb_avg": 3.41,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:3.0",
     "genres": [
@@ -4646,7 +4668,7 @@
       "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/bRX8au50CnhC8hXr8AbsCNdb96G.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tQqIA8bDN7v1LmHjJg7Qh9BKCLa.jpg",
     "variance": 0.25
   },
   {
@@ -4685,7 +4707,7 @@
     "year": 1985,
     "letterboxd_uri": "https://boxd.it/1sBA",
     "avg_rating": 4.5,
-    "lb_avg": 4.42,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -4699,13 +4721,12 @@
     "year": 1977,
     "letterboxd_uri": "https://boxd.it/Eew",
     "avg_rating": 4.5,
-    "lb_avg": 4.44,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
       "Drama",
-      "War",
-      "History"
+      "War"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/hJOju5XZfmq4Lg5dPa8IPVY3mDt.jpg",
     "variance": 0.25
@@ -4715,7 +4736,7 @@
     "year": 1973,
     "letterboxd_uri": "https://boxd.it/2aSU",
     "avg_rating": 3.5,
-    "lb_avg": 3.72,
+    "lb_avg": 3.71,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, skylerinthecine:4.0",
     "genres": [
@@ -4746,7 +4767,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/5x3m",
     "avg_rating": 2.5,
-    "lb_avg": 2.87,
+    "lb_avg": 2.88,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, skylerinthecine:2.0",
     "genres": [
@@ -4906,8 +4927,8 @@
     "breakdown": "memoriesomovies:1.0, moviebuff501:2.0",
     "genres": [
       "Fantasy",
-      "Adventure",
-      "Action"
+      "Comedy",
+      "Adventure"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
     "variance": 0.25
@@ -4921,7 +4942,8 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, moviebuff501:1.0",
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg",
     "variance": 0.25
@@ -4931,7 +4953,7 @@
     "year": 2012,
     "letterboxd_uri": "https://boxd.it/44Cg",
     "avg_rating": 4.5,
-    "lb_avg": 4.42,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -4946,7 +4968,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/1Irc",
     "avg_rating": 4.0,
-    "lb_avg": 3.66,
+    "lb_avg": 3.67,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:3.5",
     "genres": [
@@ -4993,7 +5015,7 @@
     "year": 1975,
     "letterboxd_uri": "https://boxd.it/1a3q",
     "avg_rating": 4.5,
-    "lb_avg": 4.05,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -5009,7 +5031,7 @@
     "year": 1973,
     "letterboxd_uri": "https://boxd.it/28kG",
     "avg_rating": 4.5,
-    "lb_avg": 4.19,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -5039,13 +5061,13 @@
     "year": 1981,
     "letterboxd_uri": "https://boxd.it/1BPm",
     "avg_rating": 4.5,
-    "lb_avg": 4.04,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
       "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/dSxz8VWHVleJXdIce9D0ujkmJNI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
     "variance": 0.25
   },
   {
@@ -5130,7 +5152,7 @@
     "year": 1971,
     "letterboxd_uri": "https://boxd.it/1ooC",
     "avg_rating": 4.5,
-    "lb_avg": 4.14,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:5.0",
     "genres": [
@@ -5193,11 +5215,12 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/NcXc",
     "avg_rating": 3.0,
-    "lb_avg": 2.84,
+    "lb_avg": 2.83,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:2.5",
     "genres": [
-      "Thriller"
+      "Thriller",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
     "variance": 0.25
@@ -5211,8 +5234,10 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:4.5",
     "genres": [
-      "Crime",
-      "Drama"
+      "Mystery",
+      "Thriller",
+      "Drama",
+      "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
     "variance": 0.25
@@ -5363,7 +5388,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/i8Wi",
     "avg_rating": 2.5,
-    "lb_avg": 2.54,
+    "lb_avg": 2.55,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:3.0",
     "genres": [
@@ -5507,9 +5532,7 @@
     "genres": [
       "Adventure",
       "Family",
-      "Fantasy",
-      "Comedy",
-      "Romance"
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
     "variance": 0.25
@@ -5535,7 +5558,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/zeDq",
     "avg_rating": 3.0,
-    "lb_avg": 3.62,
+    "lb_avg": 3.63,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:2.5",
     "genres": [
@@ -5645,7 +5668,7 @@
     "year": 1957,
     "letterboxd_uri": "https://boxd.it/2ahO",
     "avg_rating": 4.0,
-    "lb_avg": 4.33,
+    "lb_avg": 4.32,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:4.5",
     "genres": [
@@ -5691,7 +5714,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/mwU4",
     "avg_rating": 2.0,
-    "lb_avg": 2.45,
+    "lb_avg": 2.44,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.5, skylerinthecine:2.5",
     "genres": [
@@ -5715,7 +5738,7 @@
       "Crime",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
     "variance": 0.25
   },
   {
@@ -6063,7 +6086,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/CFr8",
     "avg_rating": 3.0,
-    "lb_avg": 3.32,
+    "lb_avg": 3.31,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:2.5",
     "genres": [
@@ -6179,7 +6202,7 @@
       "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/qn53D574tT0YRyLgirEFHQwGUXw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/c33aje9uIKWrZRfSkvV5PfS0kXW.jpg",
     "variance": 0.25
   },
   {
@@ -6279,7 +6302,7 @@
     "year": 2026,
     "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mortal-kombat-ii/",
     "avg_rating": 3.0,
-    "lb_avg": 3.0,
+    "lb_avg": 2.96,
     "rater_count": 2,
     "breakdown": "batmatt208:3.5, moviebuff501:2.5",
     "genres": [
@@ -6396,7 +6419,7 @@
       "Adventure",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
     "variance": 0.2292
   },
   {
@@ -6454,7 +6477,8 @@
     "genres": [
       "Science Fiction",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
     "variance": 0.2222
@@ -6726,7 +6750,7 @@
       "Drama",
       "Western"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/mhf63wOnaLCnzxeHgngTH98WaVh.jpg",
     "variance": 0.2222
   },
   {
@@ -6739,8 +6763,8 @@
     "breakdown": "memoriesomovies:3.5, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
       "Animation",
-      "Family",
       "Comedy",
+      "Family",
       "Fantasy",
       "Romance"
     ],
@@ -6894,7 +6918,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/Ag9E",
     "avg_rating": 4.33,
-    "lb_avg": 3.86,
+    "lb_avg": 3.87,
     "rater_count": 3,
     "breakdown": "memoriesomovies:5.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -7143,16 +7167,14 @@
   },
   {
     "movie_name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
-    "year": 1976,
+    "year": 1975,
     "letterboxd_uri": "https://boxd.it/T18",
     "avg_rating": 4.33,
     "lb_avg": 4.26,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:5.0",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
+    "genres": [],
+    "poster": null,
     "variance": 0.2222
   },
   {
@@ -7302,8 +7324,9 @@
     "breakdown": "moviebuff501:3.5, paityne:2.5, skylerinthecine:2.5",
     "genres": [
       "Horror",
+      "Music",
       "Mystery",
-      "Music"
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
     "variance": 0.2222
@@ -7428,7 +7451,8 @@
     "breakdown": "batmatt208:5.0, big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:3.5",
     "genres": [
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
     "variance": 0.1939
@@ -7484,7 +7508,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/JQOw",
     "avg_rating": 3.25,
-    "lb_avg": 3.87,
+    "lb_avg": 3.86,
     "rater_count": 4,
     "breakdown": "batmatt208:3.5, memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:2.5",
     "genres": [
@@ -7639,8 +7663,7 @@
     "rater_count": 7,
     "breakdown": "batmatt208:3.0, big_brant:3.0, lukecharlier:4.0, memoriesomovies:3.5, moviebuff501:3.0, paityne:4.0, skylerinthecine:3.5",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
     "variance": 0.1735
@@ -7665,7 +7688,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/aPvo",
     "avg_rating": 2.12,
-    "lb_avg": 3.16,
+    "lb_avg": 3.17,
     "rater_count": 4,
     "breakdown": "batmatt208:1.5, lukecharlier:2.0, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -7917,14 +7940,15 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/MfY6",
     "avg_rating": 2.62,
-    "lb_avg": 3.34,
+    "lb_avg": 3.33,
     "rater_count": 4,
     "breakdown": "batmatt208:2.0, memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
+      "Thriller",
       "Horror",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
     "variance": 0.1719
   },
   {
@@ -7964,7 +7988,7 @@
     "year": 1968,
     "letterboxd_uri": "https://boxd.it/2bf0",
     "avg_rating": 4.62,
-    "lb_avg": 4.25,
+    "lb_avg": 4.24,
     "rater_count": 4,
     "breakdown": "big_brant:5.0, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -7988,7 +8012,7 @@
       "Family",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
     "variance": 0.1719
   },
   {
@@ -8107,7 +8131,7 @@
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/20hO",
     "avg_rating": 3.62,
-    "lb_avg": 3.89,
+    "lb_avg": 3.88,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:3.0, paityne:4.0, skylerinthecine:3.5",
     "genres": [
@@ -8290,7 +8314,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/tViI",
     "avg_rating": 3.62,
-    "lb_avg": 3.48,
+    "lb_avg": 3.47,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, paityne:3.0, skylerinthecine:4.0",
     "genres": [
@@ -8312,6 +8336,22 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+    "variance": 0.1719
+  },
+  {
+    "movie_name": "Mulholland Drive",
+    "year": 2001,
+    "letterboxd_uri": "https://boxd.it/297o",
+    "avg_rating": 4.62,
+    "lb_avg": null,
+    "rater_count": 4,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, paityne:5.0, skylerinthecine:5.0",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/x7A59t6ySylr1L7aubOQEA480vM.jpg",
     "variance": 0.1719
   },
   {
@@ -8493,13 +8533,27 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/QxVi",
     "avg_rating": 3.5,
-    "lb_avg": 2.8,
+    "lb_avg": 2.79,
     "rater_count": 3,
     "breakdown": "batmatt208:3.5, big_brant:4.0, skylerinthecine:3.0",
     "genres": [
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg",
+    "variance": 0.1667
+  },
+  {
+    "movie_name": "Pizza Movie",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/Vvtc",
+    "avg_rating": 3.0,
+    "lb_avg": 3.02,
+    "rater_count": 3,
+    "breakdown": "batmatt208:3.5, moviebuff501:3.0, skylerinthecine:2.5",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
     "variance": 0.1667
   },
   {
@@ -8529,7 +8583,8 @@
     "genres": [
       "Animation",
       "Comedy",
-      "Family"
+      "Family",
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
     "variance": 0.1667
@@ -8543,10 +8598,10 @@
     "rater_count": 3,
     "breakdown": "big_brant:3.0, memoriesomovies:4.0, skylerinthecine:3.5",
     "genres": [
-      "Family",
-      "Animation",
       "Adventure",
-      "Comedy"
+      "Animation",
+      "Comedy",
+      "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
     "variance": 0.1667
@@ -8572,7 +8627,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/3qi6",
     "avg_rating": 3.0,
-    "lb_avg": 3.25,
+    "lb_avg": 3.26,
     "rater_count": 3,
     "breakdown": "lukecharlier:3.0, moviebuff501:3.5, skylerinthecine:2.5",
     "genres": [
@@ -8607,8 +8662,7 @@
     "rater_count": 3,
     "breakdown": "lukecharlier:2.5, memoriesomovies:2.0, skylerinthecine:1.5",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
     "variance": 0.1667
@@ -8686,10 +8740,9 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
-      "Science Fiction",
       "Adventure",
-      "Family",
-      "Fantasy"
+      "Science Fiction",
+      "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
     "variance": 0.1667
@@ -8823,7 +8876,7 @@
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/2aqc",
     "avg_rating": 4.0,
-    "lb_avg": 4.41,
+    "lb_avg": 4.4,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:3.5",
     "genres": [
@@ -8831,22 +8884,6 @@
       "War"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
-    "variance": 0.1667
-  },
-  {
-    "movie_name": "Mulholland Drive",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/297o",
-    "avg_rating": 4.5,
-    "lb_avg": 4.26,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
-    "genres": [
-      "Thriller",
-      "Drama",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/x7A59t6ySylr1L7aubOQEA480vM.jpg",
     "variance": 0.1667
   },
   {
@@ -8899,7 +8936,7 @@
     "year": 1975,
     "letterboxd_uri": "https://boxd.it/29bg",
     "avg_rating": 4.5,
-    "lb_avg": 4.31,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [
@@ -8946,14 +8983,14 @@
     "year": 1957,
     "letterboxd_uri": "https://boxd.it/29b6",
     "avg_rating": 4.5,
-    "lb_avg": 4.45,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
       "War",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/tJXwtzOSNUC8dxJfrdvkNtGrrgW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/p7OHwomA8UOhe3EhckF2IetBTh9.jpg",
     "variance": 0.1667
   },
   {
@@ -9085,7 +9122,7 @@
     "year": 1985,
     "letterboxd_uri": "https://boxd.it/1Tlu",
     "avg_rating": 4.5,
-    "lb_avg": 4.51,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9093,7 +9130,7 @@
       "Drama",
       "History"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/1gKWXRVgesduqHDfR8siXppfELO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
     "variance": 0.1667
   },
   {
@@ -9132,7 +9169,7 @@
     "year": 1962,
     "letterboxd_uri": "https://boxd.it/1NTU",
     "avg_rating": 4.5,
-    "lb_avg": 4.68,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [
@@ -9140,7 +9177,7 @@
       "Drama",
       "History"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/3nPwMd3KviJWaHzG9fZCqlwWMas.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/zK7HsOC7QxW1ldKIeFG8YJ5F2Eb.jpg",
     "variance": 0.1667
   },
   {
@@ -9148,7 +9185,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/xOSM",
     "avg_rating": 2.5,
-    "lb_avg": 3.32,
+    "lb_avg": 3.33,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:2.0, skylerinthecine:2.5",
     "genres": [
@@ -9178,7 +9215,7 @@
     "year": 1986,
     "letterboxd_uri": "https://boxd.it/29PA",
     "avg_rating": 4.5,
-    "lb_avg": 4.11,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:5.0, skylerinthecine:4.5",
     "genres": [
@@ -9226,7 +9263,7 @@
     "year": 1979,
     "letterboxd_uri": "https://boxd.it/2awY",
     "avg_rating": 4.5,
-    "lb_avg": 4.25,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9270,7 +9307,7 @@
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/26mA",
     "avg_rating": 4.5,
-    "lb_avg": 4.1,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [
@@ -9317,7 +9354,7 @@
     "year": 1997,
     "letterboxd_uri": "https://boxd.it/1Ha0",
     "avg_rating": 4.5,
-    "lb_avg": 4.21,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9332,7 +9369,7 @@
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/1UDa",
     "avg_rating": 4.5,
-    "lb_avg": 4.28,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9396,7 +9433,7 @@
     "year": 1962,
     "letterboxd_uri": "https://boxd.it/2wRE",
     "avg_rating": 4.5,
-    "lb_avg": 4.4,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9412,7 +9449,7 @@
     "year": 1958,
     "letterboxd_uri": "https://boxd.it/2apI",
     "avg_rating": 4.5,
-    "lb_avg": 4.22,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
     "genres": [
@@ -9432,11 +9469,11 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:1.5, moviebuff501:1.0, skylerinthecine:0.5",
     "genres": [
-      "Science Fiction",
+      "Action",
       "Adventure",
-      "Action"
+      "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/tn6gDIrQMwHSivF01igLfbggmYD.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg",
     "variance": 0.1667
   },
   {
@@ -9476,7 +9513,7 @@
     "year": 1983,
     "letterboxd_uri": "https://boxd.it/29uC",
     "avg_rating": 4.0,
-    "lb_avg": 3.88,
+    "lb_avg": 3.87,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:4.5",
     "genres": [
@@ -9568,7 +9605,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/Glua",
     "avg_rating": 2.5,
-    "lb_avg": 3.38,
+    "lb_avg": 3.37,
     "rater_count": 3,
     "breakdown": "memoriesomovies:2.0, moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
@@ -9592,7 +9629,7 @@
       "Romance",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
     "variance": 0.1667
   },
   {
@@ -9600,7 +9637,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/p6nO",
     "avg_rating": 2.0,
-    "lb_avg": 2.48,
+    "lb_avg": 2.47,
     "rater_count": 3,
     "breakdown": "moviebuff501:1.5, paityne:2.0, skylerinthecine:2.5",
     "genres": [
@@ -9721,7 +9758,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/28MA",
     "avg_rating": 4.7,
-    "lb_avg": 4.34,
+    "lb_avg": null,
     "rater_count": 5,
     "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:5.0, skylerinthecine:4.5",
     "genres": [
@@ -9737,7 +9774,7 @@
     "year": 1978,
     "letterboxd_uri": "https://boxd.it/2wRu",
     "avg_rating": 4.3,
-    "lb_avg": 3.76,
+    "lb_avg": 3.75,
     "rater_count": 5,
     "breakdown": "lukecharlier:5.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -9873,7 +9910,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/mMAY",
     "avg_rating": 2.5,
-    "lb_avg": 2.34,
+    "lb_avg": 2.33,
     "rater_count": 7,
     "breakdown": "batmatt208:2.5, big_brant:3.0, lukecharlier:2.5, memoriesomovies:2.0, moviebuff501:3.0, paityne:2.5, skylerinthecine:2.0",
     "genres": [
@@ -9904,7 +9941,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/jhxe",
     "avg_rating": 3.9,
-    "lb_avg": 3.75,
+    "lb_avg": 3.74,
     "rater_count": 5,
     "breakdown": "batmatt208:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:4.5",
     "genres": [
@@ -10001,13 +10038,13 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/l7zS",
     "avg_rating": 3.6,
-    "lb_avg": 3.69,
+    "lb_avg": 3.68,
     "rater_count": 5,
     "breakdown": "batmatt208:3.0, lukecharlier:4.0, memoriesomovies:3.5, moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
       "Action",
-      "Thriller",
-      "Adventure"
+      "Adventure",
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
     "variance": 0.14
@@ -10120,7 +10157,7 @@
       "Crime",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
     "variance": 0.14
   },
   {
@@ -10191,7 +10228,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/a5fa",
     "avg_rating": 4.4,
-    "lb_avg": 4.13,
+    "lb_avg": 4.12,
     "rater_count": 5,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:5.0, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -10265,7 +10302,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/ikHu",
     "avg_rating": 1.83,
-    "lb_avg": 2.57,
+    "lb_avg": 2.58,
     "rater_count": 6,
     "breakdown": "batmatt208:1.5, big_brant:2.5, lukecharlier:2.0, memoriesomovies:2.0, moviebuff501:1.5, skylerinthecine:1.5",
     "genres": [
@@ -10280,7 +10317,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/v2h0",
     "avg_rating": 3.67,
-    "lb_avg": 3.41,
+    "lb_avg": 3.4,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.0",
     "genres": [
@@ -10371,7 +10408,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Da9k",
     "avg_rating": 3.79,
-    "lb_avg": 3.28,
+    "lb_avg": 3.27,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.0, paityne:3.0, skylerinthecine:3.5",
     "genres": [
@@ -10559,8 +10596,8 @@
     "breakdown": "batmatt208:4.5, memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:4.0",
     "genres": [
       "Animation",
-      "Drama",
-      "Comedy"
+      "Comedy",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
     "variance": 0.125
@@ -10617,7 +10654,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/2DjO",
     "avg_rating": 4.5,
-    "lb_avg": 4.17,
+    "lb_avg": 4.16,
     "rater_count": 4,
     "breakdown": "big_brant:5.0, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -10688,7 +10725,7 @@
       "Adventure",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/2mnK5VtjzYRWvQB1zLhZWtAJwzk.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cFQEO687n1K6umXbInzocxcnAQz.jpg",
     "variance": 0.125
   },
   {
@@ -10704,7 +10741,7 @@
       "Adventure",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
     "variance": 0.125
   },
   {
@@ -10720,7 +10757,7 @@
       "Thriller",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
     "variance": 0.125
   },
   {
@@ -10804,7 +10841,7 @@
     "year": 2003,
     "letterboxd_uri": "https://boxd.it/70w",
     "avg_rating": 4.5,
-    "lb_avg": 4.22,
+    "lb_avg": 4.21,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, paityne:5.0, skylerinthecine:4.5",
     "genres": [
@@ -10860,7 +10897,7 @@
       "Drama",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/dsEoTJKM1s5OVDkS2P2JdoTxo4K.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
     "variance": 0.125
   },
   {
@@ -10934,6 +10971,7 @@
     "breakdown": "batmatt208:3.0, big_brant:3.0, lukecharlier:3.5, memoriesomovies:3.5, moviebuff501:3.5, paityne:4.0, skylerinthecine:3.0",
     "genres": [
       "Horror",
+      "Drama",
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
@@ -10984,7 +11022,7 @@
       "Romance",
       "History"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
     "variance": 0.1224
   },
   {
@@ -11043,7 +11081,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/pUfA",
     "avg_rating": 4.08,
-    "lb_avg": 4.38,
+    "lb_avg": 4.37,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:3.5",
     "genres": [
@@ -11091,7 +11129,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/MwlA",
     "avg_rating": 3.58,
-    "lb_avg": 3.85,
+    "lb_avg": 3.84,
     "rater_count": 6,
     "breakdown": "batmatt208:3.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -11159,8 +11197,8 @@
     "rater_count": 7,
     "breakdown": "batmatt208:4.5, big_brant:4.5, lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:4.0, paityne:4.5, skylerinthecine:5.0",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
     "variance": 0.102
@@ -11194,7 +11232,7 @@
       "History",
       "Action"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
     "variance": 0.102
   },
   {
@@ -11202,7 +11240,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/Off0",
     "avg_rating": 4.57,
-    "lb_avg": 4.07,
+    "lb_avg": 4.06,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.5, lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -11390,7 +11428,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/kOf0",
     "avg_rating": 3.25,
-    "lb_avg": 3.5,
+    "lb_avg": 3.49,
     "rater_count": 4,
     "breakdown": "batmatt208:3.5, memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -11470,10 +11508,10 @@
     "rater_count": 2,
     "breakdown": "batmatt208:2.0, moviebuff501:1.5",
     "genres": [
-      "Family",
+      "Animation",
       "Comedy",
-      "Adventure",
-      "Animation"
+      "Family",
+      "Adventure"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
     "variance": 0.0625
@@ -11580,7 +11618,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/lCXG",
     "avg_rating": 1.25,
-    "lb_avg": 2.05,
+    "lb_avg": 2.06,
     "rater_count": 2,
     "breakdown": "batmatt208:1.0, moviebuff501:1.5",
     "genres": [
@@ -11596,7 +11634,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/e0qK",
     "avg_rating": 2.75,
-    "lb_avg": 2.81,
+    "lb_avg": 2.82,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, lukecharlier:3.0, moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
@@ -11657,7 +11695,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/eXZY",
     "avg_rating": 1.75,
-    "lb_avg": 2.79,
+    "lb_avg": 2.8,
     "rater_count": 2,
     "breakdown": "batmatt208:1.5, skylerinthecine:2.0",
     "genres": [
@@ -11673,7 +11711,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/gLhu",
     "avg_rating": 3.25,
-    "lb_avg": 3.51,
+    "lb_avg": 3.52,
     "rater_count": 4,
     "breakdown": "batmatt208:3.0, memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -11744,7 +11782,7 @@
       "Comedy",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/6iFBzZ3LjmlE83pHok03Z9QPkAB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
     "variance": 0.0625
   },
   {
@@ -11933,7 +11971,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/J2Za",
     "avg_rating": 2.75,
-    "lb_avg": 3.34,
+    "lb_avg": 3.35,
     "rater_count": 2,
     "breakdown": "batmatt208:2.5, paityne:3.0",
     "genres": [],
@@ -11974,7 +12012,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/YqXW",
     "avg_rating": 1.75,
-    "lb_avg": 3.04,
+    "lb_avg": 3.03,
     "rater_count": 2,
     "breakdown": "batmatt208:1.5, skylerinthecine:2.0",
     "genres": [],
@@ -11986,7 +12024,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/GdtI",
     "avg_rating": 2.75,
-    "lb_avg": 3.17,
+    "lb_avg": 3.15,
     "rater_count": 2,
     "breakdown": "batmatt208:3.0, moviebuff501:2.5",
     "genres": [
@@ -12002,7 +12040,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/JuhA",
     "avg_rating": 3.75,
-    "lb_avg": 3.36,
+    "lb_avg": 3.33,
     "rater_count": 6,
     "breakdown": "batmatt208:3.5, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:4.0",
     "genres": [
@@ -12010,7 +12048,7 @@
       "Thriller",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
     "variance": 0.0625
   },
   {
@@ -12035,7 +12073,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/HG9a",
     "avg_rating": 4.25,
-    "lb_avg": 4.3,
+    "lb_avg": 4.28,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -12068,7 +12106,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/uvFS",
     "avg_rating": 3.75,
-    "lb_avg": 3.93,
+    "lb_avg": 3.92,
     "rater_count": 2,
     "breakdown": "big_brant:4.0, moviebuff501:3.5",
     "genres": [
@@ -12121,7 +12159,8 @@
     "breakdown": "lukecharlier:2.5, skylerinthecine:3.0",
     "genres": [
       "Horror",
-      "Mystery"
+      "Mystery",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
     "variance": 0.0625
@@ -12233,7 +12272,7 @@
       "Science Fiction",
       "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
     "variance": 0.0625
   },
   {
@@ -12367,7 +12406,7 @@
     "year": 2008,
     "letterboxd_uri": "https://boxd.it/2aR8",
     "avg_rating": 2.75,
-    "lb_avg": 2.78,
+    "lb_avg": 2.79,
     "rater_count": 4,
     "breakdown": "lukecharlier:2.5, memoriesomovies:3.0, moviebuff501:2.5, skylerinthecine:3.0",
     "genres": [
@@ -12396,7 +12435,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/3GNa",
     "avg_rating": 2.75,
-    "lb_avg": 3.5,
+    "lb_avg": 3.51,
     "rater_count": 2,
     "breakdown": "lukecharlier:2.5, skylerinthecine:3.0",
     "genres": [
@@ -12405,7 +12444,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
     "variance": 0.0625
   },
   {
@@ -12448,7 +12487,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/2agQ",
     "avg_rating": 4.25,
-    "lb_avg": 3.73,
+    "lb_avg": 3.72,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -12568,7 +12607,7 @@
     "year": 1996,
     "letterboxd_uri": "https://boxd.it/2aHM",
     "avg_rating": 4.25,
-    "lb_avg": 4.15,
+    "lb_avg": 4.14,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -12741,14 +12780,14 @@
     "year": 2004,
     "letterboxd_uri": "https://boxd.it/1VNg",
     "avg_rating": 4.25,
-    "lb_avg": 3.82,
+    "lb_avg": 3.81,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, paityne:4.5, skylerinthecine:4.5",
     "genres": [
       "Drama",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/fXm3YKXAEjx7d2tIWDg9TfRZtsU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/dOD99br6a65QHC6i2jjl7A2Bsul.jpg",
     "variance": 0.0625
   },
   {
@@ -12760,7 +12799,8 @@
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
-      "Drama"
+      "Drama",
+      "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
     "variance": 0.0625
@@ -12867,7 +12907,7 @@
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/dHjA",
     "avg_rating": 2.75,
-    "lb_avg": 3.14,
+    "lb_avg": 3.15,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, moviebuff501:2.5",
     "genres": [
@@ -13032,7 +13072,7 @@
       "Drama",
       "Family"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/4Are9oV8HjZQWnEajk9LYFxRWom.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/FWJbhAPdwiwKhUaAyz841jpYa1.jpg",
     "variance": 0.0625
   },
   {
@@ -13137,10 +13177,10 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
+      "Action",
       "Fantasy",
       "Horror",
       "Thriller",
-      "Action",
       "Western"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg",
@@ -13307,7 +13347,7 @@
       "Drama",
       "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/69Zp4pyDFnvYDoL5maZjtktxuAe.jpg",
     "variance": 0.0625
   },
   {
@@ -13405,7 +13445,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/a890",
     "avg_rating": 3.25,
-    "lb_avg": 3.63,
+    "lb_avg": 3.62,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
@@ -13598,38 +13638,6 @@
     "variance": 0.0625
   },
   {
-    "movie_name": "The Ladykillers",
-    "year": 2004,
-    "letterboxd_uri": "https://boxd.it/22Z4",
-    "avg_rating": 1.75,
-    "lb_avg": 2.89,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:2.0, skylerinthecine:1.5",
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "Intolerable Cruelty",
-    "year": 2003,
-    "letterboxd_uri": "https://boxd.it/1T7i",
-    "avg_rating": 2.75,
-    "lb_avg": 3.04,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:2.5, skylerinthecine:3.0",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/7K8hDwOWsZv0MluyrB8nWlhJOgB.jpg",
-    "variance": 0.0625
-  },
-  {
     "movie_name": "Bad Boys II",
     "year": 2003,
     "letterboxd_uri": "https://boxd.it/1ZuW",
@@ -13675,20 +13683,6 @@
       "Action"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "Werckmeister Harmonies",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/1zzw",
-    "avg_rating": 4.25,
-    "lb_avg": 4.31,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/ix3pquGqTkCW86UbVTdRcrhGEFm.jpg",
     "variance": 0.0625
   },
   {
@@ -13748,22 +13742,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "Barton Fink",
-    "year": 1991,
-    "letterboxd_uri": "https://boxd.it/2aFQ",
-    "avg_rating": 4.25,
-    "lb_avg": 4.06,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
     "variance": 0.0625
   },
   {
@@ -13883,7 +13861,8 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "genres": [
-      "Drama"
+      "Drama",
+      "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4arnTs41WSLWsnENWdljFKo0pu1.jpg",
     "variance": 0.0625
@@ -13950,7 +13929,7 @@
     "year": 1962,
     "letterboxd_uri": "https://boxd.it/29Ag",
     "avg_rating": 3.25,
-    "lb_avg": 3.44,
+    "lb_avg": 3.43,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, skylerinthecine:3.5",
     "genres": [
@@ -14002,7 +13981,7 @@
       "Comedy",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/yYlx0msjh4E74syleTXueWIOxC9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/Q9wdlNjBOti4JhAjAQXphzShw3.jpg",
     "variance": 0.0625
   },
   {
@@ -14010,7 +13989,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/npKI",
     "avg_rating": 2.75,
-    "lb_avg": 2.46,
+    "lb_avg": 2.47,
     "rater_count": 4,
     "breakdown": "memoriesomovies:2.5, moviebuff501:2.5, paityne:3.0, skylerinthecine:3.0",
     "genres": [
@@ -14032,8 +14011,7 @@
     "genres": [
       "Animation",
       "Science Fiction",
-      "Drama",
-      "Music"
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
     "variance": 0.0625
@@ -14200,7 +14178,8 @@
     "breakdown": "memoriesomovies:3.0, skylerinthecine:3.5",
     "genres": [
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
     "variance": 0.0625
@@ -14296,7 +14275,7 @@
     "genres": [
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/6tk0xmn9k5HjUeXsnhxIa94sFXP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
     "variance": 0.0625
   },
   {
@@ -14304,7 +14283,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/16aC",
     "avg_rating": 2.25,
-    "lb_avg": 2.81,
+    "lb_avg": 2.82,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, moviebuff501:2.5",
     "genres": [
@@ -14366,7 +14345,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1fUa",
     "avg_rating": 2.75,
-    "lb_avg": 3.31,
+    "lb_avg": 3.32,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, skylerinthecine:2.5",
     "genres": [
@@ -14457,7 +14436,7 @@
     "year": 1953,
     "letterboxd_uri": "https://boxd.it/1Zta",
     "avg_rating": 3.25,
-    "lb_avg": 3.4,
+    "lb_avg": 3.39,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.0, moviebuff501:3.5",
     "genres": [
@@ -14488,17 +14467,17 @@
     "year": 2005,
     "letterboxd_uri": "https://boxd.it/1UVS",
     "avg_rating": 3.25,
-    "lb_avg": 3.46,
+    "lb_avg": 3.47,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
     "genres": [
       "Animation",
       "Comedy",
-      "Family",
       "Crime",
+      "Family",
       "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/kwPl1AKX4BLxrh5PCkrwYWeEV5I.jpg",
     "variance": 0.0625
   },
   {
@@ -14579,7 +14558,7 @@
       "Adventure",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/eImY0cjbH0bll8EXSqxqEZIZcmY.jpg",
     "variance": 0.0625
   },
   {
@@ -14662,7 +14641,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/7DWQ",
     "avg_rating": 0.75,
-    "lb_avg": 2.2,
+    "lb_avg": 2.21,
     "rater_count": 2,
     "breakdown": "memoriesomovies:0.5, moviebuff501:1.0",
     "genres": [
@@ -14893,7 +14872,7 @@
     "year": 1995,
     "letterboxd_uri": "https://boxd.it/2a5o",
     "avg_rating": 4.25,
-    "lb_avg": 3.64,
+    "lb_avg": 3.63,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "genres": [
@@ -14909,7 +14888,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/3mDa",
     "avg_rating": 4.25,
-    "lb_avg": 3.6,
+    "lb_avg": 3.59,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
     "genres": [
@@ -14970,7 +14949,7 @@
     "year": 2005,
     "letterboxd_uri": "https://boxd.it/2amY",
     "avg_rating": 4.75,
-    "lb_avg": 4.06,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:5.0",
     "genres": [
@@ -15085,8 +15064,10 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:3.5",
     "genres": [
+      "Thriller",
       "Crime",
-      "Thriller"
+      "Drama",
+      "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/n0xQThLhrymktXzQbD0KwwUMXSB.jpg",
     "variance": 0.0625
@@ -15096,7 +15077,7 @@
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/20gG",
     "avg_rating": 1.75,
-    "lb_avg": 2.69,
+    "lb_avg": 2.7,
     "rater_count": 2,
     "breakdown": "memoriesomovies:1.5, moviebuff501:2.0",
     "genres": [
@@ -15208,7 +15189,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/eCrQ",
     "avg_rating": 4.75,
-    "lb_avg": 4.51,
+    "lb_avg": 4.52,
     "rater_count": 2,
     "breakdown": "memoriesomovies:5.0, moviebuff501:4.5",
     "genres": [
@@ -15442,7 +15423,7 @@
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/29yY",
     "avg_rating": 2.25,
-    "lb_avg": 2.97,
+    "lb_avg": 2.98,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:2.5",
     "genres": [
@@ -15460,7 +15441,7 @@
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/1M50",
     "avg_rating": 2.25,
-    "lb_avg": 2.93,
+    "lb_avg": 2.94,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:2.0",
     "genres": [
@@ -15578,7 +15559,7 @@
     "genres": [
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/bIhyzBgVNgGI3mYh9tI1Ayx5bWB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fB9lALk9zKsMYWvf0bJSkJN219Z.jpg",
     "variance": 0.0625
   },
   {
@@ -15652,7 +15633,7 @@
     "year": 1988,
     "letterboxd_uri": "https://boxd.it/29ry",
     "avg_rating": 4.25,
-    "lb_avg": 3.98,
+    "lb_avg": 3.97,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.5, skylerinthecine:4.0",
     "genres": [
@@ -15772,7 +15753,8 @@
     "genres": [
       "Animation",
       "Family",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
     "variance": 0.0625
@@ -15794,7 +15776,7 @@
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/2a3s",
     "avg_rating": 3.25,
-    "lb_avg": 3.86,
+    "lb_avg": 3.87,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -15824,7 +15806,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/x1OG",
     "avg_rating": 3.75,
-    "lb_avg": 3.73,
+    "lb_avg": 3.72,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -15979,9 +15961,9 @@
     "breakdown": "moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
       "Animation",
-      "Fantasy",
       "Drama",
-      "Family"
+      "Family",
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
     "variance": 0.0625
@@ -16162,7 +16144,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/yv7Y",
     "avg_rating": 3.75,
-    "lb_avg": 3.82,
+    "lb_avg": 3.81,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -16202,8 +16184,9 @@
       "Animation",
       "Family",
       "Fantasy",
+      "Adventure",
       "Science Fiction",
-      "Adventure"
+      "Action"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/2NQljeavtfl22207D1kxLpa4LS3.jpg",
     "variance": 0.0625
@@ -16213,7 +16196,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/FPsm",
     "avg_rating": 4.25,
-    "lb_avg": 4.24,
+    "lb_avg": 4.23,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [],
@@ -16341,8 +16324,9 @@
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
       "Comedy",
+      "Fantasy",
       "Horror",
-      "Fantasy"
+      "Music"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
     "variance": 0.0625
@@ -16352,7 +16336,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/Cl0c",
     "avg_rating": 3.25,
-    "lb_avg": 3.52,
+    "lb_avg": 3.53,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -16367,7 +16351,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/MxG",
     "avg_rating": 3.75,
-    "lb_avg": 3.78,
+    "lb_avg": 3.77,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -16470,7 +16454,7 @@
     "year": 1983,
     "letterboxd_uri": "https://boxd.it/2b7g",
     "avg_rating": 3.75,
-    "lb_avg": 4.15,
+    "lb_avg": 4.14,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, paityne:3.5",
     "genres": [
@@ -16529,7 +16513,7 @@
       "Adventure",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg",
     "variance": 0.0625
   },
   {
@@ -16660,7 +16644,7 @@
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/2b8S",
     "avg_rating": 3.25,
-    "lb_avg": 4.01,
+    "lb_avg": 4.0,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -16714,7 +16698,7 @@
       "Romance",
       "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/jSxCIZXudp5q8wQO8VERGX8hRAl.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/4ZbUxjY5DZ7RCxGwvzSEr4rThd1.jpg",
     "variance": 0.0625
   },
   {
@@ -16832,7 +16816,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/L5Km",
     "avg_rating": 2.75,
-    "lb_avg": 3.23,
+    "lb_avg": 3.22,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:2.5",
     "genres": [
@@ -16925,7 +16909,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/1Z40",
     "avg_rating": 2.75,
-    "lb_avg": 3.15,
+    "lb_avg": 3.16,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:3.0",
     "genres": [
@@ -16986,7 +16970,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/5a9w",
     "avg_rating": 3.25,
-    "lb_avg": 3.71,
+    "lb_avg": 3.7,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
@@ -17043,22 +17027,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/qFpfALhprXmOAbA5upTNupZw8rq.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "The Wiz",
-    "year": 1978,
-    "letterboxd_uri": "https://boxd.it/1wG0",
-    "avg_rating": 2.75,
-    "lb_avg": 3.47,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:2.5, skylerinthecine:3.0",
-    "genres": [
-      "Music",
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
     "variance": 0.0625
   },
   {
@@ -17124,7 +17092,7 @@
       "Romance",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/dkauRl9TosBFikftrC3OVcKWDoz.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
     "variance": 0.0625
   },
   {
@@ -17139,7 +17107,7 @@
       "Drama",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/2j7dxqIlGHdTaaUW9s4Z5zfp9qS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/g8xrpXJWzz91R4jL8ybMKMValB2.jpg",
     "variance": 0.0625
   },
   {
@@ -17215,7 +17183,7 @@
       "Drama",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
     "variance": 0.0625
   },
   {
@@ -17508,6 +17476,21 @@
     "variance": 0.0625
   },
   {
+    "movie_name": "Wuthering Heights",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/1YRU",
+    "avg_rating": 3.75,
+    "lb_avg": 3.2,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:3.5",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/7gEcoCve3lmPOIPRp54K73b6rDv.jpg",
+    "variance": 0.0625
+  },
+  {
     "movie_name": "Bodies Bodies Bodies",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/iRcE",
@@ -17518,7 +17501,7 @@
     "genres": [
       "Comedy",
       "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
     "variance": 0.0612
@@ -17528,7 +17511,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/zld0",
     "avg_rating": 4.29,
-    "lb_avg": 3.83,
+    "lb_avg": 3.82,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.5, memoriesomovies:4.0, moviebuff501:4.5, paityne:4.5, skylerinthecine:4.5",
     "genres": [
@@ -17619,7 +17602,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/kiYC",
     "avg_rating": 3.8,
-    "lb_avg": 3.74,
+    "lb_avg": 3.73,
     "rater_count": 5,
     "breakdown": "batmatt208:4.0, lukecharlier:4.0, moviebuff501:3.5, paityne:3.5, skylerinthecine:4.0",
     "genres": [
@@ -17679,7 +17662,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/LcIC",
     "avg_rating": 3.2,
-    "lb_avg": 2.76,
+    "lb_avg": 2.75,
     "rater_count": 5,
     "breakdown": "batmatt208:3.0, big_brant:3.0, memoriesomovies:3.5, moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
@@ -17812,7 +17795,6 @@
     "rater_count": 3,
     "breakdown": "batmatt208:4.0, memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
-      "Thriller",
       "Drama",
       "Horror",
       "Music"
@@ -17825,7 +17807,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/s1Ym",
     "avg_rating": 4.17,
-    "lb_avg": 4.24,
+    "lb_avg": 4.23,
     "rater_count": 3,
     "breakdown": "batmatt208:4.0, paityne:4.5, skylerinthecine:4.0",
     "genres": [
@@ -17869,7 +17851,7 @@
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/ta4a",
     "avg_rating": 4.67,
-    "lb_avg": 4.1,
+    "lb_avg": 4.09,
     "rater_count": 3,
     "breakdown": "batmatt208:4.5, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [],
@@ -17927,7 +17909,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/j36o",
     "avg_rating": 2.67,
-    "lb_avg": 2.69,
+    "lb_avg": 2.68,
     "rater_count": 6,
     "breakdown": "batmatt208:2.5, lukecharlier:3.0, memoriesomovies:2.5, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.0",
     "genres": [
@@ -17974,7 +17956,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/hTha",
     "avg_rating": 4.83,
-    "lb_avg": 4.53,
+    "lb_avg": 4.52,
     "rater_count": 6,
     "breakdown": "batmatt208:5.0, lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:5.0, paityne:4.5, skylerinthecine:5.0",
     "genres": [
@@ -18139,7 +18121,7 @@
   },
   {
     "movie_name": "Hundreds of Beavers",
-    "year": 2022,
+    "year": 2024,
     "letterboxd_uri": "https://boxd.it/CyUM",
     "avg_rating": 4.17,
     "lb_avg": 4.13,
@@ -18158,7 +18140,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/CWPw",
     "avg_rating": 3.83,
-    "lb_avg": 3.32,
+    "lb_avg": 3.31,
     "rater_count": 6,
     "breakdown": "batmatt208:3.5, lukecharlier:4.0, memoriesomovies:3.5, moviebuff501:4.0, paityne:4.0, skylerinthecine:4.0",
     "genres": [
@@ -18219,7 +18201,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/zscS",
     "avg_rating": 1.83,
-    "lb_avg": 3.01,
+    "lb_avg": 3.02,
     "rater_count": 3,
     "breakdown": "batmatt208:2.0, moviebuff501:2.0, skylerinthecine:1.5",
     "genres": [
@@ -18259,25 +18241,11 @@
     "variance": 0.0556
   },
   {
-    "movie_name": "Pizza Movie",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/Vvtc",
-    "avg_rating": 3.17,
-    "lb_avg": 3.02,
-    "rater_count": 3,
-    "breakdown": "batmatt208:3.5, moviebuff501:3.0, skylerinthecine:3.0",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg",
-    "variance": 0.0556
-  },
-  {
     "movie_name": "Toy Story 3",
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1WRe",
     "avg_rating": 4.67,
-    "lb_avg": 4.02,
+    "lb_avg": 4.01,
     "rater_count": 3,
     "breakdown": "big_brant:5.0, lukecharlier:4.5, skylerinthecine:4.5",
     "genres": [
@@ -18526,7 +18494,7 @@
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/201Q",
     "avg_rating": 4.33,
-    "lb_avg": 4.23,
+    "lb_avg": 4.22,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.0, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -18591,7 +18559,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/glS",
     "avg_rating": 3.83,
-    "lb_avg": 3.93,
+    "lb_avg": 3.92,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.0, moviebuff501:3.5, skylerinthecine:4.0",
     "genres": [
@@ -18814,7 +18782,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/BLQQ",
     "avg_rating": 2.67,
-    "lb_avg": 2.72,
+    "lb_avg": 2.71,
     "rater_count": 3,
     "breakdown": "lukecharlier:2.5, moviebuff501:3.0, paityne:2.5",
     "genres": [
@@ -18986,13 +18954,13 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:3.5",
     "genres": [
-      "Animation",
-      "Family",
-      "Fantasy",
+      "Action",
       "Adventure",
-      "Comedy"
+      "Animation",
+      "Comedy",
+      "Family"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
     "variance": 0.0556
   },
   {
@@ -19071,7 +19039,7 @@
       "Drama",
       "War"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/v3XKSMRIXYwETiRQOTwL4MP1BIo.jpg",
     "variance": 0.0556
   },
   {
@@ -19095,7 +19063,7 @@
     "year": 2008,
     "letterboxd_uri": "https://boxd.it/1S0A",
     "avg_rating": 4.17,
-    "lb_avg": 4.13,
+    "lb_avg": 4.12,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.5",
     "genres": [
@@ -19307,7 +19275,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/bDG2",
     "avg_rating": 4.17,
-    "lb_avg": 3.67,
+    "lb_avg": 3.66,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -19340,7 +19308,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/6hQu",
     "avg_rating": 4.33,
-    "lb_avg": 4.07,
+    "lb_avg": 4.06,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, paityne:4.5, skylerinthecine:4.5",
     "genres": [
@@ -19601,7 +19569,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/29cS",
     "avg_rating": 2.67,
-    "lb_avg": 2.67,
+    "lb_avg": 2.68,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.0, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -19709,7 +19677,7 @@
     "year": 1989,
     "letterboxd_uri": "https://boxd.it/1JAY",
     "avg_rating": 4.83,
-    "lb_avg": 4.15,
+    "lb_avg": 4.14,
     "rater_count": 3,
     "breakdown": "memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [
@@ -19772,7 +19740,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/iJQc",
     "avg_rating": 2.33,
-    "lb_avg": 2.98,
+    "lb_avg": 2.99,
     "rater_count": 3,
     "breakdown": "memoriesomovies:2.0, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -19925,7 +19893,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/cRk2",
     "avg_rating": 4.67,
-    "lb_avg": 3.88,
+    "lb_avg": 3.87,
     "rater_count": 3,
     "breakdown": "memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -19987,7 +19955,7 @@
     "year": 1979,
     "letterboxd_uri": "https://boxd.it/6ZS",
     "avg_rating": 4.83,
-    "lb_avg": 4.44,
+    "lb_avg": 4.43,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:5.0, skylerinthecine:5.0",
     "genres": [
@@ -20113,7 +20081,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/s9E",
     "avg_rating": 0.67,
-    "lb_avg": 2.62,
+    "lb_avg": 2.63,
     "rater_count": 3,
     "breakdown": "memoriesomovies:0.5, moviebuff501:1.0, skylerinthecine:0.5",
     "genres": [
@@ -20258,7 +20226,7 @@
     "genres": [
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/u6GYH4HyR0BVwpqFuTOc2g4KB1L.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg",
     "variance": 0.0556
   },
   {
@@ -20285,9 +20253,9 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
+      "Drama",
       "Crime",
-      "Thriller",
-      "Drama"
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
     "variance": 0.0556
@@ -20375,7 +20343,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/geR0",
     "avg_rating": 0.67,
-    "lb_avg": 1.71,
+    "lb_avg": 1.72,
     "rater_count": 3,
     "breakdown": "memoriesomovies:1.0, moviebuff501:0.5, skylerinthecine:0.5",
     "genres": [
@@ -20501,7 +20469,7 @@
       "Drama",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cW1T0oQcyVfcRR0e4cevno9Zc2h.jpg",
     "variance": 0.0556
   },
   {
@@ -20578,7 +20546,7 @@
       "Drama",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
     "variance": 0.0556
   },
   {
@@ -20590,7 +20558,6 @@
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
-      "Adventure",
       "Action",
       "Thriller",
       "Science Fiction"
@@ -20650,7 +20617,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/N008",
     "avg_rating": 3.83,
-    "lb_avg": 3.26,
+    "lb_avg": 3.25,
     "rater_count": 3,
     "breakdown": "batmatt208:4.0, memoriesomovies:3.5, skylerinthecine:4.0",
     "genres": [
@@ -20682,7 +20649,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/9twC",
     "avg_rating": 1.17,
-    "lb_avg": 2.45,
+    "lb_avg": 2.44,
     "rater_count": 3,
     "breakdown": "memoriesomovies:1.0, moviebuff501:1.5, skylerinthecine:1.0",
     "genres": [
@@ -20756,19 +20723,19 @@
     "variance": 0.0556
   },
   {
-    "movie_name": "The Sheep Detectives",
+    "movie_name": "Mother Mary",
     "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
-    "avg_rating": 3.33,
-    "lb_avg": 3.83,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
+    "avg_rating": 2.33,
+    "lb_avg": 2.93,
     "rater_count": 3,
-    "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.0",
+    "breakdown": "batmatt208:2.0, moviebuff501:2.5, paityne:2.5",
     "genres": [
-      "Comedy",
-      "Family",
-      "Mystery"
+      "Music",
+      "Drama",
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
     "variance": 0.0556
   },
   {
@@ -20776,7 +20743,7 @@
     "year": 2026,
     "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hokum/",
     "avg_rating": 3.17,
-    "lb_avg": 3.45,
+    "lb_avg": 3.4,
     "rater_count": 3,
     "breakdown": "moviebuff501:3.5, paityne:3.0, skylerinthecine:3.0",
     "genres": [
@@ -20852,7 +20819,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/DUHM",
     "avg_rating": 4.86,
-    "lb_avg": 4.15,
+    "lb_avg": 4.14,
     "rater_count": 7,
     "breakdown": "batmatt208:5.0, big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.5, moviebuff501:4.5, paityne:5.0, skylerinthecine:5.0",
     "genres": [
@@ -20917,7 +20884,7 @@
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/gdK8",
     "avg_rating": 2.62,
-    "lb_avg": 2.92,
+    "lb_avg": 2.93,
     "rater_count": 4,
     "breakdown": "batmatt208:2.5, lukecharlier:3.0, memoriesomovies:2.5, moviebuff501:2.5",
     "genres": [
@@ -21031,7 +20998,7 @@
     "breakdown": "batmatt208:4.0, memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
       "Action",
-      "Adventure",
+      "History",
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
@@ -21125,8 +21092,7 @@
     "breakdown": "batmatt208:3.5, memoriesomovies:4.0, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
       "Comedy",
-      "Drama",
-      "Thriller"
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
     "variance": 0.0469
@@ -21184,7 +21150,7 @@
     "year": 1941,
     "letterboxd_uri": "https://boxd.it/71O",
     "avg_rating": 4.88,
-    "lb_avg": 4.19,
+    "lb_avg": 4.18,
     "rater_count": 4,
     "breakdown": "big_brant:5.0, memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:5.0",
     "genres": [
@@ -21199,7 +21165,7 @@
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/eOCm",
     "avg_rating": 4.38,
-    "lb_avg": 4.14,
+    "lb_avg": 4.13,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -21496,7 +21462,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/azpY",
     "avg_rating": 4.38,
-    "lb_avg": 4.4,
+    "lb_avg": 4.39,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.0, skylerinthecine:4.5",
     "genres": [
@@ -21551,7 +21517,7 @@
       "Drama",
       "Crime"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/y0HmDV0bZDTtXWHqqYYbT9XoshB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
     "variance": 0.0469
   },
   {
@@ -21590,7 +21556,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/3C1m",
     "avg_rating": 4.12,
-    "lb_avg": 4.0,
+    "lb_avg": 3.99,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:4.0",
     "genres": [
@@ -21714,7 +21680,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/2awE",
     "avg_rating": 3.88,
-    "lb_avg": 3.83,
+    "lb_avg": 3.82,
     "rater_count": 4,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, paityne:3.5, skylerinthecine:4.0",
     "genres": [
@@ -21729,14 +21695,14 @@
     "year": 2026,
     "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
     "avg_rating": 3.12,
-    "lb_avg": 3.24,
+    "lb_avg": 3.21,
     "rater_count": 4,
     "breakdown": "lukecharlier:3.0, moviebuff501:3.0, paityne:3.5, skylerinthecine:3.0",
     "genres": [
       "Comedy",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
     "variance": 0.0469
   },
   {
@@ -21779,11 +21745,11 @@
     "rater_count": 5,
     "breakdown": "batmatt208:3.0, big_brant:3.0, memoriesomovies:3.0, moviebuff501:3.5, skylerinthecine:3.0",
     "genres": [
-      "Animation",
-      "Family",
-      "Fantasy",
       "Adventure",
-      "Comedy"
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
     "variance": 0.04
@@ -21877,7 +21843,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/OFpg",
     "avg_rating": 3.6,
-    "lb_avg": 3.77,
+    "lb_avg": 3.76,
     "rater_count": 5,
     "breakdown": "batmatt208:4.0, memoriesomovies:3.5, moviebuff501:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -21895,7 +21861,7 @@
     "year": 2004,
     "letterboxd_uri": "https://boxd.it/1XLm",
     "avg_rating": 4.9,
-    "lb_avg": 4.07,
+    "lb_avg": 4.06,
     "rater_count": 5,
     "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:5.0, moviebuff501:5.0, skylerinthecine:4.5",
     "genres": [
@@ -21930,7 +21896,7 @@
     "year": 1989,
     "letterboxd_uri": "https://boxd.it/2baO",
     "avg_rating": 4.6,
-    "lb_avg": 4.11,
+    "lb_avg": 4.1,
     "rater_count": 5,
     "breakdown": "big_brant:5.0, lukecharlier:4.5, memoriesomovies:4.5, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -21952,7 +21918,7 @@
       "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/lzp5K0IVklSAAvyId6TRGTqxZSX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
     "variance": 0.04
   },
   {
@@ -22006,7 +21972,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/b8wA",
     "avg_rating": 2.1,
-    "lb_avg": 2.96,
+    "lb_avg": 2.97,
     "rater_count": 5,
     "breakdown": "lukecharlier:2.0, memoriesomovies:2.0, moviebuff501:2.0, paityne:2.0, skylerinthecine:2.5",
     "genres": [
@@ -22050,7 +22016,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/wMjI",
     "avg_rating": 2.6,
-    "lb_avg": 2.87,
+    "lb_avg": 2.86,
     "rater_count": 5,
     "breakdown": "lukecharlier:2.5, memoriesomovies:2.5, moviebuff501:2.5, paityne:2.5, skylerinthecine:3.0",
     "genres": [
@@ -22074,20 +22040,6 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
-    "variance": 0.04
-  },
-  {
-    "movie_name": "Obsession",
-    "year": 2025,
-    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
-    "avg_rating": 4.1,
-    "lb_avg": 4.19,
-    "rater_count": 5,
-    "breakdown": "batmatt208:4.0, lukecharlier:4.0, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.0",
-    "genres": [
-      "Thriller"
-    ],
-    "poster": null,
     "variance": 0.04
   },
   {
@@ -22124,7 +22076,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/wBOq",
     "avg_rating": 3.58,
-    "lb_avg": 3.29,
+    "lb_avg": 3.3,
     "rater_count": 6,
     "breakdown": "batmatt208:3.5, big_brant:3.5, lukecharlier:4.0, memoriesomovies:3.5, paityne:3.5, skylerinthecine:3.5",
     "genres": [
@@ -22156,7 +22108,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/uAKS",
     "avg_rating": 3.92,
-    "lb_avg": 3.78,
+    "lb_avg": 3.77,
     "rater_count": 6,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:3.5",
     "genres": [
@@ -22202,7 +22154,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/q1Dk",
     "avg_rating": 3.93,
-    "lb_avg": 3.56,
+    "lb_avg": 3.55,
     "rater_count": 7,
     "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:3.5, paityne:4.0, skylerinthecine:4.0",
     "genres": [
@@ -22313,7 +22265,7 @@
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/k8Xk",
     "avg_rating": 3.0,
-    "lb_avg": 3.69,
+    "lb_avg": 3.7,
     "rater_count": 2,
     "breakdown": "batmatt208:3.0, skylerinthecine:3.0",
     "genres": [
@@ -22333,8 +22285,7 @@
     "breakdown": "batmatt208:1.5, moviebuff501:1.5",
     "genres": [
       "Science Fiction",
-      "Horror",
-      "Action"
+      "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
     "variance": 0.0
@@ -22386,7 +22337,7 @@
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/opUg",
     "avg_rating": 3.5,
-    "lb_avg": 3.55,
+    "lb_avg": 3.54,
     "rater_count": 4,
     "breakdown": "batmatt208:3.5, big_brant:3.5, lukecharlier:3.5, paityne:3.5",
     "genres": [
@@ -22453,7 +22404,9 @@
     "breakdown": "batmatt208:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
       "Comedy",
-      "Fantasy"
+      "Fantasy",
+      "Adventure",
+      "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
     "variance": 0.0
@@ -22544,7 +22497,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/CVIk",
     "avg_rating": 3.5,
-    "lb_avg": 3.47,
+    "lb_avg": 3.46,
     "rater_count": 2,
     "breakdown": "batmatt208:3.5, skylerinthecine:3.5",
     "genres": [
@@ -22593,8 +22546,7 @@
     "breakdown": "batmatt208:2.5, memoriesomovies:2.5",
     "genres": [
       "Adventure",
-      "Comedy",
-      "Horror"
+      "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
     "variance": 0.0
@@ -22609,12 +22561,11 @@
     "breakdown": "batmatt208:4.0, skylerinthecine:4.0",
     "genres": [
       "Science Fiction",
-      "Thriller",
+      "Mystery",
       "Horror",
-      "Drama",
-      "Mystery"
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/6J4lPto3rjlHZwhIhCy9cOWNnqb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
     "variance": 0.0
   },
   {
@@ -22753,7 +22704,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/hNVe",
     "avg_rating": 4.5,
-    "lb_avg": 3.93,
+    "lb_avg": 3.92,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5, skylerinthecine:4.5",
     "genres": [
@@ -22972,7 +22923,7 @@
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/8tfY",
     "avg_rating": 4.0,
-    "lb_avg": 3.72,
+    "lb_avg": 3.71,
     "rater_count": 3,
     "breakdown": "lukecharlier:4.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -23097,7 +23048,7 @@
       "War",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xgb30M1wL4nibyFvlHh3w4XlDYq.jpg",
     "variance": 0.0
   },
   {
@@ -23187,7 +23138,7 @@
     "genres": [
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
     "variance": 0.0
   },
   {
@@ -23219,7 +23170,7 @@
       "Action",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
     "variance": 0.0
   },
   {
@@ -23273,7 +23224,7 @@
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/29Pq",
     "avg_rating": 4.5,
-    "lb_avg": 4.24,
+    "lb_avg": 4.23,
     "rater_count": 4,
     "breakdown": "lukecharlier:4.5, memoriesomovies:4.5, paityne:4.5, skylerinthecine:4.5",
     "genres": [
@@ -23393,7 +23344,6 @@
     "genres": [
       "Adventure",
       "Action",
-      "Thriller",
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
@@ -23471,8 +23421,8 @@
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
       "Comedy",
-      "Music",
-      "Family"
+      "Family",
+      "Music"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
     "variance": 0.0
@@ -23531,7 +23481,7 @@
     "year": 2012,
     "letterboxd_uri": "https://boxd.it/3wEC",
     "avg_rating": 4.0,
-    "lb_avg": 4.29,
+    "lb_avg": 4.28,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -23648,7 +23598,7 @@
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/jUjA",
     "avg_rating": 2.5,
-    "lb_avg": 3.16,
+    "lb_avg": 3.17,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.5, moviebuff501:2.5",
     "genres": [
@@ -23715,10 +23665,11 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
-      "Science Fiction",
-      "Adventure"
+      "Crime",
+      "Thriller",
+      "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/583rpyMn8UL8F2oH26Sz6WoKDDe.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
     "variance": 0.0
   },
   {
@@ -23955,7 +23906,7 @@
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/24as",
     "avg_rating": 3.5,
-    "lb_avg": 3.86,
+    "lb_avg": 3.85,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -23971,7 +23922,7 @@
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/1Y2i",
     "avg_rating": 4.5,
-    "lb_avg": 4.3,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -23979,7 +23930,7 @@
       "Thriller",
       "Action"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
     "variance": 0.0
   },
   {
@@ -24018,7 +23969,7 @@
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/1XV2",
     "avg_rating": 4.0,
-    "lb_avg": 3.68,
+    "lb_avg": 3.67,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -24122,22 +24073,6 @@
     "variance": 0.0
   },
   {
-    "movie_name": "The Hudsucker Proxy",
-    "year": 1994,
-    "letterboxd_uri": "https://boxd.it/1SJA",
-    "avg_rating": 4.0,
-    "lb_avg": 3.72,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
-    "variance": 0.0
-  },
-  {
     "movie_name": "Three Colours: White",
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/2b7A",
@@ -24238,7 +24173,7 @@
     "year": 1985,
     "letterboxd_uri": "https://boxd.it/1LeA",
     "avg_rating": 4.0,
-    "lb_avg": 4.09,
+    "lb_avg": 4.08,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -24343,7 +24278,7 @@
     "year": 1986,
     "letterboxd_uri": "https://boxd.it/1YIe",
     "avg_rating": 4.5,
-    "lb_avg": 4.0,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -24413,7 +24348,7 @@
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/4Xg0",
     "avg_rating": 2.0,
-    "lb_avg": 2.76,
+    "lb_avg": 2.77,
     "rater_count": 2,
     "breakdown": "memoriesomovies:2.0, skylerinthecine:2.0",
     "genres": [
@@ -24679,7 +24614,7 @@
     "year": 1948,
     "letterboxd_uri": "https://boxd.it/28yo",
     "avg_rating": 4.5,
-    "lb_avg": 4.14,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -24821,7 +24756,7 @@
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/CNkk",
     "avg_rating": 4.0,
-    "lb_avg": 3.48,
+    "lb_avg": 3.49,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, moviebuff501:4.0",
     "genres": [
@@ -24849,7 +24784,7 @@
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/97TE",
     "avg_rating": 4.5,
-    "lb_avg": 3.84,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -24882,7 +24817,7 @@
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/5RFA",
     "avg_rating": 4.5,
-    "lb_avg": 4.0,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -24932,9 +24867,9 @@
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
+      "Animation",
       "Science Fiction",
-      "Thriller",
-      "Animation"
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
     "variance": 0.0
@@ -24982,7 +24917,6 @@
       "Action",
       "Animation",
       "Comedy",
-      "Drama",
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
@@ -25085,7 +25019,7 @@
     "year": 1976,
     "letterboxd_uri": "https://boxd.it/29NO",
     "avg_rating": 4.5,
-    "lb_avg": 3.52,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -25180,7 +25114,7 @@
     "year": 2004,
     "letterboxd_uri": "https://boxd.it/29Qy",
     "avg_rating": 4.5,
-    "lb_avg": 4.14,
+    "lb_avg": null,
     "rater_count": 3,
     "breakdown": "memoriesomovies:4.5, moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -25210,7 +25144,7 @@
     "year": 1999,
     "letterboxd_uri": "https://boxd.it/1HMI",
     "avg_rating": 4.5,
-    "lb_avg": 4.17,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
@@ -25261,7 +25195,8 @@
     "genres": [
       "Animation",
       "Family",
-      "Comedy"
+      "Comedy",
+      "Action"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
     "variance": 0.0
@@ -25379,7 +25314,7 @@
     "year": 2001,
     "letterboxd_uri": "https://boxd.it/2aZm",
     "avg_rating": 4.0,
-    "lb_avg": 3.94,
+    "lb_avg": 3.93,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
     "genres": [
@@ -25394,7 +25329,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/McHG",
     "avg_rating": 3.5,
-    "lb_avg": 3.59,
+    "lb_avg": 3.58,
     "rater_count": 3,
     "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -25440,14 +25375,14 @@
     "year": 1927,
     "letterboxd_uri": "https://boxd.it/29Xk",
     "avg_rating": 4.5,
-    "lb_avg": 4.18,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "memoriesomovies:4.5, skylerinthecine:4.5",
     "genres": [
       "Drama",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/5V9jDm4u2QemGHbqjUyP5HmFmzf.jpg",
     "variance": 0.0
   },
   {
@@ -25673,7 +25608,8 @@
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
       "Comedy",
-      "Drama"
+      "Drama",
+      "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/qKP7hVdjAAvRvbF3GBCbzi5LzMf.jpg",
     "variance": 0.0
@@ -25698,7 +25634,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/HSw6",
     "avg_rating": 2.5,
-    "lb_avg": 2.85,
+    "lb_avg": 2.83,
     "rater_count": 3,
     "breakdown": "memoriesomovies:2.5, moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -25746,7 +25682,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/gm2",
     "avg_rating": 3.5,
-    "lb_avg": 3.77,
+    "lb_avg": 3.78,
     "rater_count": 2,
     "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
     "genres": [
@@ -25962,7 +25898,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/2pQu",
     "avg_rating": 0.5,
-    "lb_avg": 1.58,
+    "lb_avg": 1.59,
     "rater_count": 2,
     "breakdown": "moviebuff501:0.5, skylerinthecine:0.5",
     "genres": [
@@ -26087,7 +26023,7 @@
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/9ru0",
     "avg_rating": 3.0,
-    "lb_avg": 2.76,
+    "lb_avg": 2.77,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
     "genres": [
@@ -26118,7 +26054,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/iT56",
     "avg_rating": 2.0,
-    "lb_avg": 2.43,
+    "lb_avg": 2.44,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.0, skylerinthecine:2.0",
     "genres": [
@@ -26134,7 +26070,7 @@
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/lSCY",
     "avg_rating": 1.0,
-    "lb_avg": 1.54,
+    "lb_avg": 1.55,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:1.0",
     "genres": [
@@ -26150,7 +26086,7 @@
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/2adM",
     "avg_rating": 4.5,
-    "lb_avg": 4.03,
+    "lb_avg": null,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.5, skylerinthecine:4.5",
     "genres": [
@@ -26198,7 +26134,7 @@
     "year": 2010,
     "letterboxd_uri": "https://boxd.it/1WRo",
     "avg_rating": 2.5,
-    "lb_avg": 3.0,
+    "lb_avg": 3.01,
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
@@ -26216,7 +26152,7 @@
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/QN4",
     "avg_rating": 1.0,
-    "lb_avg": 1.6,
+    "lb_avg": 1.61,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.0, skylerinthecine:1.0",
     "genres": [
@@ -27065,7 +27001,7 @@
       "Drama",
       "Action"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
     "variance": 0.0
   },
   {
@@ -27256,7 +27192,7 @@
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/K5dU",
     "avg_rating": 4.0,
-    "lb_avg": 4.02,
+    "lb_avg": 4.03,
     "rater_count": 2,
     "breakdown": "moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
@@ -27545,11 +27481,27 @@
     "variance": 0.0
   },
   {
+    "movie_name": "Dead Man's Wire",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/M8wu",
+    "avg_rating": 3.5,
+    "lb_avg": 3.41,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.5, skylerinthecine:3.5",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
+    "variance": 0.0
+  },
+  {
     "movie_name": "Predator: Badlands",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/LeK6",
     "avg_rating": 3.5,
-    "lb_avg": 3.5,
+    "lb_avg": 3.49,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -27574,6 +27526,21 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+    "variance": 0.0
+  },
+  {
+    "movie_name": "Now You See Me: Now You Don't",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/f3i2",
+    "avg_rating": 3.0,
+    "lb_avg": 2.94,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
     "variance": 0.0
   },
   {
@@ -27661,8 +27628,8 @@
     "rater_count": 2,
     "breakdown": "moviebuff501:2.5, skylerinthecine:2.5",
     "genres": [
-      "Thriller",
-      "History"
+      "Drama",
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
     "variance": 0.0
@@ -27672,7 +27639,7 @@
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/N6Pw",
     "avg_rating": 3.5,
-    "lb_avg": 3.54,
+    "lb_avg": 3.53,
     "rater_count": 2,
     "breakdown": "moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
@@ -27734,7 +27701,7 @@
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/KzPa",
     "avg_rating": 1.5,
-    "lb_avg": 2.9,
+    "lb_avg": 2.89,
     "rater_count": 2,
     "breakdown": "moviebuff501:1.5, skylerinthecine:1.5",
     "genres": [
@@ -27793,18 +27760,19 @@
     "variance": 0.0
   },
   {
-    "movie_name": "Ghost World",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/28Dy",
-    "avg_rating": 4.0,
-    "lb_avg": 3.58,
-    "rater_count": 2,
-    "breakdown": "paityne:4.0, skylerinthecine:4.0",
+    "movie_name": "The Sheep Detectives",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
+    "avg_rating": 3.5,
+    "lb_avg": 3.81,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:3.5",
     "genres": [
       "Comedy",
-      "Drama"
+      "Family",
+      "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w92/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
     "variance": 0.0
   },
   {
