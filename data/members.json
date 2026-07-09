@@ -1,12 +1,12 @@
 [
   {
     "username": "batmatt208",
-    "rating_count": 460,
+    "rating_count": 465,
     "profile_url": "https://letterboxd.com/batmatt208/",
     "latest": {
-      "name": "Backrooms",
+      "name": "Jackass: Best and Last",
       "rating": 2.5,
-      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "uri": "https://letterboxd.com/batmatt208/film/jackass-best-and-last/",
       "source": "rss"
     }
   },
@@ -24,56 +24,56 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 524,
+    "rating_count": 526,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "Backrooms",
-      "rating": 4.0,
-      "uri": "https://letterboxd.com/lukecharlier/film/backrooms-2026/",
+      "name": "Scary Movie",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/scary-movie-2026/",
       "source": "rss"
     }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1515,
+    "rating_count": 1525,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "Terminator 2: Judgment Day",
-      "rating": 5.0,
-      "uri": "https://letterboxd.com/memoriesomovies/film/terminator-2-judgment-day/3/",
+      "name": "The Invite",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-invite-2026/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1641,
+    "rating_count": 1647,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Scary Movie",
-      "rating": 1.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-2026/",
+      "name": "Army of Darkness",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/army-of-darkness/",
       "source": "rss"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 374,
+    "rating_count": 380,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "Mulholland Drive",
-      "rating": 5.0,
-      "uri": "https://letterboxd.com/paityne/film/mulholland-drive/",
+      "name": "Welcome to the Dollhouse",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/welcome-to-the-dollhouse/",
       "source": "rss"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3238,
+    "rating_count": 3234,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Tomboy",
-      "rating": 4.5,
-      "uri": "https://letterboxd.com/skylerinthecine/film/tomboy-2011/",
+      "name": "Smiley Face",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/smiley-face/",
       "source": "rss"
     }
   }
