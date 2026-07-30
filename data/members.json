@@ -1,12 +1,12 @@
 [
   {
     "username": "batmatt208",
-    "rating_count": 465,
+    "rating_count": 469,
     "profile_url": "https://letterboxd.com/batmatt208/",
     "latest": {
-      "name": "Jackass: Best and Last",
-      "rating": 2.5,
-      "uri": "https://letterboxd.com/batmatt208/film/jackass-best-and-last/",
+      "name": "BlackBerry",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/blackberry-2023/",
       "source": "rss"
     }
   },
@@ -24,56 +24,56 @@
   },
   {
     "username": "lukecharlier",
-    "rating_count": 526,
+    "rating_count": 532,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
-      "name": "Scary Movie",
-      "rating": 1.5,
-      "uri": "https://letterboxd.com/lukecharlier/film/scary-movie-2026/",
+      "name": "Operation Avalanche",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/operation-avalanche/",
       "source": "rss"
     }
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1525,
+    "rating_count": 1531,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "The Invite",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/memoriesomovies/film/the-invite-2026/",
+      "name": "The Doom Generation",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-doom-generation/",
       "source": "rss"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1647,
+    "rating_count": 1645,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Army of Darkness",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/moviebuff501/film/army-of-darkness/",
+      "name": "Spider-Man: Brand New Day",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/spider-man-brand-new-day/",
       "source": "rss"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 380,
+    "rating_count": 382,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "Welcome to the Dollhouse",
-      "rating": 3.5,
-      "uri": "https://letterboxd.com/paityne/film/welcome-to-the-dollhouse/",
+      "name": "The Invite",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/paityne/film/the-invite-2026/",
       "source": "rss"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3234,
+    "rating_count": 3231,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Smiley Face",
+      "name": "Vivre Sa Vie",
       "rating": 4.0,
-      "uri": "https://letterboxd.com/skylerinthecine/film/smiley-face/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/vivre-sa-vie/",
       "source": "rss"
     }
   }
