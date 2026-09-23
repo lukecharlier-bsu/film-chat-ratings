@@ -844,12 +844,30 @@ if __name__ == "__main__":
     if RSS_HISTORY_FILE.exists():
         rss_history = json.loads(RSS_HISTORY_FILE.read_text(encoding="utf-8"))
 
+    # One-time migration: tag entries whose dates match known backfill commit dates.
+    # These were written by backfill_from_top.py before source tagging was added.
+    _COMMIT_DATES = {
+        "2026-04-15", "2026-04-16", "2026-04-19", "2026-04-20", "2026-04-22",
+        "2026-04-27", "2026-05-03", "2026-05-04", "2026-05-22", "2026-06-05",
+        "2026-07-08", "2026-07-30", "2026-09-22", "2026-09-23",
+    }
+    _migration_count = 0
+    for _entries in rss_history.values():
+        for _e in _entries:
+            if _e.get("source") is None and _e.get("date") in _COMMIT_DATES:
+                _e["source"] = "backfill"
+                _migration_count += 1
+    if _migration_count:
+        print(f"  Tagged {_migration_count} legacy entries as backfill")
+
     for username, rss_entries in rss_diary.items():
         existing = {(e["name"].lower().strip(), e["year"]): e for e in rss_history.get(username, [])}
         for e in rss_entries:
             key = (e["name"].lower().strip(), e["year"])
+            # Tag live RSS entries so they're distinguishable from backfill
+            e_tagged = {**e, "source": "rss"}
             if key not in existing or (e["date"] and e["date"] > (existing[key].get("date") or "")):
-                existing[key] = e
+                existing[key] = e_tagged
         rss_history[username] = list(existing.values())
 
     RSS_HISTORY_FILE.write_text(json.dumps(rss_history, indent=2), encoding="utf-8")
@@ -878,17 +896,24 @@ if __name__ == "__main__":
                 movies[key]["uri"] = e["uri"]
 
             if name_lower in diary_by_name:
-                # Film already in diary — update rating, only fill date if missing
+                # Film already in diary from CSV — only fill date if CSV had none
                 existing = diary_by_name[name_lower]
                 existing["rating"] = e["rating"]
                 if not existing.get("date") and e.get("date") and not is_backfill:
                     existing["date"] = e["date"]
+                # Backfill dates are approximate commit dates — never overwrite a real date,
+                # and only use as a last resort when the entry has no date at all.
                 elif not existing.get("date") and e.get("date") and is_backfill:
-                    existing["date"] = e["date"]  # backfill as last resort
+                    existing["date"] = e["date"]
             else:
-                # New entry — only add if it's a real RSS entry OR has no CSV equivalent
-                diary.setdefault(username, []).append(e)
-                diary_by_name[name_lower] = e
+                # Film not in CSV — add from rss_history.
+                # For backfill entries, strip the fake commit date so it sorts to the bottom
+                # of the diary rather than appearing at the top with a misleading recent date.
+                diary_entry = dict(e)
+                if is_backfill:
+                    diary_entry["date"] = None
+                diary.setdefault(username, []).append(diary_entry)
+                diary_by_name[name_lower] = diary_entry
 
     # ── Deduplicate movies dict ──
     # Same film can end up under two keys if CSV year and rss_history year differ.
