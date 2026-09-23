@@ -217,6 +217,7 @@ def poll_rss(users: list[str], movies: dict, latest: dict) -> dict:
     anything, it just updates the dicts that were passed in.
     """
     rss_coverage = {}  # { username: {"from": "YYYY-MM-DD", "to": "YYYY-MM-DD"} }
+    rss_diary    = {}  # { username: [diary entries from RSS] }
 
     for username in users:
         rss_url = f"https://letterboxd.com/{username}/rss/"
@@ -303,8 +304,9 @@ def poll_rss(users: list[str], movies: dict, latest: dict) -> dict:
                     "source": "rss"
                 }
 
-            # Track RSS date range per user
+            # Track RSS date range per user + collect diary entry
             published = getattr(entry, "published_parsed", None)
+            date_str = None
             if published:
                 try:
                     date_str = datetime(*published[:3]).strftime("%Y-%m-%d")
@@ -318,7 +320,16 @@ def poll_rss(users: list[str], movies: dict, latest: dict) -> dict:
                 except Exception:
                     pass
 
-    return rss_coverage
+            rss_diary.setdefault(username, []).append({
+                "name":     movie_name,
+                "year":     year,
+                "date":     date_str,
+                "rating":   rating,
+                "uri":      uri,
+                "reviewed": False,  # RSS doesn't tell us if they wrote a review
+            })
+
+    return rss_coverage, rss_diary
 
 
 # ── Step 2b: Fetch global Letterboxd ratings ─────────────────────────────
@@ -823,8 +834,27 @@ if __name__ == "__main__":
 
     # ── Step 2: Fetch RSS feeds to add recent ratings ──
     print("Polling RSS feeds...")
-    rss_coverage = poll_rss(users, movies, latest)
+    rss_coverage, rss_diary = poll_rss(users, movies, latest)
     print(f"  {len(movies)} unique films after RSS merge")
+
+    # Merge RSS diary entries into the CSV diary.
+    # RSS wins for any film already in the CSV (more recent date/rating).
+    # Films only seen in RSS (not in any CSV) get appended as new entries.
+    for username, rss_entries in rss_diary.items():
+        csv_keys = {(e["name"].lower().strip(), e["year"]) for e in diary.get(username, [])}
+        for e in rss_entries:
+            key = (e["name"].lower().strip(), e["year"])
+            if key in csv_keys:
+                # Update the existing CSV entry with fresher RSS data
+                for csv_entry in diary.get(username, []):
+                    if (csv_entry["name"].lower().strip(), csv_entry["year"]) == key:
+                        csv_entry["date"]   = e["date"] or csv_entry["date"]
+                        csv_entry["rating"] = e["rating"]
+                        break
+            else:
+                # Film only in RSS — add it
+                diary.setdefault(username, []).append(e)
+                csv_keys.add(key)
 
     # ── Step 2b: Fetch TMDB metadata (year, genres, poster) ──
     print("Fetching TMDB metadata...")
