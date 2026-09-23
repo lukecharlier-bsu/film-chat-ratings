@@ -91,102 +91,88 @@ def username_from_folder(folder: Path) -> str:
     return match.group(1) if match else folder.name
 
 
-def load_csvs() -> tuple[dict, list[str], dict]:
+def load_csvs() -> tuple[dict, list[str], dict, dict]:
     """
     Scans RATINGS_DIR for all export subfolders and reads their ratings.csv files.
+    Also reads reviews.csv (if present) to flag which films each user has reviewed.
 
-    Returns three things (as a tuple):
-      movies — a dict of every film ever rated, keyed by (title, year).
-                Each entry contains the film's name, year, URI, and a dict
-                of { username: rating } for everyone who rated it.
-      users  — a list of all usernames found (one per export folder).
-      latest — a dict of { username: most_recent_rating } from the CSV.
-                This gets overwritten later by RSS data if available.
+    Returns four things:
+      movies  — dict of every film, keyed by (title, year)
+      users   — list of all usernames
+      latest  — dict of { username: most_recent_rating }
+      diary   — dict of { username: [{"name", "year", "date", "rating", "uri", "reviewed"}, ...] }
     """
-    movies: dict = {}   # will hold all films
-    users:  list = []   # will hold all usernames
-    latest: dict = {}   # will hold the most recent rating per user
+    movies: dict = {}
+    users:  list = []
+    latest: dict = {}
+    diary:  dict = {}
 
-    # sorted() makes the order consistent across runs.
-    # .iterdir() yields everything inside the folder — files and subfolders.
     for folder in sorted(RATINGS_DIR.iterdir()):
-
-        # Skip anything that isn't a subfolder (e.g. a stray .DS_Store file)
         if not folder.is_dir():
             continue
 
-        # Each export subfolder should contain a ratings.csv.
-        # The / operator on Path objects joins paths (like os.path.join).
         csv_path = folder / "ratings.csv"
         if not csv_path.exists():
             continue
 
         username = username_from_folder(folder)
         users.append(username)
+        diary[username] = []
 
-        # open() the file, then csv.DictReader turns each row into a dict.
-        # newline="" is required by the csv module on all platforms.
-        # encoding="utf-8" handles special characters in film titles.
+        # Load URIs of reviewed films from reviews.csv so we can flag them
+        reviewed_uris: set = set()
+        reviews_path = folder / "reviews.csv"
+        if reviews_path.exists():
+            with open(reviews_path, newline="", encoding="utf-8") as f:
+                for row in csv.DictReader(f):
+                    uri = row.get("Letterboxd URI", "").strip()
+                    if uri:
+                        reviewed_uris.add(uri)
+
         with open(csv_path, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
-
-                # .get(key, default) safely reads a value — returns the default
-                # if the key doesn't exist instead of crashing.
-                # .strip() removes leading/trailing whitespace.
                 uri        = row.get("Letterboxd URI", "").strip()
                 name       = row.get("Name", "").strip()
                 rating_str = row.get("Rating", "").strip()
 
-                # Skip rows missing any essential field.
-                # Some rows are watches without ratings — no rating_str.
                 if not uri or not name or not rating_str:
                     continue
 
-                # Convert the rating string to a float.
-                # float("3.5") → 3.5, float("4") → 4.0
-                # If it fails (unexpected value), skip this row.
                 try:
                     rating = float(rating_str)
                 except ValueError:
                     continue
 
                 year_str = row.get("Year", "").strip()
-                # .isdigit() returns True only for pure digit strings like "2021".
-                # This guards against empty strings or weird values.
                 year = int(year_str) if year_str.isdigit() else None
-
-                # "or None" converts empty string "" → None.
-                # "" is falsy in Python, so "" or None evaluates to None.
                 date = row.get("Date", "").strip() or None
 
-                # We use (lowercase title, year) as the unique key for each film.
-                # This is better than using the URI because the CSV uses short
-                # boxd.it links while RSS uses full film page URLs — same film,
-                # different URIs. Keying by title+year prevents duplicates.
                 key = (name.lower().strip(), year)
 
-                # If we haven't seen this film before, create a new entry.
-                # Otherwise we just add/update this user's rating below.
                 if key not in movies:
                     movies[key] = {"name": name, "year": year, "uri": uri, "ratings": {}}
 
-                # Store this user's rating for this film.
-                # If they rated it before (e.g. re-watched), this overwrites.
                 movies[key]["ratings"][username] = rating
 
-                # Letterboxd CSV exports are ordered newest-first.
-                # So the FIRST row we see for each user is their most recent rating.
-                # We save it as a fallback — RSS will override this later if available.
                 if username not in latest:
                     latest[username] = {
                         "name":   name,
                         "rating": rating,
                         "date":   date,
                         "uri":    uri,
-                        "source": "csv"   # tag so we know this came from the CSV
+                        "source": "csv"
                     }
 
-    return movies, users, latest
+                diary[username].append({
+                    "name":     name,
+                    "year":     year,
+                    "date":     date,
+                    "rating":   rating,
+                    "uri":      uri,
+                    "reviewed": uri in reviewed_uris,
+                })
+
+    return movies, users, latest, diary
 
 
 # ── Step 2: Poll RSS feeds ────────────────────────────────────────────────
@@ -740,6 +726,42 @@ def compute_deviations(movies: dict, lb_ratings: dict) -> list[dict]:
     return results
 
 
+def compute_diary(diary: dict, movies: dict) -> list[dict]:
+    """
+    Builds a flat list of all diary entries across all users, enriched with
+    TMDB poster/genres pulled from the movies dict.
+    Sorted by date descending (newest first).
+    """
+    # Build a lookup: (name_lower, year) → {poster, genres, tmdb_year}
+    tmdb_lookup = {}
+    for (name_lower, year), info in movies.items():
+        tmdb_lookup[(name_lower, year)] = {
+            "poster": info.get("poster"),
+            "genres": info.get("genres", []),
+            "tmdb_year": info.get("tmdb_year") or year,
+        }
+
+    entries = []
+    for username, user_entries in diary.items():
+        for e in user_entries:
+            key = (e["name"].lower().strip(), e["year"])
+            tmdb = tmdb_lookup.get(key, {})
+            entries.append({
+                "username": username,
+                "name":     e["name"],
+                "year":     tmdb.get("tmdb_year") or e["year"],
+                "date":     e["date"],
+                "rating":   e["rating"],
+                "uri":      e["uri"],
+                "reviewed": e["reviewed"],
+                "poster":   tmdb.get("poster"),
+                "genres":   tmdb.get("genres", []),
+            })
+
+    entries.sort(key=lambda x: x["date"] or "", reverse=True)
+    return entries
+
+
 def compute_members(users: list[str], movies: dict, latest: dict, rss_coverage: dict) -> list[dict]:
     """
     Builds the members list for the Members tab.
@@ -796,7 +818,7 @@ if __name__ == "__main__":
 
     # ── Step 1: Load all the CSV export files ──
     print("Loading CSVs...")
-    movies, users, latest = load_csvs()
+    movies, users, latest, diary = load_csvs()
     print(f"  {len(users)} members, {len(movies)} unique films from CSVs")
 
     # ── Step 2: Fetch RSS feeds to add recent ratings ──
@@ -818,6 +840,7 @@ if __name__ == "__main__":
     write_json(DATA_DIR / "controversial.json",   compute_controversial(movies, lb_ratings))
     write_json(DATA_DIR / "deviations.json",      compute_deviations(movies, lb_ratings))
     write_json(DATA_DIR / "members.json",         compute_members(users, movies, latest, rss_coverage))
+    write_json(DATA_DIR / "diary.json",           compute_diary(diary, movies))
     write_json(DATA_DIR / "meta.json", {
         # datetime.now(timezone.utc) gets the current time in UTC.
         # .strftime() formats it as a readable string like "2026-04-17 08:00 UTC".

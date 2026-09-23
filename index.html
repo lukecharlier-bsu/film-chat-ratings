@@ -187,6 +187,7 @@
     <button class="tab-btn active" data-tab="top">Top 100</button>
     <button class="tab-btn" data-tab="controversial">Most Controversial</button>
     <button class="tab-btn" data-tab="vsworld">vs. World</button>
+    <button class="tab-btn" data-tab="diary">Diary</button>
     <button class="tab-btn" data-tab="members">Members</button>
   </div>
 
@@ -258,6 +259,33 @@
     <div class="empty" id="vs-empty" style="display:none">No films found — LB ratings may still be loading.</div>
   </div>
 
+  <!-- ── DIARY TAB ─────────────────────────────────────────────────────── -->
+  <div id="tab-diary" style="display:none">
+    <div class="controls">
+      <label>Member:
+        <select id="diary-member">
+          <option value="">All members</option>
+        </select>
+      </label>
+      <label>Year: <input type="text" id="diary-year" placeholder="e.g. 2024 or 2020s" style="width:130px" /></label>
+      <label>Genre:
+        <select id="diary-genre">
+          <option value="">All genres</option>
+        </select>
+      </label>
+      <label><input type="checkbox" id="diary-reviewed-only"> Reviewed only</label>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th></th><th>Film</th><th>Year</th><th>Rating</th><th>Date</th><th>Reviewed?</th><th>Member</th></tr>
+        </thead>
+        <tbody id="diary-body"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="diary-empty" style="display:none">No entries match that filter.</div>
+  </div>
+
   <div id="tab-members" style="display:none">
     <div class="member-grid" id="member-grid"></div>
     <div class="empty" id="members-empty" style="display:none">No members yet.</div>
@@ -266,7 +294,7 @@
 
 <script>
   // ── Tab switching ──────────────────────────────────────────────────────
-  const tabs = { top: 'tab-top', controversial: 'tab-controversial', vsworld: 'tab-vsworld', members: 'tab-members' };
+  const tabs = { top: 'tab-top', controversial: 'tab-controversial', vsworld: 'tab-vsworld', diary: 'tab-diary', members: 'tab-members' };
 
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -292,9 +320,10 @@
   }
 
   // ── Data store — loaded once, filtered on demand ──────────────────────
-  let allTop = [];
-  let allCon = [];
-  let allVs  = [];
+  let allTop   = [];
+  let allCon   = [];
+  let allVs    = [];
+  let allDiary = [];
 
   function yearMatch(movie, input) {
     if (!input) return true;
@@ -377,6 +406,41 @@
     });
   }
 
+  function renderDiary() {
+    const member  = document.getElementById('diary-member').value;
+    const yearInput = document.getElementById('diary-year').value;
+    const genre   = document.getElementById('diary-genre').value;
+    const reviewedOnly = document.getElementById('diary-reviewed-only').checked;
+
+    const filtered = allDiary.filter(e => {
+      if (member && e.username !== member) return false;
+      if (!yearMatch(e, yearInput)) return false;
+      if (genre && !(e.genres || []).includes(genre)) return false;
+      if (reviewedOnly && !e.reviewed) return false;
+      return true;
+    }).slice(0, 200);
+
+    const body  = document.getElementById('diary-body');
+    const empty = document.getElementById('diary-empty');
+    body.innerHTML = '';
+    if (!filtered.length) { empty.style.display = ''; return; }
+    empty.style.display = 'none';
+
+    filtered.forEach(e => {
+      const dateStr = e.date ? new Date(e.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—';
+      body.insertAdjacentHTML('beforeend', `
+        <tr>
+          <td style="width:40px;padding:6px 8px">${posterHtml(e)}</td>
+          <td class="movie-title"><a href="${e.uri || '#'}" target="_blank">${e.name}</a></td>
+          <td class="year">${e.year || '—'}</td>
+          <td class="avg-rating">${starsHtml(e.rating)} <small>${e.rating}</small></td>
+          <td class="year">${dateStr}</td>
+          <td style="text-align:center">${e.reviewed ? '✓' : ''}</td>
+          <td class="year">${e.username}</td>
+        </tr>`);
+    });
+  }
+
   function renderCon() {
     const min = parseInt(document.getElementById('con-min-raters').value) || 2;
     const yearInput = document.getElementById('con-year').value;
@@ -409,19 +473,21 @@
 
   // ── Load data ──────────────────────────────────────────────────────────
   async function init() {
-    const [topData, conData, membersData, meta, vsData] = await Promise.all([
+    const [topData, conData, membersData, meta, vsData, diaryData] = await Promise.all([
       fetch('data/top.json').then(r => r.json()),
       fetch('data/controversial.json').then(r => r.json()),
       fetch('data/members.json').then(r => r.json()),
       fetch('data/meta.json').then(r => r.json()),
       fetch('data/deviations.json').then(r => r.json()).catch(() => []),
+      fetch('data/diary.json').then(r => r.json()).catch(() => []),
     ]);
 
     document.getElementById('meta').textContent = `Updated ${meta.last_updated}`;
 
-    allTop = topData;
-    allCon = conData;
-    allVs  = vsData;
+    allTop   = topData;
+    allCon   = conData;
+    allVs    = vsData;
+    allDiary = diaryData;
 
     // Set default min raters to majority of members
     const majority = Math.ceil(membersData.length / 2);
@@ -438,9 +504,18 @@
       blindspotSelect.appendChild(opt);
     });
 
+    // Populate diary member dropdown
+    const diaryMemberSel = document.getElementById('diary-member');
+    membersData.forEach(u => {
+      const opt = document.createElement('option');
+      opt.value = u.username;
+      opt.textContent = '@' + u.username;
+      diaryMemberSel.appendChild(opt);
+    });
+
     // Populate genre dropdowns from all unique genres across top data
     const allGenres = [...new Set(allTop.flatMap(m => m.genres || []))].sort();
-    ['top-genre', 'con-genre', 'vs-genre'].forEach(id => {
+    ['top-genre', 'con-genre', 'vs-genre', 'diary-genre'].forEach(id => {
       const sel = document.getElementById(id);
       allGenres.forEach(g => {
         const opt = document.createElement('option');
@@ -459,10 +534,15 @@
     document.getElementById('con-genre').addEventListener('change', renderCon);
     document.getElementById('vs-min-raters').addEventListener('input', renderVs);
     document.getElementById('vs-genre').addEventListener('change', renderVs);
+    document.getElementById('diary-member').addEventListener('change', renderDiary);
+    document.getElementById('diary-year').addEventListener('input', renderDiary);
+    document.getElementById('diary-genre').addEventListener('change', renderDiary);
+    document.getElementById('diary-reviewed-only').addEventListener('change', renderDiary);
 
     renderTop();
     renderCon();
     renderVs();
+    renderDiary();
 
     // Members (no filter needed)
     const grid = document.getElementById('member-grid');
