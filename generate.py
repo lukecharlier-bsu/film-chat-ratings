@@ -771,33 +771,23 @@ def compute_diary(diary: dict, movies: dict) -> list[dict]:
                 "approx":   approx,
             })
 
-    # Sort: real-dated entries first (newest → oldest), then approximate-dated entries,
-    # then undated. Within each group, sort by date descending.
-    def sort_key(x):
-        date = x["date"] or ""
-        if not date:
-            return (2, "")        # undated: last
-        if x.get("approx"):
-            return (1, date)      # backfill approx date: middle
-        return (0, date)          # real date: first
-
-    entries.sort(key=sort_key, reverse=False)
-    # Within each tier we want dates descending, so reverse date within each group
-    entries.sort(key=lambda x: (
-        2 if not x.get("date") else (1 if x.get("approx") else 0),
-        x["date"] or ""
-    ))
-    # Final sort: tier ascending (0=real first), date descending within tier
+    # Sort chronologically (newest first). For entries on the same date, real dates
+    # sort before approximate dates. Undated entries go last.
+    # Backfill entries appear inline in the timeline at their approximate date,
+    # rather than being exiled to the bottom — they fill the gap when nothing better exists.
     from functools import cmp_to_key
     def cmp(a, b):
-        ta = 2 if not a.get("date") else (1 if a.get("approx") else 0)
-        tb = 2 if not b.get("date") else (1 if b.get("approx") else 0)
-        if ta != tb:
-            return ta - tb   # lower tier (real) first
-        # Same tier: sort date descending
-        da, db = a.get("date") or "", b.get("date") or ""
-        if da > db: return -1
-        if da < db: return 1
+        da = a.get("date") or ""
+        db = b.get("date") or ""
+        if da != db:
+            # No date sorts last; otherwise newer first
+            if not da: return 1
+            if not db: return -1
+            return -1 if da > db else 1
+        # Same date: real before approx
+        aa, ab = a.get("approx", False), b.get("approx", False)
+        if aa != ab:
+            return 1 if aa else -1
         return 0
     entries.sort(key=cmp_to_key(cmp))
     return entries
