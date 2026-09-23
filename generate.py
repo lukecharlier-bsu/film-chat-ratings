@@ -744,20 +744,19 @@ def compute_diary(diary: dict, movies: dict) -> list[dict]:
     TMDB poster/genres pulled from the movies dict.
     Sorted by date descending (newest first).
     """
-    # Build a lookup: (name_lower, year) → {poster, genres, tmdb_year}
+    # Build a lookup by name only — year can differ between CSV/RSS/TMDB
     tmdb_lookup = {}
     for (name_lower, year), info in movies.items():
-        tmdb_lookup[(name_lower, year)] = {
-            "poster": info.get("poster"),
-            "genres": info.get("genres", []),
+        tmdb_lookup[name_lower] = {
+            "poster":    info.get("poster"),
+            "genres":    info.get("genres", []),
             "tmdb_year": info.get("tmdb_year") or year,
         }
 
     entries = []
     for username, user_entries in diary.items():
         for e in user_entries:
-            key = (e["name"].lower().strip(), e["year"])
-            tmdb = tmdb_lookup.get(key, {})
+            tmdb = tmdb_lookup.get(e["name"].lower().strip(), {})
             entries.append({
                 "username": username,
                 "name":     e["name"],
@@ -871,11 +870,13 @@ if __name__ == "__main__":
             if not movies[key]["uri"] and e.get("uri"):
                 movies[key]["uri"] = e["uri"]
 
-            # Update diary
+            # Update diary — never overwrite a real date with a backfill approximation
             if key in csv_keys:
                 for csv_entry in diary.get(username, []):
                     if (csv_entry["name"].lower().strip(), csv_entry["year"]) == key:
-                        csv_entry["date"]   = e["date"] or csv_entry["date"]
+                        # Only fill in date if the entry has none (backfill as last resort)
+                        if not csv_entry["date"] and e.get("date"):
+                            csv_entry["date"] = e["date"]
                         csv_entry["rating"] = e["rating"]
                         break
             else:
