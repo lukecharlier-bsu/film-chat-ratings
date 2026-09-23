@@ -857,31 +857,38 @@ if __name__ == "__main__":
     print(f"  RSS history: {total_rss} total entries across all users")
 
     # Merge full RSS history into both the diary AND the movies dict.
-    # Without this, rss_history entries show in the diary but not in group ratings.
+    # Match by name only (ignore year) to handle CSV/TMDB year mismatches.
+    # Date priority: CSV real date > RSS real date > backfill approximate date.
     for username, rss_entries in rss_history.items():
-        csv_keys = {(e["name"].lower().strip(), e["year"]) for e in diary.get(username, [])}
-        for e in rss_entries:
-            key = (e["name"].lower().strip(), e["year"])
+        # Build diary lookup by name_lower → entry (ignore year for matching)
+        diary_by_name = {}
+        for entry in diary.get(username, []):
+            diary_by_name[entry["name"].lower().strip()] = entry
 
-            # Update movies dict so group ratings include this rating
+        for e in rss_entries:
+            name_lower = e["name"].lower().strip()
+            key = (name_lower, e["year"])
+            is_backfill = e.get("source") == "backfill"
+
+            # Update movies dict so group ratings are included
             if key not in movies:
                 movies[key] = {"name": e["name"], "year": e["year"], "uri": e.get("uri", ""), "ratings": {}}
             movies[key]["ratings"][username] = e["rating"]
             if not movies[key]["uri"] and e.get("uri"):
                 movies[key]["uri"] = e["uri"]
 
-            # Update diary — never overwrite a real date with a backfill approximation
-            if key in csv_keys:
-                for csv_entry in diary.get(username, []):
-                    if (csv_entry["name"].lower().strip(), csv_entry["year"]) == key:
-                        # Only fill in date if the entry has none (backfill as last resort)
-                        if not csv_entry["date"] and e.get("date"):
-                            csv_entry["date"] = e["date"]
-                        csv_entry["rating"] = e["rating"]
-                        break
+            if name_lower in diary_by_name:
+                # Film already in diary — update rating, only fill date if missing
+                existing = diary_by_name[name_lower]
+                existing["rating"] = e["rating"]
+                if not existing.get("date") and e.get("date") and not is_backfill:
+                    existing["date"] = e["date"]
+                elif not existing.get("date") and e.get("date") and is_backfill:
+                    existing["date"] = e["date"]  # backfill as last resort
             else:
+                # New entry — only add if it's a real RSS entry OR has no CSV equivalent
                 diary.setdefault(username, []).append(e)
-                csv_keys.add(key)
+                diary_by_name[name_lower] = e
 
     # ── Deduplicate movies dict ──
     # Same film can end up under two keys if CSV year and rss_history year differ.
