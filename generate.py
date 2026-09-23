@@ -217,7 +217,7 @@ def parse_stars(title: str) -> float | None:
     # 0.5 if "½" in s else 0 is a ternary — adds 0.5 if there's a half star.
 
 
-def poll_rss(users: list[str], movies: dict, latest: dict):
+def poll_rss(users: list[str], movies: dict, latest: dict) -> dict:
     """
     Fetches every user's Letterboxd RSS feed and merges new ratings into movies.
 
@@ -230,6 +230,8 @@ def poll_rss(users: list[str], movies: dict, latest: dict):
     This function modifies movies and latest IN PLACE — it doesn't return
     anything, it just updates the dicts that were passed in.
     """
+    rss_coverage = {}  # { username: {"from": "YYYY-MM-DD", "to": "YYYY-MM-DD"} }
+
     for username in users:
         rss_url = f"https://letterboxd.com/{username}/rss/"
         print(f"  Polling {username}...")
@@ -314,6 +316,23 @@ def poll_rss(users: list[str], movies: dict, latest: dict):
                     "uri":    uri,
                     "source": "rss"
                 }
+
+            # Track RSS date range per user
+            published = getattr(entry, "published_parsed", None)
+            if published:
+                try:
+                    date_str = datetime(*published[:3]).strftime("%Y-%m-%d")
+                    if username not in rss_coverage:
+                        rss_coverage[username] = {"from": date_str, "to": date_str}
+                    else:
+                        if date_str < rss_coverage[username]["from"]:
+                            rss_coverage[username]["from"] = date_str
+                        if date_str > rss_coverage[username]["to"]:
+                            rss_coverage[username]["to"] = date_str
+                except Exception:
+                    pass
+
+    return rss_coverage
 
 
 # ── Step 2b: Fetch global Letterboxd ratings ─────────────────────────────
@@ -721,7 +740,7 @@ def compute_deviations(movies: dict, lb_ratings: dict) -> list[dict]:
     return results
 
 
-def compute_members(users: list[str], movies: dict, latest: dict) -> list[dict]:
+def compute_members(users: list[str], movies: dict, latest: dict, rss_coverage: dict) -> list[dict]:
     """
     Builds the members list for the Members tab.
 
@@ -745,6 +764,7 @@ def compute_members(users: list[str], movies: dict, latest: dict) -> list[dict]:
             "profile_url":   f"https://letterboxd.com/{u}/",
             # latest.get(u) returns the latest rating dict, or None if missing.
             "latest":        latest.get(u),
+            "rss_coverage":  rss_coverage.get(u),
         }
         for u in sorted(users)
     ]
@@ -781,7 +801,7 @@ if __name__ == "__main__":
 
     # ── Step 2: Fetch RSS feeds to add recent ratings ──
     print("Polling RSS feeds...")
-    poll_rss(users, movies, latest)
+    rss_coverage = poll_rss(users, movies, latest)
     print(f"  {len(movies)} unique films after RSS merge")
 
     # ── Step 2b: Fetch TMDB metadata (year, genres, poster) ──
@@ -797,7 +817,7 @@ if __name__ == "__main__":
     write_json(DATA_DIR / "top.json",            compute_top(movies, lb_ratings))
     write_json(DATA_DIR / "controversial.json",   compute_controversial(movies, lb_ratings))
     write_json(DATA_DIR / "deviations.json",      compute_deviations(movies, lb_ratings))
-    write_json(DATA_DIR / "members.json",         compute_members(users, movies, latest))
+    write_json(DATA_DIR / "members.json",         compute_members(users, movies, latest, rss_coverage))
     write_json(DATA_DIR / "meta.json", {
         # datetime.now(timezone.utc) gets the current time in UTC.
         # .strftime() formats it as a readable string like "2026-04-17 08:00 UTC".

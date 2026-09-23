@@ -32694,6 +32694,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
   },
   {
+    "movie_name": "The Man I Love",
+    "year": 2027,
+    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/the-man-i-love-2026/",
+    "avg_rating": 3.5,
+    "lb_avg": 3.27,
+    "rater_count": 1,
+    "breakdown": "memoriesomovies:3.5",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/p35Q85f9oMsCUwULGwoaXd6VQZY.jpg"
+  },
+  {
     "movie_name": "United 93",
     "year": 2006,
     "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/united-93/",
@@ -32748,17 +32762,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg"
-  },
-  {
-    "movie_name": "DTF St. Louis",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/dtf-st-louis/",
-    "avg_rating": 3.5,
-    "lb_avg": 3.78,
-    "rater_count": 1,
-    "breakdown": "moviebuff501:3.5",
-    "genres": [],
-    "poster": null
   },
   {
     "movie_name": "Smiley Face",

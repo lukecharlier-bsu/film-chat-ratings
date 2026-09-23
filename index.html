@@ -167,6 +167,7 @@
       align-self: flex-start;
     }
     .member-card .member-link:hover { text-decoration: underline; }
+    .member-card .member-coverage { font-size: 11px; color: var(--muted); padding-top: 4px; }
 
     /* vs. World deviation styles */
     .dev-pos { font-size: 16px; font-weight: 700; color: #4ade80; }
@@ -472,11 +473,16 @@
         const latestHtml = u.latest
           ? `<div class="member-latest">Last rated: <span class="member-latest-title">${u.latest.name}</span> ${starsHtml(u.latest.rating)}</div>`
           : '';
+        const fmt = d => new Date(d + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        const coverageHtml = u.rss_coverage
+          ? `<div class="member-coverage">RSS coverage: ${fmt(u.rss_coverage.from)} – ${fmt(u.rss_coverage.to)}</div>`
+          : '';
         grid.insertAdjacentHTML('beforeend', `
           <div class="member-card">
             <div class="member-name">@${u.username}</div>
             <div class="member-count">${u.rating_count.toLocaleString()} ratings</div>
             ${latestHtml}
+            ${coverageHtml}
             <a class="member-link" href="${u.profile_url}" target="_blank">letterboxd.com/${u.username} ↗</a>
           </div>`);
       });

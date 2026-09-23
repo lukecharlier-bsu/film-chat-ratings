@@ -41230,5 +41230,14 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/uQHej0cFJHwSuaENizIZpYtsuNa.jpg",
     "fetched": "2026-09-22"
+  },
+  "the man i love|2026": {
+    "tmdb_year": 2027,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/p35Q85f9oMsCUwULGwoaXd6VQZY.jpg",
+    "fetched": "2026-09-23"
   }
 }
