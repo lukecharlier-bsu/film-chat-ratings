@@ -1,0 +1,7144 @@
+{
+  "memoriesomovies": [
+    {
+      "name": "Piranha 3D",
+      "year": 2010,
+      "date": "2026-04-16",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/piranha-3d/",
+      "reviewed": false
+    },
+    {
+      "name": "Smiley Face",
+      "year": 2007,
+      "date": "2026-04-20",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+      "reviewed": false
+    },
+    {
+      "name": "La Notte",
+      "year": 1961,
+      "date": "2026-04-27",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/la-notte/",
+      "reviewed": false
+    },
+    {
+      "name": "A.I. Artificial Intelligence",
+      "year": 2001,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/29Ve",
+      "reviewed": false
+    },
+    {
+      "name": "Badlands",
+      "year": 1974,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/25Fm",
+      "reviewed": false
+    },
+    {
+      "name": "A Grand Day Out",
+      "year": 1990,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/2acu",
+      "reviewed": false
+    },
+    {
+      "name": "Scenes from a Marriage",
+      "year": 1974,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/rx6u",
+      "reviewed": false
+    },
+    {
+      "name": "Kill Bill: The Whole Bloody Affair",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/eCrQ",
+      "reviewed": false
+    },
+    {
+      "name": "Over the Garden Wall",
+      "year": 1934,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/eqFw",
+      "reviewed": false
+    },
+    {
+      "name": "Paris Is Burning",
+      "year": 1991,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1jzg",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Shiva Baby",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/oIv0",
+      "reviewed": false
+    },
+    {
+      "name": "Beau Travail",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1NI8",
+      "reviewed": false
+    },
+    {
+      "name": "Pink Flamingos",
+      "year": 1976,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/29NO",
+      "reviewed": false
+    },
+    {
+      "name": "After Life",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1HMI",
+      "reviewed": false
+    },
+    {
+      "name": "Welcome to the Dollhouse",
+      "year": 1996,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1TPO",
+      "reviewed": false
+    },
+    {
+      "name": "Enter the Void",
+      "year": 2010,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1dy2",
+      "reviewed": false
+    },
+    {
+      "name": "First Reformed",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/go9C",
+      "reviewed": false
+    },
+    {
+      "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "year": 1976,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/T18",
+      "reviewed": false
+    },
+    {
+      "name": "Perfect Blue",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1W7A",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/HG9a",
+      "reviewed": false
+    },
+    {
+      "name": "Werckmeister Harmonies",
+      "year": 2001,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1zzw",
+      "reviewed": false
+    },
+    {
+      "name": "Janet Planet",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/DdWu",
+      "reviewed": false
+    },
+    {
+      "name": "Raw",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/dLd2",
+      "reviewed": false
+    },
+    {
+      "name": "Frances Ha",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/41Xg",
+      "reviewed": false
+    },
+    {
+      "name": "The Witch",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/9X0m",
+      "reviewed": false
+    },
+    {
+      "name": "After Yang",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lx5a",
+      "reviewed": false
+    },
+    {
+      "name": "Casablanca",
+      "year": 1943,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/2aG0",
+      "reviewed": false
+    },
+    {
+      "name": "Lovers Rock",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/Cpn0",
+      "reviewed": false
+    },
+    {
+      "name": "Peppermint Candy",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/ZQc",
+      "reviewed": false
+    },
+    {
+      "name": "Spring Breakers",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/421s",
+      "reviewed": false
+    },
+    {
+      "name": "Waiting for the Light to Change",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CNkk",
+      "reviewed": false
+    },
+    {
+      "name": "Prince of Broadway",
+      "year": 2010,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/36oo",
+      "reviewed": false
+    },
+    {
+      "name": "Caught by the Tides",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/GZ4Q",
+      "reviewed": false
+    },
+    {
+      "name": "Eternally Younger Than Those Idiots",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/s5cw",
+      "reviewed": false
+    },
+    {
+      "name": "Marvelous and the Black Hole",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/pA06",
+      "reviewed": false
+    },
+    {
+      "name": "Night of the Kings",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/oAm0",
+      "reviewed": false
+    },
+    {
+      "name": "Krisha",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/ax4E",
+      "reviewed": false
+    },
+    {
+      "name": "The Conformist",
+      "year": 1971,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/20cE",
+      "reviewed": false
+    },
+    {
+      "name": "Saint Frances",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/l9w2",
+      "reviewed": false
+    },
+    {
+      "name": "Panic",
+      "year": 1947,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/UpU",
+      "reviewed": false
+    },
+    {
+      "name": "Jimi Plays Monterey",
+      "year": 1987,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1uCq",
+      "reviewed": false
+    },
+    {
+      "name": "High School",
+      "year": 1969,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/gkK",
+      "reviewed": false
+    },
+    {
+      "name": "Eephus",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/KzLW",
+      "reviewed": false
+    },
+    {
+      "name": "We're All Going to the World's Fair",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/tbmY",
+      "reviewed": false
+    },
+    {
+      "name": "Showing Up",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/tJ1q",
+      "reviewed": false
+    },
+    {
+      "name": "How to Blow Up a Pipeline",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/C69e",
+      "reviewed": false
+    },
+    {
+      "name": "Audition",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1UHm",
+      "reviewed": false
+    },
+    {
+      "name": "Sound of Metal",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/i7Q4",
+      "reviewed": false
+    },
+    {
+      "name": "Nomadland",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/lnRy",
+      "reviewed": false
+    },
+    {
+      "name": "Sing Sing",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/HIBA",
+      "reviewed": false
+    },
+    {
+      "name": "First Cow",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/krga",
+      "reviewed": false
+    },
+    {
+      "name": "The Assistant",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/neWo",
+      "reviewed": false
+    },
+    {
+      "name": "Viridiana",
+      "year": 1962,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/24eE",
+      "reviewed": false
+    },
+    {
+      "name": "Kingsman: The Secret Service",
+      "year": 2015,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/6dxe",
+      "reviewed": false
+    },
+    {
+      "name": "The Virgin Suicides",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/28JG",
+      "reviewed": false
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/wMAk",
+      "reviewed": false
+    },
+    {
+      "name": "Saint Maud",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/l8QA",
+      "reviewed": false
+    },
+    {
+      "name": "Hard Eight",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/20DU",
+      "reviewed": false
+    },
+    {
+      "name": "Blood Simple",
+      "year": 1985,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1U16",
+      "reviewed": false
+    },
+    {
+      "name": "Time",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/oiOA",
+      "reviewed": false
+    },
+    {
+      "name": "Cronos",
+      "year": 1993,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1TjS",
+      "reviewed": false
+    },
+    {
+      "name": "La Pointe Courte",
+      "year": 1956,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/ui4",
+      "reviewed": false
+    },
+    {
+      "name": "I Am Not Your Negro",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/etXy",
+      "reviewed": false
+    },
+    {
+      "name": "Dark Horse",
+      "year": 2012,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/2VCY",
+      "reviewed": false
+    },
+    {
+      "name": "River of Grass",
+      "year": 1995,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/3orq",
+      "reviewed": false
+    },
+    {
+      "name": "Vampire's Kiss",
+      "year": 1989,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/21aY",
+      "reviewed": false
+    },
+    {
+      "name": "Three Minutes: A Lengthening",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/wkUw",
+      "reviewed": false
+    },
+    {
+      "name": "Runner",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/C530",
+      "reviewed": false
+    },
+    {
+      "name": "Apples",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/ofco",
+      "reviewed": false
+    },
+    {
+      "name": "Brick",
+      "year": 2006,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1Z6A",
+      "reviewed": false
+    },
+    {
+      "name": "Tie Me Up! Tie Me Down!",
+      "year": 1990,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/26FW",
+      "reviewed": false
+    },
+    {
+      "name": "Zola",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/jEWQ",
+      "reviewed": false
+    },
+    {
+      "name": "The Black Phone",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/sqFE",
+      "reviewed": false
+    },
+    {
+      "name": "Who's That Knocking at My Door",
+      "year": 1968,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/Wgg",
+      "reviewed": false
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/ByDO",
+      "reviewed": false
+    },
+    {
+      "name": "A Quiet Place Part II",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/iTx0",
+      "reviewed": false
+    },
+    {
+      "name": "Gull",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/qpci",
+      "reviewed": false
+    },
+    {
+      "name": "Detention",
+      "year": 2012,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/2cHk",
+      "reviewed": false
+    },
+    {
+      "name": "Orgazmo",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1ZXO",
+      "reviewed": false
+    },
+    {
+      "name": "The Blackening",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/C6VM",
+      "reviewed": false
+    },
+    {
+      "name": "Habit",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1p4y",
+      "reviewed": false
+    },
+    {
+      "name": "The Life of Chuck",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/vMTu",
+      "reviewed": false
+    },
+    {
+      "name": "AGGRO DR1FT",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/HJrw",
+      "reviewed": false
+    },
+    {
+      "name": "Following",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/1Tj4",
+      "reviewed": false
+    },
+    {
+      "name": "Good Luck, Have Fun, Don't Die",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/Glua",
+      "reviewed": false
+    },
+    {
+      "name": "Daybreakers",
+      "year": 2010,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/1EnA",
+      "reviewed": false
+    },
+    {
+      "name": "S\u00f3lo con tu pareja",
+      "year": 1992,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/EK8",
+      "reviewed": false
+    },
+    {
+      "name": "I Stand Alone",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/28Au",
+      "reviewed": false
+    },
+    {
+      "name": "Lies",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/Qu2",
+      "reviewed": false
+    },
+    {
+      "name": "Fear and Desire",
+      "year": 1953,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/1WVq",
+      "reviewed": false
+    },
+    {
+      "name": "Shadow in the Cloud",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 1.0,
+      "uri": "https://boxd.it/pah6",
+      "reviewed": false
+    },
+    {
+      "name": "The Sheep Detectives",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
+      "reviewed": false
+    },
+    {
+      "name": "Michael",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Hundreds of Beavers",
+      "year": 2024,
+      "date": "2026-06-05",
+      "rating": 4.5,
+      "uri": "https://boxd.it/CyUM",
+      "reviewed": false
+    },
+    {
+      "name": "Shoot the Piano Player",
+      "year": 1960,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/shoot-the-piano-player/",
+      "reviewed": false
+    },
+    {
+      "name": "Nitrate Kisses",
+      "year": 1992,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/nitrate-kisses/",
+      "reviewed": false
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-06-05",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Wuthering Heights",
+      "year": 2011,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1YRU",
+      "reviewed": false
+    },
+    {
+      "name": "Wings of Hope",
+      "year": 1999,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/wings-of-hope/",
+      "reviewed": false
+    },
+    {
+      "name": "Silent Friend",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/silent-friend/",
+      "reviewed": false
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Toy Story 3",
+      "year": 2010,
+      "date": "2026-07-08",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1WRe",
+      "reviewed": false
+    },
+    {
+      "name": "Fallen Angels",
+      "year": 1995,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1UkW",
+      "reviewed": false
+    },
+    {
+      "name": "La Strada",
+      "year": 1954,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://boxd.it/2asi",
+      "reviewed": false
+    },
+    {
+      "name": "Yes",
+      "year": 2025,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/yes-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Disclosure Day",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/disclosure-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Jackass Forever",
+      "year": 2022,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://boxd.it/opUg",
+      "reviewed": false
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-invite-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Wildcat",
+      "year": 2024,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://boxd.it/EHX0",
+      "reviewed": false
+    },
+    {
+      "name": "The Christophers",
+      "year": 2025,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-christophers/",
+      "reviewed": false
+    },
+    {
+      "name": "The Big Brawl",
+      "year": 1980,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-big-brawl/",
+      "reviewed": false
+    },
+    {
+      "name": "Black Rabbit, White Rabbit",
+      "year": 2025,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/black-rabbit-white-rabbit/",
+      "reviewed": false
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "year": 1988,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://boxd.it/20eA",
+      "reviewed": false
+    },
+    {
+      "name": "The Doom Generation",
+      "year": 1995,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1PVe",
+      "reviewed": false
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-odyssey-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Hole",
+      "year": 1998,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-hole/",
+      "reviewed": false
+    },
+    {
+      "name": "Millennium Actress",
+      "year": 2002,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1fK0",
+      "reviewed": false
+    },
+    {
+      "name": "The Wolf House",
+      "year": 2018,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://boxd.it/i1vE",
+      "reviewed": false
+    },
+    {
+      "name": "The Furious",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-furious/",
+      "reviewed": false
+    },
+    {
+      "name": "Mallrats",
+      "year": 1995,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/mallrats/",
+      "reviewed": false
+    },
+    {
+      "name": "Toy Story 5",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/toy-story-5/",
+      "reviewed": false
+    },
+    {
+      "name": "Her Private Hell",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/batmatt208/film/her-private-hell-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "A Separation",
+      "year": 2011,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://boxd.it/gvo",
+      "reviewed": false
+    },
+    {
+      "name": "Mysterious Skin",
+      "year": 2005,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1UsG",
+      "reviewed": false
+    },
+    {
+      "name": "Absurda",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://boxd.it/JyOS",
+      "reviewed": false
+    },
+    {
+      "name": "Possible Love",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/possible-love/",
+      "reviewed": false
+    },
+    {
+      "name": "Thelma & Louise",
+      "year": 1991,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/28Ew",
+      "reviewed": false
+    },
+    {
+      "name": "The French Connection",
+      "year": 1971,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/296g",
+      "reviewed": false
+    },
+    {
+      "name": "The Evil Dead",
+      "year": 1983,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/29Go",
+      "reviewed": false
+    },
+    {
+      "name": "The President's Cake",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/UhSA",
+      "reviewed": false
+    },
+    {
+      "name": "Furies",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/furies-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Two Lovers",
+      "year": 2008,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/two-lovers/",
+      "reviewed": false
+    },
+    {
+      "name": "Written on the Wind",
+      "year": 1956,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/written-on-the-wind/",
+      "reviewed": false
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-end-of-oak-street/",
+      "reviewed": false
+    },
+    {
+      "name": "Education",
+      "year": 2019,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/sTpK",
+      "reviewed": false
+    },
+    {
+      "name": "It Follows",
+      "year": 2015,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/87wo",
+      "reviewed": false
+    },
+    {
+      "name": "I Want Your Sex",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/i-want-your-sex/",
+      "reviewed": false
+    },
+    {
+      "name": "The Wailing",
+      "year": 2016,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://boxd.it/9fLy",
+      "reviewed": false
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/teenage-sex-and-death-at-camp-miasma/",
+      "reviewed": false
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/tony-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Hope",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/hope-2026/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Time",
+      "year": 2019,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/oiOA",
+      "reviewed": false
+    },
+    {
+      "name": "The Samurai and the Prisoner",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-samurai-and-the-prisoner/",
+      "reviewed": false
+    },
+    {
+      "name": "United 93",
+      "year": 2006,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/united-93/",
+      "reviewed": false
+    },
+    {
+      "name": "Coyote vs. Acme",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/coyote-vs-acme/",
+      "reviewed": false
+    },
+    {
+      "name": "The Devil Wears Prada 2",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+      "reviewed": false
+    },
+    {
+      "name": "The Innkeepers",
+      "year": 2012,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://boxd.it/kpu",
+      "reviewed": false
+    },
+    {
+      "name": "Woman Unknown",
+      "year": 2027,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/woman-unknown/",
+      "reviewed": false
+    },
+    {
+      "name": "The Dog Stars",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-dog-stars/",
+      "reviewed": false
+    },
+    {
+      "name": "Girl",
+      "year": 2014,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://boxd.it/iGU6",
+      "reviewed": false
+    },
+    {
+      "name": "The Man I Love",
+      "year": 2027,
+      "date": "2026-09-23",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-man-i-love-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Man I Love",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-man-i-love-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Woman Unknown",
+      "year": 2026,
+      "date": "2026-09-19",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/woman-unknown/",
+      "reviewed": false
+    },
+    {
+      "name": "Mysterious Skin",
+      "year": 2004,
+      "date": "2026-09-13",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/mysterious-skin/",
+      "reviewed": false
+    },
+    {
+      "name": "Collateral",
+      "year": 2004,
+      "date": "2026-09-09",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/collateral/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Jurassic Park",
+      "year": 1993,
+      "date": "2026-09-02",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/jurassic-park/3/",
+      "reviewed": false
+    },
+    {
+      "name": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "date": "2026-08-30",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/terminator-2-judgment-day/4/",
+      "reviewed": false
+    },
+    {
+      "name": "It Follows",
+      "year": 2014,
+      "date": "2026-08-17",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/it-follows/",
+      "reviewed": false
+    },
+    {
+      "name": "Mad Max: Fury Road",
+      "year": 2015,
+      "date": "2026-08-09",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/mad-max-fury-road/3/",
+      "reviewed": false
+    }
+  ],
+  "moviebuff501": [
+    {
+      "name": "Pizza Movie",
+      "year": 2026,
+      "date": "2026-04-16",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/pizza-movie-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Smiley Face",
+      "year": 2007,
+      "date": "2026-04-20",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+      "reviewed": false
+    },
+    {
+      "name": "Holes",
+      "year": 2003,
+      "date": "2026-04-20",
+      "rating": 3.5,
+      "uri": "https://boxd.it/20mE",
+      "reviewed": false
+    },
+    {
+      "name": "Our Hero, Balthazar",
+      "year": 2025,
+      "date": "2026-04-20",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/our-hero-balthazar/",
+      "reviewed": false
+    },
+    {
+      "name": "Speed Racer",
+      "year": 2008,
+      "date": "2026-04-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/20UQ",
+      "reviewed": false
+    },
+    {
+      "name": "The Evil Dead",
+      "year": 1981,
+      "date": "2026-04-27",
+      "rating": 4.0,
+      "uri": "https://boxd.it/29Go",
+      "reviewed": false
+    },
+    {
+      "name": "I Swear",
+      "year": 2025,
+      "date": "2026-04-27",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/i-swear/",
+      "reviewed": false
+    },
+    {
+      "name": "Sully",
+      "year": 2016,
+      "date": "2026-04-27",
+      "rating": 3.0,
+      "uri": "https://boxd.it/cD8Q",
+      "reviewed": false
+    },
+    {
+      "name": "Mother Mary",
+      "year": 2026,
+      "date": "2026-04-27",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Michael",
+      "year": 2026,
+      "date": "2026-04-27",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "First Reformed",
+      "year": 2017,
+      "date": "2026-05-03",
+      "rating": 4.0,
+      "uri": "https://boxd.it/go9C",
+      "reviewed": false
+    },
+    {
+      "name": "Hokum",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+      "reviewed": false
+    },
+    {
+      "name": "The Devil Wears Prada 2",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
+      "reviewed": false
+    },
+    {
+      "name": "I Want Your Sex",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/i-want-your-sex/",
+      "reviewed": false
+    },
+    {
+      "name": "Power Ballad",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/power-ballad/",
+      "reviewed": false
+    },
+    {
+      "name": "House of Gucci",
+      "year": 2021,
+      "date": "2026-05-03",
+      "rating": 1.5,
+      "uri": "https://boxd.it/nVkC",
+      "reviewed": false
+    },
+    {
+      "name": "Leviticus",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Cowboy Bebop",
+      "year": 2001,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/ptES",
+      "reviewed": false
+    },
+    {
+      "name": "Mysterious Skin",
+      "year": 2005,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1UsG",
+      "reviewed": false
+    },
+    {
+      "name": "Kill Bill: The Whole Bloody Affair",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/eCrQ",
+      "reviewed": false
+    },
+    {
+      "name": "Over the Garden Wall",
+      "year": 1934,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/eqFw",
+      "reviewed": false
+    },
+    {
+      "name": "Paris Is Burning",
+      "year": 1991,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1jzg",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Baby Reindeer",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/MwSa",
+      "reviewed": false
+    },
+    {
+      "name": "Hamilton",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/kmvE",
+      "reviewed": false
+    },
+    {
+      "name": "The Beatles: Get Back",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/xo7A",
+      "reviewed": false
+    },
+    {
+      "name": "First Reformed",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/go9C",
+      "reviewed": false
+    },
+    {
+      "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "year": 1976,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/T18",
+      "reviewed": false
+    },
+    {
+      "name": "Perfect Blue",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1W7A",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/HG9a",
+      "reviewed": false
+    },
+    {
+      "name": "On the Count of Three",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/tbfI",
+      "reviewed": false
+    },
+    {
+      "name": "Totally F***ed Up",
+      "year": 1994,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1fg0",
+      "reviewed": false
+    },
+    {
+      "name": "Raw",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/dLd2",
+      "reviewed": false
+    },
+    {
+      "name": "Frances Ha",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/41Xg",
+      "reviewed": false
+    },
+    {
+      "name": "The Witch",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/9X0m",
+      "reviewed": false
+    },
+    {
+      "name": "After Yang",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lx5a",
+      "reviewed": false
+    },
+    {
+      "name": "Casablanca",
+      "year": 1943,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/2aG0",
+      "reviewed": false
+    },
+    {
+      "name": "The Penguin",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/QkIU",
+      "reviewed": false
+    },
+    {
+      "name": "Waiting for the Light to Change",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CNkk",
+      "reviewed": false
+    },
+    {
+      "name": "Sh\u014dgun",
+      "year": 1978,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/LciY",
+      "reviewed": false
+    },
+    {
+      "name": "Boys Go to Jupiter",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/KVrO",
+      "reviewed": false
+    },
+    {
+      "name": "Chainsaw Man",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/J6t8",
+      "reviewed": false
+    },
+    {
+      "name": "We're All Going to the World's Fair",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/tbmY",
+      "reviewed": false
+    },
+    {
+      "name": "Audition",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1UHm",
+      "reviewed": false
+    },
+    {
+      "name": "Sound of Metal",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/i7Q4",
+      "reviewed": false
+    },
+    {
+      "name": "Nomadland",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lnRy",
+      "reviewed": false
+    },
+    {
+      "name": "Sing Sing",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/HIBA",
+      "reviewed": false
+    },
+    {
+      "name": "Squid Game",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/x1OG",
+      "reviewed": false
+    },
+    {
+      "name": "N\u01cei Nai & W\u00e0i P\u00f3",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/F3My",
+      "reviewed": false
+    },
+    {
+      "name": "Kingsman: The Secret Service",
+      "year": 2015,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/6dxe",
+      "reviewed": false
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/wMAk",
+      "reviewed": false
+    },
+    {
+      "name": "Hit Man",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/ANB2",
+      "reviewed": false
+    },
+    {
+      "name": "Saint Maud",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/l8QA",
+      "reviewed": false
+    },
+    {
+      "name": "Hard Eight",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/20DU",
+      "reviewed": false
+    },
+    {
+      "name": "Blood Simple",
+      "year": 1985,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1U16",
+      "reviewed": false
+    },
+    {
+      "name": "Red, White and Blue",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/Jk6C",
+      "reviewed": false
+    },
+    {
+      "name": "The Last Repair Shop",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/IpY8",
+      "reviewed": false
+    },
+    {
+      "name": "Problemista",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/waGO",
+      "reviewed": false
+    },
+    {
+      "name": "Big Time Adolescence",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/jFke",
+      "reviewed": false
+    },
+    {
+      "name": "The Gentlemen",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/iYBQ",
+      "reviewed": false
+    },
+    {
+      "name": "El Mariachi",
+      "year": 1993,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1YRq",
+      "reviewed": false
+    },
+    {
+      "name": "JUJUTSU KAISEN",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/sOve",
+      "reviewed": false
+    },
+    {
+      "name": "Knight of Fortune",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/AGXg",
+      "reviewed": false
+    },
+    {
+      "name": "Dead Man's Wire",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/M8wu",
+      "reviewed": false
+    },
+    {
+      "name": "The Black Phone",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/sqFE",
+      "reviewed": false
+    },
+    {
+      "name": "Snow White and the Seven Dwarfs",
+      "year": 1938,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/2arO",
+      "reviewed": false
+    },
+    {
+      "name": "A Quiet Place Part II",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/iTx0",
+      "reviewed": false
+    },
+    {
+      "name": "Bobi Wine: The People's President",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/BYm0",
+      "reviewed": false
+    },
+    {
+      "name": "Pachyderm",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/zSr0",
+      "reviewed": false
+    },
+    {
+      "name": "Late Night with the Devil",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/zo6G",
+      "reviewed": false
+    },
+    {
+      "name": "The Bikeriders",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/C6Ym",
+      "reviewed": false
+    },
+    {
+      "name": "The Life of Chuck",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/vMTu",
+      "reviewed": false
+    },
+    {
+      "name": "Hawkeye",
+      "year": 1988,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/xQqK",
+      "reviewed": false
+    },
+    {
+      "name": "The People's Joker",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/uqVQ",
+      "reviewed": false
+    },
+    {
+      "name": "Hell of a Summer",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/BLQQ",
+      "reviewed": false
+    },
+    {
+      "name": "Following",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1Tj4",
+      "reviewed": false
+    },
+    {
+      "name": "Good Luck, Have Fun, Don't Die",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/Glua",
+      "reviewed": false
+    },
+    {
+      "name": "Am I OK?",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/nPqY",
+      "reviewed": false
+    },
+    {
+      "name": "Letter to a Pig",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/zSpy",
+      "reviewed": false
+    },
+    {
+      "name": "Boy Kills World",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/xhG4",
+      "reviewed": false
+    },
+    {
+      "name": "Shelby Oaks",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/zmMK",
+      "reviewed": false
+    },
+    {
+      "name": "The ABCs of Book Banning",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/IZFc",
+      "reviewed": false
+    },
+    {
+      "name": "Primate",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/Obz6",
+      "reviewed": false
+    },
+    {
+      "name": "When You Finish Saving the World",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/pOZW",
+      "reviewed": false
+    },
+    {
+      "name": "Our Hero, Balthazar",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/our-hero-balthazar/",
+      "reviewed": false
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-05-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Sorry to Bother You",
+      "year": 2018,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/f21E",
+      "reviewed": false
+    },
+    {
+      "name": "Tuner",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/tuner/1/",
+      "reviewed": false
+    },
+    {
+      "name": "The Sheep Detectives",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
+      "reviewed": false
+    },
+    {
+      "name": "Living",
+      "year": 2022,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://boxd.it/syDQ",
+      "reviewed": false
+    },
+    {
+      "name": "Blackhat",
+      "year": 2015,
+      "date": "2026-05-22",
+      "rating": 2.5,
+      "uri": "https://boxd.it/62Te",
+      "reviewed": false
+    },
+    {
+      "name": "Mortal Kombat II",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/mortal-kombat-ii/",
+      "reviewed": false
+    },
+    {
+      "name": "I Love Boosters",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
+      "reviewed": false
+    },
+    {
+      "name": "Shanghai Express",
+      "year": 1932,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/shanghai-express/",
+      "reviewed": false
+    },
+    {
+      "name": "13 Hours: The Secret Soldiers of Benghazi",
+      "year": 2016,
+      "date": "2026-05-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/13-hours-the-secret-soldiers-of-benghazi/",
+      "reviewed": false
+    },
+    {
+      "name": "Hundreds of Beavers",
+      "year": 2024,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CyUM",
+      "reviewed": false
+    },
+    {
+      "name": "The African Queen",
+      "year": 1952,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://boxd.it/2ai8",
+      "reviewed": false
+    },
+    {
+      "name": "The Furious",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-furious/",
+      "reviewed": false
+    },
+    {
+      "name": "Wonder Man",
+      "year": 1945,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/wonder-man-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Twilight Saga: Breaking Dawn \u2013 Part 2",
+      "year": 2011,
+      "date": "2026-06-05",
+      "rating": 1.0,
+      "uri": "https://boxd.it/DdC",
+      "reviewed": false
+    },
+    {
+      "name": "Masters of the Universe",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/masters-of-the-universe-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Star Wars: The Mandalorian and Grogu",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/star-wars-the-mandalorian-and-grogu/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie",
+      "year": 2000,
+      "date": "2026-06-05",
+      "rating": 2.5,
+      "uri": "https://boxd.it/24CG",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie 3",
+      "year": 2003,
+      "date": "2026-06-05",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-3/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie 2",
+      "year": 2001,
+      "date": "2026-06-05",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie 4",
+      "year": 2006,
+      "date": "2026-06-05",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-4/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie 5",
+      "year": 2013,
+      "date": "2026-06-05",
+      "rating": 0.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-5/",
+      "reviewed": false
+    },
+    {
+      "name": "The Raid 2",
+      "year": 2014,
+      "date": "2026-07-08",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-raid-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead II",
+      "year": 1987,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://boxd.it/29Ge",
+      "reviewed": false
+    },
+    {
+      "name": "Mile End Kicks",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/mile-end-kicks/",
+      "reviewed": false
+    },
+    {
+      "name": "The Raid",
+      "year": 2012,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-raid-2011/",
+      "reviewed": false
+    },
+    {
+      "name": "Army of Darkness",
+      "year": 1992,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://boxd.it/29G4",
+      "reviewed": false
+    },
+    {
+      "name": "Disclosure Day",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/disclosure-day/",
+      "reviewed": false
+    },
+    {
+      "name": "War of the Worlds",
+      "year": 2005,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://boxd.it/2bde",
+      "reviewed": false
+    },
+    {
+      "name": "Lincoln",
+      "year": 2012,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://boxd.it/2n2s",
+      "reviewed": false
+    },
+    {
+      "name": "Hook",
+      "year": 1991,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://boxd.it/29nQ",
+      "reviewed": false
+    },
+    {
+      "name": "Minions & Monsters",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/minions-monsters-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Toy Story 5",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/toy-story-5/",
+      "reviewed": false
+    },
+    {
+      "name": "Voicemails for Isabelle",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/voicemails-for-isabelle/",
+      "reviewed": false
+    },
+    {
+      "name": "Supergirl",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/supergirl-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-odyssey-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Climax",
+      "year": 2018,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://boxd.it/ikvo",
+      "reviewed": false
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-invite-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Dirties",
+      "year": 2013,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-dirties/",
+      "reviewed": false
+    },
+    {
+      "name": "Superbad",
+      "year": 2007,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://boxd.it/20hO",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead Rise",
+      "year": 2023,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://boxd.it/qIvo",
+      "reviewed": false
+    },
+    {
+      "name": "Predator: Killer of Killers",
+      "year": 2025,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://boxd.it/QYvQ",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead",
+      "year": 2013,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://boxd.it/3GPq",
+      "reviewed": false
+    },
+    {
+      "name": "Miss You, Love You",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/miss-you-love-you/",
+      "reviewed": false
+    },
+    {
+      "name": "DTF St. Louis",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/dtf-st-louis/",
+      "reviewed": false
+    },
+    {
+      "name": "Heartstopper Forever",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/heartstopper-forever/",
+      "reviewed": false
+    },
+    {
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/spider-man-brand-new-day/",
+      "reviewed": false
+    },
+    {
+      "name": "One Night Only",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/one-night-only-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead Burn",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/evil-dead-burn/",
+      "reviewed": false
+    },
+    {
+      "name": "The Mandalorian and Grogu",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-mandalorian-and-grogu/",
+      "reviewed": false
+    },
+    {
+      "name": "In the Blink of an Eye",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/in-the-blink-of-an-eye-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Moana",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/moana/",
+      "reviewed": false
+    },
+    {
+      "name": "Mean Girls",
+      "year": 2004,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1VNg",
+      "reviewed": false
+    },
+    {
+      "name": "Isle of Dogs",
+      "year": 2018,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/dZrW",
+      "reviewed": false
+    },
+    {
+      "name": "Silenced",
+      "year": 2011,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/silenced/",
+      "reviewed": false
+    },
+    {
+      "name": "All Her Fault",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/all-her-fault/",
+      "reviewed": false
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-end-of-oak-street/",
+      "reviewed": false
+    },
+    {
+      "name": "RoboCop",
+      "year": 1987,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/22Wu",
+      "reviewed": false
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/resident-evil-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Wailing",
+      "year": 2016,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/9fLy",
+      "reviewed": false
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/teenage-sex-and-death-at-camp-miasma/",
+      "reviewed": false
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/tony-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Hope",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/hope-2026/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Forgotten Island",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/forgotten-island-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Death by Lightning",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/death-by-lightning/",
+      "reviewed": false
+    },
+    {
+      "name": "Coyote vs. Acme",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/coyote-vs-acme/",
+      "reviewed": false
+    },
+    {
+      "name": "One Piece: Defeat the Pirate Ganzack!",
+      "year": 1998,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/one-piece-defeat-the-pirate-ganzack/",
+      "reviewed": false
+    },
+    {
+      "name": "One Piece: The Movie",
+      "year": 2000,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/one-piece-the-movie/",
+      "reviewed": false
+    },
+    {
+      "name": "Nimrods",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/nimrods/",
+      "reviewed": false
+    },
+    {
+      "name": "Remarkably Bright Creatures",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/remarkably-bright-creatures/",
+      "reviewed": false
+    },
+    {
+      "name": "The Beast in Me",
+      "year": 2017,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-beast-in-me/",
+      "reviewed": false
+    },
+    {
+      "name": "People We Meet on Vacation",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://boxd.it/D8ME",
+      "reviewed": false
+    },
+    {
+      "name": "Onslaught",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/onslaught-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Rip",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://boxd.it/NP5y",
+      "reviewed": false
+    },
+    {
+      "name": "The Dog Stars",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-dog-stars/",
+      "reviewed": false
+    },
+    {
+      "name": "It Ends",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/it-ends/",
+      "reviewed": false
+    },
+    {
+      "name": "Heads of State",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/heads-of-state/",
+      "reviewed": false
+    },
+    {
+      "name": "Tom Clancy's Jack Ryan: Ghost War",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/tom-clancys-jack-ryan-ghost-war/",
+      "reviewed": false
+    },
+    {
+      "name": "The Incredibles",
+      "year": 2004,
+      "date": "2026-09-23",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-incredibles/",
+      "reviewed": false
+    },
+    {
+      "name": "Akira",
+      "year": 1988,
+      "date": "2026-09-07",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/akira/1/",
+      "reviewed": false
+    },
+    {
+      "name": "It Ends",
+      "year": 2025,
+      "date": "2026-08-30",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/it-ends/",
+      "reviewed": false
+    },
+    {
+      "name": "La La Land",
+      "year": 2016,
+      "date": "2026-08-17",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/la-la-land/",
+      "reviewed": false
+    },
+    {
+      "name": "Nimrods",
+      "year": 2025,
+      "date": "2026-08-12",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/nimrods/",
+      "reviewed": false
+    },
+    {
+      "name": "The Beast in Me",
+      "year": 2025,
+      "date": "2026-08-05",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-beast-in-me/",
+      "reviewed": false
+    }
+  ],
+  "lukecharlier": [
+    {
+      "name": "The Big Lebowski",
+      "year": 1998,
+      "date": "2026-04-19",
+      "rating": 5.0,
+      "uri": "https://boxd.it/2b6C",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2020,
+      "date": "2026-04-27",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "The Devil Wears Prada 2",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Monster",
+      "year": 2003,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/py6Q",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Love & Mercy",
+      "year": 2015,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/8bd6",
+      "reviewed": false
+    },
+    {
+      "name": "Perfect Blue",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1W7A",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/HG9a",
+      "reviewed": false
+    },
+    {
+      "name": "On the Count of Three",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/tbfI",
+      "reviewed": false
+    },
+    {
+      "name": "The Witch",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/9X0m",
+      "reviewed": false
+    },
+    {
+      "name": "The Penguin",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/QkIU",
+      "reviewed": false
+    },
+    {
+      "name": "The Cabin in the Woods",
+      "year": 2012,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1zOc",
+      "reviewed": false
+    },
+    {
+      "name": "Ice Merchants",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/Arx8",
+      "reviewed": false
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/wMAk",
+      "reviewed": false
+    },
+    {
+      "name": "Friendship",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/L6Dc",
+      "reviewed": false
+    },
+    {
+      "name": "The Black Phone",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/sqFE",
+      "reviewed": false
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 1.5,
+      "uri": "https://boxd.it/ByDO",
+      "reviewed": false
+    },
+    {
+      "name": "Late Night with the Devil",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/zo6G",
+      "reviewed": false
+    },
+    {
+      "name": "The Life of Chuck",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/vMTu",
+      "reviewed": false
+    },
+    {
+      "name": "Hell of a Summer",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/BLQQ",
+      "reviewed": false
+    },
+    {
+      "name": "My Year of Dicks",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/AF9k",
+      "reviewed": false
+    },
+    {
+      "name": "Primate",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/Obz6",
+      "reviewed": false
+    },
+    {
+      "name": "Terrifier",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 1.5,
+      "uri": "https://boxd.it/eRzg",
+      "reviewed": false
+    },
+    {
+      "name": "Brave the Dark",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 1.0,
+      "uri": "https://boxd.it/oxPS",
+      "reviewed": false
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Hundreds of Beavers",
+      "year": 2024,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CyUM",
+      "reviewed": false
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Disclosure Day",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/disclosure-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/scary-movie-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-odyssey-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-invite-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Dirties",
+      "year": 2013,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-dirties/",
+      "reviewed": false
+    },
+    {
+      "name": "Operation Avalanche",
+      "year": 2016,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/operation-avalanche/",
+      "reviewed": false
+    },
+    {
+      "name": "BlackBerry",
+      "year": 2023,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CoVK",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead Burn",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/evil-dead-burn/",
+      "reviewed": false
+    },
+    {
+      "name": "Rear Window",
+      "year": 1954,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/2a6Q",
+      "reviewed": false
+    },
+    {
+      "name": "The Evil Dead",
+      "year": 1983,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://boxd.it/29Go",
+      "reviewed": false
+    },
+    {
+      "name": "Mean Creek",
+      "year": 2004,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/mean-creek/",
+      "reviewed": false
+    },
+    {
+      "name": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/gH0O",
+      "reviewed": false
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-end-of-oak-street/",
+      "reviewed": false
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/resident-evil-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/tony-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/spider-man-brand-new-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Seven Psychopaths",
+      "year": 2012,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://boxd.it/34PW",
+      "reviewed": false
+    },
+    {
+      "name": "The Fabelmans",
+      "year": 2022,
+      "date": "2026-08-05",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-fabelmans/",
+      "reviewed": false
+    },
+    {
+      "name": "Faces of Death",
+      "year": 2026,
+      "date": "2026-04-12",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/faces-of-death-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Drama",
+      "year": 2026,
+      "date": "2026-04-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-drama/",
+      "reviewed": false
+    },
+    {
+      "name": "Good Will Hunting",
+      "year": 1997,
+      "date": "2026-03-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/good-will-hunting/",
+      "reviewed": false
+    },
+    {
+      "name": "Synecdoche, New York",
+      "year": 2008,
+      "date": "2026-03-17",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/synecdoche-new-york/",
+      "reviewed": false
+    },
+    {
+      "name": "Project Hail Mary",
+      "year": 2026,
+      "date": "2026-03-17",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/project-hail-mary/",
+      "reviewed": false
+    },
+    {
+      "name": "Reservoir Dogs",
+      "year": 1992,
+      "date": "2026-03-15",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/reservoir-dogs/",
+      "reviewed": false
+    },
+    {
+      "name": "Train Dreams",
+      "year": 2025,
+      "date": "2026-03-13",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/train-dreams/",
+      "reviewed": false
+    },
+    {
+      "name": "Pulp Fiction",
+      "year": 1994,
+      "date": "2026-03-04",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/pulp-fiction/",
+      "reviewed": false
+    },
+    {
+      "name": "La La Land",
+      "year": 2016,
+      "date": "2026-03-02",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/la-la-land/",
+      "reviewed": false
+    },
+    {
+      "name": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "date": "2026-02-23",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-good-the-bad-and-the-ugly/",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2025,
+      "date": "2026-02-17",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/nirvanna-the-band-the-show-the-movie/",
+      "reviewed": false
+    },
+    {
+      "name": "Phantom Thread",
+      "year": 2017,
+      "date": "2026-02-15",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/phantom-thread/",
+      "reviewed": false
+    },
+    {
+      "name": "Wuthering Heights",
+      "year": 2026,
+      "date": "2026-02-14",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/wuthering-heights-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Bad Lieutenant",
+      "year": 1992,
+      "date": "2026-02-06",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/bad-lieutenant/",
+      "reviewed": false
+    },
+    {
+      "name": "Send Help",
+      "year": 2026,
+      "date": "2026-02-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/send-help/",
+      "reviewed": false
+    },
+    {
+      "name": "Schindler's List",
+      "year": 1993,
+      "date": "2026-01-28",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/schindlers-list/",
+      "reviewed": false
+    },
+    {
+      "name": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "date": "2026-01-27",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/ferris-buellers-day-off/",
+      "reviewed": false
+    },
+    {
+      "name": "The Master",
+      "year": 2012,
+      "date": "2026-01-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-master-2012/",
+      "reviewed": false
+    },
+    {
+      "name": "The Breakfast Club",
+      "year": 1985,
+      "date": "2026-01-20",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-breakfast-club/",
+      "reviewed": false
+    },
+    {
+      "name": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "date": "2026-01-20",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/28-years-later-the-bone-temple/",
+      "reviewed": false
+    },
+    {
+      "name": "No Other Choice",
+      "year": 2025,
+      "date": "2026-01-18",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/no-other-choice-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Primate",
+      "year": 2025,
+      "date": "2026-01-06",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/primate-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "The Wolf of Wall Street",
+      "year": 2013,
+      "date": "2026-01-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-wolf-of-wall-street/",
+      "reviewed": false
+    },
+    {
+      "name": "Wake Up Dead Man",
+      "year": 2025,
+      "date": "2026-01-03",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/wake-up-dead-man/",
+      "reviewed": false
+    },
+    {
+      "name": "Marty Supreme",
+      "year": 2025,
+      "date": "2025-12-26",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/marty-supreme/",
+      "reviewed": false
+    },
+    {
+      "name": "Avatar: Fire and Ash",
+      "year": 2025,
+      "date": "2025-12-19",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/avatar-fire-and-ash/",
+      "reviewed": false
+    },
+    {
+      "name": "Hamnet",
+      "year": 2025,
+      "date": "2025-12-07",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/hamnet/",
+      "reviewed": false
+    }
+  ],
+  "skylerinthecine": [
+    {
+      "name": "The Christophers",
+      "year": 2025,
+      "date": "2026-04-19",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-christophers/",
+      "reviewed": false
+    },
+    {
+      "name": "Pollock",
+      "year": 2000,
+      "date": "2026-04-19",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/pollock/",
+      "reviewed": false
+    },
+    {
+      "name": "Barton Fink",
+      "year": 1991,
+      "date": "2026-04-20",
+      "rating": 4.5,
+      "uri": "https://boxd.it/2aFQ",
+      "reviewed": false
+    },
+    {
+      "name": "Vera Drake",
+      "year": 2004,
+      "date": "2026-04-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/vera-drake/",
+      "reviewed": false
+    },
+    {
+      "name": "The Man Who Wasn't There",
+      "year": 2001,
+      "date": "2026-04-27",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-man-who-wasnt-there-2001/",
+      "reviewed": false
+    },
+    {
+      "name": "The Hudsucker Proxy",
+      "year": 1994,
+      "date": "2026-04-27",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1SJA",
+      "reviewed": false
+    },
+    {
+      "name": "Ghost World",
+      "year": 2001,
+      "date": "2026-04-27",
+      "rating": 4.0,
+      "uri": "https://boxd.it/28Dy",
+      "reviewed": false
+    },
+    {
+      "name": "My Father's Shadow",
+      "year": 2025,
+      "date": "2026-04-27",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/my-fathers-shadow-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Hail, Caesar!",
+      "year": 2016,
+      "date": "2026-04-27",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/hail-caesar-2016/",
+      "reviewed": false
+    },
+    {
+      "name": "Mother Mary",
+      "year": 2026,
+      "date": "2026-04-27",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Intolerable Cruelty",
+      "year": 2003,
+      "date": "2026-04-27",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1T7i",
+      "reviewed": false
+    },
+    {
+      "name": "The Wiz",
+      "year": 1978,
+      "date": "2026-04-27",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1wG0",
+      "reviewed": false
+    },
+    {
+      "name": "The Ladykillers",
+      "year": 2004,
+      "date": "2026-04-27",
+      "rating": 1.5,
+      "uri": "https://boxd.it/22Z4",
+      "reviewed": false
+    },
+    {
+      "name": "Werckmeister Harmonies",
+      "year": 2000,
+      "date": "2026-05-03",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1zzw",
+      "reviewed": false
+    },
+    {
+      "name": "Drop Dead Gorgeous",
+      "year": 1999,
+      "date": "2026-05-03",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/drop-dead-gorgeous/",
+      "reviewed": false
+    },
+    {
+      "name": "Graduation",
+      "year": 2016,
+      "date": "2026-05-03",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/graduation-2016/",
+      "reviewed": false
+    },
+    {
+      "name": "Mon Oncle",
+      "year": 1958,
+      "date": "2026-05-03",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/mon-oncle/",
+      "reviewed": false
+    },
+    {
+      "name": "Uptown Girls",
+      "year": 2003,
+      "date": "2026-05-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/uptown-girls/",
+      "reviewed": false
+    },
+    {
+      "name": "The Devil Wears Prada 2",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-devil-wears-prada-2/",
+      "reviewed": false
+    },
+    {
+      "name": "The Bling Ring",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-bling-ring/",
+      "reviewed": false
+    },
+    {
+      "name": "Hokum",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+      "reviewed": false
+    },
+    {
+      "name": "Oddity",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/K9pg",
+      "reviewed": false
+    },
+    {
+      "name": "Badlands",
+      "year": 1974,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/25Fm",
+      "reviewed": false
+    },
+    {
+      "name": "Cowboy Bebop",
+      "year": 2001,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/ptES",
+      "reviewed": false
+    },
+    {
+      "name": "Big Little Lies",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/fYde",
+      "reviewed": false
+    },
+    {
+      "name": "Watchmen",
+      "year": 2009,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/ol5e",
+      "reviewed": false
+    },
+    {
+      "name": "Harlan County U.S.A.",
+      "year": 1977,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1fJw",
+      "reviewed": false
+    },
+    {
+      "name": "Kes",
+      "year": 1970,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1Qi8",
+      "reviewed": false
+    },
+    {
+      "name": "Sock and Buskin",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/LUw6",
+      "reviewed": false
+    },
+    {
+      "name": "Koyaanisqatsi",
+      "year": 1983,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1U9E",
+      "reviewed": false
+    },
+    {
+      "name": "Mysterious Skin",
+      "year": 2005,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1UsG",
+      "reviewed": false
+    },
+    {
+      "name": "Over the Garden Wall",
+      "year": 1934,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/eqFw",
+      "reviewed": false
+    },
+    {
+      "name": "Paris Is Burning",
+      "year": 1991,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1jzg",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Shiva Baby",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/oIv0",
+      "reviewed": false
+    },
+    {
+      "name": "Beau Travail",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/1NI8",
+      "reviewed": false
+    },
+    {
+      "name": "Pink Flamingos",
+      "year": 1976,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/29NO",
+      "reviewed": false
+    },
+    {
+      "name": "After Life",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1HMI",
+      "reviewed": false
+    },
+    {
+      "name": "Baby Reindeer",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/MwSa",
+      "reviewed": false
+    },
+    {
+      "name": "Sharp Objects",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/j3NM",
+      "reviewed": false
+    },
+    {
+      "name": "It's a Sin",
+      "year": 1992,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/tEyu",
+      "reviewed": false
+    },
+    {
+      "name": "The Rider",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/gazw",
+      "reviewed": false
+    },
+    {
+      "name": "Tongues Untied",
+      "year": 1990,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/3m1g",
+      "reviewed": false
+    },
+    {
+      "name": "Kwaidan",
+      "year": 1965,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1kbY",
+      "reviewed": false
+    },
+    {
+      "name": "Blue Jean",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/AHhg",
+      "reviewed": false
+    },
+    {
+      "name": "Sexy Beast",
+      "year": 2001,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1SZS",
+      "reviewed": false
+    },
+    {
+      "name": "Take Out",
+      "year": 2008,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/17DA",
+      "reviewed": false
+    },
+    {
+      "name": "The Haunting of Hill House",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/kfJ0",
+      "reviewed": false
+    },
+    {
+      "name": "Quo Vadis, Aida?",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/riws",
+      "reviewed": false
+    },
+    {
+      "name": "Deep End",
+      "year": 1971,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/i8m",
+      "reviewed": false
+    },
+    {
+      "name": "First Reformed",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/go9C",
+      "reviewed": false
+    },
+    {
+      "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "year": 1976,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/T18",
+      "reviewed": false
+    },
+    {
+      "name": "Perfect Blue",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1W7A",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/HG9a",
+      "reviewed": false
+    },
+    {
+      "name": "On the Count of Three",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/tbfI",
+      "reviewed": false
+    },
+    {
+      "name": "Werckmeister Harmonies",
+      "year": 2001,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1zzw",
+      "reviewed": false
+    },
+    {
+      "name": "Totally F***ed Up",
+      "year": 1994,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1fg0",
+      "reviewed": false
+    },
+    {
+      "name": "The Queen's Gambit",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/s1Ym",
+      "reviewed": false
+    },
+    {
+      "name": "Janet Planet",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/DdWu",
+      "reviewed": false
+    },
+    {
+      "name": "Raw",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/dLd2",
+      "reviewed": false
+    },
+    {
+      "name": "Frances Ha",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/41Xg",
+      "reviewed": false
+    },
+    {
+      "name": "The Witch",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/9X0m",
+      "reviewed": false
+    },
+    {
+      "name": "After Yang",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lx5a",
+      "reviewed": false
+    },
+    {
+      "name": "Casablanca",
+      "year": 1943,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/2aG0",
+      "reviewed": false
+    },
+    {
+      "name": "The Shrouds",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/AEZa",
+      "reviewed": false
+    },
+    {
+      "name": "Lovers Rock",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/Cpn0",
+      "reviewed": false
+    },
+    {
+      "name": "Peppermint Candy",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/ZQc",
+      "reviewed": false
+    },
+    {
+      "name": "Spring Breakers",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/421s",
+      "reviewed": false
+    },
+    {
+      "name": "Prince of Broadway",
+      "year": 2010,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/36oo",
+      "reviewed": false
+    },
+    {
+      "name": "Caught by the Tides",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/GZ4Q",
+      "reviewed": false
+    },
+    {
+      "name": "Sh\u014dgun",
+      "year": 1978,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/LciY",
+      "reviewed": false
+    },
+    {
+      "name": "Swallow",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lA0i",
+      "reviewed": false
+    },
+    {
+      "name": "Lingua Franca",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lrp4",
+      "reviewed": false
+    },
+    {
+      "name": "V for Vendetta",
+      "year": 2006,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/29Ik",
+      "reviewed": false
+    },
+    {
+      "name": "It Follows",
+      "year": 2015,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/87wo",
+      "reviewed": false
+    },
+    {
+      "name": "Beginners",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/s2S",
+      "reviewed": false
+    },
+    {
+      "name": "My Winnipeg",
+      "year": 2008,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1Qz4",
+      "reviewed": false
+    },
+    {
+      "name": "Funny Games",
+      "year": 2008,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/207a",
+      "reviewed": false
+    },
+    {
+      "name": "Lean on Pete",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/emgM",
+      "reviewed": false
+    },
+    {
+      "name": "The Watermelon Woman",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/RRc",
+      "reviewed": false
+    },
+    {
+      "name": "Female Trouble",
+      "year": 1976,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1Oqk",
+      "reviewed": false
+    },
+    {
+      "name": "Through the Olive Trees",
+      "year": 1995,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/Lx6",
+      "reviewed": false
+    },
+    {
+      "name": "The Daytrippers",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/F9i",
+      "reviewed": false
+    },
+    {
+      "name": "Nine Days",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/mqL6",
+      "reviewed": false
+    },
+    {
+      "name": "Kaili Blues",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/cksW",
+      "reviewed": false
+    },
+    {
+      "name": "D.E.B.S.",
+      "year": 2005,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/2aaS",
+      "reviewed": false
+    },
+    {
+      "name": "Sisters",
+      "year": 1973,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1AMc",
+      "reviewed": false
+    },
+    {
+      "name": "The Third Part of the Night",
+      "year": 1972,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/Miw",
+      "reviewed": false
+    },
+    {
+      "name": "In the Mouth of Madness",
+      "year": 1995,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/26vi",
+      "reviewed": false
+    },
+    {
+      "name": "Pavements",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/EekI",
+      "reviewed": false
+    },
+    {
+      "name": "Afternoons of Solitude",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/APRc",
+      "reviewed": false
+    },
+    {
+      "name": "Working Girls",
+      "year": 1987,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/3kYA",
+      "reviewed": false
+    },
+    {
+      "name": "The Lost City of Z",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/a7jS",
+      "reviewed": false
+    },
+    {
+      "name": "Two People Exchanging Saliva",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/PM3e",
+      "reviewed": false
+    },
+    {
+      "name": "Away from Her",
+      "year": 2007,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/27Ra",
+      "reviewed": false
+    },
+    {
+      "name": "White Material",
+      "year": 2010,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/NIg",
+      "reviewed": false
+    },
+    {
+      "name": "We're All Going to the World's Fair",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/tbmY",
+      "reviewed": false
+    },
+    {
+      "name": "Showing Up",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/tJ1q",
+      "reviewed": false
+    },
+    {
+      "name": "How to Blow Up a Pipeline",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/C69e",
+      "reviewed": false
+    },
+    {
+      "name": "Audition",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1UHm",
+      "reviewed": false
+    },
+    {
+      "name": "Sound of Metal",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/i7Q4",
+      "reviewed": false
+    },
+    {
+      "name": "Nomadland",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/lnRy",
+      "reviewed": false
+    },
+    {
+      "name": "Sing Sing",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/HIBA",
+      "reviewed": false
+    },
+    {
+      "name": "The Beast",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/yqmk",
+      "reviewed": false
+    },
+    {
+      "name": "The Cabin in the Woods",
+      "year": 2012,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1zOc",
+      "reviewed": false
+    },
+    {
+      "name": "First Cow",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/krga",
+      "reviewed": false
+    },
+    {
+      "name": "The Assistant",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/neWo",
+      "reviewed": false
+    },
+    {
+      "name": "Viridiana",
+      "year": 1962,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/24eE",
+      "reviewed": false
+    },
+    {
+      "name": "Squid Game",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/x1OG",
+      "reviewed": false
+    },
+    {
+      "name": "N\u01cei Nai & W\u00e0i P\u00f3",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/F3My",
+      "reviewed": false
+    },
+    {
+      "name": "Kingsman: The Secret Service",
+      "year": 2015,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/6dxe",
+      "reviewed": false
+    },
+    {
+      "name": "The Virgin Suicides",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/28JG",
+      "reviewed": false
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/wMAk",
+      "reviewed": false
+    },
+    {
+      "name": "Friendship",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/L6Dc",
+      "reviewed": false
+    },
+    {
+      "name": "Hit Man",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/ANB2",
+      "reviewed": false
+    },
+    {
+      "name": "Saint Maud",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/l8QA",
+      "reviewed": false
+    },
+    {
+      "name": "Hard Eight",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/20DU",
+      "reviewed": false
+    },
+    {
+      "name": "Blood Simple",
+      "year": 1985,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1U16",
+      "reviewed": false
+    },
+    {
+      "name": "Strange Darling",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/CVIk",
+      "reviewed": false
+    },
+    {
+      "name": "Millennium Actress",
+      "year": 2002,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1fK0",
+      "reviewed": false
+    },
+    {
+      "name": "Time",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/oiOA",
+      "reviewed": false
+    },
+    {
+      "name": "Cronos",
+      "year": 1993,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1TjS",
+      "reviewed": false
+    },
+    {
+      "name": "La Pointe Courte",
+      "year": 1956,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/ui4",
+      "reviewed": false
+    },
+    {
+      "name": "Red, White and Blue",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/Jk6C",
+      "reviewed": false
+    },
+    {
+      "name": "The Last Repair Shop",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/IpY8",
+      "reviewed": false
+    },
+    {
+      "name": "Problemista",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/waGO",
+      "reviewed": false
+    },
+    {
+      "name": "But I'm a Cheerleader",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1CW4",
+      "reviewed": false
+    },
+    {
+      "name": "Insidious",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/H4k",
+      "reviewed": false
+    },
+    {
+      "name": "Memory Games",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/lGru",
+      "reviewed": false
+    },
+    {
+      "name": "I Carry You with Me",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/oiia",
+      "reviewed": false
+    },
+    {
+      "name": "Mud",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/3wPA",
+      "reviewed": false
+    },
+    {
+      "name": "Inu-Oh",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/nQDE",
+      "reviewed": false
+    },
+    {
+      "name": "Thoroughbreds",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/dVHQ",
+      "reviewed": false
+    },
+    {
+      "name": "The Autopsy",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/Dkgg",
+      "reviewed": false
+    },
+    {
+      "name": "Enys Men",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/rM0m",
+      "reviewed": false
+    },
+    {
+      "name": "Ponyboi",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/DOOi",
+      "reviewed": false
+    },
+    {
+      "name": "The Unknown Country",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/zdpM",
+      "reviewed": false
+    },
+    {
+      "name": "Schizopolis",
+      "year": 1997,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1Keu",
+      "reviewed": false
+    },
+    {
+      "name": "The Sympathizer",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/G4lK",
+      "reviewed": false
+    },
+    {
+      "name": "His Three Daughters",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/HGx2",
+      "reviewed": false
+    },
+    {
+      "name": "I'm Not a Robot",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/IGTE",
+      "reviewed": false
+    },
+    {
+      "name": "I Am Love",
+      "year": 2010,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/10ac",
+      "reviewed": false
+    },
+    {
+      "name": "Cannibal Mukbang",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/IDQW",
+      "reviewed": false
+    },
+    {
+      "name": "May",
+      "year": 2003,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1V8M",
+      "reviewed": false
+    },
+    {
+      "name": "Apocalypse in the Tropics",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/Oo12",
+      "reviewed": false
+    },
+    {
+      "name": "Naked Childhood",
+      "year": 1969,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1jj8",
+      "reviewed": false
+    },
+    {
+      "name": "The Christophers",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-christophers/",
+      "reviewed": false
+    },
+    {
+      "name": "Zola",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/jEWQ",
+      "reviewed": false
+    },
+    {
+      "name": "The Black Phone",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/sqFE",
+      "reviewed": false
+    },
+    {
+      "name": "Who's That Knocking at My Door",
+      "year": 1968,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/Wgg",
+      "reviewed": false
+    },
+    {
+      "name": "Snow White and the Seven Dwarfs",
+      "year": 1938,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/2arO",
+      "reviewed": false
+    },
+    {
+      "name": "Green Room",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/a75m",
+      "reviewed": false
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/ByDO",
+      "reviewed": false
+    },
+    {
+      "name": "A Quiet Place Part II",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/iTx0",
+      "reviewed": false
+    },
+    {
+      "name": "Bobi Wine: The People's President",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/BYm0",
+      "reviewed": false
+    },
+    {
+      "name": "The Devil's Candy",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/bWrU",
+      "reviewed": false
+    },
+    {
+      "name": "Great Expectations",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/c7f6",
+      "reviewed": false
+    },
+    {
+      "name": "The Man Who Knew Infinity",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/bTpm",
+      "reviewed": false
+    },
+    {
+      "name": "The Lodge",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/h2c2",
+      "reviewed": false
+    },
+    {
+      "name": "Yes, God, Yes",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/jaGS",
+      "reviewed": false
+    },
+    {
+      "name": "I Care a Lot",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/mcHk",
+      "reviewed": false
+    },
+    {
+      "name": "Chappaquiddick",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/fkDc",
+      "reviewed": false
+    },
+    {
+      "name": "Sometimes I Think About Dying",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/xGlg",
+      "reviewed": false
+    },
+    {
+      "name": "The Invitation",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/9OUU",
+      "reviewed": false
+    },
+    {
+      "name": "Master Gardener",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/wNuC",
+      "reviewed": false
+    },
+    {
+      "name": "Wicked Little Letters",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/AQXU",
+      "reviewed": false
+    },
+    {
+      "name": "I Used to Be Funny",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/yzvU",
+      "reviewed": false
+    },
+    {
+      "name": "Funan",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/iFQM",
+      "reviewed": false
+    },
+    {
+      "name": "Bunnylovr",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/QxM6",
+      "reviewed": false
+    },
+    {
+      "name": "Sukkwan Island",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/HuKy",
+      "reviewed": false
+    },
+    {
+      "name": "Wild Rose",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/hmTU",
+      "reviewed": false
+    },
+    {
+      "name": "The Fall of the House of Usher",
+      "year": 1950,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/IWYg",
+      "reviewed": false
+    },
+    {
+      "name": "Little Woods",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/g76c",
+      "reviewed": false
+    },
+    {
+      "name": "Better Watch Out",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/ekeO",
+      "reviewed": false
+    },
+    {
+      "name": "You're Next",
+      "year": 2013,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/2WWK",
+      "reviewed": false
+    },
+    {
+      "name": "The Singers",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/TpoG",
+      "reviewed": false
+    },
+    {
+      "name": "Late Night with the Devil",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/zo6G",
+      "reviewed": false
+    },
+    {
+      "name": "The Bikeriders",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/C6Ym",
+      "reviewed": false
+    },
+    {
+      "name": "The Life of Chuck",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 1.5,
+      "uri": "https://boxd.it/vMTu",
+      "reviewed": false
+    },
+    {
+      "name": "Hawkeye",
+      "year": 1988,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/xQqK",
+      "reviewed": false
+    },
+    {
+      "name": "The People's Joker",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/uqVQ",
+      "reviewed": false
+    },
+    {
+      "name": "Following",
+      "year": 1999,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/1Tj4",
+      "reviewed": false
+    },
+    {
+      "name": "Good Luck, Have Fun, Don't Die",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/Glua",
+      "reviewed": false
+    },
+    {
+      "name": "The Code",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/GTB0",
+      "reviewed": false
+    },
+    {
+      "name": "Graveyard Rats",
+      "year": 1990,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/DkfM",
+      "reviewed": false
+    },
+    {
+      "name": "Love Me",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/xgoe",
+      "reviewed": false
+    },
+    {
+      "name": "The Blackcoat's Daughter",
+      "year": 2017,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/b2Km",
+      "reviewed": false
+    },
+    {
+      "name": "Woman of the Hour",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/vuz2",
+      "reviewed": false
+    },
+    {
+      "name": "Lee",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/vpTG",
+      "reviewed": false
+    },
+    {
+      "name": "The ABCs of Book Banning",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/IZFc",
+      "reviewed": false
+    },
+    {
+      "name": "Terrifier",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 1.5,
+      "uri": "https://boxd.it/eRzg",
+      "reviewed": false
+    },
+    {
+      "name": "Avalon High",
+      "year": 2011,
+      "date": "2026-05-04",
+      "rating": 1.5,
+      "uri": "https://boxd.it/DyA",
+      "reviewed": false
+    },
+    {
+      "name": "Earwig and the Witch",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 1.0,
+      "uri": "https://boxd.it/pu34",
+      "reviewed": false
+    },
+    {
+      "name": "La Notte",
+      "year": 1961,
+      "date": "2026-05-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/la-notte/",
+      "reviewed": false
+    },
+    {
+      "name": "The Child",
+      "year": 2005,
+      "date": "2026-05-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-child/",
+      "reviewed": false
+    },
+    {
+      "name": "We Own the Night",
+      "year": 2007,
+      "date": "2026-05-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/we-own-the-night/",
+      "reviewed": false
+    },
+    {
+      "name": "Blue Heron",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/blue-heron/",
+      "reviewed": false
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+      "reviewed": false
+    },
+    {
+      "name": "The Wind That Shakes the Barley",
+      "year": 2006,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-wind-that-shakes-the-barley/",
+      "reviewed": false
+    },
+    {
+      "name": "The Son's Room",
+      "year": 2001,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-sons-room/",
+      "reviewed": false
+    },
+    {
+      "name": "The Yards",
+      "year": 2000,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-yards/",
+      "reviewed": false
+    },
+    {
+      "name": "Kagemusha",
+      "year": 1980,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/kagemusha/",
+      "reviewed": false
+    },
+    {
+      "name": "The Love That Remains",
+      "year": 2025,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/LWuG",
+      "reviewed": false
+    },
+    {
+      "name": "Red Beard",
+      "year": 1965,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/251m",
+      "reviewed": false
+    },
+    {
+      "name": "The Class",
+      "year": 2008,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-class-2008/",
+      "reviewed": false
+    },
+    {
+      "name": "Fahrenheit 9/11",
+      "year": 2004,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/fahrenheit-9-11/",
+      "reviewed": false
+    },
+    {
+      "name": "Is God Is",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/is-god-is/",
+      "reviewed": false
+    },
+    {
+      "name": "Mona Lisa Smile",
+      "year": 2003,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/mona-lisa-smile/",
+      "reviewed": false
+    },
+    {
+      "name": "Erupcja",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/erupcja/",
+      "reviewed": false
+    },
+    {
+      "name": "Little Odessa",
+      "year": 1994,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/little-odessa/",
+      "reviewed": false
+    },
+    {
+      "name": "The Last Metro",
+      "year": 1980,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-last-metro/",
+      "reviewed": false
+    },
+    {
+      "name": "Satyricon",
+      "year": 1969,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/satyricon-1969/",
+      "reviewed": false
+    },
+    {
+      "name": "The Sheep Detectives",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
+      "reviewed": false
+    },
+    {
+      "name": "Dheepan",
+      "year": 2015,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://boxd.it/a890",
+      "reviewed": false
+    },
+    {
+      "name": "Blue Is the Warmest Color",
+      "year": 2013,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/blue-is-the-warmest-color/",
+      "reviewed": false
+    },
+    {
+      "name": "The Square",
+      "year": 2017,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-square-2017/",
+      "reviewed": false
+    },
+    {
+      "name": "Michael",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Elephant",
+      "year": 2003,
+      "date": "2026-05-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/elephant-2003/",
+      "reviewed": false
+    },
+    {
+      "name": "Roommates",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/roommates-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "I Love Boosters",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/i-love-boosters/",
+      "reviewed": false
+    },
+    {
+      "name": "Tomboy",
+      "year": 2011,
+      "date": "2026-06-05",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/tomboy-2011/",
+      "reviewed": false
+    },
+    {
+      "name": "Josie and the Pussycats",
+      "year": 2001,
+      "date": "2026-06-05",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/josie-and-the-pussycats/",
+      "reviewed": false
+    },
+    {
+      "name": "Cecil B. Demented",
+      "year": 2000,
+      "date": "2026-06-05",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/cecil-b-demented/",
+      "reviewed": false
+    },
+    {
+      "name": "Hundreds of Beavers",
+      "year": 2024,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CyUM",
+      "reviewed": false
+    },
+    {
+      "name": "Edward II",
+      "year": 1991,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/edward-ii/",
+      "reviewed": false
+    },
+    {
+      "name": "Detour",
+      "year": 1945,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/detour/",
+      "reviewed": false
+    },
+    {
+      "name": "Smithereens",
+      "year": 1982,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/smithereens/",
+      "reviewed": false
+    },
+    {
+      "name": "Dead Man's Wire",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://boxd.it/M8wu",
+      "reviewed": false
+    },
+    {
+      "name": "Water Lilies",
+      "year": 2007,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/water-lilies/",
+      "reviewed": false
+    },
+    {
+      "name": "I, Daniel Blake",
+      "year": 2016,
+      "date": "2026-06-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/i-daniel-blake/",
+      "reviewed": false
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Now You See Me: Now You Don't",
+      "year": 2025,
+      "date": "2026-06-05",
+      "rating": 3.0,
+      "uri": "https://boxd.it/f3i2",
+      "reviewed": false
+    },
+    {
+      "name": "Nuremberg",
+      "year": 2025,
+      "date": "2026-06-05",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/nuremberg-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Remarkably Bright Creatures",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/remarkably-bright-creatures/",
+      "reviewed": false
+    },
+    {
+      "name": "The Twilight Saga: Breaking Dawn \u2013 Part 2",
+      "year": 2011,
+      "date": "2026-06-05",
+      "rating": 3.0,
+      "uri": "https://boxd.it/DdC",
+      "reviewed": false
+    },
+    {
+      "name": "Big Little Lies",
+      "year": 2016,
+      "date": "2026-07-08",
+      "rating": 5.0,
+      "uri": "https://boxd.it/fYde",
+      "reviewed": false
+    },
+    {
+      "name": "An Unmarried Woman",
+      "year": 1978,
+      "date": "2026-07-08",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/an-unmarried-woman/",
+      "reviewed": false
+    },
+    {
+      "name": "The Remains of the Day",
+      "year": 1993,
+      "date": "2026-07-08",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-remains-of-the-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Mildred Pierce",
+      "year": 1945,
+      "date": "2026-07-08",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/mildred-pierce/",
+      "reviewed": false
+    },
+    {
+      "name": "Polyester",
+      "year": 1981,
+      "date": "2026-07-08",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1Oq0",
+      "reviewed": false
+    },
+    {
+      "name": "Mile End Kicks",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/mile-end-kicks/",
+      "reviewed": false
+    },
+    {
+      "name": "A Room with a View",
+      "year": 1986,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/a-room-with-a-view/",
+      "reviewed": false
+    },
+    {
+      "name": "Fresh Kill",
+      "year": 1996,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/fresh-kill-1994/",
+      "reviewed": false
+    },
+    {
+      "name": "Gary",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/gary-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "I Killed My Mother",
+      "year": 2009,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/i-killed-my-mother/",
+      "reviewed": false
+    },
+    {
+      "name": "Heavenly Creatures",
+      "year": 1994,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/heavenly-creatures/",
+      "reviewed": false
+    },
+    {
+      "name": "Missing",
+      "year": 1982,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/missing/",
+      "reviewed": false
+    },
+    {
+      "name": "Party Girl",
+      "year": 1995,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/party-girl-1995/",
+      "reviewed": false
+    },
+    {
+      "name": "Smiley Face",
+      "year": 2007,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+      "reviewed": false
+    },
+    {
+      "name": "Witness",
+      "year": 1985,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1Z4O",
+      "reviewed": false
+    },
+    {
+      "name": "Disclosure Day",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/disclosure-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Pink Narcissus",
+      "year": 1971,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/pink-narcissus/",
+      "reviewed": false
+    },
+    {
+      "name": "Lovesong",
+      "year": 2017,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/lovesong-2016/",
+      "reviewed": false
+    },
+    {
+      "name": "The Wedding Banquet",
+      "year": 1993,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-wedding-banquet/",
+      "reviewed": false
+    },
+    {
+      "name": "Carolina Caroline",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/carolina-caroline/",
+      "reviewed": false
+    },
+    {
+      "name": "Beach Rats",
+      "year": 2017,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/beach-rats/",
+      "reviewed": false
+    },
+    {
+      "name": "Leviticus",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Born on the Fourth of July",
+      "year": 1989,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/born-on-the-fourth-of-july/",
+      "reviewed": false
+    },
+    {
+      "name": "The Eyes of My Mother",
+      "year": 2016,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-eyes-of-my-mother/",
+      "reviewed": false
+    },
+    {
+      "name": "Disobedience",
+      "year": 2018,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/disobedience-2017/",
+      "reviewed": false
+    },
+    {
+      "name": "Toy Story 5",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/toy-story-5/",
+      "reviewed": false
+    },
+    {
+      "name": "Voicemails for Isabelle",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/voicemails-for-isabelle/",
+      "reviewed": false
+    },
+    {
+      "name": "Awakenings",
+      "year": 1990,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/awakenings/",
+      "reviewed": false
+    },
+    {
+      "name": "Mala Noche",
+      "year": 1987,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/mala-noche/",
+      "reviewed": false
+    },
+    {
+      "name": "First Man into Space",
+      "year": 1959,
+      "date": "2026-07-08",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/first-man-into-space/",
+      "reviewed": false
+    },
+    {
+      "name": "Children of Paradise",
+      "year": 1945,
+      "date": "2026-07-30",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/children-of-paradise/",
+      "reviewed": false
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-odyssey-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-invite-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Silent Friend",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/silent-friend/",
+      "reviewed": false
+    },
+    {
+      "name": "Vivre Sa Vie",
+      "year": 1962,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/vivre-sa-vie/",
+      "reviewed": false
+    },
+    {
+      "name": "This is how the world ends...",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
+      "reviewed": false
+    },
+    {
+      "name": "The Big Chill",
+      "year": 1983,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1RHI",
+      "reviewed": false
+    },
+    {
+      "name": "Three Bewildered People in the Night",
+      "year": 1987,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/three-bewildered-people-in-the-night/",
+      "reviewed": false
+    },
+    {
+      "name": "Kaboom",
+      "year": 2010,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/kaboom/",
+      "reviewed": false
+    },
+    {
+      "name": "Splendor",
+      "year": 1999,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/splendor-1999/",
+      "reviewed": false
+    },
+    {
+      "name": "The Neon Demon",
+      "year": 2016,
+      "date": "2026-07-30",
+      "rating": 2.5,
+      "uri": "https://boxd.it/9AnW",
+      "reviewed": false
+    },
+    {
+      "name": "Heartstopper Forever",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/heartstopper-forever/",
+      "reviewed": false
+    },
+    {
+      "name": "Bronson",
+      "year": 2009,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/bronson/",
+      "reviewed": false
+    },
+    {
+      "name": "the long weekend (o' despair)",
+      "year": 1989,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-long-weekend-o-despair/",
+      "reviewed": false
+    },
+    {
+      "name": "White Bird in a Blizzard",
+      "year": 2014,
+      "date": "2026-07-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/white-bird-in-a-blizzard/",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead Burn",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/evil-dead-burn/",
+      "reviewed": false
+    },
+    {
+      "name": "Her Private Hell",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/batmatt208/film/her-private-hell-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Only God Forgives",
+      "year": 2013,
+      "date": "2026-07-30",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/only-god-forgives/",
+      "reviewed": false
+    },
+    {
+      "name": "The Big City",
+      "year": 1963,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-big-city/",
+      "reviewed": false
+    },
+    {
+      "name": "The Hidden Fortress",
+      "year": 1958,
+      "date": "2026-09-22",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-hidden-fortress/",
+      "reviewed": false
+    },
+    {
+      "name": "The Evil Dead",
+      "year": 1983,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/29Go",
+      "reviewed": false
+    },
+    {
+      "name": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/28oI",
+      "reviewed": false
+    },
+    {
+      "name": "Silenced",
+      "year": 2011,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/silenced/",
+      "reviewed": false
+    },
+    {
+      "name": "The Addiction",
+      "year": 1995,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-addiction/",
+      "reviewed": false
+    },
+    {
+      "name": "Shadows",
+      "year": 1960,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/shadows-1958/",
+      "reviewed": false
+    },
+    {
+      "name": "Love & Basketball",
+      "year": 2000,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/love-basketball/",
+      "reviewed": false
+    },
+    {
+      "name": "Step Brothers",
+      "year": 2008,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/step-brothers/",
+      "reviewed": false
+    },
+    {
+      "name": "Serial Mom",
+      "year": 1994,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/serial-mom/",
+      "reviewed": false
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-end-of-oak-street/",
+      "reviewed": false
+    },
+    {
+      "name": "Education",
+      "year": 2019,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://boxd.it/sTpK",
+      "reviewed": false
+    },
+    {
+      "name": "Our Hero, Balthazar",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/our-hero-balthazar/",
+      "reviewed": false
+    },
+    {
+      "name": "I Want Your Sex",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/i-want-your-sex/",
+      "reviewed": false
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/batmatt208/film/teenage-sex-and-death-at-camp-miasma/",
+      "reviewed": false
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/tony-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Hope",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/hope-2026/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Time",
+      "year": 2019,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/oiOA",
+      "reviewed": false
+    },
+    {
+      "name": "The Samurai and the Prisoner",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/the-samurai-and-the-prisoner/",
+      "reviewed": false
+    },
+    {
+      "name": "Patton",
+      "year": 1969,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1UnQ",
+      "reviewed": false
+    },
+    {
+      "name": "The Sympathizer",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://boxd.it/G4lK",
+      "reviewed": false
+    },
+    {
+      "name": "A Tale of Autumn",
+      "year": 1998,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/a-tale-of-autumn/",
+      "reviewed": false
+    },
+    {
+      "name": "The Executioner",
+      "year": 1963,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-executioner/",
+      "reviewed": false
+    },
+    {
+      "name": "Thank You for Smoking",
+      "year": 2005,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/thank-you-for-smoking/",
+      "reviewed": false
+    },
+    {
+      "name": "Forbidden Games",
+      "year": 1952,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/forbidden-games-1952/",
+      "reviewed": false
+    },
+    {
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/spider-man-brand-new-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Practical Magic",
+      "year": 1998,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/practical-magic/",
+      "reviewed": false
+    },
+    {
+      "name": "Don't Say Good Luck",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/dont-say-good-luck/",
+      "reviewed": false
+    },
+    {
+      "name": "Troy",
+      "year": 2004,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/troy/",
+      "reviewed": false
+    },
+    {
+      "name": "The Whisper Man",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-whisper-man/",
+      "reviewed": false
+    },
+    {
+      "name": "They Will Kill You",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://boxd.it/Nk5i",
+      "reviewed": false
+    },
+    {
+      "name": "Abraham Lincoln: Vampire Hunter",
+      "year": 2012,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/abraham-lincoln-vampire-hunter/",
+      "reviewed": false
+    },
+    {
+      "name": "The Last House",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-last-house-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Lee Cronin's The Mummy",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/lee-cronins-the-mummy/",
+      "reviewed": false
+    },
+    {
+      "name": "Until Dawn",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/until-dawn-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Shadows",
+      "year": 1958,
+      "date": "2026-09-18",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/shadows-1958/",
+      "reviewed": false
+    },
+    {
+      "name": "Ready or Not",
+      "year": 2019,
+      "date": "2026-09-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/ready-or-not-2019/1/",
+      "reviewed": false
+    },
+    {
+      "name": "Our Hero, Balthazar",
+      "year": 2025,
+      "date": "2026-09-01",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/our-hero-balthazar/",
+      "reviewed": false
+    },
+    {
+      "name": "Bronson",
+      "year": 2008,
+      "date": "2026-07-26",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/bronson/",
+      "reviewed": false
+    },
+    {
+      "name": "Interstellar",
+      "year": 2014,
+      "date": "2026-07-20",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/interstellar/",
+      "reviewed": false
+    },
+    {
+      "name": "Mysterious Skin",
+      "year": 2004,
+      "date": "2026-07-19",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/mysterious-skin/1/",
+      "reviewed": false
+    },
+    {
+      "name": "The Living End",
+      "year": 1992,
+      "date": "2026-07-17",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/the-living-end/1/",
+      "reviewed": false
+    },
+    {
+      "name": "This is how the world ends...",
+      "year": 2000,
+      "date": "2026-07-17",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
+      "reviewed": false
+    }
+  ],
+  "paityne": [
+    {
+      "name": "The Big Lebowski",
+      "year": 1998,
+      "date": "2026-04-22",
+      "rating": 4.5,
+      "uri": "https://boxd.it/2b6C",
+      "reviewed": false
+    },
+    {
+      "name": "Faces of Death",
+      "year": 2026,
+      "date": "2026-04-22",
+      "rating": 1.5,
+      "uri": "https://boxd.it/wiLC",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2020,
+      "date": "2026-04-27",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Mother Mary",
+      "year": 2026,
+      "date": "2026-04-27",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/mother-mary-2026/1/",
+      "reviewed": false
+    },
+    {
+      "name": "True Romance",
+      "year": 1993,
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/true-romance/",
+      "reviewed": false
+    },
+    {
+      "name": "Mysterious Skin",
+      "year": 2005,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/1UsG",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Perfect Blue",
+      "year": 1998,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/1W7A",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/HG9a",
+      "reviewed": false
+    },
+    {
+      "name": "The Queen's Gambit",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/s1Ym",
+      "reviewed": false
+    },
+    {
+      "name": "The Witch",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 5.0,
+      "uri": "https://boxd.it/9X0m",
+      "reviewed": false
+    },
+    {
+      "name": "We're All Going to the World's Fair",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/tbmY",
+      "reviewed": false
+    },
+    {
+      "name": "Sound of Metal",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/i7Q4",
+      "reviewed": false
+    },
+    {
+      "name": "Ice Merchants",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/Arx8",
+      "reviewed": false
+    },
+    {
+      "name": "The Virgin Suicides",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/28JG",
+      "reviewed": false
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/wMAk",
+      "reviewed": false
+    },
+    {
+      "name": "Friendship",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/L6Dc",
+      "reviewed": false
+    },
+    {
+      "name": "But I'm a Cheerleader",
+      "year": 2000,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/1CW4",
+      "reviewed": false
+    },
+    {
+      "name": "Palo Alto",
+      "year": 2014,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/5Nzy",
+      "reviewed": false
+    },
+    {
+      "name": "The Black Phone",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/sqFE",
+      "reviewed": false
+    },
+    {
+      "name": "Green Room",
+      "year": 2016,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/a75m",
+      "reviewed": false
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/ByDO",
+      "reviewed": false
+    },
+    {
+      "name": "Late Night with the Devil",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/zo6G",
+      "reviewed": false
+    },
+    {
+      "name": "The Life of Chuck",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/vMTu",
+      "reviewed": false
+    },
+    {
+      "name": "Hell of a Summer",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/BLQQ",
+      "reviewed": false
+    },
+    {
+      "name": "Primate",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/Obz6",
+      "reviewed": false
+    },
+    {
+      "name": "Terrifier",
+      "year": 2018,
+      "date": "2026-05-04",
+      "rating": 1.5,
+      "uri": "https://boxd.it/eRzg",
+      "reviewed": false
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Hokum",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/hokum/",
+      "reviewed": false
+    },
+    {
+      "name": "The Devil Wears Prada 2",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/the-devil-wears-prada-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Burlesque",
+      "year": 2010,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/burlesque/",
+      "reviewed": false
+    },
+    {
+      "name": "Milk & Serial",
+      "year": 2024,
+      "date": "2026-05-22",
+      "rating": 3.0,
+      "uri": "https://boxd.it/J2Za",
+      "reviewed": false
+    },
+    {
+      "name": "Mulholland Drive",
+      "year": 2001,
+      "date": "2026-06-05",
+      "rating": 5.0,
+      "uri": "https://boxd.it/297o",
+      "reviewed": false
+    },
+    {
+      "name": "Party Monster",
+      "year": 2003,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/party-monster/",
+      "reviewed": false
+    },
+    {
+      "name": "Welcome to the Dollhouse",
+      "year": 1996,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://boxd.it/1TPO",
+      "reviewed": false
+    },
+    {
+      "name": "I Love Boosters",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/i-love-boosters/",
+      "reviewed": false
+    },
+    {
+      "name": "Smiley Face",
+      "year": 2007,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/smiley-face/",
+      "reviewed": false
+    },
+    {
+      "name": "Disclosure Day",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/disclosure-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Scary Movie",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/scary-movie-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-invite-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Evil Dead Burn",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/evil-dead-burn/",
+      "reviewed": false
+    },
+    {
+      "name": "Welcome to the Dollhouse",
+      "year": 1995,
+      "date": "2026-06-24",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/welcome-to-the-dollhouse/",
+      "reviewed": false
+    },
+    {
+      "name": "Hoppers",
+      "year": 2026,
+      "date": "2026-04-04",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/hoppers/",
+      "reviewed": false
+    },
+    {
+      "name": "Silver Linings Playbook",
+      "year": 2012,
+      "date": "2026-04-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/silver-linings-playbook/",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2025,
+      "date": "2026-04-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/nirvanna-the-band-the-show-the-movie/",
+      "reviewed": false
+    },
+    {
+      "name": "Pulp Fiction",
+      "year": 1994,
+      "date": "2026-04-04",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/paityne/film/pulp-fiction/",
+      "reviewed": false
+    },
+    {
+      "name": "Project Hail Mary",
+      "year": 2026,
+      "date": "2026-04-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/project-hail-mary/",
+      "reviewed": false
+    },
+    {
+      "name": "The Drama",
+      "year": 2026,
+      "date": "2026-04-04",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/paityne/film/the-drama/",
+      "reviewed": false
+    },
+    {
+      "name": "La La Land",
+      "year": 2016,
+      "date": "2026-03-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/la-la-land/",
+      "reviewed": false
+    },
+    {
+      "name": "Phantom Thread",
+      "year": 2017,
+      "date": "2026-02-15",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/phantom-thread/",
+      "reviewed": false
+    },
+    {
+      "name": "Wuthering Heights",
+      "year": 2026,
+      "date": "2026-02-15",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/paityne/film/wuthering-heights-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Moment",
+      "year": 2026,
+      "date": "2026-02-15",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/the-moment-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Send Help",
+      "year": 2026,
+      "date": "2026-02-15",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/send-help/",
+      "reviewed": false
+    },
+    {
+      "name": "The Master",
+      "year": 2012,
+      "date": "2026-02-02",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/the-master-2012/",
+      "reviewed": false
+    },
+    {
+      "name": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "date": "2026-02-02",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/28-years-later-the-bone-temple/",
+      "reviewed": false
+    },
+    {
+      "name": "No Other Choice",
+      "year": 2025,
+      "date": "2026-01-18",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/no-other-choice-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Marty Supreme",
+      "year": 2025,
+      "date": "2026-01-13",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/paityne/film/marty-supreme/1/",
+      "reviewed": false
+    },
+    {
+      "name": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "date": "2026-01-10",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/paityne/film/the-spongebob-squarepants-movie/",
+      "reviewed": false
+    },
+    {
+      "name": "Primate",
+      "year": 2025,
+      "date": "2026-01-06",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/paityne/film/primate-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Eyes Without a Face",
+      "year": 1960,
+      "date": "2026-01-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/eyes-without-a-face/",
+      "reviewed": false
+    },
+    {
+      "name": "Eternity",
+      "year": 2025,
+      "date": "2025-12-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/eternity-2025-1/",
+      "reviewed": false
+    },
+    {
+      "name": "House of Wax",
+      "year": 2005,
+      "date": "2025-12-28",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/house-of-wax-2005/",
+      "reviewed": false
+    },
+    {
+      "name": "Avatar: Fire and Ash",
+      "year": 2025,
+      "date": "2025-12-19",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/paityne/film/avatar-fire-and-ash/",
+      "reviewed": false
+    },
+    {
+      "name": "Hamnet",
+      "year": 2025,
+      "date": "2025-12-07",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/paityne/film/hamnet/",
+      "reviewed": false
+    },
+    {
+      "name": "Zootopia 2",
+      "year": 2025,
+      "date": "2025-12-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/zootopia-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Monsters University",
+      "year": 2013,
+      "date": "2025-11-27",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/monsters-university/",
+      "reviewed": false
+    },
+    {
+      "name": "Monsters, Inc.",
+      "year": 2001,
+      "date": "2025-11-27",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/paityne/film/monsters-inc/",
+      "reviewed": false
+    },
+    {
+      "name": "Dinner in America",
+      "year": 2020,
+      "date": "2025-11-26",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/dinner-in-america/",
+      "reviewed": false
+    },
+    {
+      "name": "Wicked: For Good",
+      "year": 2025,
+      "date": "2025-11-25",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/wicked-for-good/",
+      "reviewed": false
+    },
+    {
+      "name": "Sentimental Value",
+      "year": 2025,
+      "date": "2025-11-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/sentimental-value-2025/",
+      "reviewed": false
+    }
+  ],
+  "batmatt208": [
+    {
+      "name": "Alpha",
+      "year": 2025,
+      "date": "2026-04-27",
+      "rating": 4.0,
+      "uri": "https://boxd.it/N008",
+      "reviewed": false
+    },
+    {
+      "name": "Michael",
+      "year": 2026,
+      "date": "2026-04-27",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/michael-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Deaf to Happiness",
+      "year": 2026,
+      "date": "2026-04-27",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/batmatt208/film/deaf-to-happiness/",
+      "reviewed": false
+    },
+    {
+      "name": "Mother Mary",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/batmatt208/film/mother-mary-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Minari",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/mL9M",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/HG9a",
+      "reviewed": false
+    },
+    {
+      "name": "On the Count of Three",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/tbfI",
+      "reviewed": false
+    },
+    {
+      "name": "The Queen's Gambit",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/s1Ym",
+      "reviewed": false
+    },
+    {
+      "name": "Janet Planet",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/DdWu",
+      "reviewed": false
+    },
+    {
+      "name": "After Yang",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/lx5a",
+      "reviewed": false
+    },
+    {
+      "name": "The Shrouds",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/AEZa",
+      "reviewed": false
+    },
+    {
+      "name": "Ham on Rye",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/j9qk",
+      "reviewed": false
+    },
+    {
+      "name": "We're All Going to the World's Fair",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.5,
+      "uri": "https://boxd.it/tbmY",
+      "reviewed": false
+    },
+    {
+      "name": "Showing Up",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/tJ1q",
+      "reviewed": false
+    },
+    {
+      "name": "How to Blow Up a Pipeline",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/C69e",
+      "reviewed": false
+    },
+    {
+      "name": "Sound of Metal",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/i7Q4",
+      "reviewed": false
+    },
+    {
+      "name": "Nomadland",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/lnRy",
+      "reviewed": false
+    },
+    {
+      "name": "Sing Sing",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/HIBA",
+      "reviewed": false
+    },
+    {
+      "name": "The Beast",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/yqmk",
+      "reviewed": false
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/wMAk",
+      "reviewed": false
+    },
+    {
+      "name": "Friendship",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/L6Dc",
+      "reviewed": false
+    },
+    {
+      "name": "Hit Man",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/ANB2",
+      "reviewed": false
+    },
+    {
+      "name": "Strange Darling",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/CVIk",
+      "reviewed": false
+    },
+    {
+      "name": "Disclaimer",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/PDv4",
+      "reviewed": false
+    },
+    {
+      "name": "Zola",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/jEWQ",
+      "reviewed": false
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/ByDO",
+      "reviewed": false
+    },
+    {
+      "name": "A Quiet Place Part II",
+      "year": 2021,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/iTx0",
+      "reviewed": false
+    },
+    {
+      "name": "Sometimes Always Never",
+      "year": 2019,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/jNpm",
+      "reviewed": false
+    },
+    {
+      "name": "The Climb",
+      "year": 2020,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/lXDM",
+      "reviewed": false
+    },
+    {
+      "name": "Late Night with the Devil",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 3.5,
+      "uri": "https://boxd.it/zo6G",
+      "reviewed": false
+    },
+    {
+      "name": "The Bikeriders",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/C6Ym",
+      "reviewed": false
+    },
+    {
+      "name": "The Life of Chuck",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/vMTu",
+      "reviewed": false
+    },
+    {
+      "name": "AGGRO DR1FT",
+      "year": 2024,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/HJrw",
+      "reviewed": false
+    },
+    {
+      "name": "The Code",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 0.5,
+      "uri": "https://boxd.it/GTB0",
+      "reviewed": false
+    },
+    {
+      "name": "Shelby Oaks",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 2.0,
+      "uri": "https://boxd.it/zmMK",
+      "reviewed": false
+    },
+    {
+      "name": "365 Days",
+      "year": 2015,
+      "date": "2026-05-04",
+      "rating": 1.0,
+      "uri": "https://boxd.it/oJ9O",
+      "reviewed": false
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-05-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/obsession-2025-2/",
+      "reviewed": false
+    },
+    {
+      "name": "Mortal Kombat II",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/mortal-kombat-ii/",
+      "reviewed": false
+    },
+    {
+      "name": "Bunnylovr",
+      "year": 2026,
+      "date": "2026-05-22",
+      "rating": 1.5,
+      "uri": "https://boxd.it/QxM6",
+      "reviewed": false
+    },
+    {
+      "name": "Hundreds of Beavers",
+      "year": 2024,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://boxd.it/CyUM",
+      "reviewed": false
+    },
+    {
+      "name": "I Love Boosters",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/i-love-boosters/",
+      "reviewed": false
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-06-05",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/backrooms-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Furious",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-furious/",
+      "reviewed": false
+    },
+    {
+      "name": "Disclosure Day",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/disclosure-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Elio",
+      "year": 2025,
+      "date": "2026-07-08",
+      "rating": 3.5,
+      "uri": "https://boxd.it/CFr8",
+      "reviewed": false
+    },
+    {
+      "name": "Toy Story 5",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/toy-story-5/",
+      "reviewed": false
+    },
+    {
+      "name": "Jackass: Best and Last",
+      "year": 2026,
+      "date": "2026-07-08",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/jackass-best-and-last/",
+      "reviewed": false
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-odyssey-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-invite-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "BlackBerry",
+      "year": 2023,
+      "date": "2026-07-30",
+      "rating": 3.5,
+      "uri": "https://boxd.it/CoVK",
+      "reviewed": false
+    },
+    {
+      "name": "Her Private Hell",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/batmatt208/film/her-private-hell-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-end-of-oak-street/",
+      "reviewed": false
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/resident-evil-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Our Hero, Balthazar",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/our-hero-balthazar/",
+      "reviewed": false
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/teenage-sex-and-death-at-camp-miasma/",
+      "reviewed": false
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/tony-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Coyote vs. Acme",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/coyote-vs-acme/",
+      "reviewed": false
+    },
+    {
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/spider-man-brand-new-day/",
+      "reviewed": false
+    },
+    {
+      "name": "Blue Heron",
+      "year": 2026,
+      "date": "2026-09-22",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/blue-heron/",
+      "reviewed": false
+    },
+    {
+      "name": "Our Hero, Balthazar",
+      "year": 2025,
+      "date": "2026-09-16",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/our-hero-balthazar/",
+      "reviewed": false
+    },
+    {
+      "name": "Blue Heron",
+      "year": 2025,
+      "date": "2026-09-13",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/blue-heron/",
+      "reviewed": false
+    },
+    {
+      "name": "The Furious",
+      "year": 2025,
+      "date": "2026-06-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-furious/",
+      "reviewed": false
+    },
+    {
+      "name": "Bunnylovr",
+      "year": 2025,
+      "date": "2026-05-15",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/batmatt208/film/bunnylovr/",
+      "reviewed": false
+    },
+    {
+      "name": "Pizza Movie",
+      "year": 2026,
+      "date": "2026-04-12",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/pizza-movie-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "The Drama",
+      "year": 2026,
+      "date": "2026-04-10",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-drama/",
+      "reviewed": false
+    },
+    {
+      "name": "Ready or Not 2: Here I Come",
+      "year": 2026,
+      "date": "2026-03-27",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/batmatt208/film/ready-or-not-2-here-i-come/",
+      "reviewed": false
+    },
+    {
+      "name": "Project Hail Mary",
+      "year": 2026,
+      "date": "2026-03-23",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/batmatt208/film/project-hail-mary/",
+      "reviewed": false
+    },
+    {
+      "name": "Hoppers",
+      "year": 2026,
+      "date": "2026-03-20",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/hoppers/",
+      "reviewed": false
+    },
+    {
+      "name": "Resurrection",
+      "year": 2025,
+      "date": "2026-03-15",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/resurrection-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "The Testament of Ann Lee",
+      "year": 2025,
+      "date": "2026-03-14",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-testament-of-ann-lee/",
+      "reviewed": false
+    },
+    {
+      "name": "If I Had Legs I'd Kick You",
+      "year": 2025,
+      "date": "2026-03-13",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/if-i-had-legs-id-kick-you/",
+      "reviewed": false
+    },
+    {
+      "name": "Father Mother Sister Brother",
+      "year": 2025,
+      "date": "2026-03-13",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/father-mother-sister-brother/",
+      "reviewed": false
+    },
+    {
+      "name": "No Other Choice",
+      "year": 2025,
+      "date": "2026-03-13",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/no-other-choice-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "The Secret Agent",
+      "year": 2025,
+      "date": "2026-03-12",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/the-secret-agent-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Nouvelle Vague",
+      "year": 2025,
+      "date": "2026-03-10",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/nouvelle-vague-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Blue Moon",
+      "year": 2025,
+      "date": "2026-03-08",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/blue-moon-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Sound of Falling",
+      "year": 2025,
+      "date": "2026-03-07",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/sound-of-falling/",
+      "reviewed": false
+    },
+    {
+      "name": "Rental Family",
+      "year": 2025,
+      "date": "2026-03-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/rental-family-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Sir\u0101t",
+      "year": 2025,
+      "date": "2026-03-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/sirat-2025/",
+      "reviewed": false
+    },
+    {
+      "name": "Train Dreams",
+      "year": 2025,
+      "date": "2026-02-27",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/train-dreams/",
+      "reviewed": false
+    },
+    {
+      "name": "The Shrouds",
+      "year": 2024,
+      "date": "2026-02-22",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-shrouds/",
+      "reviewed": false
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2025,
+      "date": "2026-02-19",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/nirvanna-the-band-the-show-the-movie/",
+      "reviewed": false
+    },
+    {
+      "name": "The Moment",
+      "year": 2026,
+      "date": "2026-02-17",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/batmatt208/film/the-moment-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "Wuthering Heights",
+      "year": 2026,
+      "date": "2026-02-15",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/wuthering-heights-2026/",
+      "reviewed": false
+    },
+    {
+      "name": "It Was Just an Accident",
+      "year": 2025,
+      "date": "2026-02-12",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/batmatt208/film/it-was-just-an-accident/",
+      "reviewed": false
+    },
+    {
+      "name": "Send Help",
+      "year": 2026,
+      "date": "2026-02-04",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/batmatt208/film/send-help/",
+      "reviewed": false
+    },
+    {
+      "name": "Spinal Tap II: The End Continues",
+      "year": 2025,
+      "date": "2026-01-31",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/spinal-tap-ii-the-end-continues/",
+      "reviewed": false
+    }
+  ],
+  "big_brant": [
+    {
+      "name": "We're All Going to the World's Fair",
+      "year": 2022,
+      "date": "2026-05-04",
+      "rating": 4.0,
+      "uri": "https://boxd.it/tbmY",
+      "reviewed": false
+    },
+    {
+      "name": "Millennium Actress",
+      "year": 2002,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://boxd.it/1fK0",
+      "reviewed": false
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2023,
+      "date": "2026-05-04",
+      "rating": 2.5,
+      "uri": "https://boxd.it/ByDO",
+      "reviewed": false
+    },
+    {
+      "name": "Hundreds of Beavers",
+      "year": 2024,
+      "date": "2026-06-05",
+      "rating": 4.5,
+      "uri": "https://boxd.it/CyUM",
+      "reviewed": false
+    }
+  ]
+}
