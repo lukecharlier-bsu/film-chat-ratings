@@ -882,6 +882,43 @@ if __name__ == "__main__":
                 diary.setdefault(username, []).append(e)
                 csv_keys.add(key)
 
+    # ── Deduplicate movies dict ──
+    # Same film can end up under two keys if CSV year and rss_history year differ.
+    # Group by lowercase name, merge any entries that share a name.
+    by_name: dict = {}
+    for key, info in movies.items():
+        name_lower = key[0]
+        if name_lower not in by_name:
+            by_name[name_lower] = key
+        else:
+            # Prefer the most recent year (wide release > festival year)
+            canonical_key = by_name[name_lower]
+            canon_year = canonical_key[1] or 0
+            this_year  = key[1] or 0
+            if this_year > canon_year:
+                # Swap — make this key the canonical one
+                movies[key]["ratings"].update({
+                    u: r for u, r in movies[canonical_key]["ratings"].items()
+                    if u not in movies[key]["ratings"]
+                })
+                if not movies[key]["uri"]:
+                    movies[key]["uri"] = movies[canonical_key]["uri"]
+                by_name[name_lower] = key
+            else:
+                # Keep existing canonical, merge ratings in
+                for username, rating in info["ratings"].items():
+                    if username not in movies[canonical_key]["ratings"]:
+                        movies[canonical_key]["ratings"][username] = rating
+                if not movies[canonical_key]["uri"] and info["uri"]:
+                    movies[canonical_key]["uri"] = info["uri"]
+
+    # Remove the duplicate keys
+    keys_to_delete = [k for k in movies if k[0] in by_name and k != by_name[k[0]]]
+    for k in keys_to_delete:
+        del movies[k]
+    if keys_to_delete:
+        print(f"  Deduplicated {len(keys_to_delete)} duplicate film entries")
+
     # ── Step 2b: Fetch TMDB metadata (year, genres, poster) ──
     print("Fetching TMDB metadata...")
     fetch_all_tmdb_data(movies)
