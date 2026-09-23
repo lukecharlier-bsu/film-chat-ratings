@@ -757,6 +757,7 @@ def compute_diary(diary: dict, movies: dict) -> list[dict]:
     for username, user_entries in diary.items():
         for e in user_entries:
             tmdb = tmdb_lookup.get(e["name"].lower().strip(), {})
+            approx = e.get("source") == "backfill"
             entries.append({
                 "username": username,
                 "name":     e["name"],
@@ -767,9 +768,38 @@ def compute_diary(diary: dict, movies: dict) -> list[dict]:
                 "reviewed": e["reviewed"],
                 "poster":   tmdb.get("poster"),
                 "genres":   tmdb.get("genres", []),
+                "approx":   approx,
             })
 
-    entries.sort(key=lambda x: x["date"] or "", reverse=True)
+    # Sort: real-dated entries first (newest → oldest), then approximate-dated entries,
+    # then undated. Within each group, sort by date descending.
+    def sort_key(x):
+        date = x["date"] or ""
+        if not date:
+            return (2, "")        # undated: last
+        if x.get("approx"):
+            return (1, date)      # backfill approx date: middle
+        return (0, date)          # real date: first
+
+    entries.sort(key=sort_key, reverse=False)
+    # Within each tier we want dates descending, so reverse date within each group
+    entries.sort(key=lambda x: (
+        2 if not x.get("date") else (1 if x.get("approx") else 0),
+        x["date"] or ""
+    ))
+    # Final sort: tier ascending (0=real first), date descending within tier
+    from functools import cmp_to_key
+    def cmp(a, b):
+        ta = 2 if not a.get("date") else (1 if a.get("approx") else 0)
+        tb = 2 if not b.get("date") else (1 if b.get("approx") else 0)
+        if ta != tb:
+            return ta - tb   # lower tier (real) first
+        # Same tier: sort date descending
+        da, db = a.get("date") or "", b.get("date") or ""
+        if da > db: return -1
+        if da < db: return 1
+        return 0
+    entries.sort(key=cmp_to_key(cmp))
     return entries
 
 
@@ -866,7 +896,14 @@ if __name__ == "__main__":
             key = (e["name"].lower().strip(), e["year"])
             # Tag live RSS entries so they're distinguishable from backfill
             e_tagged = {**e, "source": "rss"}
-            if key not in existing or (e["date"] and e["date"] > (existing[key].get("date") or "")):
+            existing_e = existing.get(key)
+            # Real RSS entries always replace backfill entries; otherwise keep the more recent date
+            should_replace = (
+                key not in existing
+                or (e["date"] and e["date"] > (existing_e.get("date") or ""))
+                or (e["date"] and existing_e.get("source") == "backfill")
+            )
+            if should_replace:
                 existing[key] = e_tagged
         rss_history[username] = list(existing.values())
 
@@ -896,24 +933,23 @@ if __name__ == "__main__":
                 movies[key]["uri"] = e["uri"]
 
             if name_lower in diary_by_name:
-                # Film already in diary from CSV — only fill date if CSV had none
                 existing = diary_by_name[name_lower]
                 existing["rating"] = e["rating"]
-                if not existing.get("date") and e.get("date") and not is_backfill:
-                    existing["date"] = e["date"]
-                # Backfill dates are approximate commit dates — never overwrite a real date,
-                # and only use as a last resort when the entry has no date at all.
-                elif not existing.get("date") and e.get("date") and is_backfill:
+                existing_is_backfill = existing.get("source") == "backfill"
+                if not is_backfill and e.get("date"):
+                    # Real RSS date: overwrite backfill approximate date or fill missing date
+                    if not existing.get("date") or existing_is_backfill:
+                        existing["date"] = e["date"]
+                        existing["source"] = "rss"
+                elif is_backfill and not existing.get("date"):
+                    # Backfill only fills in when there's truly no date
                     existing["date"] = e["date"]
             else:
-                # Film not in CSV — add from rss_history.
-                # For backfill entries, strip the fake commit date so it sorts to the bottom
-                # of the diary rather than appearing at the top with a misleading recent date.
-                diary_entry = dict(e)
-                if is_backfill:
-                    diary_entry["date"] = None
-                diary.setdefault(username, []).append(diary_entry)
-                diary_by_name[name_lower] = diary_entry
+                # Film not in CSV — add from rss_history with whatever date it has.
+                # For real RSS entries this is an accurate date; for backfill entries
+                # it is an approximate commit date, but still better than no date.
+                diary.setdefault(username, []).append(e)
+                diary_by_name[name_lower] = e
 
     # ── Deduplicate movies dict ──
     # Same film can end up under two keys if CSV year and rss_history year differ.

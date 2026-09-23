@@ -428,13 +428,14 @@
 
     filtered.forEach(e => {
       const dateStr = e.date ? new Date(e.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—';
+      const dateCell = e.approx ? `<span style="color:var(--muted);font-style:italic">${dateStr} ~</span>` : dateStr;
       body.insertAdjacentHTML('beforeend', `
-        <tr>
+        <tr${e.approx ? ' style="opacity:0.75"' : ''}>
           <td style="width:40px;padding:6px 8px">${posterHtml(e)}</td>
           <td class="movie-title"><a href="${e.uri || '#'}" target="_blank">${e.name}</a></td>
           <td class="year">${e.year || '—'}</td>
           <td class="avg-rating">${starsHtml(e.rating)} <small>${e.rating}</small></td>
-          <td class="year">${dateStr}</td>
+          <td class="year">${dateCell}</td>
           <td style="text-align:center">${e.reviewed ? '✓' : ''}</td>
           <td class="year">${e.username}</td>
         </tr>`);
