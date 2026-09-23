@@ -7,8 +7,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-man-i-love-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p35Q85f9oMsCUwULGwoaXd6VQZY.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -64,8 +67,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/batmatt208/film/our-hero-balthazar/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "batmatt208",
@@ -135,8 +141,10 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/batmatt208/film/blue-heron/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -161,8 +169,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/29Go",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -288,8 +298,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1UsG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -299,8 +311,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/JyOS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -353,8 +367,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/29Go",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -364,8 +380,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/UhSA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uSrozVUxIUaer6FIUHHFtOdbqj8.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -433,8 +451,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/sTpK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+    "genres": [
+      "Drama",
+      "Crime",
+      "History"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -444,8 +466,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/87wo",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -522,13 +547,17 @@
   {
     "username": "memoriesomovies",
     "name": "Time",
-    "year": 2019,
+    "year": 2013,
     "date": "2026-09-22",
     "rating": 3.5,
     "uri": "https://boxd.it/oiOA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -597,8 +626,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/kpu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/aC9XHtf0Opw2IJDVjSkL8eO71An.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -608,8 +640,10 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/woman-unknown/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ly8Zf4McOMane0caBwnmuft6TTM.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -634,8 +668,12 @@
     "rating": 2.0,
     "uri": "https://boxd.it/iGU6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -893,8 +931,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/moviebuff501/film/nimrods/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -918,8 +959,10 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/moviebuff501/film/the-beast-in-me/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/7eLQtBnk0npQ1hw9YRQzDUy6pta.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -988,8 +1031,11 @@
     "rating": 2.0,
     "uri": "https://letterboxd.com/moviebuff501/film/it-ends/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -1056,8 +1102,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/29Go",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -1109,8 +1157,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/shadows-1958/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zR1gHOGVruoROCdHS7Tc5TSZqED.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -1177,8 +1227,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/sTpK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+    "genres": [
+      "Drama",
+      "Crime",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -1188,8 +1242,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/batmatt208/film/our-hero-balthazar/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -1252,13 +1309,17 @@
   {
     "username": "skylerinthecine",
     "name": "Time",
-    "year": 2019,
+    "year": 2013,
     "date": "2026-09-22",
     "rating": 3.5,
     "uri": "https://boxd.it/oiOA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -1278,13 +1339,17 @@
   {
     "username": "skylerinthecine",
     "name": "Patton",
-    "year": 1969,
+    "year": 1970,
     "date": "2026-09-22",
     "rating": 3.5,
     "uri": "https://boxd.it/1UnQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -1953,8 +2018,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-hole/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lsuvfxyCxlnkzc49hGMUmPDibCk.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -1964,8 +2033,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1fK0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p44UXOFBCY5xbpCKEsWpi4filCD.jpg",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -1990,8 +2063,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/batmatt208/film/the-furious/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -2001,8 +2078,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/mallrats/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -2239,8 +2319,12 @@
     "rating": 2.0,
     "uri": "https://letterboxd.com/moviebuff501/film/the-mandalorian-and-grogu/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -2264,8 +2348,13 @@
     "rating": 1.5,
     "uri": "https://letterboxd.com/moviebuff501/film/moana/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ]
   },
   {
     "username": "paityne",
@@ -2347,8 +2436,10 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/silent-friend/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mZjkRpTFfcdsTmtIAzKVM87I94R.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -2371,8 +2462,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gny5VKDs3xnRtOgN7YVq5dStxAh.jpg",
+    "genres": [
+      "Science Fiction",
+      "War"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -2409,8 +2503,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/kaboom/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vIbX9X6lMdbdqYfuxxsHvi9n01v.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -2420,8 +2518,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/splendor-1999/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/spYxqTm5k8h0vCm3c3JZUlZgMoF.jpg",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -2459,8 +2560,12 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/bronson/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6diyyGIbBNiANsdIaCGtyv4IofR.jpg",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -2613,8 +2718,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/batmatt208/film/the-furious/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "batmatt208",
@@ -2756,8 +2865,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/yes-2025/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5YCX8gMtto9j45sF8f4hHeEWlLS.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -2811,19 +2923,25 @@
     "rating": 3.0,
     "uri": "https://boxd.it/EHX0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ig3XxhP2coWNZDnHLqyV3DxXWkR.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
     "name": "The Christophers",
-    "year": 2025,
+    "year": 2026,
     "date": "2026-07-08",
     "rating": 3.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-christophers/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -2833,8 +2951,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-big-brawl/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jFl2hmGWFX9mw0NvOOn08Zr8bn5.jpg",
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -2844,8 +2965,12 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/black-rabbit-white-rabbit/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/afSFOB3q0XzA5CoDejf5OtmCyNy.jpg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -2855,8 +2980,12 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/moviebuff501/film/the-raid-2/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mlGuKlIDLdPhYjz1QBXi0FmyYik.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -2881,8 +3010,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/moviebuff501/film/mile-end-kicks/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -2892,8 +3025,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/moviebuff501/film/the-raid-2011/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -2977,8 +3114,14 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/moviebuff501/film/minions-monsters-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3004,8 +3147,12 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/moviebuff501/film/voicemails-for-isabelle/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3015,8 +3162,12 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/moviebuff501/film/supergirl-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
   },
   {
     "username": "paityne",
@@ -3026,8 +3177,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1TPO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -3107,8 +3261,12 @@
     "rating": 5.0,
     "uri": "https://boxd.it/fYde",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/byPg61iWtxeBpHBepYoD8BTr19g.jpg",
+    "genres": [
+      "Comedy",
+      "TV Movie",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3118,8 +3276,12 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/an-unmarried-woman/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pJ6BLvNcLhNxvVCGgTynO5BJtQq.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3129,8 +3291,11 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-remains-of-the-day/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3140,8 +3305,11 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/mildred-pierce/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3164,8 +3332,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/moviebuff501/film/mile-end-kicks/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3175,8 +3347,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/a-room-with-a-view/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5xRAqywVo6tNUNQbAESGVP930la.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3186,8 +3361,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/fresh-kill-1994/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8O2UYcYGU61DgyzdHNM8kIJ5eK3.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3197,8 +3375,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/gary-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3208,8 +3389,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/i-killed-my-mother/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nB6OuDdERS95aQtoxPExXxsW3Ov.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3219,8 +3402,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/heavenly-creatures/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3230,8 +3416,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/missing/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fAAhC4RkpXu7SJgIESWQwVxcelo.jpg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3241,8 +3431,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/party-girl-1995/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3294,8 +3488,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/pink-narcissus/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3305,8 +3502,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/lovesong-2016/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/43yEeZbFeFOah9mZWIIJe57STKS.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3316,8 +3516,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-wedding-banquet/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/arWCA8lg0rbdlwHUMvI46LNDhnL.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3327,8 +3531,13 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/carolina-caroline/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3338,8 +3547,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/beach-rats/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oQZPPsvoipd38jasPhvJOpajbug.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3349,8 +3561,11 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+    "genres": [
+      "Horror",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3360,8 +3575,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/born-on-the-fourth-of-july/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+    "genres": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3371,8 +3589,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-eyes-of-my-mother/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/hoR1TAxIkO1rRHu3F7cWzKZqxq.jpg",
+    "genres": [
+      "Drama",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3382,8 +3603,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/disobedience-2017/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kPJTR7IUkzqjIu1SGnpQmGo9Iip.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3409,8 +3633,12 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/moviebuff501/film/voicemails-for-isabelle/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3420,8 +3648,10 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/awakenings/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3431,8 +3661,11 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/mala-noche/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gAtkeNjk054tEl3jCHtF1wOFCx1.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3442,8 +3675,12 @@
     "rating": 2.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/first-man-into-space/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lKBIGRetSbZ6cBRWqaNzwHvkgy9.jpg",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -3482,8 +3719,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/CyUM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
   },
   {
     "username": "batmatt208",
@@ -3523,8 +3764,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/CyUM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -3534,8 +3779,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/CyUM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -3560,8 +3809,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/CyUM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -3571,8 +3824,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/shoot-the-piano-player/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6UhMIZaaoe2HUU7sEIwYpuYgugh.jpg",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -3582,8 +3839,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/nitrate-kisses/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/z5dy2LpDzKLYqKN3HCf3X4XZMW3.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -3620,8 +3879,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/wings-of-hope/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ru9fBYoWeovh7GdRJXQ4tyVMP4h.jpg",
+    "genres": [
+      "Documentary",
+      "TV Movie"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -3631,8 +3893,10 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/silent-friend/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mZjkRpTFfcdsTmtIAzKVM87I94R.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -3657,8 +3921,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/CyUM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3668,8 +3936,13 @@
     "rating": 4.0,
     "uri": "https://boxd.it/2ai8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+    "genres": [
+      "Adventure",
+      "Romance",
+      "War",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3679,8 +3952,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/moviebuff501/film/the-furious/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3690,8 +3967,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/moviebuff501/film/wonder-man-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/A9PXUextPtjQD4Z7WBopKJzFVtS.jpg",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3716,8 +3997,12 @@
     "rating": 1.0,
     "uri": "https://boxd.it/DdC",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3727,8 +4012,12 @@
     "rating": 2.0,
     "uri": "https://letterboxd.com/moviebuff501/film/masters-of-the-universe-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3738,8 +4027,12 @@
     "rating": 2.0,
     "uri": "https://letterboxd.com/moviebuff501/film/star-wars-the-mandalorian-and-grogu/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3762,8 +4055,10 @@
     "rating": 1.5,
     "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-3/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8dLsax5KSwlCY5uWXETKjud5k6U.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3773,8 +4068,10 @@
     "rating": 1.5,
     "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-2/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3797,8 +4094,10 @@
     "rating": 1.0,
     "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-4/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/dEwlu8S0z1AibuX1weLwUyiRWFl.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -3808,8 +4107,10 @@
     "rating": 0.5,
     "uri": "https://letterboxd.com/moviebuff501/film/scary-movie-5/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vBqLLxE6GaAPhO6v9EFvFbLZ7Ap.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "paityne",
@@ -3850,8 +4151,10 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/tomboy-2011/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/plEV1Q5u5caYASlG3pq3ON7acN7.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3861,8 +4164,11 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/josie-and-the-pussycats/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mHOix87RdBO3YQuyvFFZAZxpt5P.jpg",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3872,8 +4178,12 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/cecil-b-demented/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gCXUA9BUOSDmOFVfkVBF4v15Td6.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Action"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3883,8 +4193,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/CyUM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Action"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3894,8 +4208,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/edward-ii/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sB3ktIeyCoudoRMJgzo9goA9k1v.jpg",
+    "genres": [
+      "History",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3905,8 +4223,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/detour/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3916,8 +4237,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/smithereens/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jp29gfdiP7AxtjqzlzyaztFORMF.jpg",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3927,8 +4252,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/M8wu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3938,8 +4267,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/water-lilies/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oNrs9disgGDtOORToDt5dIqYFBi.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3949,8 +4281,10 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/i-daniel-blake/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -3989,8 +4323,11 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/nuremberg-2025/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
+    "genres": [
+      "History",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4014,8 +4351,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/DdC",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4053,8 +4394,11 @@
     "rating": 1.5,
     "uri": "https://boxd.it/QxM6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rZc2c85zUkUXWzBogPyQb2YxIi6.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -4077,8 +4421,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Mystery"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -4130,8 +4478,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/moviebuff501/film/tuner/1/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -4141,8 +4493,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Mystery"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -4210,8 +4566,12 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/moviebuff501/film/shanghai-express/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -4221,8 +4581,12 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/moviebuff501/film/13-hours-the-secret-soldiers-of-benghazi/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+    "genres": [
+      "War",
+      "History",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -4298,8 +4662,11 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/la-notte/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4309,8 +4676,10 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-child/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/dk7ZpsVKLt2nwjQZZIde0WP4oQV.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4320,8 +4689,12 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/we-own-the-night/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rsKhSr3UNjG2DhVj2KPj0ARujez.jpg",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4331,8 +4704,10 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/blue-heron/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4355,8 +4730,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-wind-that-shakes-the-barley/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg",
+    "genres": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4366,8 +4744,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-sons-room/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/e9s1Hvw9TcVZspbkq2V8Bmvhky1.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4377,8 +4757,12 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-yards/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/AtwXtU8CDWvVADgOwRkOSRZFPWI.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4388,8 +4772,13 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/kagemusha/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fJgqj9s8HNZz9zwX6femVJn8HEB.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4426,8 +4815,10 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-class-2008/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/w7UolFxzPi7ZA7LkglRotQ84g1g.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4437,8 +4828,10 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/fahrenheit-9-11/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/cZ7M343iuiMDc36fSeSm699XQFv.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4448,8 +4841,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/is-god-is/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4459,8 +4855,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/mona-lisa-smile/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4470,8 +4870,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/erupcja/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4481,8 +4884,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/little-odessa/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/80zDn3oanRMWDSDX1cPKZVIi8OO.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4492,8 +4898,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-last-metro/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/t8KMFg9PiD9GSIHXlzast2WhZex.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4503,8 +4913,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/satyricon-1969/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4514,8 +4927,12 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/the-sheep-detectives/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4539,8 +4956,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/blue-is-the-warmest-color/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4550,8 +4970,10 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-square-2017/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pefcv5VNspSK4Dt8doei5bJmmln.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4575,8 +4997,11 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/elephant-2003/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4586,8 +5011,10 @@
     "rating": 2.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/roommates-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -4626,8 +5053,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/mL9M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4637,8 +5066,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/HG9a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4648,8 +5081,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/tbfI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mv5v3xtiRqpMyP1XWRnRl5s38lV.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4659,8 +5096,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/s1Ym",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gKxPyeItCrOscP8On4y5sG3WY9A.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4670,8 +5109,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/DdWu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i4qK3vQS4MD8OKhIkqSe3UK6OuH.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4681,8 +5122,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lx5a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s2Zaj1WFKiP7Y7GHp57b5KbKG8f.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4692,8 +5136,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/AEZa",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Horror"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4703,8 +5151,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/j9qk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8dweXTd42NUZ9cKYh83QZgx2xEK.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4714,8 +5166,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/tbmY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4725,8 +5180,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/tJ1q",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4736,8 +5194,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/C69e",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4747,8 +5209,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/i7Q4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4758,8 +5223,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/lnRy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4769,8 +5236,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/HIBA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ig5ju3Tt56UGoBrc6IlkUS6ahfE.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4780,8 +5249,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/yqmk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/96Jb7yjDkzluBqQZ21j54CJdYeM.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4791,8 +5264,14 @@
     "rating": 3.5,
     "uri": "https://boxd.it/wMAk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4802,8 +5281,11 @@
     "rating": 2.0,
     "uri": "https://boxd.it/L6Dc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4813,8 +5295,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/ANB2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Crime"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4824,8 +5310,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/CVIk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4835,8 +5324,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/PDv4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3NTbnQOKOeKqsKSfTvNMZjdQbgZ.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4846,8 +5338,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/jEWQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4857,8 +5353,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/ByDO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4868,8 +5366,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/iTx0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4879,8 +5381,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/jNpm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/b7tHjke4TIaFWuzg26FwsACHUUC.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4890,8 +5395,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/lXDM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/x6f60UzIXfkFNofg7GTzMygegFc.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4901,8 +5408,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/zo6G",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4912,8 +5421,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/C6Ym",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4923,8 +5435,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/vMTu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4934,8 +5449,13 @@
     "rating": 2.5,
     "uri": "https://boxd.it/HJrw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yPgdBXbqeeCYFd0boZvpoSgGDnx.jpg",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Action",
+      "Drama"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4945,8 +5465,11 @@
     "rating": 0.5,
     "uri": "https://boxd.it/GTB0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4JoGtLET8DKgQGCoNvWYB9GEyEw.jpg",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4956,8 +5479,11 @@
     "rating": 2.0,
     "uri": "https://boxd.it/zmMK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "batmatt208",
@@ -4967,8 +5493,10 @@
     "rating": 1.0,
     "uri": "https://boxd.it/oJ9O",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/AoFyZGDgfrQuH8ptYb41KVnTjJp.jpg",
+    "genres": [
+      "Romance"
+    ]
   },
   {
     "username": "big_brant",
@@ -4978,8 +5506,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/tbmY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "big_brant",
@@ -4989,8 +5520,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/1fK0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p44UXOFBCY5xbpCKEsWpi4filCD.jpg",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "big_brant",
@@ -5000,8 +5535,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/ByDO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5039,8 +5576,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/mL9M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5050,8 +5589,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/8bd6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg",
+    "genres": [
+      "Drama",
+      "Music",
+      "History"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5061,8 +5604,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1W7A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+    "genres": [
+      "Animation",
+      "Thriller"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5072,8 +5618,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/HG9a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5083,8 +5633,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/tbfI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mv5v3xtiRqpMyP1XWRnRl5s38lV.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5094,8 +5648,14 @@
     "rating": 4.5,
     "uri": "https://boxd.it/9X0m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery",
+      "Fantasy",
+      "Thriller"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5105,8 +5665,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/QkIU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5116,8 +5678,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1zOc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Comedy"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5127,8 +5693,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/Arx8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+    "genres": [
+      "Animation",
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5138,8 +5707,14 @@
     "rating": 2.5,
     "uri": "https://boxd.it/wMAk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5149,8 +5724,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/L6Dc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5160,8 +5738,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/sqFE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5171,8 +5752,10 @@
     "rating": 1.5,
     "uri": "https://boxd.it/ByDO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5182,8 +5765,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/zo6G",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5193,8 +5778,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/vMTu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5204,8 +5792,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/BLQQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/q9rRLc9pRDR8H6YoJTmXrBmivxD.jpg",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Mystery"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5215,8 +5807,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/AF9k",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pJDxugqyIjvwrhQdnYuCeMzEpAu.jpg",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5226,8 +5821,11 @@
     "rating": 2.0,
     "uri": "https://boxd.it/Obz6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5237,8 +5835,10 @@
     "rating": 1.5,
     "uri": "https://boxd.it/eRzg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "lukecharlier",
@@ -5248,8 +5848,10 @@
     "rating": 1.0,
     "uri": "https://boxd.it/oxPS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sMmy9CICGEyFDcXM9fIXU2bDEcH.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5269,13 +5871,17 @@
   {
     "username": "memoriesomovies",
     "name": "Badlands",
-    "year": 1974,
+    "year": 2025,
     "date": "2026-05-04",
     "rating": 5.0,
     "uri": "https://boxd.it/25Fm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5285,8 +5891,14 @@
     "rating": 5.0,
     "uri": "https://boxd.it/2acu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/h5e3r12VwfUotN36fBr1DNeCD4n.jpg",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5310,8 +5922,13 @@
     "rating": 5.0,
     "uri": "https://boxd.it/eCrQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5321,8 +5938,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/eqFw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5332,8 +5953,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1jzg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+    "genres": [
+      "Documentary",
+      "History"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5343,8 +5967,10 @@
     "rating": 5.0,
     "uri": "https://boxd.it/mL9M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5354,8 +5980,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/oIv0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5365,19 +5994,24 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1NI8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
     "name": "Pink Flamingos",
-    "year": 1976,
+    "year": 1972,
     "date": "2026-05-04",
     "rating": 4.5,
     "uri": "https://boxd.it/29NO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/10N8SvTQwUqyWgocPam1P18Jgr.jpg",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5387,8 +6021,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1HMI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bs2M1hqAQl5LeAOPPRV4drwouZS.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5398,8 +6035,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1TPO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5409,8 +6049,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1dy2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5420,8 +6063,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/go9C",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5442,8 +6087,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1W7A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+    "genres": [
+      "Animation",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5453,8 +6101,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/HG9a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5464,8 +6116,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1zzw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ix3pquGqTkCW86UbVTdRcrhGEFm.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5475,8 +6129,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/DdWu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i4qK3vQS4MD8OKhIkqSe3UK6OuH.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5486,8 +6142,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/dLd2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5497,8 +6156,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/41Xg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5508,8 +6170,14 @@
     "rating": 4.0,
     "uri": "https://boxd.it/9X0m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery",
+      "Fantasy",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5519,8 +6187,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lx5a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s2Zaj1WFKiP7Y7GHp57b5KbKG8f.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5530,8 +6201,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/2aG0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5541,8 +6215,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/Cpn0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wu4dImuKsAhI3tH5mTQ9HsShb6z.jpg",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Family"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5552,8 +6230,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/ZQc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jPP0gFDgdXRa1YgP8Cn8arzOHI3.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5563,8 +6243,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/421s",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5574,8 +6257,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/CNkk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pq0tnPfhPZq2Iv2gFk4rxV3DRMG.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5585,19 +6270,23 @@
     "rating": 4.0,
     "uri": "https://boxd.it/36oo",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6rcVFsEwOyXsG0e7L9ql6KEPGJX.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
     "name": "Caught by the Tides",
-    "year": 2025,
+    "year": 2024,
     "date": "2026-05-04",
     "rating": 4.0,
     "uri": "https://boxd.it/GZ4Q",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vRUsEXHm9iJgXuf8k4BiTLCnUb0.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5607,8 +6296,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/s5cw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fjCH5bWetpEkLJPTtc8Tbo2wAzY.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5618,8 +6310,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/pA06",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p8JiuRrSdg6qXNnJWTqOftTy6D.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5629,8 +6324,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/oAm0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lkY6Agn4sucxm2VHrPBk7pQah7m.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5640,8 +6337,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/ax4E",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xN4xhl5HYhfO9W8Y1ZZEnqmQEip.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5651,8 +6351,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/20cE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5662,8 +6364,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/l9w2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mkiI2VzPLyvZvlsX8WD84P16Cee.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5673,8 +6378,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/UpU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pN1jUg8RqGXB321v9XDwbmPp5G3.jpg",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5684,8 +6393,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1uCq",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lpO4JSRMzGH1A8KbXhyDFvlNe3D.jpg",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5695,8 +6407,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/gkK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/d3R2ELJJJtsdC722O63BVLmcxSe.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5706,8 +6420,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/KzLW",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zDdzvIVGkAUfUMi7mJykgEu5ynu.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5717,8 +6434,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/tbmY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5728,8 +6448,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/tJ1q",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5739,8 +6462,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/C69e",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5750,8 +6477,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1UHm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5761,8 +6491,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/i7Q4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5772,8 +6505,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/lnRy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5783,8 +6518,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/HIBA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ig5ju3Tt56UGoBrc6IlkUS6ahfE.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5794,8 +6531,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/krga",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+    "genres": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5805,8 +6545,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/neWo",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5816,8 +6558,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/24eE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mYPuSx5JwL8AdTwS1iQW4Un1cYP.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5827,8 +6571,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/6dxe",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5838,8 +6586,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/28JG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5849,8 +6600,14 @@
     "rating": 4.0,
     "uri": "https://boxd.it/wMAk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5860,8 +6617,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/l8QA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5871,8 +6632,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/20DU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1l5UaoP25Ak8PWCKIULQz70yF03.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5882,19 +6646,26 @@
     "rating": 3.0,
     "uri": "https://boxd.it/1U16",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
     "name": "Time",
-    "year": 2017,
+    "year": 1984,
     "date": "2026-05-04",
     "rating": 3.5,
     "uri": "https://boxd.it/oiOA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5904,8 +6675,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1TjS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/tQqIA8bDN7v1LmHjJg7Qh9BKCLa.jpg",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5915,8 +6690,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/ui4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jPT3tkTu9U7oXkLTSpkPBAr5dwO.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5926,8 +6704,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/etXy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5937,8 +6717,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/2VCY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/47nbkrQQSdFKJY9BwR6rfeTOvWk.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5948,8 +6731,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/3orq",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i2s1L8AavAfKIcKf3ONhF3no405.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5959,8 +6745,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/21aY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bEwvlXvvrVLPFwCOND5E38qly01.jpg",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Fantasy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5970,8 +6760,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/wkUw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/7OGz5hP3IjVr8fi34j4VtPUZXCI.jpg",
+    "genres": [
+      "Documentary",
+      "History"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5981,8 +6774,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/C530",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9RQSZDI98BZpIldoudNT8jIxj4I.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -5992,8 +6787,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/ofco",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pNRERFDH4HpDVIwh2uBDvSb1W1u.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6003,8 +6801,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1Z6A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6014,8 +6816,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/26FW",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4eNyqA543ixNCME8pcADgP9wb1i.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6025,8 +6831,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/jEWQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6036,8 +6846,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/sqFE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6047,8 +6860,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/Wgg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zcH6pKZKeImwcBtIH7fSdUyoQ2e.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6058,8 +6874,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/ByDO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6069,8 +6887,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/iTx0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6080,8 +6902,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/qpci",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/y3tA0ilkW1LM46W8yf1R0OSmnRd.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6091,8 +6915,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/2cHk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wLuMoe16Z27DH96B2vg4FQNiAjj.jpg",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Science Fiction"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6102,8 +6930,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/1ZXO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/hu1DbDbrutEuiK9qSR4LExLYQby.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6113,8 +6943,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/C6VM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6124,8 +6957,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/1p4y",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9jUDhHiDtzhQviodUvWBv1MuytA.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6135,8 +6972,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/vMTu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6146,8 +6986,13 @@
     "rating": 3.0,
     "uri": "https://boxd.it/HJrw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yPgdBXbqeeCYFd0boZvpoSgGDnx.jpg",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Action",
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6157,8 +7002,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/1Tj4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6168,8 +7016,12 @@
     "rating": 2.0,
     "uri": "https://boxd.it/Glua",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6179,8 +7031,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/1EnA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xFZH2l9UOyIclk2ZFWNHQ38B2RP.jpg",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6190,8 +7046,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/EK8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pprKQ637rH8ClRMS75VnRtUCiL9.jpg",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6201,8 +7061,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/28Au",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4kMB2AAcDQ5diRuh7NTxuS90bx7.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6212,8 +7075,13 @@
     "rating": 2.0,
     "uri": "https://boxd.it/Qu2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6223,8 +7091,12 @@
     "rating": 2.0,
     "uri": "https://boxd.it/1WVq",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mj7CDh6d5nJDDmEhd0ft6s3L8CM.jpg",
+    "genres": [
+      "Drama",
+      "War",
+      "Thriller"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -6234,8 +7106,12 @@
     "rating": 1.0,
     "uri": "https://boxd.it/pah6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg",
+    "genres": [
+      "Horror",
+      "Action",
+      "War"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6245,8 +7121,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/moviebuff501/film/leviticus-2026/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+    "genres": [
+      "Horror",
+      "Romance"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6256,8 +7135,12 @@
     "rating": 5.0,
     "uri": "https://boxd.it/ptES",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
+    "genres": [
+      "Action",
+      "Animation",
+      "Science Fiction"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6267,8 +7150,10 @@
     "rating": 5.0,
     "uri": "https://boxd.it/1UsG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6278,8 +7163,13 @@
     "rating": 4.5,
     "uri": "https://boxd.it/eCrQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6289,8 +7179,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/eqFw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6300,8 +7194,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1jzg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+    "genres": [
+      "Documentary",
+      "History"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6311,8 +7208,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/mL9M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6322,8 +7221,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/MwSa",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fsUnySgQ6IBuK6Qxbp4HLnG7xD7.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6333,8 +7234,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/kmvE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+    "genres": [
+      "History",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6344,8 +7248,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/xo7A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4MPsj31FTnfXg1NO93lzr3PqNuE.jpg",
+    "genres": [
+      "Music",
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6355,8 +7262,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/go9C",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6377,8 +7286,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1W7A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+    "genres": [
+      "Animation",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6388,8 +7300,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/HG9a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6399,8 +7315,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/tbfI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mv5v3xtiRqpMyP1XWRnRl5s38lV.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6410,8 +7330,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1fg0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qZBtSTEhlXy0aNTZ40umWLpJr2T.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6421,8 +7344,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/dLd2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6432,8 +7358,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/41Xg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6443,8 +7372,14 @@
     "rating": 2.5,
     "uri": "https://boxd.it/9X0m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery",
+      "Fantasy",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6454,8 +7389,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lx5a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s2Zaj1WFKiP7Y7GHp57b5KbKG8f.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6465,8 +7403,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/2aG0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6476,8 +7417,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/QkIU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pJUfkCcU5mCEMF8O0LKvlMnYAfD.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6487,8 +7430,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/CNkk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pq0tnPfhPZq2Iv2gFk4rxV3DRMG.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6498,8 +7443,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/LciY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jodipMyJcNwdSDfWJ6Chr2BG84k.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6509,8 +7458,13 @@
     "rating": 4.0,
     "uri": "https://boxd.it/KVrO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3dTnNYq0TZYkTLqRXgHz3OBxcFA.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6520,8 +7474,13 @@
     "rating": 4.0,
     "uri": "https://boxd.it/J6t8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+    "genres": [
+      "Animation",
+      "Action",
+      "Romance",
+      "Fantasy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6531,8 +7490,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/tbmY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6542,8 +7504,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1UHm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6553,8 +7518,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/i7Q4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6564,8 +7532,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lnRy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6575,8 +7545,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/HIBA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ig5ju3Tt56UGoBrc6IlkUS6ahfE.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6586,8 +7558,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/x1OG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6597,8 +7571,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/F3My",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uHYoNVM5vhgTO7zYgDsQsewEYLO.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6608,8 +7584,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/6dxe",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6619,8 +7599,14 @@
     "rating": 4.5,
     "uri": "https://boxd.it/wMAk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6630,8 +7616,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/ANB2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Crime"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6641,8 +7631,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/l8QA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6652,8 +7646,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/20DU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1l5UaoP25Ak8PWCKIULQz70yF03.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6663,8 +7660,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1U16",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6674,8 +7675,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/Jk6C",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4h1fIQ1b5P21N7tt5dZWDNOjYD7.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6685,8 +7688,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/IpY8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9BWy7bgE4nTXf7hhooFNqVBJXgU.jpg",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6696,8 +7702,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/waGO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8R5s0optPNlTncP876bK8gWGkRK.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6707,19 +7715,26 @@
     "rating": 3.5,
     "uri": "https://boxd.it/jFke",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iaoIzpakgSm0IQEz3edfAttr4YC.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
     "name": "The Gentlemen",
-    "year": 2020,
+    "year": 2019,
     "date": "2026-05-04",
     "rating": 3.5,
     "uri": "https://boxd.it/iYBQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6729,8 +7744,13 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1YRq",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Western"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6740,8 +7760,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/sOve",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/v0s3dx6am0RzfsuK3KdEy8ZoCDs.jpg",
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6751,8 +7775,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/AGXg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/dHEq36Jmp7UrEq1mBMOyZLmhNcj.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6762,8 +7789,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/M8wu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6773,19 +7804,26 @@
     "rating": 3.0,
     "uri": "https://boxd.it/sqFE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
     "name": "Snow White and the Seven Dwarfs",
-    "year": 1938,
+    "year": 1937,
     "date": "2026-05-04",
     "rating": 3.5,
     "uri": "https://boxd.it/2arO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6795,8 +7833,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/iTx0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6806,8 +7848,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/BYm0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gehzAC8zE85Qiyn5HcXgiky7W1W.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6817,8 +7861,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/zSr0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kmXoJpg0Zu3r1RoupIvyXWLcJeq.jpg",
+    "genres": [
+      "Animation",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6828,8 +7875,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/zo6G",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6839,8 +7888,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/C6Ym",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6850,8 +7902,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/vMTu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6861,8 +7916,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/xQqK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sM5meMPMjr6nmw9bu17Jq0zga9s.jpg",
+    "genres": [
+      "Action"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6872,8 +7929,12 @@
     "rating": 2.0,
     "uri": "https://boxd.it/uqVQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/80yak1h7YcNpMOsfSbThfwKYKK4.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6883,8 +7944,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/BLQQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/q9rRLc9pRDR8H6YoJTmXrBmivxD.jpg",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Mystery"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6894,8 +7959,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/1Tj4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6905,8 +7973,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/Glua",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6916,8 +7988,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/nPqY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6927,8 +8003,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/zSpy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fu5xL4pEFBOt8FhDgCqyeDICTqt.jpg",
+    "genres": [
+      "Animation"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6938,8 +8016,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/xhG4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Action"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6949,8 +8031,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/zmMK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6960,8 +8045,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/IZFc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wcgYS6gv9dA0jBaQQft2eLjPAh0.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6971,8 +8058,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/Obz6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6982,8 +8072,11 @@
     "rating": 2.0,
     "uri": "https://boxd.it/pOZW",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -6993,8 +8086,11 @@
     "rating": 2.0,
     "uri": "https://letterboxd.com/moviebuff501/film/our-hero-balthazar/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "paityne",
@@ -7004,8 +8100,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1UsG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7015,8 +8113,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/mL9M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7026,8 +8126,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1W7A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+    "genres": [
+      "Animation",
+      "Thriller"
+    ]
   },
   {
     "username": "paityne",
@@ -7037,8 +8140,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/HG9a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "paityne",
@@ -7048,8 +8155,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/s1Ym",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gKxPyeItCrOscP8On4y5sG3WY9A.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "paityne",
@@ -7059,8 +8168,14 @@
     "rating": 5.0,
     "uri": "https://boxd.it/9X0m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery",
+      "Fantasy",
+      "Thriller"
+    ]
   },
   {
     "username": "paityne",
@@ -7070,8 +8185,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/tbmY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7081,8 +8199,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/i7Q4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "username": "paityne",
@@ -7092,8 +8213,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/Arx8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+    "genres": [
+      "Animation",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7103,8 +8227,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/28JG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "paityne",
@@ -7114,8 +8241,14 @@
     "rating": 2.5,
     "uri": "https://boxd.it/wMAk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "paityne",
@@ -7125,8 +8258,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/L6Dc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7136,8 +8272,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/1CW4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "paityne",
@@ -7147,8 +8287,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/5Nzy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yjcwwYP3eSigxLKKVBoVVz85ZWv.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7158,8 +8300,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/sqFE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "paityne",
@@ -7169,8 +8314,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/a75m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+    "genres": [
+      "Horror",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "paityne",
@@ -7180,8 +8329,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/ByDO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "paityne",
@@ -7191,8 +8342,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/zo6G",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "paityne",
@@ -7202,8 +8355,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/vMTu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "paityne",
@@ -7213,8 +8369,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/BLQQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/q9rRLc9pRDR8H6YoJTmXrBmivxD.jpg",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Mystery"
+    ]
   },
   {
     "username": "paityne",
@@ -7224,8 +8384,11 @@
     "rating": 2.0,
     "uri": "https://boxd.it/Obz6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "paityne",
@@ -7235,8 +8398,10 @@
     "rating": 1.5,
     "uri": "https://boxd.it/eRzg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7246,8 +8411,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-bling-ring/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7280,13 +8448,17 @@
   {
     "username": "skylerinthecine",
     "name": "Badlands",
-    "year": 1974,
+    "year": 2025,
     "date": "2026-05-04",
     "rating": 5.0,
     "uri": "https://boxd.it/25Fm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7296,8 +8468,12 @@
     "rating": 5.0,
     "uri": "https://boxd.it/ptES",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
+    "genres": [
+      "Action",
+      "Animation",
+      "Science Fiction"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7328,13 +8504,15 @@
   {
     "username": "skylerinthecine",
     "name": "Harlan County U.S.A.",
-    "year": 1977,
+    "year": 1976,
     "date": "2026-05-04",
     "rating": 5.0,
     "uri": "https://boxd.it/1fJw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7344,8 +8522,10 @@
     "rating": 5.0,
     "uri": "https://boxd.it/1Qi8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7356,7 +8536,9 @@
     "uri": "https://boxd.it/LUw6",
     "reviewed": false,
     "poster": null,
-    "genres": []
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7366,8 +8548,11 @@
     "rating": 5.0,
     "uri": "https://boxd.it/1U9E",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7377,8 +8562,10 @@
     "rating": 5.0,
     "uri": "https://boxd.it/1UsG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7388,8 +8575,12 @@
     "rating": 5.0,
     "uri": "https://boxd.it/eqFw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7399,8 +8590,11 @@
     "rating": 5.0,
     "uri": "https://boxd.it/1jzg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+    "genres": [
+      "Documentary",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7410,8 +8604,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/mL9M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7421,8 +8617,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/oIv0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7432,19 +8631,24 @@
     "rating": 5.0,
     "uri": "https://boxd.it/1NI8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "Pink Flamingos",
-    "year": 1976,
+    "year": 1972,
     "date": "2026-05-04",
     "rating": 4.5,
     "uri": "https://boxd.it/29NO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/10N8SvTQwUqyWgocPam1P18Jgr.jpg",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7454,8 +8658,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1HMI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bs2M1hqAQl5LeAOPPRV4drwouZS.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7465,8 +8672,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/MwSa",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fsUnySgQ6IBuK6Qxbp4HLnG7xD7.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7476,8 +8685,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/j3NM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6CEJ1y6SWg49jkMseTlZ8X01z3o.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7487,8 +8698,13 @@
     "rating": 4.5,
     "uri": "https://boxd.it/tEyu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/b1nc3Oe8ZR8mcjff64ya3jcVp0a.jpg",
+    "genres": [
+      "Animation",
+      "TV Movie",
+      "Family",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7498,8 +8714,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/gazw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/cFsrA0Is5xode2INrPj1VJcQ18n.jpg",
+    "genres": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7509,8 +8728,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/3m1g",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wbrcRd695aB8D6pkWh0hSurKRbO.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7520,8 +8741,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1kbY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7531,8 +8756,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/AHhg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8kzhsiL340IDeaAuEz4RfiFilgf.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7542,8 +8769,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1SZS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7553,8 +8784,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/17DA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/hBpAozLANehQQnvTPcCHcKQt2vP.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7564,8 +8797,13 @@
     "rating": 4.5,
     "uri": "https://boxd.it/kfJ0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xwLldS5JnB4441iS50ha9ZrkaA8.jpg",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Fantasy",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7575,8 +8813,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/riws",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/eQy2Tgvmx0FkK8vMMqMW4aX5UXQ.jpg",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7586,8 +8828,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/i8m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8pZxUJTgjerjxuifSU13B8pXAJB.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7597,8 +8842,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/go9C",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7619,8 +8866,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1W7A",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+    "genres": [
+      "Animation",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7630,8 +8880,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/HG9a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7641,8 +8895,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/tbfI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mv5v3xtiRqpMyP1XWRnRl5s38lV.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7652,8 +8910,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1zzw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ix3pquGqTkCW86UbVTdRcrhGEFm.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7663,8 +8923,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1fg0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qZBtSTEhlXy0aNTZ40umWLpJr2T.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7674,8 +8937,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/s1Ym",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gKxPyeItCrOscP8On4y5sG3WY9A.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7685,8 +8950,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/DdWu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i4qK3vQS4MD8OKhIkqSe3UK6OuH.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7696,8 +8963,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/dLd2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7707,8 +8977,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/41Xg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7718,8 +8991,14 @@
     "rating": 4.5,
     "uri": "https://boxd.it/9X0m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery",
+      "Fantasy",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7729,8 +9008,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lx5a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s2Zaj1WFKiP7Y7GHp57b5KbKG8f.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7740,8 +9022,11 @@
     "rating": 5.0,
     "uri": "https://boxd.it/2aG0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7751,8 +9036,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/AEZa",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7762,8 +9051,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/Cpn0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wu4dImuKsAhI3tH5mTQ9HsShb6z.jpg",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Family"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7773,8 +9066,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/ZQc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jPP0gFDgdXRa1YgP8Cn8arzOHI3.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7784,8 +9079,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/421s",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7795,19 +9093,23 @@
     "rating": 4.0,
     "uri": "https://boxd.it/36oo",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6rcVFsEwOyXsG0e7L9ql6KEPGJX.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "Caught by the Tides",
-    "year": 2025,
+    "year": 2024,
     "date": "2026-05-04",
     "rating": 4.0,
     "uri": "https://boxd.it/GZ4Q",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vRUsEXHm9iJgXuf8k4BiTLCnUb0.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7817,8 +9119,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/LciY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jodipMyJcNwdSDfWJ6Chr2BG84k.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7828,8 +9134,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lA0i",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/40Zrwud1EVxNvcjQkotZo7jmr4L.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7839,8 +9148,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/lrp4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/20HKDrU2QccbEqzHmPJZRzMPoJM.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7850,8 +9161,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/29Ik",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/piZOwjyk1g51oPHonc7zaQY3WOv.jpg",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7861,8 +9176,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/87wo",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7872,8 +9190,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/s2S",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7883,8 +9205,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1Qz4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nytcKOHE4CF7OlSej4zpIVEbCy7.jpg",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7894,8 +9220,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/207a",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7905,8 +9234,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/emgM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Western"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7916,8 +9249,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/RRc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mBBqKfkvzSk6Rk7bfRXU9kR916N.jpg",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7927,19 +9264,24 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1Oqk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/cqhIufhoORDMuFKEinV1IIYUBxD.jpg",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "Through the Olive Trees",
-    "year": 1995,
+    "year": 1994,
     "date": "2026-05-04",
     "rating": 4.0,
     "uri": "https://boxd.it/Lx6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6YTFB34QqK06OBm5GDOsnROsNUo.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7949,8 +9291,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/F9i",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bDmconT9Fj0dnXdV5LaGAxXrVFN.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7960,8 +9305,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/mqL6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6ZemGof32GQRpAMfIK9Q2VFJdwt.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7971,19 +9319,26 @@
     "rating": 4.0,
     "uri": "https://boxd.it/cksW",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qLalOYSO378lfnBLTKydoCREtdb.jpg",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "D.E.B.S.",
-    "year": 2005,
+    "year": 2004,
     "date": "2026-05-04",
     "rating": 4.0,
     "uri": "https://boxd.it/2aaS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/68BfXrFQPHg9iBWJVgp5R48gTix.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -7993,8 +9348,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1AMc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/hqxzpgJse54AcX1Mt1c6raXS290.jpg",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8004,8 +9363,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/Miw",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/cGHrnnAYyYUFhLM6d90PyimMbDE.jpg",
+    "genres": [
+      "War",
+      "Drama",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8015,8 +9378,14 @@
     "rating": 4.0,
     "uri": "https://boxd.it/26vi",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Drama",
+      "Thriller",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8026,8 +9395,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/EekI",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9ZCWGDGk1GJGQtlu2X5gDVbnU0v.jpg",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8037,8 +9410,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/APRc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uxmv9ySlP0KKiGZcWsU0wzy9goL.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8048,8 +9423,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/3kYA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rNL99DhSMHPba0jdZ6BdbWhBJSZ.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8059,8 +9436,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/a7jS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8070,8 +9451,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/PM3e",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ythMr0pQU6x98Luyeg0WALnO07l.jpg",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Science Fiction"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8081,8 +9466,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/27Ra",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oyPE6i9sylR1UhTPFmniOHcQpKb.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8092,8 +9480,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/NIg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qqQOsXOf7HvoWVWjOLuKpGQFjMh.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8103,8 +9493,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/tbmY",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8114,8 +9507,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/tJ1q",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8125,8 +9521,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/C69e",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8136,8 +9536,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1UHm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
+    "genres": [
+      "Horror",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8147,8 +9550,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/i7Q4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8158,8 +9564,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/lnRy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8169,8 +9577,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/HIBA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ig5ju3Tt56UGoBrc6IlkUS6ahfE.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8180,8 +9590,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/yqmk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/96Jb7yjDkzluBqQZ21j54CJdYeM.jpg",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8191,8 +9605,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1zOc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8202,8 +9620,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/krga",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+    "genres": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8213,8 +9634,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/neWo",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8224,8 +9647,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/24eE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mYPuSx5JwL8AdTwS1iQW4Un1cYP.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8235,8 +9660,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/x1OG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8246,8 +9673,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/F3My",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uHYoNVM5vhgTO7zYgDsQsewEYLO.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8257,8 +9686,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/6dxe",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8268,8 +9701,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/28JG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8279,8 +9715,14 @@
     "rating": 4.0,
     "uri": "https://boxd.it/wMAk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8290,8 +9732,11 @@
     "rating": 4.0,
     "uri": "https://boxd.it/L6Dc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8301,8 +9746,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/ANB2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8312,8 +9761,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/l8QA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8323,8 +9776,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/20DU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/1l5UaoP25Ak8PWCKIULQz70yF03.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8334,8 +9790,12 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1U16",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8345,8 +9805,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/CVIk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8356,19 +9819,26 @@
     "rating": 4.0,
     "uri": "https://boxd.it/1fK0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p44UXOFBCY5xbpCKEsWpi4filCD.jpg",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "Time",
-    "year": 2017,
+    "year": 1984,
     "date": "2026-05-04",
     "rating": 3.5,
     "uri": "https://boxd.it/oiOA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+    "genres": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8378,8 +9848,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/1TjS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/tQqIA8bDN7v1LmHjJg7Qh9BKCLa.jpg",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8389,8 +9863,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/ui4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jPT3tkTu9U7oXkLTSpkPBAr5dwO.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8400,8 +9877,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/Jk6C",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4h1fIQ1b5P21N7tt5dZWDNOjYD7.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8411,8 +9890,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/IpY8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9BWy7bgE4nTXf7hhooFNqVBJXgU.jpg",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8422,8 +9904,10 @@
     "rating": 4.0,
     "uri": "https://boxd.it/waGO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8R5s0optPNlTncP876bK8gWGkRK.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8433,8 +9917,12 @@
     "rating": 4.5,
     "uri": "https://boxd.it/1CW4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8444,8 +9932,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/H4k",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8455,8 +9946,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/lGru",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/w5hVW0OuxT5X98jJO3bbEcWArIy.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8466,8 +9959,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/oiia",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yI3XakDqPSElfJACmk3mYnrPn78.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8477,8 +9972,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/3wPA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o2jT5jQdKh1HAF0fMKuGwBOwOYB.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8488,8 +9985,14 @@
     "rating": 3.5,
     "uri": "https://boxd.it/nQDE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/67WmijqW7fjmLcc0eKZtW59Hf4d.jpg",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music",
+      "Fantasy",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8499,8 +10002,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/dVHQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8510,8 +10016,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/Dkgg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8521,8 +10030,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/rM0m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jqAD5ysjzVI88qQ7wpsaYdGdDtR.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8532,8 +10044,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/DOOi",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/abTQZvDcbpOcYgwNg7pNm8oOqVY.jpg",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8543,8 +10059,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/zdpM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/boKTvkCcBIUDHSo3GccmeWDgzst.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8554,13 +10072,17 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1Keu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9ASmg9EvWkt90dwW9YKO3NXQk8d.jpg",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "The Sympathizer",
-    "year": 2023,
+    "year": 2025,
     "date": "2026-05-04",
     "rating": 3.5,
     "uri": "https://boxd.it/G4lK",
@@ -8576,8 +10098,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/HGx2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yTIHBPLQyzhgz1c2spak3btJxsg.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8587,8 +10112,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/IGTE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/QDYALBI8geKHDaiW9l9lT1mSxh.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8598,8 +10127,11 @@
     "rating": 3.5,
     "uri": "https://boxd.it/10ac",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ss57QaZX5OE3YxoTZeKW5Y6U83S.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8609,8 +10141,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/IDQW",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/f30neqyKxshsD9T5bCGenqVSkjf.jpg",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8620,8 +10156,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1V8M",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oFXhJYTax1cnNtgvLdKlXuYiWPV.jpg",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8631,8 +10171,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/Oo12",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/8Bz69UixoR7jPpYuO6NSKOTGDDZ.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8642,8 +10184,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/1jj8",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/2cD6WpamMeCdMoinljqnj5c6YrF.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8653,8 +10197,12 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-christophers/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8664,8 +10212,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/jEWQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8675,8 +10227,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/sqFE",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8686,19 +10241,26 @@
     "rating": 3.0,
     "uri": "https://boxd.it/Wgg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zcH6pKZKeImwcBtIH7fSdUyoQ2e.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
     "name": "Snow White and the Seven Dwarfs",
-    "year": 1938,
+    "year": 1937,
     "date": "2026-05-04",
     "rating": 3.0,
     "uri": "https://boxd.it/2arO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8708,8 +10270,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/a75m",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+    "genres": [
+      "Horror",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8719,8 +10285,10 @@
     "rating": 4.5,
     "uri": "https://boxd.it/ByDO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8730,8 +10298,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/iTx0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8741,8 +10313,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/BYm0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gehzAC8zE85Qiyn5HcXgiky7W1W.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8752,8 +10326,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/bWrU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xLw8nDNLuffMdvjYXQLwL6UCXcs.jpg",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8763,8 +10340,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/c7f6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8774,8 +10355,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/bTpm",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/v2X1BtkxaV8pzLbmM8a5gTdpg7B.jpg",
+    "genres": [
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8785,8 +10369,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/h2c2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/yake2myhbW7c6dKbmwYDy1i40bm.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8796,8 +10383,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/jaGS",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/69SYznq2mSbgKyQF3QHYwblmqAk.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8807,8 +10397,13 @@
     "rating": 3.0,
     "uri": "https://boxd.it/mcHk",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8818,8 +10413,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/fkDc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/kkTD7ufZd7AqAnZP5IMnrQXKRpM.jpg",
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8829,8 +10428,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/xGlg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lp0dtmNtOW88A13GZjGoKZko7S8.jpg",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8840,8 +10443,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/9OUU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/esubm23z8N5JUA1wQ5yLSjLicDx.jpg",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8851,8 +10457,13 @@
     "rating": 3.0,
     "uri": "https://boxd.it/wNuC",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/pmcYL7mgjVlWhFyNCc05mFTt6at.jpg",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8862,8 +10473,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/AQXU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/scAU7YudKNVeZlOfgSEWntAUSJ.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8873,8 +10488,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/yzvU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vL9osUSzKYdDphezKibmCjCH0xD.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8884,8 +10502,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/iFQM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3qYbFI52dvNpfAtfvYP13iGIXez.jpg",
+    "genres": [
+      "Animation",
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8895,8 +10517,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/QxM6",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rZc2c85zUkUXWzBogPyQb2YxIi6.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8906,8 +10531,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/HuKy",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uu2MUD6vCJ6MN2BhcWPVysSND7V.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8917,8 +10544,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/hmTU",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8928,8 +10559,10 @@
     "rating": 3.0,
     "uri": "https://boxd.it/IWYg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gMCsfgQU37XbPiC14OoLvFigcp4.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8939,8 +10572,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/g76c",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/gvyikwFv2pwUyapTPx8Mx6JKZzX.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8950,8 +10586,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/ekeO",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/liI4c3GYaKuAo4FsCF4RKvFFqbV.jpg",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8961,8 +10601,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/2WWK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/l163jakfKvchUTVTtBi0KA7ZhIc.jpg",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8972,8 +10616,12 @@
     "rating": 3.0,
     "uri": "https://boxd.it/TpoG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+    "genres": [
+      "Music",
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8983,8 +10631,10 @@
     "rating": 3.5,
     "uri": "https://boxd.it/zo6G",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -8994,8 +10644,11 @@
     "rating": 3.0,
     "uri": "https://boxd.it/C6Ym",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9005,8 +10658,11 @@
     "rating": 1.5,
     "uri": "https://boxd.it/vMTu",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9016,8 +10672,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/xQqK",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sM5meMPMjr6nmw9bu17Jq0zga9s.jpg",
+    "genres": [
+      "Action"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9027,8 +10685,12 @@
     "rating": 3.5,
     "uri": "https://boxd.it/uqVQ",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/80yak1h7YcNpMOsfSbThfwKYKK4.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9038,8 +10700,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/1Tj4",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9049,8 +10714,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/Glua",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9060,8 +10729,11 @@
     "rating": 4.5,
     "uri": "https://boxd.it/GTB0",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/4JoGtLET8DKgQGCoNvWYB9GEyEw.jpg",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9071,8 +10743,10 @@
     "rating": 2.5,
     "uri": "https://boxd.it/DkfM",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vITvLxFsDbbg6TMgpYWWscMOf0G.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9082,8 +10756,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/xgoe",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Science Fiction"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9093,8 +10771,11 @@
     "rating": 2.5,
     "uri": "https://boxd.it/b2Km",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/jO2aHAiWgQSlpAIPGZikiMDdMXx.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9104,8 +10785,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/vuz2",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9115,8 +10800,12 @@
     "rating": 2.5,
     "uri": "https://boxd.it/vpTG",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9126,8 +10815,10 @@
     "rating": 2.0,
     "uri": "https://boxd.it/IZFc",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wcgYS6gv9dA0jBaQQft2eLjPAh0.jpg",
+    "genres": [
+      "Documentary"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9137,8 +10828,10 @@
     "rating": 1.5,
     "uri": "https://boxd.it/eRzg",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+    "genres": [
+      "Horror"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9148,8 +10841,13 @@
     "rating": 1.5,
     "uri": "https://boxd.it/DyA",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg",
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Drama",
+      "TV Movie"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9159,8 +10857,14 @@
     "rating": 1.0,
     "uri": "https://boxd.it/pu34",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Family",
+      "Music",
+      "Comedy"
+    ]
   },
   {
     "username": "batmatt208",
@@ -9239,8 +10943,12 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/moviebuff501/film/power-ballad/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Drama"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -9293,8 +11001,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/drop-dead-gorgeous/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/iMMvFvHhURa4cWv6CxhpwIDjme2.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9304,8 +11014,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/graduation-2016/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/FLocEtNx189qFvqRpaYArNK8w2.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9315,8 +11027,10 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/mon-oncle/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/wH6RyPiXFy8INLbViVkchLVOmBc.jpg",
+    "genres": [
+      "Comedy"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9326,8 +11040,11 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/uptown-girls/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/liazMoopc2fhWq1YlfwasQcvWu.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9408,8 +11125,11 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/memoriesomovies/film/la-notte/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -9432,8 +11152,11 @@
     "rating": 4.0,
     "uri": "https://letterboxd.com/moviebuff501/film/i-swear/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+    "genres": [
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "moviebuff501",
@@ -9514,8 +11237,11 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-man-who-wasnt-there-2001/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9554,8 +11280,10 @@
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/my-fathers-shadow-2025/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9565,8 +11293,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/hail-caesar-2016/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9680,8 +11411,10 @@
     "rating": 4.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/vera-drake/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/556fElboCLlEmP8UULaYosU45Bc.jpg",
+    "genres": [
+      "Drama"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -9771,13 +11504,17 @@
   {
     "username": "skylerinthecine",
     "name": "The Christophers",
-    "year": 2025,
+    "year": 2026,
     "date": "2026-04-19",
     "rating": 3.5,
     "uri": "https://letterboxd.com/skylerinthecine/film/the-christophers/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "username": "skylerinthecine",
@@ -9787,8 +11524,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/skylerinthecine/film/pollock/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/azsBSw2zw2uNHiCjTnbe9TJVEDB.jpg",
+    "genres": [
+      "Drama",
+      "History"
+    ]
   },
   {
     "username": "memoriesomovies",
@@ -9798,8 +11538,11 @@
     "rating": 3.0,
     "uri": "https://letterboxd.com/memoriesomovies/film/piranha-3d/",
     "reviewed": false,
-    "poster": null,
-    "genres": []
+    "poster": "https://image.tmdb.org/t/p/w92/o45mRbIDykJld6WktTuVtWm7s6E.jpg",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ]
   },
   {
     "username": "moviebuff501",

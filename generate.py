@@ -56,8 +56,9 @@ import feedparser
 # directory as this script."
 RATINGS_DIR   = Path("ratings data")      # where the Letterboxd export folders live
 DATA_DIR      = Path("data")             # where we write the output JSON files
-LB_CACHE_FILE   = DATA_DIR / "lb_ratings.json"   # cache of global LB averages
-TMDB_CACHE_FILE = DATA_DIR / "tmdb_cache.json"   # cache of TMDB metadata
+LB_CACHE_FILE      = DATA_DIR / "lb_ratings.json"    # cache of global LB averages
+TMDB_CACHE_FILE    = DATA_DIR / "tmdb_cache.json"    # cache of TMDB metadata
+RSS_HISTORY_FILE   = DATA_DIR / "rss_history.json"   # accumulated RSS diary entries across all runs
 TMDB_POSTER_BASE = "https://image.tmdb.org/t/p/w92"
 
 # Read TMDB API key from local file (never commit this file to git).
@@ -837,22 +838,47 @@ if __name__ == "__main__":
     rss_coverage, rss_diary = poll_rss(users, movies, latest)
     print(f"  {len(movies)} unique films after RSS merge")
 
-    # Merge RSS diary entries into the CSV diary.
-    # RSS wins for any film already in the CSV (more recent date/rating).
-    # Films only seen in RSS (not in any CSV) get appended as new entries.
+    # ── Accumulate RSS history ──
+    # Load previously saved RSS entries, merge in today's pull, save back.
+    # This means every run adds to the history — we never lose old RSS data.
+    rss_history: dict = {}
+    if RSS_HISTORY_FILE.exists():
+        rss_history = json.loads(RSS_HISTORY_FILE.read_text(encoding="utf-8"))
+
     for username, rss_entries in rss_diary.items():
+        existing = {(e["name"].lower().strip(), e["year"]): e for e in rss_history.get(username, [])}
+        for e in rss_entries:
+            key = (e["name"].lower().strip(), e["year"])
+            if key not in existing or (e["date"] and e["date"] > (existing[key].get("date") or "")):
+                existing[key] = e
+        rss_history[username] = list(existing.values())
+
+    RSS_HISTORY_FILE.write_text(json.dumps(rss_history, indent=2), encoding="utf-8")
+    total_rss = sum(len(v) for v in rss_history.values())
+    print(f"  RSS history: {total_rss} total entries across all users")
+
+    # Merge full RSS history into both the diary AND the movies dict.
+    # Without this, rss_history entries show in the diary but not in group ratings.
+    for username, rss_entries in rss_history.items():
         csv_keys = {(e["name"].lower().strip(), e["year"]) for e in diary.get(username, [])}
         for e in rss_entries:
             key = (e["name"].lower().strip(), e["year"])
+
+            # Update movies dict so group ratings include this rating
+            if key not in movies:
+                movies[key] = {"name": e["name"], "year": e["year"], "uri": e.get("uri", ""), "ratings": {}}
+            movies[key]["ratings"][username] = e["rating"]
+            if not movies[key]["uri"] and e.get("uri"):
+                movies[key]["uri"] = e["uri"]
+
+            # Update diary
             if key in csv_keys:
-                # Update the existing CSV entry with fresher RSS data
                 for csv_entry in diary.get(username, []):
                     if (csv_entry["name"].lower().strip(), csv_entry["year"]) == key:
                         csv_entry["date"]   = e["date"] or csv_entry["date"]
                         csv_entry["rating"] = e["rating"]
                         break
             else:
-                # Film only in RSS — add it
                 diary.setdefault(username, []).append(e)
                 csv_keys.add(key)
 
