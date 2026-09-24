@@ -66,6 +66,14 @@ TMDB_POSTER_BASE = "https://image.tmdb.org/t/p/w92"
 _tmdb_key_file = Path("tmdb api key.txt")
 TMDB_API_KEY = _tmdb_key_file.read_text(encoding="utf-8").strip() if _tmdb_key_file.exists() else ""
 
+# ── Manual overrides ──────────────────────────────────────────────────────
+# Use this to correct metadata that TMDB/Letterboxd gets wrong.
+# Keys are lowercase film names. Supported fields: year, poster, genres.
+# "year" sets tmdb_year (the display year) without touching the movies dict key.
+OVERRIDES: dict[str, dict] = {
+    "obsession": {"year": 2026},
+}
+
 
 # ── Step 1: Load CSVs ─────────────────────────────────────────────────────
 
@@ -981,6 +989,18 @@ if __name__ == "__main__":
     # ── Step 2b: Fetch TMDB metadata (year, genres, poster) ──
     print("Fetching TMDB metadata...")
     fetch_all_tmdb_data(movies)
+
+    # ── Apply manual overrides ──
+    override_count = 0
+    for (name_lower, _), info in movies.items():
+        ov = OVERRIDES.get(name_lower)
+        if ov:
+            if "year"   in ov: info["tmdb_year"] = ov["year"]
+            if "poster" in ov: info["poster"]    = ov["poster"]
+            if "genres" in ov: info["genres"]    = ov["genres"]
+            override_count += 1
+    if override_count:
+        print(f"  Applied overrides to {override_count} film(s)")
 
     # ── Step 2c: Fetch global Letterboxd ratings ──
     print("Fetching Letterboxd global ratings...")

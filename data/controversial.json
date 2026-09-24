@@ -2375,6 +2375,20 @@
     "variance": 0.4514
   },
   {
+    "movie_name": "Obsession",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/obsession-2025/",
+    "avg_rating": 3.92,
+    "lb_avg": 4.07,
+    "rater_count": 6,
+    "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:2.5, moviebuff501:4.5, paityne:4.5, skylerinthecine:4.0",
+    "genres": [
+      "Thriller"
+    ],
+    "poster": null,
+    "variance": 0.4514
+  },
+  {
     "movie_name": "Wonka",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/tCQm",
@@ -3022,20 +3036,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
-    "variance": 0.3889
-  },
-  {
-    "movie_name": "Obsession",
-    "year": 2025,
-    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/obsession-2025/",
-    "avg_rating": 3.83,
-    "lb_avg": 4.07,
-    "rater_count": 6,
-    "breakdown": "batmatt208:4.0, lukecharlier:4.0, memoriesomovies:2.5, moviebuff501:4.5, paityne:4.0, skylerinthecine:4.0",
-    "genres": [
-      "Thriller"
-    ],
-    "poster": null,
     "variance": 0.3889
   },
   {
