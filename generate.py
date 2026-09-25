@@ -960,11 +960,16 @@ if __name__ == "__main__":
         if name_lower not in by_name:
             by_name[name_lower] = key
         else:
-            # Prefer the most recent year (wide release > festival year)
+            # Prefer the most recent year (wide release > festival year),
+            # but only merge if the years are within 5 years of each other.
+            # A bigger gap means it's a remake/different film with the same name.
             canonical_key = by_name[name_lower]
             canon_year = canonical_key[1] or 0
             this_year  = key[1] or 0
-            if this_year > canon_year:
+            if abs((this_year or canon_year) - (canon_year or this_year)) > 5:
+                # Too far apart — treat as distinct films, keep both
+                pass
+            elif this_year > canon_year:
                 # Swap — make this key the canonical one
                 movies[key]["ratings"].update({
                     u: r for u, r in movies[canonical_key]["ratings"].items()

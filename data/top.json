@@ -1264,19 +1264,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg"
   },
   {
-    "movie_name": "Shame",
-    "year": 2011,
-    "letterboxd_uri": "https://boxd.it/2CxU",
-    "avg_rating": 4.75,
-    "lb_avg": 3.74,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:5.0, skylerinthecine:4.5",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg"
-  },
-  {
     "movie_name": "Secrets & Lies",
     "year": 1996,
     "letterboxd_uri": "https://boxd.it/1UuC",
@@ -1331,6 +1318,22 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/vTzjRi0Uhy0tt3Rjw8SARZZJHlX.jpg"
+  },
+  {
+    "movie_name": "Kill Bill: The Whole Bloody Affair",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/eCrQ",
+    "avg_rating": 4.75,
+    "lb_avg": 4.54,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:5.0, moviebuff501:4.5",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg"
   },
   {
     "movie_name": "Amadeus",
@@ -1458,22 +1461,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/ArKEdvJesIktFX8OAhcdKAOLl6I.jpg"
   },
   {
-    "movie_name": "Kill Bill: The Whole Bloody Affair",
-    "year": 2011,
-    "letterboxd_uri": "https://boxd.it/eCrQ",
-    "avg_rating": 4.75,
-    "lb_avg": 4.54,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:5.0, moviebuff501:4.5",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg"
-  },
-  {
     "movie_name": "No Country for Old Men",
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/21ew",
@@ -1587,21 +1574,6 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/mkJl2dVJnPgWAALCuIXJ61TlwHf.jpg"
-  },
-  {
-    "movie_name": "Monster",
-    "year": 2023,
-    "letterboxd_uri": "https://boxd.it/DJEM",
-    "avg_rating": 4.67,
-    "lb_avg": 4.35,
-    "rater_count": 3,
-    "breakdown": "batmatt208:4.5, lukecharlier:5.0, skylerinthecine:4.5",
-    "genres": [
-      "Mystery",
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg"
   },
   {
     "movie_name": "Seven Samurai",
@@ -1833,6 +1805,21 @@
       "Action"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg"
+  },
+  {
+    "movie_name": "Funny Games",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/1WKM",
+    "avg_rating": 4.62,
+    "lb_avg": 3.9,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:4.5",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg"
   },
   {
     "movie_name": "Mulholland Drive",
@@ -2082,6 +2069,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg"
   },
   {
+    "movie_name": "The Thing",
+    "year": 1982,
+    "letterboxd_uri": "https://boxd.it/294O",
+    "avg_rating": 4.5,
+    "lb_avg": 4.35,
+    "rater_count": 6,
+    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.5, movieboireviews:4.0, moviebuff501:4.0, skylerinthecine:4.5",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg"
+  },
+  {
     "movie_name": "Blade Runner 2049",
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/b8wK",
@@ -2298,20 +2300,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg"
-  },
-  {
-    "movie_name": "Funny Games",
-    "year": 2008,
-    "letterboxd_uri": "https://boxd.it/207a",
-    "avg_rating": 4.5,
-    "lb_avg": 3.58,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:4.5, memoriesomovies:5.0, moviebuff501:4.5, skylerinthecine:4.0",
-    "genres": [
-      "Thriller",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg"
   },
   {
     "movie_name": "After Hours",
@@ -2549,6 +2537,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg"
   },
   {
+    "movie_name": "Crash",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/29n2",
+    "avg_rating": 4.5,
+    "lb_avg": 3.63,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:5.0",
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg"
+  },
+  {
     "movie_name": "The Graduate",
     "year": 1967,
     "letterboxd_uri": "https://boxd.it/18Im",
@@ -2577,6 +2579,21 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg"
+  },
+  {
+    "movie_name": "Monster",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/DJEM",
+    "avg_rating": 4.5,
+    "lb_avg": 4.35,
+    "rater_count": 2,
+    "breakdown": "batmatt208:4.5, skylerinthecine:4.5",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg"
   },
   {
     "movie_name": "The Curse",
@@ -3190,6 +3207,19 @@
     "poster": "https://image.tmdb.org/t/p/w92/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg"
   },
   {
+    "movie_name": "Absurda",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/JyOS",
+    "avg_rating": 4.5,
+    "lb_avg": 3.41,
+    "rater_count": 1,
+    "breakdown": "memoriesomovies:4.5",
+    "genres": [
+      "Documentary"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg"
+  },
+  {
     "movie_name": "Kids",
     "year": 1995,
     "letterboxd_uri": "https://boxd.it/1YUY",
@@ -3489,6 +3519,19 @@
       "Documentary"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/u9C6q5DXJRxmkEt81FaRVuhgzfF.jpg"
+  },
+  {
+    "movie_name": "Sharp Objects",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/j3NM",
+    "avg_rating": 4.5,
+    "lb_avg": 4.32,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.5",
+    "genres": [
+      "Documentary"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/6CEJ1y6SWg49jkMseTlZ8X01z3o.jpg"
   },
   {
     "movie_name": "Black Mirror: Hang the DJ",
@@ -5253,19 +5296,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg"
   },
   {
-    "movie_name": "Absurda",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/JyOS",
-    "avg_rating": 4.5,
-    "lb_avg": 3.41,
-    "rater_count": 1,
-    "breakdown": "memoriesomovies:4.5",
-    "genres": [
-      "Documentary"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg"
-  },
-  {
     "movie_name": "Hamilton",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/kmvE",
@@ -5349,19 +5379,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg"
-  },
-  {
-    "movie_name": "Sharp Objects",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/j3NM",
-    "avg_rating": 4.5,
-    "lb_avg": 4.32,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:4.5",
-    "genres": [
-      "Documentary"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/6CEJ1y6SWg49jkMseTlZ8X01z3o.jpg"
   },
   {
     "movie_name": "The Rider",
@@ -6439,6 +6456,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg"
   },
   {
+    "movie_name": "Weekend",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/2Kzu",
+    "avg_rating": 4.33,
+    "lb_avg": 3.92,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.5, moviebuff501:4.0, skylerinthecine:4.5",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/ksg3QX2iMLzEkvS6AwIGh5A9CXT.jpg"
+  },
+  {
     "movie_name": "Taste of Cherry",
     "year": 1997,
     "letterboxd_uri": "https://boxd.it/1m8W",
@@ -7420,6 +7451,20 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4arnTs41WSLWsnENWdljFKo0pu1.jpg"
+  },
+  {
+    "movie_name": "Shame",
+    "year": 1968,
+    "letterboxd_uri": "https://boxd.it/1tZo",
+    "avg_rating": 4.25,
+    "lb_avg": 4.21,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.5",
+    "genres": [
+      "War",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/cRJFOadujA7COrBV4HqB6bWcpLs.jpg"
   },
   {
     "movie_name": "Black Girl",
@@ -9233,6 +9278,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/tAgV9yxY6AC1bsPt3qJJQpD4s8.jpg"
   },
   {
+    "movie_name": "Pinocchio",
+    "year": 1940,
+    "letterboxd_uri": "https://boxd.it/1V8C",
+    "avg_rating": 4.12,
+    "lb_avg": 3.47,
+    "rater_count": 4,
+    "breakdown": "memoriesomovies:4.0, movieboireviews:4.0, moviebuff501:4.5, skylerinthecine:4.0",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg"
+  },
+  {
     "movie_name": "The Irishman",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/dYOq",
@@ -9306,6 +9366,21 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg"
+  },
+  {
+    "movie_name": "Godzilla",
+    "year": 1954,
+    "letterboxd_uri": "https://boxd.it/28kc",
+    "avg_rating": 4.1,
+    "lb_avg": 4.07,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:5.0, memoriesomovies:3.5, movieboireviews:4.0, moviebuff501:4.0, skylerinthecine:4.0",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg"
   },
   {
     "movie_name": "Minority Report",
@@ -9435,21 +9510,6 @@
       "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
-  },
-  {
-    "movie_name": "The Thing",
-    "year": 2011,
-    "letterboxd_uri": "https://boxd.it/eS6",
-    "avg_rating": 4.08,
-    "lb_avg": 2.78,
-    "rater_count": 6,
-    "breakdown": "big_brant:5.0, lukecharlier:5.0, memoriesomovies:4.5, movieboireviews:1.5, moviebuff501:4.0, skylerinthecine:4.5",
-    "genres": [
-      "Horror",
-      "Science Fiction",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg"
   },
   {
     "movie_name": "Uncut Gems",
@@ -9624,6 +9684,20 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+  },
+  {
+    "movie_name": "Mean Girls",
+    "year": 2004,
+    "letterboxd_uri": "https://boxd.it/1VNg",
+    "avg_rating": 4.0,
+    "lb_avg": 3.81,
+    "rater_count": 6,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, movieboireviews:3.0, moviebuff501:4.0, paityne:4.5, skylerinthecine:4.5",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg"
   },
   {
     "movie_name": "The Witch",
@@ -10629,6 +10703,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/y2H7SMzSO0f8KHjCqavUhVfRX0Z.jpg"
   },
   {
+    "movie_name": "Watchmen",
+    "year": 2009,
+    "letterboxd_uri": "https://boxd.it/1QE4",
+    "avg_rating": 4.0,
+    "lb_avg": 3.69,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, skylerinthecine:5.0",
+    "genres": [
+      "Mystery",
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+  },
+  {
     "movie_name": "The Host",
     "year": 2006,
     "letterboxd_uri": "https://boxd.it/28ZY",
@@ -10701,6 +10790,19 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/wu4dImuKsAhI3tH5mTQ9HsShb6z.jpg"
+  },
+  {
+    "movie_name": "The Hunt",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/3wEC",
+    "avg_rating": 4.0,
+    "lb_avg": 4.29,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg"
   },
   {
     "movie_name": "Boiling Point",
@@ -11079,6 +11181,21 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/c9Oef9uQEuadZlnvv8hphRmTIgx.jpg"
+  },
+  {
+    "movie_name": "King Kong",
+    "year": 1933,
+    "letterboxd_uri": "https://boxd.it/2aMM",
+    "avg_rating": 4.0,
+    "lb_avg": 3.82,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:4.0",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg"
   },
   {
     "movie_name": "Duel",
@@ -11873,21 +11990,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg"
   },
   {
-    "movie_name": "Watchmen",
-    "year": 2009,
-    "letterboxd_uri": "https://boxd.it/ol5e",
-    "avg_rating": 4.0,
-    "lb_avg": 4.25,
-    "rater_count": 2,
-    "breakdown": "lukecharlier:3.0, skylerinthecine:5.0",
-    "genres": [
-      "Mystery",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
-  },
-  {
     "movie_name": "Fanny and Alexander",
     "year": 1982,
     "letterboxd_uri": "https://boxd.it/lXFe",
@@ -11901,21 +12003,6 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
-  },
-  {
-    "movie_name": "Poison",
-    "year": 2023,
-    "letterboxd_uri": "https://boxd.it/Is7Q",
-    "avg_rating": 4.0,
-    "lb_avg": 3.59,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/IQG49DUJw5DsgcNbW0NfagiDOs.jpg"
   },
   {
     "movie_name": "La Strada",
@@ -13716,6 +13803,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg"
   },
   {
+    "movie_name": "The Jungle Book",
+    "year": 1967,
+    "letterboxd_uri": "https://boxd.it/1YY2",
+    "avg_rating": 4.0,
+    "lb_avg": 3.71,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0",
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/yN1kuupnPTLUprgfvC5WapgrxG4.jpg"
+  },
+  {
     "movie_name": "Bao",
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/iEl4",
@@ -14380,6 +14482,19 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg"
+  },
+  {
+    "movie_name": "Chocolat",
+    "year": 1988,
+    "letterboxd_uri": "https://boxd.it/Y7g",
+    "avg_rating": 4.0,
+    "lb_avg": 3.89,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/opJnIodpg8HPu9UiNXkKX8UXFsw.jpg"
   },
   {
     "movie_name": "Day of Wrath",
@@ -16822,6 +16937,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/A0BjScjASfMFgyGI5sU0CwfKh3l.jpg"
   },
   {
+    "movie_name": "This is how the world ends...",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
+    "avg_rating": 4.0,
+    "lb_avg": 3.65,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:4.0",
+    "genres": [
+      "Science Fiction",
+      "War"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/gny5VKDs3xnRtOgN7YVq5dStxAh.jpg"
+  },
+  {
     "movie_name": "Eternally Younger Than Those Idiots",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/s5cw",
@@ -17646,20 +17775,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg"
   },
   {
-    "movie_name": "This is how the world ends...",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
-    "avg_rating": 4.0,
-    "lb_avg": 3.65,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:4.0",
-    "genres": [
-      "Science Fiction",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/gny5VKDs3xnRtOgN7YVq5dStxAh.jpg"
-  },
-  {
     "movie_name": "Shadows",
     "year": 1960,
     "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/shadows-1958/",
@@ -18028,6 +18143,19 @@
     "poster": "https://image.tmdb.org/t/p/w92/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg"
   },
   {
+    "movie_name": "A Nightmare on Elm Street",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/2aw0",
+    "avg_rating": 3.88,
+    "lb_avg": 3.72,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, movieboireviews:3.5, skylerinthecine:4.0",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg"
+  },
+  {
     "movie_name": "Mission: Impossible \u2013 Rogue Nation",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/5rI4",
@@ -18128,20 +18256,6 @@
       "History"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/iZf0KyrE25z1sage4SYFLCCrMi9.jpg"
-  },
-  {
-    "movie_name": "Weekend",
-    "year": 2011,
-    "letterboxd_uri": "https://boxd.it/2Kzu",
-    "avg_rating": 3.88,
-    "lb_avg": 3.92,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:4.5, movieboireviews:2.5, moviebuff501:4.0, skylerinthecine:4.5",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/ksg3QX2iMLzEkvS6AwIGh5A9CXT.jpg"
   },
   {
     "movie_name": "Beetlejuice",
@@ -18959,6 +19073,19 @@
       "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg"
+  },
+  {
+    "movie_name": "Suspiria",
+    "year": 1977,
+    "letterboxd_uri": "https://boxd.it/1SNW",
+    "avg_rating": 3.8,
+    "lb_avg": 3.92,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:3.5, memoriesomovies:3.5, movieboireviews:3.5, paityne:3.5, skylerinthecine:5.0",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg"
   },
   {
     "movie_name": "Resident Evil",
@@ -19872,6 +19999,37 @@
     "poster": "https://image.tmdb.org/t/p/w92/kOymD1rChAMykmDVEzJpIh4OYS7.jpg"
   },
   {
+    "movie_name": "Poison",
+    "year": 1991,
+    "letterboxd_uri": "https://boxd.it/Khm",
+    "avg_rating": 3.75,
+    "lb_avg": 3.52,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:3.5",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/MW47kViKJcFtt8hQV3EYaOw6zI.jpg"
+  },
+  {
+    "movie_name": "Planet of the Apes",
+    "year": 1968,
+    "letterboxd_uri": "https://boxd.it/29p8",
+    "avg_rating": 3.75,
+    "lb_avg": 4.01,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:4.0, skylerinthecine:3.5",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg"
+  },
+  {
     "movie_name": "Amores Perros",
     "year": 2000,
     "letterboxd_uri": "https://boxd.it/2bfu",
@@ -20059,20 +20217,6 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg"
-  },
-  {
-    "movie_name": "Invasion of the Body Snatchers",
-    "year": 1978,
-    "letterboxd_uri": "https://boxd.it/1SWk",
-    "avg_rating": 3.75,
-    "lb_avg": 3.94,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:3.5, skylerinthecine:4.0",
-    "genres": [
-      "Science Fiction",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg"
   },
   {
     "movie_name": "Blazing Saddles",
@@ -21461,6 +21605,22 @@
     "poster": "https://image.tmdb.org/t/p/w92/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
   },
   {
+    "movie_name": "Moana",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/8tfY",
+    "avg_rating": 3.62,
+    "lb_avg": 3.72,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:4.0, movieboireviews:2.5, moviebuff501:4.0, skylerinthecine:4.0",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Animation"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/4JeejGugONWpJkbnvL12hVoYEDa.jpg"
+  },
+  {
     "movie_name": "Mission: Impossible \u2013 Ghost Protocol",
     "year": 2011,
     "letterboxd_uri": "https://boxd.it/psI",
@@ -21561,6 +21721,21 @@
       "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg"
+  },
+  {
+    "movie_name": "RoboCop",
+    "year": 1987,
+    "letterboxd_uri": "https://boxd.it/22Wu",
+    "avg_rating": 3.62,
+    "lb_avg": 3.91,
+    "rater_count": 4,
+    "breakdown": "memoriesomovies:3.5, movieboireviews:3.0, moviebuff501:4.0, skylerinthecine:4.0",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg"
   },
   {
     "movie_name": "Nightcrawler",
@@ -21680,6 +21855,20 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg"
+  },
+  {
+    "movie_name": "Carrie",
+    "year": 1976,
+    "letterboxd_uri": "https://boxd.it/20ZQ",
+    "avg_rating": 3.6,
+    "lb_avg": 3.85,
+    "rater_count": 5,
+    "breakdown": "memoriesomovies:4.0, movieboireviews:2.5, moviebuff501:4.0, paityne:3.5, skylerinthecine:4.0",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg"
   },
   {
     "movie_name": "I Love Boosters",
@@ -23285,6 +23474,35 @@
     "poster": "https://image.tmdb.org/t/p/w92/bmIhSm9GN1BR0srtjLCEGsAxQqF.jpg"
   },
   {
+    "movie_name": "Invasion of the Body Snatchers",
+    "year": 1956,
+    "letterboxd_uri": "https://boxd.it/1TAa",
+    "avg_rating": 3.5,
+    "lb_avg": 3.84,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:3.0, skylerinthecine:4.0",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg"
+  },
+  {
+    "movie_name": "Ghostbusters",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/g2w",
+    "avg_rating": 3.5,
+    "lb_avg": 3.75,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:3.5, skylerinthecine:3.5",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg"
+  },
+  {
     "movie_name": "Serial Mom",
     "year": 1994,
     "letterboxd_uri": "https://boxd.it/1Tty",
@@ -24209,6 +24427,19 @@
     "poster": "https://image.tmdb.org/t/p/w92/21lWA4YyYppVnwAPOiBkGrt2FGr.jpg"
   },
   {
+    "movie_name": "Hamlet",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/1VZc",
+    "avg_rating": 3.5,
+    "lb_avg": 3.67,
+    "rater_count": 1,
+    "breakdown": "lukecharlier:3.5",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg"
+  },
+  {
     "movie_name": "The Invention of Morel",
     "year": 1967,
     "letterboxd_uri": "https://boxd.it/6B7k",
@@ -25004,6 +25235,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg"
   },
   {
+    "movie_name": "Freaks",
+    "year": 1932,
+    "letterboxd_uri": "https://boxd.it/2b3o",
+    "avg_rating": 3.5,
+    "lb_avg": 3.94,
+    "rater_count": 1,
+    "breakdown": "memoriesomovies:3.5",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg"
+  },
+  {
     "movie_name": "Berlin: Symphony of a Great City",
     "year": 1927,
     "letterboxd_uri": "https://boxd.it/2aQk",
@@ -25752,6 +25997,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg"
   },
   {
+    "movie_name": "The Crow",
+    "year": 1994,
+    "letterboxd_uri": "https://boxd.it/1Yxq",
+    "avg_rating": 3.5,
+    "lb_avg": 3.84,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:3.5",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg"
+  },
+  {
     "movie_name": "Heaven Knows What",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/8P1a",
@@ -25915,6 +26175,21 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg"
+  },
+  {
+    "movie_name": "The Day the Earth Stood Still",
+    "year": 1951,
+    "letterboxd_uri": "https://boxd.it/29w4",
+    "avg_rating": 3.5,
+    "lb_avg": 3.83,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:3.5",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/x2DquTpLTq54aPFDnqlwY7apCC3.jpg"
   },
   {
     "movie_name": "The Crying Game",
@@ -27014,6 +27289,19 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/uQgi5hq29saWiG4DbmQfz2EEnKI.jpg"
+  },
+  {
+    "movie_name": "The Fall of the House of Usher",
+    "year": 1928,
+    "letterboxd_uri": "https://boxd.it/1q2o",
+    "avg_rating": 3.5,
+    "lb_avg": 3.72,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.5",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/gWpTehQgkkpMfxdCkr5CwU8vONR.jpg"
   },
   {
     "movie_name": "Within Our Gates",
@@ -30858,21 +31146,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg"
   },
   {
-    "movie_name": "Suspiria",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/cioI",
-    "avg_rating": 3.4,
-    "lb_avg": 3.73,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:3.5, memoriesomovies:4.0, movieboireviews:3.0, paityne:3.5, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg"
-  },
-  {
     "movie_name": "Avatar: The Way of Water",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/2E2E",
@@ -30991,6 +31264,19 @@
     "poster": "https://image.tmdb.org/t/p/w92/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
   },
   {
+    "movie_name": "Child's Play",
+    "year": 1988,
+    "letterboxd_uri": "https://boxd.it/1VTo",
+    "avg_rating": 3.38,
+    "lb_avg": 3.33,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, movieboireviews:2.0, skylerinthecine:3.5",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg"
+  },
+  {
     "movie_name": "Elf",
     "year": 2003,
     "letterboxd_uri": "https://boxd.it/1VyK",
@@ -31019,21 +31305,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg"
-  },
-  {
-    "movie_name": "Missing",
-    "year": 2023,
-    "letterboxd_uri": "https://boxd.it/sS1W",
-    "avg_rating": 3.38,
-    "lb_avg": 3.48,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:3.5, movieboireviews:2.5, moviebuff501:3.5, skylerinthecine:4.0",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg"
   },
   {
     "movie_name": "Love Lies Bleeding",
@@ -31243,20 +31514,6 @@
       "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
-  },
-  {
-    "movie_name": "Halloween",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/f0uE",
-    "avg_rating": 3.33,
-    "lb_avg": 3.22,
-    "rater_count": 6,
-    "breakdown": "lukecharlier:4.0, memoriesomovies:2.5, movieboireviews:2.5, moviebuff501:4.0, paityne:4.0, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg"
   },
   {
     "movie_name": "The Farewell",
@@ -31563,6 +31820,21 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg"
+  },
+  {
+    "movie_name": "War of the Worlds",
+    "year": 2005,
+    "letterboxd_uri": "https://boxd.it/2bde",
+    "avg_rating": 3.33,
+    "lb_avg": 3.37,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.5, moviebuff501:3.0, skylerinthecine:3.5",
+    "genres": [
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/6Biy7R9LfumYshur3YKhpj56MpB.jpg"
   },
   {
     "movie_name": "Marie Antoinette",
@@ -32059,22 +32331,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg"
   },
   {
-    "movie_name": "How to Train Your Dragon",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/F7Je",
-    "avg_rating": 3.25,
-    "lb_avg": 3.82,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:3.0, movieboireviews:3.0, moviebuff501:3.0, skylerinthecine:4.0",
-    "genres": [
-      "Fantasy",
-      "Family",
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
-  },
-  {
     "movie_name": "Jennifer's Body",
     "year": 2009,
     "letterboxd_uri": "https://boxd.it/1Efw",
@@ -32236,19 +32492,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg"
   },
   {
-    "movie_name": "Hamlet",
-    "year": 1996,
-    "letterboxd_uri": "https://boxd.it/1VZc",
-    "avg_rating": 3.25,
-    "lb_avg": 3.67,
-    "rater_count": 2,
-    "breakdown": "lukecharlier:3.5, skylerinthecine:3.0",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg"
-  },
-  {
     "movie_name": "Everybody Wants Some!!",
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/9mgM",
@@ -32375,6 +32618,19 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/8Puqbeh0D95DpXFWep1rmH78btu.jpg"
+  },
+  {
+    "movie_name": "Dracula",
+    "year": 1931,
+    "letterboxd_uri": "https://boxd.it/2b34",
+    "avg_rating": 3.25,
+    "lb_avg": 3.56,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, skylerinthecine:3.0",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg"
   },
   {
     "movie_name": "Polite Society",
@@ -32594,6 +32850,21 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg"
+  },
+  {
+    "movie_name": "The Karate Kid",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/27Wk",
+    "avg_rating": 3.25,
+    "lb_avg": 3.83,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:3.0, skylerinthecine:3.5",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg"
   },
   {
     "movie_name": "The Omen",
@@ -33585,6 +33856,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/q3DvoqY06yZnRp9faH6uge7n7VP.jpg"
   },
   {
+    "movie_name": "Missing",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/sS1W",
+    "avg_rating": 3.17,
+    "lb_avg": 3.48,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.5, movieboireviews:2.5, moviebuff501:3.5",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg"
+  },
+  {
     "movie_name": "Beautiful Missing People",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/xNqs",
@@ -33715,6 +34001,19 @@
       "History"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg"
+  },
+  {
+    "movie_name": "Joy Ride",
+    "year": 2023,
+    "letterboxd_uri": "https://boxd.it/wEeK",
+    "avg_rating": 3.17,
+    "lb_avg": 3.22,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:3.5",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg"
   },
   {
     "movie_name": "Dumb Money",
@@ -34192,36 +34491,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg"
   },
   {
-    "movie_name": "King Kong",
-    "year": 2005,
-    "letterboxd_uri": "https://boxd.it/2aLa",
-    "avg_rating": 3.12,
-    "lb_avg": 3.44,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:4.0, movieboireviews:2.5, moviebuff501:3.0, skylerinthecine:3.0",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg"
-  },
-  {
-    "movie_name": "RoboCop",
-    "year": 2014,
-    "letterboxd_uri": "https://boxd.it/3m4k",
-    "avg_rating": 3.12,
-    "lb_avg": 2.4,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:3.5, movieboireviews:1.0, moviebuff501:4.0, skylerinthecine:4.0",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg"
-  },
-  {
     "movie_name": "Zola",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/jEWQ",
@@ -34327,21 +34596,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
   },
   {
-    "movie_name": "Godzilla",
-    "year": 2014,
-    "letterboxd_uri": "https://boxd.it/47OE",
-    "avg_rating": 3.1,
-    "lb_avg": 3.14,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:3.5, memoriesomovies:3.0, movieboireviews:2.0, moviebuff501:4.0, skylerinthecine:3.0",
-    "genres": [
-      "Action",
-      "Drama",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg"
-  },
-  {
     "movie_name": "Indiana Jones and the Temple of Doom",
     "year": 1984,
     "letterboxd_uri": "https://boxd.it/2bb8",
@@ -34384,20 +34638,6 @@
       "Adventure"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
-  },
-  {
-    "movie_name": "Carrie",
-    "year": 2013,
-    "letterboxd_uri": "https://boxd.it/4kC2",
-    "avg_rating": 3.1,
-    "lb_avg": 2.61,
-    "rater_count": 5,
-    "breakdown": "memoriesomovies:4.0, movieboireviews:1.5, moviebuff501:4.0, paityne:3.5, skylerinthecine:2.5",
-    "genres": [
-      "Drama",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg"
   },
   {
     "movie_name": "Shazam!",
@@ -34762,6 +35002,20 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+  },
+  {
+    "movie_name": "Halloween",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/f0uE",
+    "avg_rating": 3.0,
+    "lb_avg": 3.22,
+    "rater_count": 4,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:2.5, movieboireviews:2.5, skylerinthecine:3.0",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg"
   },
   {
     "movie_name": "Avengers: Age of Ultron",
@@ -35343,6 +35597,22 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/a0xrTLwvosW81fuFhdWYdu35GJ0.jpg"
+  },
+  {
+    "movie_name": "How to Train Your Dragon",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/F7Je",
+    "avg_rating": 3.0,
+    "lb_avg": 3.82,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:3.0, moviebuff501:3.0",
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
   },
   {
     "movie_name": "Space Jam",
@@ -36062,6 +36332,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg"
   },
   {
+    "movie_name": "The Pink Panther",
+    "year": 1963,
+    "letterboxd_uri": "https://boxd.it/29eO",
+    "avg_rating": 3.0,
+    "lb_avg": 3.42,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:3.0",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg"
+  },
+  {
     "movie_name": "The Godfather Part III",
     "year": 1990,
     "letterboxd_uri": "https://boxd.it/2aN6",
@@ -36730,6 +37014,23 @@
       "Science Fiction"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg"
+  },
+  {
+    "movie_name": "Teenage Mutant Ninja Turtles",
+    "year": 1990,
+    "letterboxd_uri": "https://boxd.it/28FY",
+    "avg_rating": 3.0,
+    "lb_avg": 3.41,
+    "rater_count": 1,
+    "breakdown": "memoriesomovies:3.0",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg"
   },
   {
     "movie_name": "Paloma",
@@ -38277,6 +38578,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/gQYKSRVo5iZACFOY6x50RblI6rx.jpg"
   },
   {
+    "movie_name": "Footloose",
+    "year": 1984,
+    "letterboxd_uri": "https://boxd.it/288A",
+    "avg_rating": 3.0,
+    "lb_avg": 3.38,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.0",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg"
+  },
+  {
     "movie_name": "The Boxtrolls",
     "year": 2014,
     "letterboxd_uri": "https://boxd.it/5grw",
@@ -38700,6 +39015,21 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/5I2pRuJI3SZVsxP5iaorGaczzkI.jpg"
+  },
+  {
+    "movie_name": "Great Expectations",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/c7f6",
+    "avg_rating": 3.0,
+    "lb_avg": null,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.0",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg"
   },
   {
     "movie_name": "Muppets Most Wanted",
@@ -39408,6 +39738,22 @@
     "poster": "https://image.tmdb.org/t/p/w92/fABYANPrfqti24Kb2vz5B2Vklml.jpg"
   },
   {
+    "movie_name": "Peter Pan",
+    "year": 1953,
+    "letterboxd_uri": "https://boxd.it/1VCC",
+    "avg_rating": 3.0,
+    "lb_avg": 3.52,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.0",
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg"
+  },
+  {
     "movie_name": "The Big Swallow",
     "year": 1901,
     "letterboxd_uri": "https://boxd.it/3kt8",
@@ -40028,21 +40374,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/p7m3sSQhnoT2uuxUsxF4mQX6opr.jpg"
   },
   {
-    "movie_name": "Peter Pan",
-    "year": 2003,
-    "letterboxd_uri": "https://boxd.it/1VQY",
-    "avg_rating": 3.0,
-    "lb_avg": 3.57,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:3.0",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg"
-  },
-  {
     "movie_name": "Winnie the Pooh: A Very Merry Pooh Year",
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/1PA6",
@@ -40291,21 +40622,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/9022CYEGqYETCeXN1oE3uwYJWub.jpg"
   },
   {
-    "movie_name": "The Jungle Book",
-    "year": 2016,
-    "letterboxd_uri": "https://boxd.it/8wjk",
-    "avg_rating": 3.0,
-    "lb_avg": 3.21,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:3.0",
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/2Epx7F9X7DrFptn4seqn4mzBVks.jpg"
-  },
-  {
     "movie_name": "McFarland, USA",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/6JCq",
@@ -40477,6 +40793,20 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/tstvsrJHY57hc951lb190alXRQm.jpg"
+  },
+  {
+    "movie_name": "The Color Purple",
+    "year": 1985,
+    "letterboxd_uri": "https://boxd.it/29oO",
+    "avg_rating": 3.0,
+    "lb_avg": 3.94,
+    "rater_count": 1,
+    "breakdown": "skylerinthecine:3.0",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg"
   },
   {
     "movie_name": "My Father's Dragon",
@@ -41321,19 +41651,6 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg"
-  },
-  {
-    "movie_name": "The Fall of the House of Usher",
-    "year": 1950,
-    "letterboxd_uri": "https://boxd.it/IWYg",
-    "avg_rating": 3.0,
-    "lb_avg": 3.96,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:3.0",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/gMCsfgQU37XbPiC14OoLvFigcp4.jpg"
   },
   {
     "movie_name": "Ouija: Origin of Evil",
@@ -42299,21 +42616,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/xLw8nDNLuffMdvjYXQLwL6UCXcs.jpg"
   },
   {
-    "movie_name": "Great Expectations",
-    "year": 1998,
-    "letterboxd_uri": "https://boxd.it/c7f6",
-    "avg_rating": 3.0,
-    "lb_avg": null,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:3.0",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg"
-  },
-  {
     "movie_name": "The Man Who Knew Infinity",
     "year": 2016,
     "letterboxd_uri": "https://boxd.it/bTpm",
@@ -42874,19 +43176,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/8xEVAe84zlL9rkfYT6dZXero4KK.jpg"
   },
   {
-    "movie_name": "Joy Ride",
-    "year": 2023,
-    "letterboxd_uri": "https://boxd.it/wEeK",
-    "avg_rating": 2.88,
-    "lb_avg": 3.22,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:3.0, movieboireviews:2.0, moviebuff501:3.0, skylerinthecine:3.5",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg"
-  },
-  {
     "movie_name": "Blink Twice",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/vIOg",
@@ -42991,19 +43280,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
-  },
-  {
-    "movie_name": "Mean Girls",
-    "year": 2024,
-    "letterboxd_uri": "https://boxd.it/p6nO",
-    "avg_rating": 2.83,
-    "lb_avg": 2.46,
-    "rater_count": 6,
-    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, movieboireviews:3.0, moviebuff501:1.5, paityne:2.0, skylerinthecine:2.5",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg"
   },
   {
     "movie_name": "Missing Link",
@@ -43579,50 +43855,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg"
   },
   {
-    "movie_name": "A Nightmare on Elm Street",
-    "year": 2010,
-    "letterboxd_uri": "https://boxd.it/1zdg",
-    "avg_rating": 2.75,
-    "lb_avg": 2.19,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:4.0, memoriesomovies:2.0, movieboireviews:1.0, skylerinthecine:4.0",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg"
-  },
-  {
-    "movie_name": "Crash",
-    "year": 2004,
-    "letterboxd_uri": "https://boxd.it/28q0",
-    "avg_rating": 2.75,
-    "lb_avg": 2.99,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:4.5, movieboireviews:2.0, moviebuff501:4.0, skylerinthecine:0.5",
-    "genres": [
-      "Drama"
-    ],
-    "poster": null
-  },
-  {
-    "movie_name": "Moana",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/FYb0",
-    "avg_rating": 2.75,
-    "lb_avg": 2.68,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:4.0, movieboireviews:1.5, moviebuff501:1.5, skylerinthecine:4.0",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Comedy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
-  },
-  {
     "movie_name": "Jingle Jangle: A Christmas Journey",
     "year": 2020,
     "letterboxd_uri": "https://boxd.it/n4uY",
@@ -44166,6 +44398,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg"
   },
   {
+    "movie_name": "Ted",
+    "year": 2012,
+    "letterboxd_uri": "https://boxd.it/2pgc",
+    "avg_rating": 2.75,
+    "lb_avg": 3.13,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:2.0, moviebuff501:3.5",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg"
+  },
+  {
     "movie_name": "Ice Age",
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/2apS",
@@ -44286,20 +44532,6 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg"
-  },
-  {
-    "movie_name": "Freaks",
-    "year": 2019,
-    "letterboxd_uri": "https://boxd.it/jFUm",
-    "avg_rating": 2.75,
-    "lb_avg": 3.15,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:3.5, movieboireviews:2.0",
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg"
   },
   {
     "movie_name": "X-Men",
@@ -44536,39 +44768,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/zyopv7D5j7cfswG0NYiA14qAdPC.jpg"
   },
   {
-    "movie_name": "The Pink Panther",
-    "year": 2006,
-    "letterboxd_uri": "https://boxd.it/1Sys",
-    "avg_rating": 2.75,
-    "lb_avg": 2.96,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.0, skylerinthecine:2.5",
-    "genres": [
-      "Comedy",
-      "Mystery",
-      "Crime",
-      "Adventure",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg"
-  },
-  {
-    "movie_name": "Planet of the Apes",
-    "year": 2001,
-    "letterboxd_uri": "https://boxd.it/29ps",
-    "avg_rating": 2.75,
-    "lb_avg": 2.37,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:1.5",
-    "genres": [
-      "Thriller",
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg"
-  },
-  {
     "movie_name": "Remarkably Bright Creatures",
     "year": 2026,
     "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/remarkably-bright-creatures/",
@@ -44702,20 +44901,6 @@
       "Science Fiction"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
-  },
-  {
-    "movie_name": "Wuthering Heights",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/OdIa",
-    "avg_rating": 2.67,
-    "lb_avg": 2.74,
-    "rater_count": 6,
-    "breakdown": "batmatt208:3.5, lukecharlier:2.0, memoriesomovies:4.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:1.5",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
   },
   {
     "movie_name": "Good Boys",
@@ -45025,21 +45210,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/rayAREIKtSinuov10GvrZHyXfXH.jpg"
   },
   {
-    "movie_name": "Dracula",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/Lng0",
-    "avg_rating": 2.67,
-    "lb_avg": 3.17,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:3.5, movieboireviews:1.5, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Fantasy",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg"
-  },
-  {
     "movie_name": "Carry-On",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/C0B2",
@@ -45185,21 +45355,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
   },
   {
-    "movie_name": "The Hunt",
-    "year": 2020,
-    "letterboxd_uri": "https://boxd.it/iE9i",
-    "avg_rating": 2.62,
-    "lb_avg": 2.98,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:4.0, movieboireviews:1.5, moviebuff501:2.5, skylerinthecine:2.5",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg"
-  },
-  {
     "movie_name": "Black Phone 2",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/JpbW",
@@ -45212,21 +45367,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/vBOpqxW0SDhACwEO2LZT29DuNG2.jpg"
-  },
-  {
-    "movie_name": "Pinocchio",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/jnWY",
-    "avg_rating": 2.62,
-    "lb_avg": 1.97,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:4.0, movieboireviews:1.0, moviebuff501:1.5, skylerinthecine:4.0",
-    "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg"
   },
   {
     "movie_name": "Mother Mary",
@@ -45602,6 +45742,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/wdaUssQhZDOgegkJZx7NfY75HRX.jpg"
   },
   {
+    "movie_name": "Diary of a Wimpy Kid",
+    "year": 2010,
+    "letterboxd_uri": "https://boxd.it/1fUa",
+    "avg_rating": 2.5,
+    "lb_avg": 3.36,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.0, movieboireviews:2.0, skylerinthecine:2.5",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/iLAGiPnSuODt9cn332bkFElrRig.jpg"
+  },
+  {
     "movie_name": "Rustin",
     "year": 2023,
     "letterboxd_uri": "https://boxd.it/xVRG",
@@ -45647,6 +45801,19 @@
     "poster": "https://image.tmdb.org/t/p/w92/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg"
   },
   {
+    "movie_name": "Friday the 13th",
+    "year": 1980,
+    "letterboxd_uri": "https://boxd.it/24fs",
+    "avg_rating": 2.5,
+    "lb_avg": 3.0,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.5, movieboireviews:1.5, skylerinthecine:2.5",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg"
+  },
+  {
     "movie_name": "Song Sung Blue",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/QMqO",
@@ -45660,36 +45827,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg"
-  },
-  {
-    "movie_name": "Ghost in the Shell",
-    "year": 2017,
-    "letterboxd_uri": "https://boxd.it/abTA",
-    "avg_rating": 2.5,
-    "lb_avg": 2.64,
-    "rater_count": 3,
-    "breakdown": "movieboireviews:1.0, moviebuff501:3.0, skylerinthecine:3.5",
-    "genres": [
-      "Science Fiction",
-      "Drama",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg"
-  },
-  {
-    "movie_name": "Mulan",
-    "year": 2020,
-    "letterboxd_uri": "https://boxd.it/bbK6",
-    "avg_rating": 2.5,
-    "lb_avg": 2.34,
-    "rater_count": 3,
-    "breakdown": "movieboireviews:0.5, moviebuff501:2.5, skylerinthecine:4.5",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
   },
   {
     "movie_name": "A Christmas Carol",
@@ -46110,6 +46247,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/rgNb9nwPKwV45c5PTvFqFmpzGt0.jpg"
   },
   {
+    "movie_name": "Hellraiser",
+    "year": 1987,
+    "letterboxd_uri": "https://boxd.it/1Zpi",
+    "avg_rating": 2.5,
+    "lb_avg": 3.54,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:2.0, skylerinthecine:3.0",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg"
+  },
+  {
     "movie_name": "Wendell & Wild",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/iwtu",
@@ -46230,20 +46381,6 @@
       "Action"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/oWT70TvbsmQaqyphCZpsnQR7R32.jpg"
-  },
-  {
-    "movie_name": "Fright Night",
-    "year": 2011,
-    "letterboxd_uri": "https://boxd.it/l1S",
-    "avg_rating": 2.5,
-    "lb_avg": 3.0,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:2.0, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg"
   },
   {
     "movie_name": "Jurassic World",
@@ -46586,20 +46723,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
   },
   {
-    "movie_name": "Hellraiser",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/bg7S",
-    "avg_rating": 2.5,
-    "lb_avg": 2.88,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:2.0, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg"
-  },
-  {
     "movie_name": "Annabelle: Creation",
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/dSxe",
@@ -46674,35 +46797,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/gukkmf3W5Cev7winxBa8FHvKLql.jpg"
   },
   {
-    "movie_name": "ted",
-    "year": 2012,
-    "letterboxd_uri": "https://boxd.it/KN1y",
-    "avg_rating": 2.5,
-    "lb_avg": 3.77,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:2.0, moviebuff501:3.0",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg"
-  },
-  {
-    "movie_name": "The Crow",
-    "year": 2024,
-    "letterboxd_uri": "https://boxd.it/A8C4",
-    "avg_rating": 2.5,
-    "lb_avg": 2.24,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:3.5, moviebuff501:1.5",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg"
-  },
-  {
     "movie_name": "The Roses",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/MjnI",
@@ -46773,6 +46867,20 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/yake2myhbW7c6dKbmwYDy1i40bm.jpg"
+  },
+  {
+    "movie_name": "The Invitation",
+    "year": 2016,
+    "letterboxd_uri": "https://boxd.it/9OUU",
+    "avg_rating": 2.5,
+    "lb_avg": 3.25,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:2.0, skylerinthecine:3.0",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/esubm23z8N5JUA1wQ5yLSjLicDx.jpg"
   },
   {
     "movie_name": "You're Next",
@@ -47191,6 +47299,20 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg"
+  },
+  {
+    "movie_name": "The Stepfather",
+    "year": 1987,
+    "letterboxd_uri": "https://boxd.it/1wii",
+    "avg_rating": 2.5,
+    "lb_avg": 3.33,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:2.5",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg"
   },
   {
     "movie_name": "The Sandlot",
@@ -48464,21 +48586,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/fDPdjGc8SUEDWfTwMaZlCE6NSi3.jpg"
-  },
-  {
-    "movie_name": "Footloose",
-    "year": 2011,
-    "letterboxd_uri": "https://boxd.it/2cnk",
-    "avg_rating": 2.5,
-    "lb_avg": 2.96,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:2.5",
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/cDUW5RWmyHcTxu7eg9eMqhBQy2J.jpg"
   },
   {
     "movie_name": "Seven Pounds",
@@ -49794,19 +49901,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg"
   },
   {
-    "movie_name": "The Color Purple",
-    "year": 2023,
-    "letterboxd_uri": "https://boxd.it/ksja",
-    "avg_rating": 2.5,
-    "lb_avg": 3.58,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:2.5",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
-  },
-  {
     "movie_name": "Big Fat Liar",
     "year": 2002,
     "letterboxd_uri": "https://boxd.it/1STg",
@@ -50161,21 +50255,6 @@
       "History"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/bptiOG8kCoq1WUpWEwMyAIaMED4.jpg"
-  },
-  {
-    "movie_name": "Chocolat",
-    "year": 2000,
-    "letterboxd_uri": "https://boxd.it/2aue",
-    "avg_rating": 2.5,
-    "lb_avg": 3.46,
-    "rater_count": 1,
-    "breakdown": "skylerinthecine:2.5",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/lnwPvyj8UR7MetG2pQ92453IIoR.jpg"
   },
   {
     "movie_name": "Blade II",
@@ -51026,6 +51105,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg"
   },
   {
+    "movie_name": "Wuthering Heights",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/OdIa",
+    "avg_rating": 2.4,
+    "lb_avg": 2.74,
+    "rater_count": 5,
+    "breakdown": "batmatt208:3.5, lukecharlier:2.0, moviebuff501:2.5, paityne:2.5, skylerinthecine:1.5",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+  },
+  {
     "movie_name": "Ready or Not 2: Here I Come",
     "year": 2026,
     "letterboxd_uri": "https://boxd.it/MfY6",
@@ -51038,19 +51131,6 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
-  },
-  {
-    "movie_name": "Child's Play",
-    "year": 2019,
-    "letterboxd_uri": "https://boxd.it/jpX0",
-    "avg_rating": 2.4,
-    "lb_avg": null,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:3.0, memoriesomovies:2.0, movieboireviews:1.0, moviebuff501:2.5, skylerinthecine:3.5",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg"
   },
   {
     "movie_name": "Old",
@@ -51066,22 +51146,6 @@
       "Horror"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/vclShucpUmPhdAOmKgf3B3Z4POD.jpg"
-  },
-  {
-    "movie_name": "Aladdin",
-    "year": 2019,
-    "letterboxd_uri": "https://boxd.it/eSjy",
-    "avg_rating": 2.38,
-    "lb_avg": 3.11,
-    "rater_count": 4,
-    "breakdown": "batmatt208:1.5, movieboireviews:1.5, moviebuff501:2.5, skylerinthecine:4.0",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Romance",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
   },
   {
     "movie_name": "Mortal Kombat",
@@ -51231,21 +51295,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg"
-  },
-  {
-    "movie_name": "Diary of a Wimpy Kid",
-    "year": 2021,
-    "letterboxd_uri": "https://boxd.it/t7dy",
-    "avg_rating": 2.38,
-    "lb_avg": 2.13,
-    "rater_count": 4,
-    "breakdown": "memoriesomovies:3.0, movieboireviews:2.0, moviebuff501:2.0, skylerinthecine:2.5",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg"
   },
   {
     "movie_name": "Hell of a Summer",
@@ -51563,20 +51612,6 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg"
-  },
-  {
-    "movie_name": "Friday the 13th",
-    "year": 2009,
-    "letterboxd_uri": "https://boxd.it/1QAw",
-    "avg_rating": 2.33,
-    "lb_avg": 2.61,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:3.5, movieboireviews:1.0, skylerinthecine:2.5",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg"
   },
   {
     "movie_name": "Voicemails for Isabelle",
@@ -52177,22 +52212,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg"
   },
   {
-    "movie_name": "The Karate Kid",
-    "year": 2010,
-    "letterboxd_uri": "https://boxd.it/15HA",
-    "avg_rating": 2.25,
-    "lb_avg": 3.23,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:2.0, skylerinthecine:2.5",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/b1RBy3l297N0c7PHjlz35cClWju.jpg"
-  },
-  {
     "movie_name": "Insidious: Chapter 2",
     "year": 2013,
     "letterboxd_uri": "https://boxd.it/3dqc",
@@ -52205,21 +52224,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg"
-  },
-  {
-    "movie_name": "Ghostbusters",
-    "year": 2016,
-    "letterboxd_uri": "https://boxd.it/Vm8",
-    "avg_rating": 2.25,
-    "lb_avg": 2.35,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:1.0, skylerinthecine:3.5",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg"
   },
   {
     "movie_name": "The Visit",
@@ -52349,6 +52353,21 @@
       "Action"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg"
+  },
+  {
+    "movie_name": "Annie",
+    "year": 1982,
+    "letterboxd_uri": "https://boxd.it/1LCi",
+    "avg_rating": 2.25,
+    "lb_avg": 3.42,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:1.5, skylerinthecine:3.0",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/xopqD99S1GqQOG8UAeSElsX9MeP.jpg"
   },
   {
     "movie_name": "Anchorman 2: The Legend Continues",
@@ -52486,21 +52505,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg"
   },
   {
-    "movie_name": "The Circle",
-    "year": 2017,
-    "letterboxd_uri": "https://boxd.it/bj1I",
-    "avg_rating": 2.25,
-    "lb_avg": 2.08,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:1.0, skylerinthecine:3.5",
-    "genres": [
-      "Crime",
-      "Comedy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg"
-  },
-  {
     "movie_name": "The Idea of You",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/vOW6",
@@ -52532,21 +52536,6 @@
       "Fantasy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
-  },
-  {
-    "movie_name": "The Day the Earth Stood Still",
-    "year": 2008,
-    "letterboxd_uri": "https://boxd.it/1WQ6",
-    "avg_rating": 2.25,
-    "lb_avg": 2.37,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:3.5, skylerinthecine:1.0",
-    "genres": [
-      "Drama",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/vBgFSYmG5tb7GsZ3tHR0WNaWaxA.jpg"
   },
   {
     "movie_name": "The ABCs of Book Banning",
@@ -52794,21 +52783,6 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg"
-  },
-  {
-    "movie_name": "Dumbo",
-    "year": 2019,
-    "letterboxd_uri": "https://boxd.it/aNYI",
-    "avg_rating": 2.17,
-    "lb_avg": 2.62,
-    "rater_count": 3,
-    "breakdown": "movieboireviews:1.0, moviebuff501:2.5, skylerinthecine:3.0",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg"
   },
   {
     "movie_name": "People We Meet on Vacation",
@@ -53707,20 +53681,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg"
   },
   {
-    "movie_name": "The Invitation",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/vkfc",
-    "avg_rating": 2.0,
-    "lb_avg": 2.22,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:1.0, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/jcTq6gIskCsHlKDvCKKouEfiU66.jpg"
-  },
-  {
     "movie_name": "Paranormal Activity",
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/1yIM",
@@ -53895,22 +53855,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/giq8GJs8YGMzHxeKxNSuwzAdd1c.jpg"
   },
   {
-    "movie_name": "Robin Hood",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/d3bc",
-    "avg_rating": 2.0,
-    "lb_avg": 2.33,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:1.0, skylerinthecine:3.0",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg"
-  },
-  {
     "movie_name": "The Twilight Saga: Breaking Dawn \u2013 Part 2",
     "year": 2012,
     "letterboxd_uri": "https://boxd.it/DdC",
@@ -54014,35 +53958,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg"
-  },
-  {
-    "movie_name": "Annie",
-    "year": 1999,
-    "letterboxd_uri": "https://boxd.it/1upm",
-    "avg_rating": 2.0,
-    "lb_avg": 3.27,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:1.5, skylerinthecine:2.5",
-    "genres": [
-      "Music",
-      "Family",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg"
-  },
-  {
-    "movie_name": "Les Mis\u00e9rables",
-    "year": 2012,
-    "letterboxd_uri": "https://boxd.it/2TT4",
-    "avg_rating": 2.0,
-    "lb_avg": 3.63,
-    "rater_count": 2,
-    "breakdown": "movieboireviews:2.0, skylerinthecine:2.0",
-    "genres": [
-      "History",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg"
   },
   {
     "movie_name": "Woman of the Hour",
@@ -54637,6 +54552,36 @@
     "poster": "https://image.tmdb.org/t/p/w92/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg"
   },
   {
+    "movie_name": "Fright Night",
+    "year": 2011,
+    "letterboxd_uri": "https://boxd.it/l1S",
+    "avg_rating": 2.0,
+    "lb_avg": 3.0,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:2.0",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg"
+  },
+  {
+    "movie_name": "Cinderella",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/4KX6",
+    "avg_rating": 2.0,
+    "lb_avg": 3.36,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:2.0",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Family",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+  },
+  {
     "movie_name": "Addams Family Values",
     "year": 1993,
     "letterboxd_uri": "https://boxd.it/26mq",
@@ -54679,6 +54624,22 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/zbxrAWN2Ss5RXK1uDvMW82xFh0n.jpg"
+  },
+  {
+    "movie_name": "Les Mis\u00e9rables",
+    "year": 1998,
+    "letterboxd_uri": "https://boxd.it/24nm",
+    "avg_rating": 2.0,
+    "lb_avg": 3.46,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:2.0",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg"
   },
   {
     "movie_name": "Pineapple Express",
@@ -57669,6 +57630,22 @@
     "poster": "https://image.tmdb.org/t/p/w92/4WH6AZd473lRZ3hUp8TYiv2LfZW.jpg"
   },
   {
+    "movie_name": "Aladdin",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/eSjy",
+    "avg_rating": 1.83,
+    "lb_avg": 3.11,
+    "rater_count": 3,
+    "breakdown": "batmatt208:1.5, movieboireviews:1.5, moviebuff501:2.5",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
+  },
+  {
     "movie_name": "Pok\u00e9mon Detective Pikachu",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/fVA0",
@@ -57696,22 +57673,6 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/3rJvo14V6Tnv3h97oDKpU8Bdb5l.jpg"
-  },
-  {
-    "movie_name": "Death Note",
-    "year": 2017,
-    "letterboxd_uri": "https://boxd.it/bOS4",
-    "avg_rating": 1.83,
-    "lb_avg": 1.5,
-    "rater_count": 3,
-    "breakdown": "lukecharlier:0.5, movieboireviews:0.5, skylerinthecine:4.5",
-    "genres": [
-      "Crime",
-      "Fantasy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/8xRQ0KG9ZZzjEiFa5fgEaTKhc0d.jpg"
   },
   {
     "movie_name": "A Christmas Story Christmas",
@@ -57800,21 +57761,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/iQCtK477yqp6xnHHrQG2P0lXoow.jpg"
-  },
-  {
-    "movie_name": "I Know What You Did Last Summer",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/EY8y",
-    "avg_rating": 1.83,
-    "lb_avg": 2.37,
-    "rater_count": 3,
-    "breakdown": "movieboireviews:1.0, moviebuff501:2.0, skylerinthecine:2.5",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg"
   },
   {
     "movie_name": "The Marvels",
@@ -58156,6 +58102,21 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg"
+  },
+  {
+    "movie_name": "Dumbo",
+    "year": 2019,
+    "letterboxd_uri": "https://boxd.it/aNYI",
+    "avg_rating": 1.75,
+    "lb_avg": 2.62,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:1.0, moviebuff501:2.5",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg"
   },
   {
     "movie_name": "Hotel Transylvania",
@@ -58663,6 +58624,19 @@
     "poster": "https://image.tmdb.org/t/p/w92/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg"
   },
   {
+    "movie_name": "Scary Movie",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/24CG",
+    "avg_rating": 1.67,
+    "lb_avg": 3.26,
+    "rater_count": 3,
+    "breakdown": "movieboireviews:1.5, moviebuff501:2.5, skylerinthecine:1.0",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg"
+  },
+  {
     "movie_name": "Daddy's Home",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/8jSc",
@@ -59060,6 +59034,21 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg"
+  },
+  {
+    "movie_name": "Mulan",
+    "year": 2020,
+    "letterboxd_uri": "https://boxd.it/bbK6",
+    "avg_rating": 1.5,
+    "lb_avg": 2.34,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:0.5, moviebuff501:2.5",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
   },
   {
     "movie_name": "Snow White",
@@ -59469,22 +59458,6 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/3KMRX64Q3pleib8bwM8C6zQi3Nd.jpg"
-  },
-  {
-    "movie_name": "Teenage Mutant Ninja Turtles",
-    "year": 2014,
-    "letterboxd_uri": "https://boxd.it/3oAs",
-    "avg_rating": 1.5,
-    "lb_avg": 2.57,
-    "rater_count": 1,
-    "breakdown": "memoriesomovies:1.5",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg"
   },
   {
     "movie_name": "Flesh",
@@ -61858,21 +61831,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
   },
   {
-    "movie_name": "Cinderella",
-    "year": 2021,
-    "letterboxd_uri": "https://boxd.it/lSCY",
-    "avg_rating": 1.33,
-    "lb_avg": 1.59,
-    "rater_count": 3,
-    "breakdown": "movieboireviews:2.0, moviebuff501:1.0, skylerinthecine:1.0",
-    "genres": [
-      "Fantasy",
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg"
-  },
-  {
     "movie_name": "HIM",
     "year": 2025,
     "letterboxd_uri": "https://boxd.it/BfYI",
@@ -62274,19 +62232,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/cqvfhi9s1VsTgXcV1B7vX0Cb1qA.jpg"
-  },
-  {
-    "movie_name": "Scary Movie",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/MxEo",
-    "avg_rating": 1.2,
-    "lb_avg": 2.34,
-    "rater_count": 5,
-    "breakdown": "lukecharlier:1.5, movieboireviews:1.0, moviebuff501:1.0, paityne:1.5, skylerinthecine:1.0",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg"
   },
   {
     "movie_name": "Blonde",
@@ -63056,6 +63001,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg"
   },
   {
+    "movie_name": "Ghost in the Shell",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/abTA",
+    "avg_rating": 1.0,
+    "lb_avg": 2.64,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:1.0",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg"
+  },
+  {
     "movie_name": "Twilight Zone: The Movie",
     "year": 1983,
     "letterboxd_uri": "https://boxd.it/1Mtw",
@@ -63354,6 +63314,20 @@
     "poster": "https://image.tmdb.org/t/p/w92/6vdUpHvkspQonXBdWcLWW5ciEPJ.jpg"
   },
   {
+    "movie_name": "My Bloody Valentine",
+    "year": 1981,
+    "letterboxd_uri": "https://boxd.it/131M",
+    "avg_rating": 1.0,
+    "lb_avg": 3.21,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:1.0",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/kl3mewFceFtYIavvGts2atzB0e0.jpg"
+  },
+  {
     "movie_name": "Revenge of the Nerds",
     "year": 1984,
     "letterboxd_uri": "https://boxd.it/1ORq",
@@ -63614,20 +63588,6 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg"
-  },
-  {
-    "movie_name": "My Bloody Valentine",
-    "year": 2009,
-    "letterboxd_uri": "https://boxd.it/1O6E",
-    "avg_rating": 1.0,
-    "lb_avg": 2.51,
-    "rater_count": 1,
-    "breakdown": "movieboireviews:1.0",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg"
   },
   {
     "movie_name": "Night Swim",
@@ -64192,6 +64152,21 @@
       "Comedy"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/uYYLz67e5xEQMsY858VSSCDsLU6.jpg"
+  },
+  {
+    "movie_name": "I Know What You Did Last Summer",
+    "year": 2025,
+    "letterboxd_uri": "https://boxd.it/EY8y",
+    "avg_rating": 1.0,
+    "lb_avg": 2.37,
+    "rater_count": 1,
+    "breakdown": "movieboireviews:1.0",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg"
   },
   {
     "movie_name": "First Kid",
@@ -64909,6 +64884,21 @@
     "poster": "https://image.tmdb.org/t/p/w92/zIRDhdAuMevOuY2vs3s1HNcqDq7.jpg"
   },
   {
+    "movie_name": "The Circle",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/bj1I",
+    "avg_rating": 1.0,
+    "lb_avg": 2.08,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:1.0",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg"
+  },
+  {
     "movie_name": "Transformers: The Last Knight",
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/b8xo",
@@ -64983,6 +64973,22 @@
       "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/raz4UTUI5FPkem2j57EXOL75o6I.jpg"
+  },
+  {
+    "movie_name": "Robin Hood",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/d3bc",
+    "avg_rating": 1.0,
+    "lb_avg": 2.33,
+    "rater_count": 1,
+    "breakdown": "moviebuff501:1.0",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg"
   },
   {
     "movie_name": "The Intruder",
@@ -65678,35 +65684,6 @@
     "poster": "https://image.tmdb.org/t/p/w92/9oK820JieICOcfUhI6mkpFrcA9m.jpg"
   },
   {
-    "movie_name": "War of the Worlds",
-    "year": 2025,
-    "letterboxd_uri": "https://boxd.it/so0a",
-    "avg_rating": 0.83,
-    "lb_avg": 0.98,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:1.5, moviebuff501:0.5, skylerinthecine:0.5",
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/yvirUYrva23IudARHn3mMGVxWqM.jpg"
-  },
-  {
-    "movie_name": "Fantastic Four",
-    "year": 2015,
-    "letterboxd_uri": "https://boxd.it/5a9c",
-    "avg_rating": 0.83,
-    "lb_avg": 1.35,
-    "rater_count": 3,
-    "breakdown": "movieboireviews:0.5, moviebuff501:1.0, skylerinthecine:1.0",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg"
-  },
-  {
     "movie_name": "Dear Evan Hansen",
     "year": 2021,
     "letterboxd_uri": "https://boxd.it/kOP8",
@@ -65825,6 +65802,21 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg"
+  },
+  {
+    "movie_name": "Fantastic Four",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/5a9c",
+    "avg_rating": 0.75,
+    "lb_avg": 1.35,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:0.5, moviebuff501:1.0",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg"
   },
   {
     "movie_name": "Grown Ups 2",
@@ -66086,6 +66078,22 @@
       "Mystery"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/bShgiEQoPnWdw4LBrYT5u18JF34.jpg"
+  },
+  {
+    "movie_name": "Death Note",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/bOS4",
+    "avg_rating": 0.5,
+    "lb_avg": 1.5,
+    "rater_count": 2,
+    "breakdown": "lukecharlier:0.5, movieboireviews:0.5",
+    "genres": [
+      "Crime",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/8xRQ0KG9ZZzjEiFa5fgEaTKhc0d.jpg"
   },
   {
     "movie_name": "Artemis Fowl",
@@ -67782,20 +67790,6 @@
       "Adventure"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/kPc80jywR5Nm2KIQjkY5i4VXSx4.jpg"
-  },
-  {
-    "movie_name": "The Stepfather",
-    "year": 2009,
-    "letterboxd_uri": "https://boxd.it/1Enq",
-    "avg_rating": 0.5,
-    "lb_avg": 2.44,
-    "rater_count": 1,
-    "breakdown": "movieboireviews:0.5",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/bTolBUgHeU4Tcq8HjBxL92f9wLm.jpg"
   },
   {
     "movie_name": "The Haunting of Sharon Tate",

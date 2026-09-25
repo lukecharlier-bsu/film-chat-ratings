@@ -48498,5 +48498,55 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/gsFun8nATm52aGHeT8ueAel98nE.jpg",
     "fetched": "2026-09-25"
+  },
+  "the stepfather|1987": {
+    "tmdb_year": 1987,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
+    "fetched": "2026-09-25"
+  },
+  "my bloody valentine|1981": {
+    "tmdb_year": 1981,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/kl3mewFceFtYIavvGts2atzB0e0.jpg",
+    "fetched": "2026-09-25"
+  },
+  "cinderella|2015": {
+    "tmdb_year": 2015,
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Family",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+    "fetched": "2026-09-25"
+  },
+  "the crow|1994": {
+    "tmdb_year": 1994,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+    "fetched": "2026-09-25"
+  },
+  "les mis\u00e9rables|1998": {
+    "tmdb_year": 1998,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
+    "fetched": "2026-09-25"
   }
 }

@@ -450,16 +450,16 @@
   {
     "username": "moviebuff501",
     "name": "RoboCop",
-    "year": 2014,
+    "year": 1987,
     "date": "2026-09-21",
     "rating": 4.0,
     "uri": "https://letterboxd.com/moviebuff501/film/robocop/",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
     "genres": [
       "Action",
-      "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -4464,12 +4464,12 @@
   {
     "username": "movieboireviews",
     "name": "Hellraiser",
-    "year": 2022,
+    "year": 1987,
     "date": "2026-07-29",
     "rating": 2.0,
     "uri": "https://boxd.it/bg7S",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -4479,15 +4479,15 @@
   {
     "username": "movieboireviews",
     "name": "Freaks",
-    "year": 2019,
+    "year": 1932,
     "date": "2026-07-29",
     "rating": 2.0,
     "uri": "https://boxd.it/jFUm",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Drama",
+      "Horror"
     ],
     "approx": false
   },
@@ -5926,31 +5926,30 @@
   {
     "username": "movieboireviews",
     "name": "Moana",
-    "year": 2026,
+    "year": 2016,
     "date": "2026-07-10",
     "rating": 1.5,
     "uri": "https://boxd.it/FYb0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
     "genres": [
-      "Family",
-      "Fantasy",
+      "Adventure",
       "Comedy",
-      "Adventure"
+      "Family",
+      "Animation"
     ],
     "approx": false
   },
   {
     "username": "movieboireviews",
     "name": "Diary of a Wimpy Kid",
-    "year": 2021,
+    "year": 2010,
     "date": "2026-07-10",
     "rating": 2.0,
     "uri": "https://boxd.it/1fUa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/iLAGiPnSuODt9cn332bkFElrRig.jpg",
     "genres": [
-      "Animation",
       "Comedy",
       "Family"
     ],
@@ -7065,15 +7064,14 @@
   {
     "username": "movieboireviews",
     "name": "Friday the 13th",
-    "year": 2009,
+    "year": 1980,
     "date": "2026-06-30",
     "rating": 1.0,
     "uri": "https://boxd.it/1QAw",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -7129,16 +7127,16 @@
   {
     "username": "movieboireviews",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2026-06-30",
     "rating": 1.5,
     "uri": "https://boxd.it/eS6",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -7313,13 +7311,14 @@
   {
     "username": "movieboireviews",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2026-06-28",
     "rating": 3.0,
     "uri": "https://boxd.it/1VNg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -7694,15 +7693,15 @@
   {
     "username": "movieboireviews",
     "name": "The Invitation",
-    "year": 2022,
+    "year": 2016,
     "date": "2026-06-18",
     "rating": 1.0,
     "uri": "https://boxd.it/vkfc",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/esubm23z8N5JUA1wQ5yLSjLicDx.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Thriller",
+      "Horror"
     ],
     "approx": false
   },
@@ -7757,16 +7756,16 @@
   {
     "username": "movieboireviews",
     "name": "Annie",
-    "year": 1999,
+    "year": 1982,
     "date": "2026-06-17",
     "rating": 1.5,
     "uri": "https://boxd.it/1LCi",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
     "genres": [
-      "Music",
-      "Family",
-      "Comedy"
+      "Comedy",
+      "Drama",
+      "Family"
     ],
     "approx": false
   },
@@ -8054,12 +8053,12 @@
   {
     "username": "lukecharlier",
     "name": "Scary Movie",
-    "year": 2026,
+    "year": 2000,
     "date": "2026-06-16",
     "rating": 1.5,
     "uri": "https://letterboxd.com/lukecharlier/film/scary-movie-2026/",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "genres": [
       "Comedy"
     ],
@@ -9326,12 +9325,12 @@
   {
     "username": "movieboireviews",
     "name": "Scary Movie",
-    "year": 2026,
+    "year": 2000,
     "date": "2026-06-07",
     "rating": 1.0,
     "uri": "https://boxd.it/MxEo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "genres": [
       "Comedy"
     ],
@@ -9356,16 +9355,16 @@
   {
     "username": "movieboireviews",
     "name": "Pinocchio",
-    "year": 2022,
+    "year": 1940,
     "date": "2026-06-07",
     "rating": 1.0,
     "uri": "https://boxd.it/jnWY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
     "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -9404,12 +9403,12 @@
   {
     "username": "paityne",
     "name": "Scary Movie",
-    "year": 2026,
+    "year": 2000,
     "date": "2026-06-07",
     "rating": 1.5,
     "uri": "https://letterboxd.com/paityne/film/scary-movie-2026/",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "genres": [
       "Comedy"
     ],
@@ -9692,12 +9691,12 @@
   {
     "username": "movieboireviews",
     "name": "Scary Movie",
-    "year": 2026,
+    "year": 2000,
     "date": "2026-06-05",
     "rating": 1.5,
     "uri": "https://boxd.it/24CG",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "genres": [
       "Comedy"
     ],
@@ -10026,12 +10025,12 @@
   {
     "username": "moviebuff501",
     "name": "Scary Movie",
-    "year": 2026,
+    "year": 2000,
     "date": "2026-06-05",
     "rating": 1.0,
     "uri": "https://boxd.it/24CG",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "genres": [
       "Comedy"
     ],
@@ -10783,16 +10782,14 @@
   {
     "username": "movieboireviews",
     "name": "A Nightmare on Elm Street",
-    "year": 2010,
+    "year": 1984,
     "date": "2026-05-27",
     "rating": 1.0,
     "uri": "https://boxd.it/1zdg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -11581,16 +11578,16 @@
   {
     "username": "movieboireviews",
     "name": "RoboCop",
-    "year": 2014,
+    "year": 1987,
     "date": "2026-05-25",
     "rating": 1.0,
     "uri": "https://boxd.it/3m4k",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
     "genres": [
       "Action",
-      "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -11677,27 +11674,27 @@
   {
     "username": "movieboireviews",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2026-05-25",
     "rating": 1.5,
     "uri": "https://boxd.it/4kC2",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
   {
     "username": "movieboireviews",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2026-05-25",
     "rating": 2.0,
     "uri": "https://boxd.it/1VTo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -14786,16 +14783,14 @@
   {
     "username": "memoriesomovies",
     "name": "A Nightmare on Elm Street",
-    "year": 2010,
+    "year": 1984,
     "date": "2026-04-14",
     "rating": 2.0,
     "uri": "https://boxd.it/1zdg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -17667,16 +17662,14 @@
   {
     "username": "movieboireviews",
     "name": "The Hunt",
-    "year": 2020,
+    "year": 2012,
     "date": "2026-03-12",
     "rating": 1.5,
     "uri": "https://boxd.it/iE9i",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
     "genres": [
-      "Action",
-      "Thriller",
-      "Horror"
+      "Drama"
     ],
     "approx": false
   },
@@ -17697,12 +17690,12 @@
   {
     "username": "movieboireviews",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2026-03-12",
     "rating": 1.0,
     "uri": "https://boxd.it/jpX0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -17727,16 +17720,15 @@
   {
     "username": "movieboireviews",
     "name": "Ghostbusters",
-    "year": 2016,
+    "year": 1984,
     "date": "2026-03-12",
     "rating": 1.0,
     "uri": "https://boxd.it/Vm8",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Comedy"
+      "Comedy",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -19149,15 +19141,15 @@
   {
     "username": "movieboireviews",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2026-02-25",
     "rating": 2.5,
     "uri": "https://boxd.it/20ZQ",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -20450,15 +20442,14 @@
   {
     "username": "movieboireviews",
     "name": "The Karate Kid",
-    "year": 2010,
+    "year": 1984,
     "date": "2026-02-11",
     "rating": 2.0,
     "uri": "https://boxd.it/15HA",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
     "genres": [
       "Action",
-      "Adventure",
       "Drama",
       "Family"
     ],
@@ -20874,15 +20865,17 @@
   {
     "username": "movieboireviews",
     "name": "Les Mis\u00e9rables",
-    "year": 2012,
+    "year": 1998,
     "date": "2026-02-05",
     "rating": 2.0,
     "uri": "https://boxd.it/24nm",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
     "genres": [
+      "Crime",
+      "Drama",
       "History",
-      "Drama"
+      "Romance"
     ],
     "approx": false
   },
@@ -21312,16 +21305,14 @@
   {
     "username": "movieboireviews",
     "name": "Dracula",
-    "year": 2025,
+    "year": 1931,
     "date": "2026-02-03",
     "rating": 1.5,
     "uri": "https://boxd.it/Lng0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
     "genres": [
-      "Horror",
-      "Fantasy",
-      "Romance"
+      "Horror"
     ],
     "approx": false
   },
@@ -21378,12 +21369,12 @@
   {
     "username": "movieboireviews",
     "name": "My Bloody Valentine",
-    "year": 2009,
+    "year": 1981,
     "date": "2026-02-02",
     "rating": 1.0,
     "uri": "https://boxd.it/1O6E",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/kl3mewFceFtYIavvGts2atzB0e0.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -21645,16 +21636,16 @@
   {
     "username": "movieboireviews",
     "name": "The Crow",
-    "year": 2024,
+    "year": 1994,
     "date": "2026-01-31",
     "rating": 3.5,
     "uri": "https://boxd.it/1Yxq",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
     "genres": [
-      "Action",
       "Fantasy",
-      "Horror"
+      "Action",
+      "Thriller"
     ],
     "approx": false
   },
@@ -26422,13 +26413,14 @@
   {
     "username": "moviebuff501",
     "name": "Crash",
-    "year": 2004,
+    "year": 1996,
     "date": "2025-11-30",
     "rating": 4.0,
     "uri": "https://boxd.it/29n2",
     "reviewed": false,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w92/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
     "genres": [
+      "Thriller",
       "Drama"
     ],
     "approx": false
@@ -27410,17 +27402,18 @@
   {
     "username": "memoriesomovies",
     "name": "Teenage Mutant Ninja Turtles",
-    "year": 2014,
+    "year": 1990,
     "date": "2025-11-19",
     "rating": 1.5,
     "uri": "https://boxd.it/3oAs",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
     "genres": [
       "Science Fiction",
       "Action",
       "Adventure",
-      "Comedy"
+      "Comedy",
+      "Family"
     ],
     "approx": false
   },
@@ -27754,16 +27747,17 @@
   {
     "username": "movieboireviews",
     "name": "Cinderella",
-    "year": 2021,
+    "year": 2015,
     "date": "2025-11-15",
     "rating": 2.0,
     "uri": "https://boxd.it/4KX6",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "genres": [
-      "Fantasy",
       "Romance",
-      "Comedy"
+      "Fantasy",
+      "Family",
+      "Drama"
     ],
     "approx": false
   },
@@ -27846,15 +27840,16 @@
   {
     "username": "memoriesomovies",
     "name": "Funny Games",
-    "year": 2008,
+    "year": 1997,
     "date": "2025-11-14",
     "rating": 5.0,
     "uri": "https://boxd.it/1WKM",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
     "genres": [
-      "Thriller",
-      "Horror"
+      "Drama",
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -30562,15 +30557,15 @@
   {
     "username": "skylerinthecine",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2025-10-13",
     "rating": 4.0,
     "uri": "https://boxd.it/20ZQ",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -31187,15 +31182,16 @@
   {
     "username": "movieboireviews",
     "name": "Invasion of the Body Snatchers",
-    "year": 1978,
+    "year": 1956,
     "date": "2025-10-02",
     "rating": 3.5,
     "uri": "https://boxd.it/1SWk",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
     "genres": [
       "Science Fiction",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -31321,13 +31317,14 @@
   {
     "username": "memoriesomovies",
     "name": "Crash",
-    "year": 2004,
+    "year": 1996,
     "date": "2025-09-29",
     "rating": 4.5,
     "uri": "https://boxd.it/29n2",
     "reviewed": false,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w92/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
     "genres": [
+      "Thriller",
       "Drama"
     ],
     "approx": false
@@ -32725,15 +32722,15 @@
   {
     "username": "moviebuff501",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2025-09-04",
     "rating": 4.0,
     "uri": "https://boxd.it/28kc",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -33923,15 +33920,16 @@
   {
     "username": "memoriesomovies",
     "name": "War of the Worlds",
-    "year": 2025,
+    "year": 2005,
     "date": "2025-08-15",
     "rating": 1.5,
     "uri": "https://boxd.it/so0a",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -34138,30 +34136,32 @@
   {
     "username": "moviebuff501",
     "name": "War of the Worlds",
-    "year": 2025,
+    "year": 2005,
     "date": "2025-08-12",
     "rating": 3.0,
     "uri": "https://boxd.it/so0a",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
   {
     "username": "skylerinthecine",
     "name": "War of the Worlds",
-    "year": 2025,
+    "year": 2005,
     "date": "2025-08-12",
     "rating": 0.5,
     "uri": "https://boxd.it/so0a",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -35042,16 +35042,14 @@
   {
     "username": "skylerinthecine",
     "name": "The Hunt",
-    "year": 2020,
+    "year": 2012,
     "date": "2025-07-26",
     "rating": 4.0,
     "uri": "https://boxd.it/3wEC",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
     "genres": [
-      "Action",
-      "Thriller",
-      "Horror"
+      "Drama"
     ],
     "approx": false
   },
@@ -37979,12 +37977,12 @@
   {
     "username": "skylerinthecine",
     "name": "The Fall of the House of Usher",
-    "year": 1950,
+    "year": 1928,
     "date": "2025-06-16",
     "rating": 3.0,
     "uri": "https://boxd.it/IWYg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gMCsfgQU37XbPiC14OoLvFigcp4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/gWpTehQgkkpMfxdCkr5CwU8vONR.jpg",
     "genres": [
       "Horror"
     ],
@@ -38432,15 +38430,14 @@
   {
     "username": "memoriesomovies",
     "name": "Friday the 13th",
-    "year": 2009,
+    "year": 1980,
     "date": "2025-06-14",
     "rating": 3.5,
     "uri": "https://boxd.it/24fs",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -38555,13 +38552,14 @@
   {
     "username": "lukecharlier",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2025-06-12",
     "rating": 4.0,
     "uri": "https://boxd.it/1VNg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -40321,16 +40319,16 @@
   {
     "username": "skylerinthecine",
     "name": "RoboCop",
-    "year": 2014,
+    "year": 1987,
     "date": "2025-05-11",
     "rating": 4.0,
     "uri": "https://boxd.it/22Wu",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
     "genres": [
       "Action",
-      "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -50434,13 +50432,14 @@
   {
     "username": "movieboireviews",
     "name": "Crash",
-    "year": 2004,
+    "year": 1996,
     "date": "2024-11-10",
     "rating": 2.0,
     "uri": "https://boxd.it/28q0",
     "reviewed": false,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w92/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
     "genres": [
+      "Thriller",
       "Drama"
     ],
     "approx": false
@@ -51468,12 +51467,12 @@
   {
     "username": "skylerinthecine",
     "name": "Hellraiser",
-    "year": 2022,
+    "year": 1987,
     "date": "2024-10-26",
     "rating": 3.0,
     "uri": "https://boxd.it/1Zpi",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -52486,15 +52485,15 @@
   {
     "username": "memoriesomovies",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2024-10-11",
     "rating": 4.0,
     "uri": "https://boxd.it/20ZQ",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -52651,16 +52650,14 @@
   {
     "username": "skylerinthecine",
     "name": "Dracula",
-    "year": 2025,
+    "year": 1931,
     "date": "2024-10-10",
     "rating": 3.0,
     "uri": "https://boxd.it/2b34",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
     "genres": [
-      "Horror",
-      "Fantasy",
-      "Romance"
+      "Horror"
     ],
     "approx": false
   },
@@ -53151,16 +53148,14 @@
   {
     "username": "skylerinthecine",
     "name": "Chocolat",
-    "year": 2000,
+    "year": 1988,
     "date": "2024-10-02",
     "rating": 2.5,
     "uri": "https://boxd.it/2aue",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/lnwPvyj8UR7MetG2pQ92453IIoR.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/opJnIodpg8HPu9UiNXkKX8UXFsw.jpg",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Drama"
     ],
     "approx": false
   },
@@ -53835,12 +53830,12 @@
   {
     "username": "memoriesomovies",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2024-09-22",
     "rating": 4.0,
     "uri": "https://boxd.it/1VTo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -55342,16 +55337,16 @@
   {
     "username": "moviebuff501",
     "name": "The Crow",
-    "year": 2024,
+    "year": 1994,
     "date": "2024-08-24",
     "rating": 1.5,
     "uri": "https://boxd.it/A8C4",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
     "genres": [
-      "Action",
       "Fantasy",
-      "Horror"
+      "Action",
+      "Thriller"
     ],
     "approx": false
   },
@@ -56033,15 +56028,17 @@
   {
     "username": "skylerinthecine",
     "name": "Les Mis\u00e9rables",
-    "year": 2012,
+    "year": 1998,
     "date": "2024-08-10",
     "rating": 2.0,
     "uri": "https://boxd.it/2TT4",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
     "genres": [
+      "Crime",
+      "Drama",
       "History",
-      "Drama"
+      "Romance"
     ],
     "approx": false
   },
@@ -58385,13 +58382,14 @@
   {
     "username": "skylerinthecine",
     "name": "Shame",
-    "year": 2011,
+    "year": 1968,
     "date": "2024-06-26",
     "rating": 4.5,
     "uri": "https://boxd.it/1tZo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
     "genres": [
+      "War",
       "Drama"
     ],
     "approx": false
@@ -60202,18 +60200,15 @@
   {
     "username": "moviebuff501",
     "name": "The Pink Panther",
-    "year": 2006,
+    "year": 1963,
     "date": "2024-05-19",
     "rating": 3.0,
     "uri": "https://boxd.it/29eO",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg",
     "genres": [
       "Comedy",
-      "Mystery",
-      "Crime",
-      "Adventure",
-      "Family"
+      "Crime"
     ],
     "approx": false
   },
@@ -60610,34 +60605,34 @@
   {
     "username": "skylerinthecine",
     "name": "Planet of the Apes",
-    "year": 2001,
+    "year": 1968,
     "date": "2024-05-12",
     "rating": 3.5,
     "uri": "https://boxd.it/29p8",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
     "genres": [
-      "Thriller",
       "Science Fiction",
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Drama",
+      "Action"
     ],
     "approx": false
   },
   {
     "username": "skylerinthecine",
     "name": "Planet of the Apes",
-    "year": 2001,
+    "year": 1968,
     "date": "2024-05-12",
     "rating": 1.5,
     "uri": "https://boxd.it/29ps",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
     "genres": [
-      "Thriller",
       "Science Fiction",
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Drama",
+      "Action"
     ],
     "approx": false
   },
@@ -60899,17 +60894,17 @@
   {
     "username": "memoriesomovies",
     "name": "Planet of the Apes",
-    "year": 2001,
+    "year": 1968,
     "date": "2024-05-07",
     "rating": 4.0,
     "uri": "https://boxd.it/29p8",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
     "genres": [
-      "Thriller",
       "Science Fiction",
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Drama",
+      "Action"
     ],
     "approx": false
   },
@@ -61751,16 +61746,14 @@
   {
     "username": "paityne",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2024-04-23",
     "rating": 3.5,
     "uri": "https://boxd.it/cioI",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -62736,13 +62729,14 @@
   {
     "username": "skylerinthecine",
     "name": "Crash",
-    "year": 2004,
+    "year": 1996,
     "date": "2024-04-09",
     "rating": 0.5,
     "uri": "https://boxd.it/28q0",
     "reviewed": false,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w92/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
     "genres": [
+      "Thriller",
       "Drama"
     ],
     "approx": false
@@ -63967,16 +63961,16 @@
   {
     "username": "movieboireviews",
     "name": "King Kong",
-    "year": 2005,
+    "year": 1933,
     "date": "2024-03-31",
     "rating": 2.5,
     "uri": "https://boxd.it/2aLa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
     "genres": [
       "Adventure",
-      "Drama",
-      "Action"
+      "Fantasy",
+      "Horror"
     ],
     "approx": false
   },
@@ -64556,13 +64550,14 @@
   {
     "username": "paityne",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2024-03-29",
     "rating": 2.0,
     "uri": "https://boxd.it/p6nO",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -64781,15 +64776,15 @@
   {
     "username": "paityne",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2024-03-29",
     "rating": 3.5,
     "uri": "https://boxd.it/20ZQ",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -65119,16 +65114,14 @@
   {
     "username": "paityne",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2024-03-29",
     "rating": 3.5,
     "uri": "https://boxd.it/1SNW",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -65696,12 +65689,12 @@
   {
     "username": "memoriesomovies",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2024-03-21",
     "rating": 2.0,
     "uri": "https://boxd.it/jpX0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -65740,16 +65733,16 @@
   {
     "username": "moviebuff501",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2024-03-20",
     "rating": 4.0,
     "uri": "https://boxd.it/294O",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -65914,13 +65907,14 @@
   {
     "username": "skylerinthecine",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2024-03-16",
     "rating": 2.5,
     "uri": "https://boxd.it/p6nO",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -69015,15 +69009,15 @@
   {
     "username": "skylerinthecine",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2024-01-28",
     "rating": 3.0,
     "uri": "https://boxd.it/47OE",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -69957,15 +69951,16 @@
   {
     "username": "lukecharlier",
     "name": "Funny Games",
-    "year": 2008,
+    "year": 1997,
     "date": "2024-01-13",
     "rating": 4.5,
     "uri": "https://boxd.it/1WKM",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
     "genres": [
-      "Thriller",
-      "Horror"
+      "Drama",
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -70017,13 +70012,14 @@
   {
     "username": "moviebuff501",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2024-01-11",
     "rating": 4.0,
     "uri": "https://boxd.it/p6nO",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -70304,14 +70300,15 @@
   {
     "username": "skylerinthecine",
     "name": "The Color Purple",
-    "year": 2023,
+    "year": 1985,
     "date": "2024-01-04",
     "rating": 2.5,
     "uri": "https://boxd.it/ksja",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg",
     "genres": [
-      "Drama"
+      "Drama",
+      "History"
     ],
     "approx": false
   },
@@ -72167,16 +72164,16 @@
   {
     "username": "memoriesomovies",
     "name": "Poison",
-    "year": 2023,
+    "year": 1991,
     "date": "2023-12-04",
     "rating": 4.0,
     "uri": "https://boxd.it/Khm",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/IQG49DUJw5DsgcNbW0NfagiDOs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/MW47kViKJcFtt8hQV3EYaOw6zI.jpg",
     "genres": [
-      "Comedy",
       "Drama",
-      "Thriller"
+      "Horror",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -72569,16 +72566,16 @@
   {
     "username": "skylerinthecine",
     "name": "Poison",
-    "year": 2023,
+    "year": 1991,
     "date": "2023-11-30",
     "rating": 3.5,
     "uri": "https://boxd.it/Khm",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/IQG49DUJw5DsgcNbW0NfagiDOs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/MW47kViKJcFtt8hQV3EYaOw6zI.jpg",
     "genres": [
-      "Comedy",
       "Drama",
-      "Thriller"
+      "Horror",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -72614,15 +72611,15 @@
   {
     "username": "movieboireviews",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2023-11-29",
     "rating": 2.0,
     "uri": "https://boxd.it/47OE",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -73520,15 +73517,16 @@
   {
     "username": "memoriesomovies",
     "name": "War of the Worlds",
-    "year": 2025,
+    "year": 2005,
     "date": "2023-11-15",
     "rating": 3.5,
     "uri": "https://boxd.it/2bde",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -73628,14 +73626,15 @@
   {
     "username": "skylerinthecine",
     "name": "The Color Purple",
-    "year": 2023,
+    "year": 1985,
     "date": "2023-11-15",
     "rating": 3.0,
     "uri": "https://boxd.it/29oO",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg",
     "genres": [
-      "Drama"
+      "Drama",
+      "History"
     ],
     "approx": false
   },
@@ -74531,45 +74530,47 @@
   {
     "username": "skylerinthecine",
     "name": "Invasion of the Body Snatchers",
-    "year": 1978,
+    "year": 1956,
     "date": "2023-11-01",
     "rating": 4.0,
     "uri": "https://boxd.it/1TAa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
     "genres": [
       "Science Fiction",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
   {
     "username": "skylerinthecine",
     "name": "Invasion of the Body Snatchers",
-    "year": 1978,
+    "year": 1956,
     "date": "2023-11-01",
     "rating": 4.0,
     "uri": "https://boxd.it/1SWk",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
     "genres": [
       "Science Fiction",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
   {
     "username": "skylerinthecine",
     "name": "The Invitation",
-    "year": 2022,
+    "year": 2016,
     "date": "2023-10-30",
     "rating": 3.0,
     "uri": "https://boxd.it/9OUU",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/esubm23z8N5JUA1wQ5yLSjLicDx.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Thriller",
+      "Horror"
     ],
     "approx": false
   },
@@ -75379,12 +75380,12 @@
   {
     "username": "skylerinthecine",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2023-10-20",
     "rating": 3.5,
     "uri": "https://boxd.it/1VTo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -75546,13 +75547,14 @@
   {
     "username": "skylerinthecine",
     "name": "Crash",
-    "year": 2004,
+    "year": 1996,
     "date": "2023-10-19",
     "rating": 5.0,
     "uri": "https://boxd.it/29n2",
     "reviewed": false,
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w92/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
     "genres": [
+      "Thriller",
       "Drama"
     ],
     "approx": false
@@ -75666,15 +75668,16 @@
   {
     "username": "skylerinthecine",
     "name": "Funny Games",
-    "year": 2008,
+    "year": 1997,
     "date": "2023-10-17",
     "rating": 4.0,
     "uri": "https://boxd.it/207a",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
     "genres": [
-      "Thriller",
-      "Horror"
+      "Drama",
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -76420,16 +76423,16 @@
   {
     "username": "skylerinthecine",
     "name": "Poison",
-    "year": 2023,
+    "year": 1991,
     "date": "2023-10-05",
     "rating": 4.0,
     "uri": "https://boxd.it/Is7Q",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/IQG49DUJw5DsgcNbW0NfagiDOs.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/MW47kViKJcFtt8hQV3EYaOw6zI.jpg",
     "genres": [
-      "Comedy",
       "Drama",
-      "Thriller"
+      "Horror",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -78513,16 +78516,16 @@
   {
     "username": "skylerinthecine",
     "name": "The Jungle Book",
-    "year": 2016,
+    "year": 1967,
     "date": "2023-09-12",
     "rating": 3.0,
     "uri": "https://boxd.it/8wjk",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
     "genres": [
-      "Adventure",
       "Family",
-      "Fantasy"
+      "Animation",
+      "Adventure"
     ],
     "approx": false
   },
@@ -78657,14 +78660,13 @@
   {
     "username": "memoriesomovies",
     "name": "Diary of a Wimpy Kid",
-    "year": 2021,
+    "year": 2010,
     "date": "2023-09-11",
     "rating": 3.0,
     "uri": "https://boxd.it/1fUa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/iLAGiPnSuODt9cn332bkFElrRig.jpg",
     "genres": [
-      "Animation",
       "Comedy",
       "Family"
     ],
@@ -79022,13 +79024,14 @@
   {
     "username": "memoriesomovies",
     "name": "Shame",
-    "year": 2011,
+    "year": 1968,
     "date": "2023-09-10",
     "rating": 5.0,
     "uri": "https://boxd.it/2CxU",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
     "genres": [
+      "War",
       "Drama"
     ],
     "approx": false
@@ -79048,16 +79051,16 @@
   {
     "username": "memoriesomovies",
     "name": "King Kong",
-    "year": 2005,
+    "year": 1933,
     "date": "2023-09-10",
     "rating": 4.0,
     "uri": "https://boxd.it/2aMM",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
     "genres": [
       "Adventure",
-      "Drama",
-      "Action"
+      "Fantasy",
+      "Horror"
     ],
     "approx": false
   },
@@ -80567,15 +80570,15 @@
   {
     "username": "memoriesomovies",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2023-08-13",
     "rating": 3.5,
     "uri": "https://boxd.it/28kc",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -80737,15 +80740,15 @@
   {
     "username": "memoriesomovies",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2023-08-13",
     "rating": 3.0,
     "uri": "https://boxd.it/47OE",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -80816,15 +80819,14 @@
   {
     "username": "movieboireviews",
     "name": "The Karate Kid",
-    "year": 2010,
+    "year": 1984,
     "date": "2023-08-13",
     "rating": 3.0,
     "uri": "https://boxd.it/27Wk",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
     "genres": [
       "Action",
-      "Adventure",
       "Drama",
       "Family"
     ],
@@ -81975,31 +81977,29 @@
   {
     "username": "memoriesomovies",
     "name": "Dracula",
-    "year": 2025,
+    "year": 1931,
     "date": "2023-08-11",
     "rating": 3.5,
     "uri": "https://boxd.it/2b34",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
     "genres": [
-      "Horror",
-      "Fantasy",
-      "Romance"
+      "Horror"
     ],
     "approx": false
   },
   {
     "username": "memoriesomovies",
     "name": "Freaks",
-    "year": 2019,
+    "year": 1932,
     "date": "2023-08-11",
     "rating": 3.5,
     "uri": "https://boxd.it/2b3o",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Drama",
+      "Horror"
     ],
     "approx": false
   },
@@ -82096,16 +82096,16 @@
   {
     "username": "memoriesomovies",
     "name": "Pinocchio",
-    "year": 2022,
+    "year": 1940,
     "date": "2023-08-11",
     "rating": 4.0,
     "uri": "https://boxd.it/1V8C",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
     "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -83890,17 +83890,18 @@
   {
     "username": "memoriesomovies",
     "name": "Teenage Mutant Ninja Turtles",
-    "year": 2014,
+    "year": 1990,
     "date": "2023-08-03",
     "rating": 3.0,
     "uri": "https://boxd.it/28FY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
     "genres": [
       "Science Fiction",
       "Action",
       "Adventure",
-      "Comedy"
+      "Comedy",
+      "Family"
     ],
     "approx": false
   },
@@ -88317,16 +88318,14 @@
   {
     "username": "memoriesomovies",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2023-06-11",
     "rating": 4.0,
     "uri": "https://boxd.it/cioI",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -91571,16 +91570,16 @@
   {
     "username": "memoriesomovies",
     "name": "RoboCop",
-    "year": 2014,
+    "year": 1987,
     "date": "2023-06-11",
     "rating": 3.5,
     "uri": "https://boxd.it/22Wu",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
     "genres": [
       "Action",
-      "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -91760,16 +91759,14 @@
   {
     "username": "memoriesomovies",
     "name": "A Nightmare on Elm Street",
-    "year": 2010,
+    "year": 1984,
     "date": "2023-06-11",
     "rating": 4.0,
     "uri": "https://boxd.it/2aw0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -92023,16 +92020,14 @@
   {
     "username": "memoriesomovies",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2023-06-11",
     "rating": 3.5,
     "uri": "https://boxd.it/1SNW",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -92355,13 +92350,14 @@
   {
     "username": "memoriesomovies",
     "name": "Shame",
-    "year": 2011,
+    "year": 1968,
     "date": "2023-06-11",
     "rating": 4.0,
     "uri": "https://boxd.it/1tZo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
     "genres": [
+      "War",
       "Drama"
     ],
     "approx": false
@@ -93292,16 +93288,14 @@
   {
     "username": "memoriesomovies",
     "name": "The Hunt",
-    "year": 2020,
+    "year": 2012,
     "date": "2023-06-01",
     "rating": 4.0,
     "uri": "https://boxd.it/3wEC",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
     "genres": [
-      "Action",
-      "Thriller",
-      "Horror"
+      "Drama"
     ],
     "approx": false
   },
@@ -95278,12 +95272,12 @@
   {
     "username": "movieboireviews",
     "name": "My Bloody Valentine",
-    "year": 2009,
+    "year": 1981,
     "date": "2023-05-01",
     "rating": 1.0,
     "uri": "https://boxd.it/131M",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/kl3mewFceFtYIavvGts2atzB0e0.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -95901,16 +95895,17 @@
   {
     "username": "skylerinthecine",
     "name": "Peter Pan",
-    "year": 2003,
+    "year": 1953,
     "date": "2023-04-26",
     "rating": 3.0,
     "uri": "https://boxd.it/1VQY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
     "genres": [
+      "Animation",
+      "Family",
       "Adventure",
-      "Fantasy",
-      "Family"
+      "Fantasy"
     ],
     "approx": false
   },
@@ -96186,16 +96181,16 @@
   {
     "username": "skylerinthecine",
     "name": "Pinocchio",
-    "year": 2022,
+    "year": 1940,
     "date": "2023-04-24",
     "rating": 4.0,
     "uri": "https://boxd.it/1V8C",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
     "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -96542,16 +96537,16 @@
   {
     "username": "skylerinthecine",
     "name": "King Kong",
-    "year": 2005,
+    "year": 1933,
     "date": "2023-04-21",
     "rating": 3.0,
     "uri": "https://boxd.it/2aLa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
     "genres": [
       "Adventure",
-      "Drama",
-      "Action"
+      "Fantasy",
+      "Horror"
     ],
     "approx": false
   },
@@ -97230,13 +97225,14 @@
   {
     "username": "skylerinthecine",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2023-04-12",
     "rating": 4.5,
     "uri": "https://boxd.it/1VNg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -97694,14 +97690,13 @@
   {
     "username": "skylerinthecine",
     "name": "Diary of a Wimpy Kid",
-    "year": 2021,
+    "year": 2010,
     "date": "2023-04-10",
     "rating": 2.5,
     "uri": "https://boxd.it/1fUa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/iLAGiPnSuODt9cn332bkFElrRig.jpg",
     "genres": [
-      "Animation",
       "Comedy",
       "Family"
     ],
@@ -100017,16 +100012,16 @@
   {
     "username": "memoriesomovies",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2023-02-22",
     "rating": 4.5,
     "uri": "https://boxd.it/294O",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -100079,15 +100074,15 @@
   {
     "username": "movieboireviews",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2023-02-19",
     "rating": 4.0,
     "uri": "https://boxd.it/28kc",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -100853,17 +100848,17 @@
   {
     "username": "movieboireviews",
     "name": "Moana",
-    "year": 2026,
+    "year": 2016,
     "date": "2023-02-06",
     "rating": 2.5,
     "uri": "https://boxd.it/8tfY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
     "genres": [
-      "Family",
-      "Fantasy",
+      "Adventure",
       "Comedy",
-      "Adventure"
+      "Family",
+      "Animation"
     ],
     "approx": false
   },
@@ -101961,12 +101956,12 @@
   {
     "username": "movieboireviews",
     "name": "The Stepfather",
-    "year": 2009,
+    "year": 1987,
     "date": "2023-01-17",
     "rating": 0.5,
     "uri": "https://boxd.it/1Enq",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bTolBUgHeU4Tcq8HjBxL92f9wLm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -102606,16 +102601,14 @@
   {
     "username": "lukecharlier",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2022-12-30",
     "rating": 3.5,
     "uri": "https://boxd.it/1SNW",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -103725,13 +103718,14 @@
   {
     "username": "paityne",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2022-12-24",
     "rating": 4.5,
     "uri": "https://boxd.it/1VNg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -104038,16 +104032,16 @@
   {
     "username": "movieboireviews",
     "name": "Pinocchio",
-    "year": 2022,
+    "year": 1940,
     "date": "2022-12-20",
     "rating": 4.0,
     "uri": "https://boxd.it/1V8C",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
     "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -105015,16 +105009,16 @@
   {
     "username": "big_brant",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2022-12-06",
     "rating": 5.0,
     "uri": "https://boxd.it/294O",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -105375,17 +105369,17 @@
   {
     "username": "lukecharlier",
     "name": "Moana",
-    "year": 2026,
+    "year": 2016,
     "date": "2022-12-06",
     "rating": 4.0,
     "uri": "https://boxd.it/8tfY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
     "genres": [
-      "Family",
-      "Fantasy",
+      "Adventure",
       "Comedy",
-      "Adventure"
+      "Family",
+      "Animation"
     ],
     "approx": false
   },
@@ -105729,12 +105723,12 @@
   {
     "username": "lukecharlier",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2022-12-06",
     "rating": 3.0,
     "uri": "https://boxd.it/jpX0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -107118,15 +107112,15 @@
   {
     "username": "lukecharlier",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2022-11-24",
     "rating": 3.5,
     "uri": "https://boxd.it/47OE",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -107168,15 +107162,15 @@
   {
     "username": "lukecharlier",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2022-11-24",
     "rating": 1.0,
     "uri": "https://boxd.it/29fW",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -107320,32 +107314,28 @@
   {
     "username": "movieboireviews",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2022-11-21",
     "rating": 3.0,
     "uri": "https://boxd.it/cioI",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
   {
     "username": "movieboireviews",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2022-11-21",
     "rating": 3.5,
     "uri": "https://boxd.it/1SNW",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -108348,16 +108338,14 @@
   {
     "username": "lukecharlier",
     "name": "A Nightmare on Elm Street",
-    "year": 2010,
+    "year": 1984,
     "date": "2022-11-01",
     "rating": 4.0,
     "uri": "https://boxd.it/2aw0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -108378,12 +108366,12 @@
   {
     "username": "lukecharlier",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2022-11-01",
     "rating": 4.0,
     "uri": "https://boxd.it/1VTo",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -108786,16 +108774,16 @@
   {
     "username": "moviebuff501",
     "name": "King Kong",
-    "year": 2005,
+    "year": 1933,
     "date": "2022-10-27",
     "rating": 4.0,
     "uri": "https://boxd.it/2aMM",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
     "genres": [
       "Adventure",
-      "Drama",
-      "Action"
+      "Fantasy",
+      "Horror"
     ],
     "approx": false
   },
@@ -109313,16 +109301,15 @@
   {
     "username": "movieboireviews",
     "name": "Ghostbusters",
-    "year": 2016,
+    "year": 1984,
     "date": "2022-10-15",
     "rating": 3.5,
     "uri": "https://boxd.it/g2w",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Comedy"
+      "Comedy",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -109566,13 +109553,14 @@
   {
     "username": "memoriesomovies",
     "name": "Mean Girls",
-    "year": 2024,
+    "year": 2004,
     "date": "2022-10-07",
     "rating": 4.0,
     "uri": "https://boxd.it/1VNg",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
     "genres": [
+      "Drama",
       "Comedy"
     ],
     "approx": false
@@ -110384,16 +110372,16 @@
   {
     "username": "moviebuff501",
     "name": "Pinocchio",
-    "year": 2022,
+    "year": 1940,
     "date": "2022-09-11",
     "rating": 1.5,
     "uri": "https://boxd.it/jnWY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
     "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -110493,16 +110481,16 @@
   {
     "username": "lukecharlier",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2022-09-05",
     "rating": 5.0,
     "uri": "https://boxd.it/294O",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -112195,15 +112183,15 @@
   {
     "username": "movieboireviews",
     "name": "The Invitation",
-    "year": 2022,
+    "year": 2016,
     "date": "2022-08-10",
     "rating": 2.0,
     "uri": "https://boxd.it/9OUU",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/esubm23z8N5JUA1wQ5yLSjLicDx.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Thriller",
+      "Horror"
     ],
     "approx": false
   },
@@ -112372,16 +112360,16 @@
   {
     "username": "movieboireviews",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2022-08-04",
     "rating": 4.0,
     "uri": "https://boxd.it/294O",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -112927,15 +112915,16 @@
   {
     "username": "movieboireviews",
     "name": "Invasion of the Body Snatchers",
-    "year": 1978,
+    "year": 1956,
     "date": "2022-07-06",
     "rating": 3.0,
     "uri": "https://boxd.it/1TAa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
     "genres": [
       "Science Fiction",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -113789,16 +113778,14 @@
   {
     "username": "skylerinthecine",
     "name": "Chocolat",
-    "year": 2000,
+    "year": 1988,
     "date": "2022-06-07",
     "rating": 4.0,
     "uri": "https://boxd.it/Y7g",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/lnwPvyj8UR7MetG2pQ92453IIoR.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/opJnIodpg8HPu9UiNXkKX8UXFsw.jpg",
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Drama"
     ],
     "approx": false
   },
@@ -116086,16 +116073,17 @@
   {
     "username": "skylerinthecine",
     "name": "Cinderella",
-    "year": 2021,
+    "year": 2015,
     "date": "2022-03-26",
     "rating": 3.5,
     "uri": "https://boxd.it/1Uki",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "genres": [
-      "Fantasy",
       "Romance",
-      "Comedy"
+      "Fantasy",
+      "Family",
+      "Drama"
     ],
     "approx": false
   },
@@ -116444,15 +116432,16 @@
   {
     "username": "skylerinthecine",
     "name": "Funny Games",
-    "year": 2008,
+    "year": 1997,
     "date": "2022-03-16",
     "rating": 4.5,
     "uri": "https://boxd.it/1WKM",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
     "genres": [
-      "Thriller",
-      "Horror"
+      "Drama",
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -116605,17 +116594,17 @@
   {
     "username": "skylerinthecine",
     "name": "Moana",
-    "year": 2026,
+    "year": 2016,
     "date": "2022-03-13",
     "rating": 4.0,
     "uri": "https://boxd.it/8tfY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
     "genres": [
-      "Family",
-      "Fantasy",
+      "Adventure",
       "Comedy",
-      "Adventure"
+      "Family",
+      "Animation"
     ],
     "approx": false
   },
@@ -116912,15 +116901,15 @@
   {
     "username": "lukecharlier",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2022-03-07",
     "rating": 5.0,
     "uri": "https://boxd.it/28kc",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -117548,16 +117537,16 @@
   {
     "username": "movieboireviews",
     "name": "RoboCop",
-    "year": 2014,
+    "year": 1987,
     "date": "2022-02-23",
     "rating": 3.0,
     "uri": "https://boxd.it/22Wu",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
     "genres": [
       "Action",
-      "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -117641,12 +117630,12 @@
   {
     "username": "movieboireviews",
     "name": "The Stepfather",
-    "year": 2009,
+    "year": 1987,
     "date": "2022-02-20",
     "rating": 2.5,
     "uri": "https://boxd.it/1wii",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bTolBUgHeU4Tcq8HjBxL92f9wLm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -118068,12 +118057,12 @@
   {
     "username": "movieboireviews",
     "name": "Hellraiser",
-    "year": 2022,
+    "year": 1987,
     "date": "2022-02-07",
     "rating": 2.0,
     "uri": "https://boxd.it/1Zpi",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
     "genres": [
       "Horror",
       "Thriller"
@@ -120175,15 +120164,16 @@
   {
     "username": "moviebuff501",
     "name": "Funny Games",
-    "year": 2008,
+    "year": 1997,
     "date": "2022-01-08",
     "rating": 4.5,
     "uri": "https://boxd.it/1WKM",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
     "genres": [
-      "Thriller",
-      "Horror"
+      "Drama",
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -120885,15 +120875,14 @@
   {
     "username": "movieboireviews",
     "name": "Friday the 13th",
-    "year": 2009,
+    "year": 1980,
     "date": "2021-12-24",
     "rating": 1.5,
     "uri": "https://boxd.it/24fs",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -121882,14 +121871,13 @@
   {
     "username": "moviebuff501",
     "name": "Diary of a Wimpy Kid",
-    "year": 2021,
+    "year": 2010,
     "date": "2021-12-04",
     "rating": 2.0,
     "uri": "https://boxd.it/t7dy",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/iLAGiPnSuODt9cn332bkFElrRig.jpg",
     "genres": [
-      "Animation",
       "Comedy",
       "Family"
     ],
@@ -123128,16 +123116,15 @@
   {
     "username": "skylerinthecine",
     "name": "Ghostbusters",
-    "year": 2016,
+    "year": 1984,
     "date": "2021-11-14",
     "rating": 3.5,
     "uri": "https://boxd.it/g2w",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Comedy"
+      "Comedy",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -125522,13 +125509,14 @@
   {
     "username": "skylerinthecine",
     "name": "Shame",
-    "year": 2011,
+    "year": 1968,
     "date": "2021-10-17",
     "rating": 4.5,
     "uri": "https://boxd.it/2CxU",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
     "genres": [
+      "War",
       "Drama"
     ],
     "approx": false
@@ -125809,16 +125797,14 @@
   {
     "username": "skylerinthecine",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2021-10-10",
     "rating": 5.0,
     "uri": "https://boxd.it/1SNW",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -125854,16 +125840,16 @@
   {
     "username": "skylerinthecine",
     "name": "The Thing",
-    "year": 2011,
+    "year": 1982,
     "date": "2021-10-10",
     "rating": 4.5,
     "uri": "https://boxd.it/294O",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
     "genres": [
       "Horror",
-      "Science Fiction",
-      "Mystery"
+      "Mystery",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -127550,16 +127536,17 @@
   {
     "username": "skylerinthecine",
     "name": "Cinderella",
-    "year": 2021,
+    "year": 2015,
     "date": "2021-09-06",
     "rating": 1.0,
     "uri": "https://boxd.it/lSCY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "genres": [
-      "Fantasy",
       "Romance",
-      "Comedy"
+      "Fantasy",
+      "Family",
+      "Drama"
     ],
     "approx": false
   },
@@ -128068,16 +128055,17 @@
   {
     "username": "moviebuff501",
     "name": "Cinderella",
-    "year": 2021,
+    "year": 2015,
     "date": "2021-09-05",
     "rating": 1.0,
     "uri": "https://boxd.it/lSCY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/j91LJmcWo16CArFOoapsz84bwxb.jpg",
     "genres": [
-      "Fantasy",
       "Romance",
-      "Comedy"
+      "Fantasy",
+      "Family",
+      "Drama"
     ],
     "approx": false
   },
@@ -128173,15 +128161,15 @@
   {
     "username": "skylerinthecine",
     "name": "Godzilla",
-    "year": 2014,
+    "year": 1954,
     "date": "2021-08-30",
     "rating": 4.0,
     "uri": "https://boxd.it/28kc",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
     "genres": [
-      "Action",
-      "Drama",
+      "Thriller",
+      "Horror",
       "Science Fiction"
     ],
     "approx": false
@@ -129035,16 +129023,14 @@
   {
     "username": "movieboireviews",
     "name": "A Nightmare on Elm Street",
-    "year": 2010,
+    "year": 1984,
     "date": "2021-08-05",
     "rating": 3.5,
     "uri": "https://boxd.it/2aw0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -129306,18 +129292,15 @@
   {
     "username": "skylerinthecine",
     "name": "The Pink Panther",
-    "year": 2006,
+    "year": 1963,
     "date": "2021-07-31",
     "rating": 2.5,
     "uri": "https://boxd.it/1Sys",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg",
     "genres": [
       "Comedy",
-      "Mystery",
-      "Crime",
-      "Adventure",
-      "Family"
+      "Crime"
     ],
     "approx": false
   },
@@ -129806,16 +129789,16 @@
   {
     "username": "moviebuff501",
     "name": "The Day the Earth Stood Still",
-    "year": 2008,
+    "year": 1951,
     "date": "2021-07-19",
     "rating": 3.5,
     "uri": "https://boxd.it/29w4",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/vBgFSYmG5tb7GsZ3tHR0WNaWaxA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/x2DquTpLTq54aPFDnqlwY7apCC3.jpg",
     "genres": [
-      "Drama",
       "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Drama"
     ],
     "approx": false
   },
@@ -130271,15 +130254,14 @@
   {
     "username": "skylerinthecine",
     "name": "Friday the 13th",
-    "year": 2009,
+    "year": 1980,
     "date": "2021-07-10",
     "rating": 2.5,
     "uri": "https://boxd.it/24fs",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -131020,16 +131002,17 @@
   {
     "username": "skylerinthecine",
     "name": "Peter Pan",
-    "year": 2003,
+    "year": 1953,
     "date": "2021-06-15",
     "rating": 3.0,
     "uri": "https://boxd.it/1VCC",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
     "genres": [
+      "Animation",
+      "Family",
       "Adventure",
-      "Fantasy",
-      "Family"
+      "Fantasy"
     ],
     "approx": false
   },
@@ -131144,12 +131127,12 @@
   {
     "username": "skylerinthecine",
     "name": "The Fall of the House of Usher",
-    "year": 1950,
+    "year": 1928,
     "date": "2021-06-15",
     "rating": 3.5,
     "uri": "https://boxd.it/1q2o",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gMCsfgQU37XbPiC14OoLvFigcp4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/gWpTehQgkkpMfxdCkr5CwU8vONR.jpg",
     "genres": [
       "Horror"
     ],
@@ -131824,15 +131807,15 @@
   {
     "username": "moviebuff501",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2021-05-24",
     "rating": 4.0,
     "uri": "https://boxd.it/20ZQ",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -134298,12 +134281,12 @@
   {
     "username": "moviebuff501",
     "name": "Child's Play",
-    "year": 2019,
+    "year": 1988,
     "date": "2021-05-15",
     "rating": 2.5,
     "uri": "https://boxd.it/jpX0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "genres": [
       "Horror"
     ],
@@ -135821,17 +135804,17 @@
   {
     "username": "moviebuff501",
     "name": "Moana",
-    "year": 2026,
+    "year": 2016,
     "date": "2021-04-19",
     "rating": 1.5,
     "uri": "https://boxd.it/8tfY",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
     "genres": [
-      "Family",
-      "Fantasy",
+      "Adventure",
       "Comedy",
-      "Adventure"
+      "Family",
+      "Animation"
     ],
     "approx": false
   },
@@ -138928,16 +138911,14 @@
   {
     "username": "skylerinthecine",
     "name": "The Hunt",
-    "year": 2020,
+    "year": 2012,
     "date": "2021-01-13",
     "rating": 2.5,
     "uri": "https://boxd.it/iE9i",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
     "genres": [
-      "Action",
-      "Thriller",
-      "Horror"
+      "Drama"
     ],
     "approx": false
   },
@@ -141277,15 +141258,16 @@
   {
     "username": "skylerinthecine",
     "name": "War of the Worlds",
-    "year": 2025,
+    "year": 2005,
     "date": "2020-07-31",
     "rating": 3.5,
     "uri": "https://boxd.it/2bde",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
     ],
     "approx": false
   },
@@ -141420,16 +141402,16 @@
   {
     "username": "moviebuff501",
     "name": "King Kong",
-    "year": 2005,
+    "year": 1933,
     "date": "2020-07-26",
     "rating": 3.0,
     "uri": "https://boxd.it/2aLa",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
     "genres": [
       "Adventure",
-      "Drama",
-      "Action"
+      "Fantasy",
+      "Horror"
     ],
     "approx": false
   },
@@ -142060,16 +142042,16 @@
   {
     "username": "moviebuff501",
     "name": "Pinocchio",
-    "year": 2022,
+    "year": 1940,
     "date": "2020-07-05",
     "rating": 4.5,
     "uri": "https://boxd.it/1V8C",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
     "genres": [
-      "Fantasy",
-      "Adventure",
-      "Family"
+      "Animation",
+      "Family",
+      "Fantasy"
     ],
     "approx": false
   },
@@ -142681,16 +142663,14 @@
   {
     "username": "moviebuff501",
     "name": "The Hunt",
-    "year": 2020,
+    "year": 2012,
     "date": "2020-03-29",
     "rating": 2.5,
     "uri": "https://boxd.it/iE9i",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
     "genres": [
-      "Action",
-      "Thriller",
-      "Horror"
+      "Drama"
     ],
     "approx": false
   },
@@ -144802,16 +144782,14 @@
   {
     "username": "skylerinthecine",
     "name": "Suspiria",
-    "year": 2018,
+    "year": 1977,
     "date": "2019-09-02",
     "rating": 3.0,
     "uri": "https://boxd.it/cioI",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Drama"
+      "Horror"
     ],
     "approx": false
   },
@@ -146093,32 +146071,32 @@
   {
     "username": "skylerinthecine",
     "name": "Annie",
-    "year": 1999,
+    "year": 1982,
     "date": "2019-08-31",
     "rating": 3.0,
     "uri": "https://boxd.it/1LCi",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
     "genres": [
-      "Music",
-      "Family",
-      "Comedy"
+      "Comedy",
+      "Drama",
+      "Family"
     ],
     "approx": false
   },
   {
     "username": "skylerinthecine",
     "name": "Annie",
-    "year": 1999,
+    "year": 1982,
     "date": "2019-08-31",
     "rating": 2.5,
     "uri": "https://boxd.it/1upm",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
     "genres": [
-      "Music",
-      "Family",
-      "Comedy"
+      "Comedy",
+      "Drama",
+      "Family"
     ],
     "approx": false
   },
@@ -146511,16 +146489,16 @@
   {
     "username": "skylerinthecine",
     "name": "The Day the Earth Stood Still",
-    "year": 2008,
+    "year": 1951,
     "date": "2019-08-31",
     "rating": 1.0,
     "uri": "https://boxd.it/1WQ6",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/vBgFSYmG5tb7GsZ3tHR0WNaWaxA.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/x2DquTpLTq54aPFDnqlwY7apCC3.jpg",
     "genres": [
-      "Drama",
       "Science Fiction",
-      "Thriller"
+      "Thriller",
+      "Drama"
     ],
     "approx": false
   },
@@ -146801,18 +146779,15 @@
   {
     "username": "skylerinthecine",
     "name": "The Pink Panther",
-    "year": 2006,
+    "year": 1963,
     "date": "2019-08-31",
     "rating": 3.0,
     "uri": "https://boxd.it/29eO",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg",
     "genres": [
       "Comedy",
-      "Mystery",
-      "Crime",
-      "Adventure",
-      "Family"
+      "Crime"
     ],
     "approx": false
   },
@@ -148117,16 +148092,14 @@
   {
     "username": "skylerinthecine",
     "name": "A Nightmare on Elm Street",
-    "year": 2010,
+    "year": 1984,
     "date": "2019-08-30",
     "rating": 4.0,
     "uri": "https://boxd.it/2aw0",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
     "approx": false
   },
@@ -148796,16 +148769,16 @@
   {
     "username": "skylerinthecine",
     "name": "The Jungle Book",
-    "year": 2016,
+    "year": 1967,
     "date": "2019-08-30",
     "rating": 4.0,
     "uri": "https://boxd.it/1YY2",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
     "genres": [
-      "Adventure",
       "Family",
-      "Fantasy"
+      "Animation",
+      "Adventure"
     ],
     "approx": false
   },
@@ -149110,12 +149083,12 @@
   {
     "username": "skylerinthecine",
     "name": "Scary Movie",
-    "year": 2026,
+    "year": 2000,
     "date": "2019-08-30",
     "rating": 1.0,
     "uri": "https://boxd.it/24CG",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "genres": [
       "Comedy"
     ],
@@ -149328,15 +149301,14 @@
   {
     "username": "skylerinthecine",
     "name": "The Karate Kid",
-    "year": 2010,
+    "year": 1984,
     "date": "2019-08-30",
     "rating": 3.5,
     "uri": "https://boxd.it/27Wk",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
     "genres": [
       "Action",
-      "Adventure",
       "Drama",
       "Family"
     ],
@@ -149547,15 +149519,15 @@
   {
     "username": "skylerinthecine",
     "name": "Carrie",
-    "year": 2013,
+    "year": 1976,
     "date": "2019-08-30",
     "rating": 2.5,
     "uri": "https://boxd.it/4kC2",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/bJJ3xK4pMnfao0wfzySfC47dp8G.jpg",
     "genres": [
-      "Drama",
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "approx": false
   },
@@ -149729,15 +149701,14 @@
   {
     "username": "skylerinthecine",
     "name": "The Karate Kid",
-    "year": 2010,
+    "year": 1984,
     "date": "2019-08-30",
     "rating": 2.5,
     "uri": "https://boxd.it/15HA",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
     "genres": [
       "Action",
-      "Adventure",
       "Drama",
       "Family"
     ],
@@ -150248,15 +150219,14 @@
   {
     "username": "skylerinthecine",
     "name": "Footloose",
-    "year": 2011,
+    "year": 1984,
     "date": "2019-08-30",
     "rating": 3.0,
     "uri": "https://boxd.it/288A",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/cDUW5RWmyHcTxu7eg9eMqhBQy2J.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
     "genres": [
       "Drama",
-      "Music",
       "Romance"
     ],
     "approx": false
@@ -152135,15 +152105,14 @@
   {
     "username": "skylerinthecine",
     "name": "Footloose",
-    "year": 2011,
+    "year": 1984,
     "date": "2019-08-30",
     "rating": 2.5,
     "uri": "https://boxd.it/2cnk",
     "reviewed": false,
-    "poster": "https://image.tmdb.org/t/p/w92/cDUW5RWmyHcTxu7eg9eMqhBQy2J.jpg",
+    "poster": "https://image.tmdb.org/t/p/w92/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
     "genres": [
       "Drama",
-      "Music",
       "Romance"
     ],
     "approx": false
