@@ -44,62 +44,77 @@
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1538,
+    "rating_count": 1540,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
-      "name": "The Man I Love",
+      "name": "Escape from New York",
       "rating": 3.5,
-      "uri": "https://letterboxd.com/memoriesomovies/film/the-man-i-love-2026/",
+      "uri": "https://letterboxd.com/memoriesomovies/film/escape-from-new-york/",
       "source": "rss"
     },
     "rss_coverage": {
       "from": "2026-08-09",
-      "to": "2026-09-22"
+      "to": "2026-09-25"
+    }
+  },
+  {
+    "username": "movieboireviews",
+    "rating_count": 1597,
+    "profile_url": "https://letterboxd.com/movieboireviews/",
+    "latest": {
+      "name": "Captain Marvel",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/captain-marvel/2/",
+      "source": "rss"
+    },
+    "rss_coverage": {
+      "from": "2026-08-15",
+      "to": "2026-09-20"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1680,
+    "rating_count": 1681,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "The Incredibles",
-      "rating": 5.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/the-incredibles/",
+      "name": "Primetime",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/primetime-2026/",
       "source": "rss"
     },
     "rss_coverage": {
-      "from": "2026-07-18",
-      "to": "2026-09-23"
+      "from": "2026-07-19",
+      "to": "2026-09-25"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 380,
+    "rating_count": 390,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
-      "name": "The Invite",
-      "rating": 4.5,
-      "uri": "https://letterboxd.com/paityne/film/the-invite-2026/",
+      "name": "Once Upon a Time... in Hollywood",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/once-upon-a-time-in-hollywood/",
       "source": "rss"
     },
     "rss_coverage": {
-      "from": "2025-11-25",
-      "to": "2026-07-13"
+      "from": "2026-01-05",
+      "to": "2026-09-25"
     }
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3264,
+    "rating_count": 3265,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "The Addiction",
+      "name": "My Cousin Vinny",
       "rating": 4.0,
-      "uri": "https://letterboxd.com/skylerinthecine/film/the-addiction/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/my-cousin-vinny/",
       "source": "rss"
     },
     "rss_coverage": {
-      "from": "2026-07-12",
-      "to": "2026-09-20"
+      "from": "2026-07-14",
+      "to": "2026-09-25"
     }
   }
 ]

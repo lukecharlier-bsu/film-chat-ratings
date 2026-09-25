@@ -1432,6 +1432,24 @@
       "rating": 4.5,
       "uri": "https://letterboxd.com/memoriesomovies/film/mad-max-fury-road/3/",
       "reviewed": false
+    },
+    {
+      "name": "La Bola Negra",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/la-bola-negra/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Escape from New York",
+      "year": 1981,
+      "date": "2026-09-25",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/memoriesomovies/film/escape-from-new-york/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "moviebuff501": [
@@ -2968,6 +2986,15 @@
       "rating": 3.0,
       "uri": "https://letterboxd.com/moviebuff501/film/the-beast-in-me/",
       "reviewed": false
+    },
+    {
+      "name": "Primetime",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/primetime-2026/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "lukecharlier": [
@@ -6518,6 +6545,15 @@
       "rating": 4.0,
       "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
       "reviewed": false
+    },
+    {
+      "name": "My Cousin Vinny",
+      "year": 1992,
+      "date": "2026-09-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/my-cousin-vinny/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "paityne": [
@@ -7130,6 +7166,105 @@
       "rating": 4.0,
       "uri": "https://letterboxd.com/paityne/film/sentimental-value-2025/",
       "reviewed": false
+    },
+    {
+      "name": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "date": "2026-09-25",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/once-upon-a-time-in-hollywood/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/resident-evil-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "On the Count of Three",
+      "year": 2021,
+      "date": "2026-09-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/on-the-count-of-three/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Mean Creek",
+      "year": 2004,
+      "date": "2026-09-25",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/paityne/film/mean-creek/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Rear Window",
+      "year": 1954,
+      "date": "2026-09-25",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/paityne/film/rear-window/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/tony-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/the-end-of-oak-street/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/spider-man-brand-new-day/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "BlackBerry",
+      "year": 2023,
+      "date": "2026-09-25",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/blackberry-2023/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Seven Psychopaths",
+      "year": 2012,
+      "date": "2026-09-25",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/paityne/film/seven-psychopaths/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/paityne/film/the-odyssey-2026/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "batmatt208": [
@@ -7925,6 +8060,458 @@
       "uri": "https://boxd.it/CyUM",
       "reviewed": false,
       "source": "backfill"
+    }
+  ],
+  "movieboireviews": [
+    {
+      "name": "Captain Marvel",
+      "year": 2019,
+      "date": "2026-09-20",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/captain-marvel/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Ant-Man and the Wasp",
+      "year": 2018,
+      "date": "2026-09-19",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/ant-man-and-the-wasp/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Deadpool 2",
+      "year": 2018,
+      "date": "2026-09-18",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/deadpool-2/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Swallow",
+      "year": 2019,
+      "date": "2026-09-18",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/swallow-2019/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "High Life",
+      "year": 2018,
+      "date": "2026-09-18",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/high-life-2018/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-17",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/resident-evil-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Winnie-the-Pooh: Blood and Honey 2",
+      "year": 2024,
+      "date": "2026-09-17",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/winnie-the-pooh-blood-and-honey-2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Others",
+      "year": 2001,
+      "date": "2026-09-17",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-others/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Avengers: Infinity War",
+      "year": 2018,
+      "date": "2026-09-13",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/avengers-infinity-war/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Black Panther",
+      "year": 2018,
+      "date": "2026-09-12",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/black-panther/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Thor: Ragnarok",
+      "year": 2017,
+      "date": "2026-09-12",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/thor-ragnarok/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "From Dusk Till Dawn",
+      "year": 1996,
+      "date": "2026-09-11",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/from-dusk-till-dawn/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Gothika",
+      "year": 2003,
+      "date": "2026-09-11",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/gothika/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Total Recall",
+      "year": 1990,
+      "date": "2026-09-09",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/total-recall/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Monster Squad",
+      "year": 1987,
+      "date": "2026-09-08",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-monster-squad/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Thank You for Smoking",
+      "year": 2005,
+      "date": "2026-09-08",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/thank-you-for-smoking/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Spider-Man: Homecoming",
+      "year": 2017,
+      "date": "2026-09-07",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/spider-man-homecoming/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "date": "2026-09-07",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/guardians-of-the-galaxy-vol-2/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Shrek the Third",
+      "year": 2007,
+      "date": "2026-09-06",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/shrek-the-third/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Logan",
+      "year": 2017,
+      "date": "2026-09-06",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/logan-2017/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Dog Stars",
+      "year": 2026,
+      "date": "2026-09-05",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-dog-stars/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Doctor Strange",
+      "year": 2016,
+      "date": "2026-09-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/doctor-strange-2016/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "X-Men: Apocalypse",
+      "year": 2016,
+      "date": "2026-09-04",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/x-men-apocalypse/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Captain America: Civil War",
+      "year": 2016,
+      "date": "2026-09-04",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/captain-america-civil-war/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Disturbia",
+      "year": 2007,
+      "date": "2026-09-03",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/disturbia/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Pawn Sacrifice",
+      "year": 2014,
+      "date": "2026-09-03",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/pawn-sacrifice/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Lovely Bones",
+      "year": 2009,
+      "date": "2026-09-01",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-lovely-bones/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Buddy",
+      "year": 2026,
+      "date": "2026-08-31",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/buddy-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "date": "2026-08-31",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/teenage-sex-and-death-at-camp-miasma/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Whisper Man",
+      "year": 2026,
+      "date": "2026-08-31",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-whisper-man/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Coyote vs. Acme",
+      "year": 2026,
+      "date": "2026-08-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/coyote-vs-acme/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Deadpool",
+      "year": 2016,
+      "date": "2026-08-29",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/deadpool/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Ant-Man",
+      "year": 2015,
+      "date": "2026-08-26",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/ant-man/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Mandy",
+      "year": 2018,
+      "date": "2026-08-26",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/mandy-2018/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Skinamarink",
+      "year": 2022,
+      "date": "2026-08-25",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/skinamarink/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Whiplash",
+      "year": 2014,
+      "date": "2026-08-25",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/whiplash-2014/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Possession",
+      "year": 1981,
+      "date": "2026-08-24",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/possession/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "X-Men: Days of Future Past",
+      "year": 2014,
+      "date": "2026-08-23",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/x-men-days-of-future-past/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Wolverine",
+      "year": 2013,
+      "date": "2026-08-22",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-wolverine/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Mutiny",
+      "year": 2026,
+      "date": "2026-08-21",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/mutiny-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Plague",
+      "year": 2025,
+      "date": "2026-08-21",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-plague-2025/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "In a Violent Nature",
+      "year": 2024,
+      "date": "2026-08-21",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/in-a-violent-nature/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Insidious: Out of the Further",
+      "year": 2026,
+      "date": "2026-08-21",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/insidious-out-of-the-further/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Come Play",
+      "year": 2020,
+      "date": "2026-08-20",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/come-play/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Caveat",
+      "year": 2020,
+      "date": "2026-08-20",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/caveat-2020/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "X-Men: First Class",
+      "year": 2011,
+      "date": "2026-08-19",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/x-men-first-class/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Dolly",
+      "year": 2025,
+      "date": "2026-08-19",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/dolly-2025/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "X-Men Origins: Wolverine",
+      "year": 2009,
+      "date": "2026-08-17",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/x-men-origins-wolverine/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Avengers: Age of Ultron",
+      "year": 2015,
+      "date": "2026-08-15",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/avengers-age-of-ultron/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "X-Men: The Last Stand",
+      "year": 2006,
+      "date": "2026-08-15",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/x-men-the-last-stand/1/",
+      "reviewed": false,
+      "source": "rss"
     }
   ]
 }

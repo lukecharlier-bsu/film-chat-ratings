@@ -13,6 +13,8 @@ Run it manually:   python generate.py
 GitHub Actions runs it automatically every day at 8am UTC.
 """
 
+from __future__ import annotations  # allows X | Y type hints on Python 3.9
+
 # csv — Python's built-in library for reading .csv files.
 # Each row becomes a dictionary keyed by the header row.
 import csv
