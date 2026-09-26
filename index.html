@@ -173,6 +173,9 @@
     .dev-pos { font-size: 16px; font-weight: 700; color: #4ade80; }
     .dev-neg { font-size: 16px; font-weight: 700; color: var(--accent2); }
     .lb-avg  { color: var(--muted); font-size: 13px; }
+    .sort-btn { padding: 4px 12px; border-radius: 6px; border: 1px solid var(--border); background: transparent; color: var(--text); cursor: pointer; font-size: 13px; }
+    .sort-btn:hover { background: var(--border); }
+    .sort-btn-active { background: var(--accent); color: #fff; border-color: var(--accent); }
   </style>
 </head>
 <body>
@@ -247,6 +250,11 @@
           <option value="">All genres</option>
         </select>
       </label>
+      <span style="display:flex;gap:6px;align-items:center">
+        <button id="vs-sort-abs"    class="sort-btn sort-btn-active">All</button>
+        <button id="vs-sort-pos"    class="sort-btn">Positive ↑</button>
+        <button id="vs-sort-neg"    class="sort-btn">Negative ↓</button>
+      </span>
     </div>
     <div class="table-wrap">
       <table>
@@ -375,14 +383,21 @@
     });
   }
 
+  let vsSort = 'abs'; // 'abs' | 'pos' | 'neg'
+
   function renderVs() {
     const min = parseInt(document.getElementById('vs-min-raters').value) || 1;
     const genre = document.getElementById('vs-genre').value;
-    const filtered = allVs.filter(m => {
+    let filtered = allVs.filter(m => {
       if (m.rater_count < min) return false;
       if (genre && !(m.genres || []).includes(genre)) return false;
+      if (vsSort === 'pos' && m.deviation <= 0) return false;
+      if (vsSort === 'neg' && m.deviation >= 0) return false;
       return true;
-    }).slice(0, 50);
+    });
+    if (vsSort === 'pos') filtered = [...filtered].sort((a, b) => b.deviation - a.deviation);
+    if (vsSort === 'neg') filtered = [...filtered].sort((a, b) => a.deviation - b.deviation);
+    filtered = filtered.slice(0, 50);
     const body = document.getElementById('vs-body');
     const empty = document.getElementById('vs-empty');
     body.innerHTML = '';
@@ -535,6 +550,13 @@
     document.getElementById('con-genre').addEventListener('change', renderCon);
     document.getElementById('vs-min-raters').addEventListener('input', renderVs);
     document.getElementById('vs-genre').addEventListener('change', renderVs);
+    ['abs','pos','neg'].forEach(mode => {
+      document.getElementById(`vs-sort-${mode}`).addEventListener('click', () => {
+        vsSort = mode;
+        ['abs','pos','neg'].forEach(m => document.getElementById(`vs-sort-${m}`).classList.toggle('sort-btn-active', m === mode));
+        renderVs();
+      });
+    });
     document.getElementById('diary-member').addEventListener('change', renderDiary);
     document.getElementById('diary-year').addEventListener('input', renderDiary);
     document.getElementById('diary-genre').addEventListener('change', renderDiary);
