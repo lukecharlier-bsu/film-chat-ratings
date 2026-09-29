@@ -19682,5 +19682,17 @@
   "https://boxd.it/131M": {
     "avg": 3.21,
     "fetched": "2026-09-25"
+  },
+  "https://letterboxd.com/batmatt208/film/primetime-2026/": {
+    "avg": 3.73,
+    "fetched": "2026-09-29"
+  },
+  "https://letterboxd.com/lukecharlier/film/minions-monsters-2026/": {
+    "avg": 3.2,
+    "fetched": "2026-09-29"
+  },
+  "https://letterboxd.com/batmatt208/film/misophonia-2026/": {
+    "avg": null,
+    "fetched": "2026-09-29"
   }
 }

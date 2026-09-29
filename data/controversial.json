@@ -2189,22 +2189,6 @@
     "variance": 0.6211
   },
   {
-    "movie_name": "Deadpool & Wolverine",
-    "year": 2024,
-    "letterboxd_uri": "https://boxd.it/jq8s",
-    "avg_rating": 3.08,
-    "lb_avg": 3.46,
-    "rater_count": 6,
-    "breakdown": "batmatt208:3.5, big_brant:4.0, lukecharlier:3.5, movieboireviews:2.0, moviebuff501:3.5, skylerinthecine:2.0",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-    "variance": 0.6181
-  },
-  {
     "movie_name": "National Lampoon's Christmas Vacation",
     "year": 1989,
     "letterboxd_uri": "https://boxd.it/22wQ",
@@ -2247,6 +2231,22 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
     "variance": 0.6
+  },
+  {
+    "movie_name": "Deadpool & Wolverine",
+    "year": 2024,
+    "letterboxd_uri": "https://boxd.it/jq8s",
+    "avg_rating": 3.0,
+    "lb_avg": 3.46,
+    "rater_count": 6,
+    "breakdown": "batmatt208:3.5, big_brant:4.0, lukecharlier:3.5, movieboireviews:2.0, moviebuff501:3.0, skylerinthecine:2.0",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "variance": 0.5833
   },
   {
     "movie_name": "Yesterday",
@@ -5217,22 +5217,6 @@
     "variance": 0.4219
   },
   {
-    "movie_name": "Barbarian",
-    "year": 2022,
-    "letterboxd_uri": "https://boxd.it/yohi",
-    "avg_rating": 3.88,
-    "lb_avg": 3.43,
-    "rater_count": 8,
-    "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.5, memoriesomovies:3.5, movieboireviews:3.0, moviebuff501:3.0, paityne:5.0, skylerinthecine:4.0",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
-    "variance": 0.4219
-  },
-  {
     "movie_name": "Halloween Ends",
     "year": 2022,
     "letterboxd_uri": "https://boxd.it/mO8M",
@@ -7269,6 +7253,22 @@
     "variance": 0.34
   },
   {
+    "movie_name": "Barbarian",
+    "year": 2022,
+    "letterboxd_uri": "https://boxd.it/yohi",
+    "avg_rating": 3.94,
+    "lb_avg": 3.43,
+    "rater_count": 8,
+    "breakdown": "batmatt208:4.0, big_brant:4.0, lukecharlier:4.5, memoriesomovies:3.5, movieboireviews:3.5, moviebuff501:3.0, paityne:5.0, skylerinthecine:4.0",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+    "variance": 0.3398
+  },
+  {
     "movie_name": "Alien: Romulus",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/zGqO",
@@ -9187,22 +9187,6 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
-    "variance": 0.25
-  },
-  {
-    "movie_name": "The Craft",
-    "year": 1996,
-    "letterboxd_uri": "https://boxd.it/1Zai",
-    "avg_rating": 3.5,
-    "lb_avg": 3.59,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:3.0",
-    "genres": [
-      "Horror",
-      "Drama",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
     "variance": 0.25
   },
   {
@@ -12278,6 +12262,21 @@
     "variance": 0.2292
   },
   {
+    "movie_name": "Primetime",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/primetime-2026/",
+    "avg_rating": 3.25,
+    "lb_avg": 3.73,
+    "rater_count": 6,
+    "breakdown": "batmatt208:3.0, lukecharlier:3.5, memoriesomovies:3.0, movieboireviews:2.5, moviebuff501:4.0, skylerinthecine:3.5",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "variance": 0.2292
+  },
+  {
     "movie_name": "Avengers: Endgame",
     "year": 2019,
     "letterboxd_uri": "https://boxd.it/9vE4",
@@ -12795,6 +12794,22 @@
       "Romance"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+    "variance": 0.2222
+  },
+  {
+    "movie_name": "The Craft",
+    "year": 1996,
+    "letterboxd_uri": "https://boxd.it/1Zai",
+    "avg_rating": 3.33,
+    "lb_avg": 3.59,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.0, paityne:3.0, skylerinthecine:3.0",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
     "variance": 0.2222
   },
   {
@@ -16462,23 +16477,6 @@
     "variance": 0.16
   },
   {
-    "movie_name": "Incredibles 2",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/7IPg",
-    "avg_rating": 3.3,
-    "lb_avg": 3.43,
-    "rater_count": 5,
-    "breakdown": "big_brant:3.5, lukecharlier:3.5, memoriesomovies:3.5, movieboireviews:2.5, skylerinthecine:3.5",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-    "variance": 0.16
-  },
-  {
     "movie_name": "2001: A Space Odyssey",
     "year": 1968,
     "letterboxd_uri": "https://boxd.it/2bf0",
@@ -17218,6 +17216,21 @@
     "variance": 0.14
   },
   {
+    "movie_name": "Boogie Nights",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/23um",
+    "avg_rating": 4.1,
+    "lb_avg": 4.21,
+    "rater_count": 5,
+    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, paityne:3.5, skylerinthecine:4.5",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg",
+    "variance": 0.14
+  },
+  {
     "movie_name": "Before Sunrise",
     "year": 1995,
     "letterboxd_uri": "https://boxd.it/2bcU",
@@ -17277,23 +17290,6 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
-    "variance": 0.14
-  },
-  {
-    "movie_name": "Toy Story 5",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/F06E",
-    "avg_rating": 2.9,
-    "lb_avg": 3.64,
-    "rater_count": 5,
-    "breakdown": "batmatt208:2.5, memoriesomovies:3.5, movieboireviews:3.0, moviebuff501:3.0, skylerinthecine:2.5",
-    "genres": [
-      "Animation",
-      "Family",
-      "Comedy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "variance": 0.14
   },
   {
@@ -17450,6 +17446,23 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg",
+    "variance": 0.1389
+  },
+  {
+    "movie_name": "Incredibles 2",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/7IPg",
+    "avg_rating": 3.33,
+    "lb_avg": 3.43,
+    "rater_count": 6,
+    "breakdown": "big_brant:3.5, lukecharlier:3.5, memoriesomovies:3.5, movieboireviews:2.5, moviebuff501:3.5, skylerinthecine:3.5",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
     "variance": 0.1389
   },
   {
@@ -18253,6 +18266,23 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+    "variance": 0.1181
+  },
+  {
+    "movie_name": "Toy Story 5",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/F06E",
+    "avg_rating": 2.92,
+    "lb_avg": 3.64,
+    "rater_count": 6,
+    "breakdown": "batmatt208:2.5, lukecharlier:3.0, memoriesomovies:3.5, movieboireviews:3.0, moviebuff501:3.0, skylerinthecine:2.5",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
     "variance": 0.1181
   },
   {
@@ -19319,21 +19349,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
-    "variance": 0.0625
-  },
-  {
-    "movie_name": "Boogie Nights",
-    "year": 1997,
-    "letterboxd_uri": "https://boxd.it/23um",
-    "avg_rating": 4.25,
-    "lb_avg": 4.21,
-    "rater_count": 4,
-    "breakdown": "lukecharlier:4.0, memoriesomovies:4.0, moviebuff501:4.5, skylerinthecine:4.5",
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg",
     "variance": 0.0625
   },
   {
@@ -22685,6 +22700,22 @@
     "variance": 0.0625
   },
   {
+    "movie_name": "Resident Evil",
+    "year": 2026,
+    "letterboxd_uri": "https://boxd.it/SEXE",
+    "avg_rating": 3.75,
+    "lb_avg": 3.8,
+    "rater_count": 6,
+    "breakdown": "batmatt208:3.5, lukecharlier:4.0, movieboireviews:3.5, moviebuff501:4.0, paityne:4.0, skylerinthecine:3.5",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "variance": 0.0625
+  },
+  {
     "movie_name": "Vacation",
     "year": 2015,
     "letterboxd_uri": "https://boxd.it/9n9M",
@@ -24160,6 +24191,23 @@
     "variance": 0.0625
   },
   {
+    "movie_name": "Tomorrowland",
+    "year": 2015,
+    "letterboxd_uri": "https://boxd.it/4YaC",
+    "avg_rating": 2.75,
+    "lb_avg": 2.75,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:3.0, skylerinthecine:2.5",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+    "variance": 0.0625
+  },
+  {
     "movie_name": "The Wolf House",
     "year": 2018,
     "letterboxd_uri": "https://boxd.it/i1vE",
@@ -24957,22 +25005,6 @@
       "Science Fiction"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "variance": 0.06
-  },
-  {
-    "movie_name": "Resident Evil",
-    "year": 2026,
-    "letterboxd_uri": "https://boxd.it/SEXE",
-    "avg_rating": 3.8,
-    "lb_avg": 3.8,
-    "rater_count": 5,
-    "breakdown": "batmatt208:3.5, lukecharlier:4.0, movieboireviews:3.5, moviebuff501:4.0, paityne:4.0",
-    "genres": [
-      "Horror",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
     "variance": 0.06
   },
   {
@@ -27592,6 +27624,24 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg",
+    "variance": 0.0556
+  },
+  {
+    "movie_name": "Minions & Monsters",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/lukecharlier/film/minions-monsters-2026/",
+    "avg_rating": 2.83,
+    "lb_avg": 3.2,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:3.0, moviebuff501:3.0, paityne:2.5",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
     "variance": 0.0556
   },
   {

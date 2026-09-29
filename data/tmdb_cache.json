@@ -48548,5 +48548,23 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
     "fetched": "2026-09-25"
+  },
+  "misophonia|2026": {
+    "tmdb_year": 2026,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/b8wFEgVAnpbbK3Ziizp7iKggm5X.jpg",
+    "fetched": "2026-09-29"
+  },
+  "this is how the world ends|2000": {
+    "tmdb_year": 2026,
+    "genres": [
+      "Science Fiction",
+      "War"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/gny5VKDs3xnRtOgN7YVq5dStxAh.jpg",
+    "fetched": "2026-09-29"
   }
 }

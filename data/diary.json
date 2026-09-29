@@ -1,6 +1,215 @@
 [
   {
     "username": "memoriesomovies",
+    "name": "Primetime",
+    "year": 2026,
+    "date": "2026-09-29",
+    "rating": 3.0,
+    "uri": "https://letterboxd.com/memoriesomovies/film/primetime-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "approx": false
+  },
+  {
+    "username": "moviebuff501",
+    "name": "Incredibles 2",
+    "year": 2018,
+    "date": "2026-09-29",
+    "rating": 3.5,
+    "uri": "https://letterboxd.com/moviebuff501/film/incredibles-2/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "approx": false
+  },
+  {
+    "username": "paityne",
+    "name": "Minions & Monsters",
+    "year": 2026,
+    "date": "2026-09-29",
+    "rating": 2.5,
+    "uri": "https://letterboxd.com/paityne/film/minions-monsters-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "approx": false
+  },
+  {
+    "username": "paityne",
+    "name": "Boogie Nights",
+    "year": 1997,
+    "date": "2026-09-29",
+    "rating": 3.5,
+    "uri": "https://letterboxd.com/paityne/film/boogie-nights/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "approx": false
+  },
+  {
+    "username": "lukecharlier",
+    "name": "Minions & Monsters",
+    "year": 2026,
+    "date": "2026-09-28",
+    "rating": 3.0,
+    "uri": "https://letterboxd.com/lukecharlier/film/minions-monsters-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "approx": false
+  },
+  {
+    "username": "moviebuff501",
+    "name": "Tomorrowland",
+    "year": 2015,
+    "date": "2026-09-28",
+    "rating": 3.0,
+    "uri": "https://letterboxd.com/moviebuff501/film/tomorrowland/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "approx": false
+  },
+  {
+    "username": "batmatt208",
+    "name": "Misophonia",
+    "year": 2026,
+    "date": "2026-09-27",
+    "rating": 1.0,
+    "uri": "https://letterboxd.com/batmatt208/film/misophonia-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/b8wFEgVAnpbbK3Ziizp7iKggm5X.jpg",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "approx": false
+  },
+  {
+    "username": "batmatt208",
+    "name": "Primetime",
+    "year": 2026,
+    "date": "2026-09-27",
+    "rating": 3.0,
+    "uri": "https://letterboxd.com/batmatt208/film/primetime-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "approx": false
+  },
+  {
+    "username": "lukecharlier",
+    "name": "Primetime",
+    "year": 2026,
+    "date": "2026-09-26",
+    "rating": 3.5,
+    "uri": "https://letterboxd.com/lukecharlier/film/primetime-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "approx": false
+  },
+  {
+    "username": "paityne",
+    "name": "The Craft",
+    "year": 1996,
+    "date": "2026-09-26",
+    "rating": 3.0,
+    "uri": "https://letterboxd.com/paityne/film/the-craft/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Fantasy"
+    ],
+    "approx": false
+  },
+  {
+    "username": "skylerinthecine",
+    "name": "Primetime",
+    "year": 2026,
+    "date": "2026-09-26",
+    "rating": 3.5,
+    "uri": "https://letterboxd.com/skylerinthecine/film/primetime-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "approx": false
+  },
+  {
+    "username": "skylerinthecine",
+    "name": "Resident Evil",
+    "year": 2026,
+    "date": "2026-09-26",
+    "rating": 3.5,
+    "uri": "https://letterboxd.com/skylerinthecine/film/resident-evil-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "approx": false
+  },
+  {
+    "username": "lukecharlier",
+    "name": "Toy Story 5",
+    "year": 2026,
+    "date": "2026-09-25",
+    "rating": 3.0,
+    "uri": "https://letterboxd.com/lukecharlier/film/toy-story-5/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "approx": false
+  },
+  {
+    "username": "memoriesomovies",
     "name": "La Bola Negra",
     "year": 2026,
     "date": "2026-09-25",
@@ -27,6 +236,21 @@
       "Action",
       "Thriller",
       "Science Fiction"
+    ],
+    "approx": false
+  },
+  {
+    "username": "movieboireviews",
+    "name": "Primetime",
+    "year": 2026,
+    "date": "2026-09-25",
+    "rating": 2.5,
+    "uri": "https://letterboxd.com/movieboireviews/film/primetime-2026/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
     ],
     "approx": false
   },
@@ -795,7 +1019,7 @@
     "name": "Barbarian",
     "year": 2022,
     "date": "2026-09-18",
-    "rating": 3.0,
+    "rating": 3.5,
     "uri": "https://boxd.it/yohi",
     "reviewed": false,
     "poster": "https://image.tmdb.org/t/p/w92/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
@@ -5743,6 +5967,21 @@
   {
     "username": "skylerinthecine",
     "name": "This is how the world ends...",
+    "year": 2026,
+    "date": "2026-07-17",
+    "rating": 4.0,
+    "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
+    "reviewed": false,
+    "poster": "https://image.tmdb.org/t/p/w92/gny5VKDs3xnRtOgN7YVq5dStxAh.jpg",
+    "genres": [
+      "Science Fiction",
+      "War"
+    ],
+    "approx": false
+  },
+  {
+    "username": "skylerinthecine",
+    "name": "This Is How the World Ends",
     "year": 2026,
     "date": "2026-07-17",
     "rating": 4.0,
@@ -43861,7 +44100,7 @@
     "name": "Deadpool & Wolverine",
     "year": 2024,
     "date": "2025-03-05",
-    "rating": 3.5,
+    "rating": 3.0,
     "uri": "https://boxd.it/jq8s",
     "reviewed": false,
     "poster": "https://image.tmdb.org/t/p/w92/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
@@ -119089,7 +119328,7 @@
     "name": "Scream",
     "year": 2022,
     "date": "2022-01-14",
-    "rating": 2.0,
+    "rating": 4.0,
     "uri": "https://boxd.it/o0lg",
     "reviewed": false,
     "poster": "https://image.tmdb.org/t/p/w92/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",

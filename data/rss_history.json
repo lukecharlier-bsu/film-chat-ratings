@@ -1450,6 +1450,15 @@
       "uri": "https://letterboxd.com/memoriesomovies/film/escape-from-new-york/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "Primetime",
+      "year": 2026,
+      "date": "2026-09-29",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/memoriesomovies/film/primetime-2026/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "moviebuff501": [
@@ -2995,6 +3004,42 @@
       "uri": "https://letterboxd.com/moviebuff501/film/primetime-2026/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "Incredibles 2",
+      "year": 2018,
+      "date": "2026-09-29",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/incredibles-2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Tomorrowland",
+      "year": 2015,
+      "date": "2026-09-28",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/tomorrowland/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Ratatouille",
+      "year": 2007,
+      "date": "2026-09-27",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/ratatouille/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Deadpool & Wolverine",
+      "year": 2024,
+      "date": "2026-09-26",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/deadpool-wolverine/2/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "lukecharlier": [
@@ -3617,6 +3662,33 @@
       "rating": 4.5,
       "uri": "https://letterboxd.com/lukecharlier/film/hamnet/",
       "reviewed": false
+    },
+    {
+      "name": "Minions & Monsters",
+      "year": 2026,
+      "date": "2026-09-28",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/minions-monsters-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Primetime",
+      "year": 2026,
+      "date": "2026-09-26",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/primetime-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Toy Story 5",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/lukecharlier/film/toy-story-5/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "skylerinthecine": [
@@ -6554,6 +6626,33 @@
       "uri": "https://letterboxd.com/skylerinthecine/film/my-cousin-vinny/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "Primetime",
+      "year": 2026,
+      "date": "2026-09-26",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/primetime-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-26",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/resident-evil-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "This Is How the World Ends",
+      "year": 2000,
+      "date": "2026-07-17",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "paityne": [
@@ -7263,6 +7362,33 @@
       "date": "2026-09-25",
       "rating": 4.5,
       "uri": "https://letterboxd.com/paityne/film/the-odyssey-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Minions & Monsters",
+      "year": 2026,
+      "date": "2026-09-29",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/paityne/film/minions-monsters-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Boogie Nights",
+      "year": 1997,
+      "date": "2026-09-29",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/paityne/film/boogie-nights/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Craft",
+      "year": 1996,
+      "date": "2026-09-26",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/paityne/film/the-craft/",
       "reviewed": false,
       "source": "rss"
     }
@@ -8022,6 +8148,24 @@
       "rating": 3.0,
       "uri": "https://letterboxd.com/batmatt208/film/spinal-tap-ii-the-end-continues/",
       "reviewed": false
+    },
+    {
+      "name": "Misophonia",
+      "year": 2026,
+      "date": "2026-09-27",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/batmatt208/film/misophonia-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Primetime",
+      "year": 2026,
+      "date": "2026-09-27",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/batmatt208/film/primetime-2026/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "big_brant": [
@@ -8138,9 +8282,9 @@
     {
       "name": "Avengers: Infinity War",
       "year": 2018,
-      "date": "2026-09-13",
+      "date": "2026-09-26",
       "rating": 3.5,
-      "uri": "https://letterboxd.com/movieboireviews/film/avengers-infinity-war/2/",
+      "uri": "https://letterboxd.com/movieboireviews/film/avengers-infinity-war/3/",
       "reviewed": false,
       "source": "rss"
     },
@@ -8510,6 +8654,42 @@
       "date": "2026-08-15",
       "rating": 1.5,
       "uri": "https://letterboxd.com/movieboireviews/film/x-men-the-last-stand/1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Barbarian",
+      "year": 2022,
+      "date": "2026-09-29",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/barbarian-2022/3/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Scream",
+      "year": 1996,
+      "date": "2026-09-27",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/scream/3/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Avengers: Endgame",
+      "year": 2019,
+      "date": "2026-09-26",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/avengers-endgame/2/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Primetime",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/primetime-2026/",
       "reviewed": false,
       "source": "rss"
     }
