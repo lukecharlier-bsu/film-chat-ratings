@@ -3040,6 +3040,69 @@
       "uri": "https://letterboxd.com/moviebuff501/film/deadpool-wolverine/2/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "Ida",
+      "year": 2013,
+      "date": "2026-10-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/ida/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Burning",
+      "year": 2018,
+      "date": "2026-10-04",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/burning-2018/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Digger",
+      "year": 2026,
+      "date": "2026-10-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/digger-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Amores Perros",
+      "year": 2000,
+      "date": "2026-10-02",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/moviebuff501/film/amores-perros/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Verity",
+      "year": 2026,
+      "date": "2026-10-01",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/verity-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "On the Beach at Night Alone",
+      "year": 2017,
+      "date": "2026-09-30",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/on-the-beach-at-night-alone/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "One Piece: Clockwork Island Adventure",
+      "year": 2001,
+      "date": "2026-09-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/one-piece-clockwork-island-adventure/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "lukecharlier": [
@@ -3687,6 +3750,24 @@
       "date": "2026-09-25",
       "rating": 3.0,
       "uri": "https://letterboxd.com/lukecharlier/film/toy-story-5/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Digger",
+      "year": 2026,
+      "date": "2026-10-05",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/digger-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Nowhere",
+      "year": 1997,
+      "date": "2026-10-03",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/lukecharlier/film/nowhere/",
       "reviewed": false,
       "source": "rss"
     }
@@ -6653,6 +6734,24 @@
       "uri": "https://letterboxd.com/skylerinthecine/film/this-is-how-the-world-ends/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "Digger",
+      "year": 2026,
+      "date": "2026-10-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/digger-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Someone's Watching Me!",
+      "year": 1978,
+      "date": "2026-10-02",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/skylerinthecine/film/someones-watching-me/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "paityne": [
@@ -8166,6 +8265,15 @@
       "uri": "https://letterboxd.com/batmatt208/film/primetime-2026/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "Digger",
+      "year": 2026,
+      "date": "2026-10-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/batmatt208/film/digger-2026/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "big_brant": [
@@ -8690,6 +8798,15 @@
       "date": "2026-09-25",
       "rating": 2.5,
       "uri": "https://letterboxd.com/movieboireviews/film/primetime-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Verity",
+      "year": 2026,
+      "date": "2026-10-01",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/verity-2026/",
       "reviewed": false,
       "source": "rss"
     }

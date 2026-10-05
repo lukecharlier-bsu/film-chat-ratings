@@ -48566,5 +48566,44 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/gny5VKDs3xnRtOgN7YVq5dStxAh.jpg",
     "fetched": "2026-09-29"
+  },
+  "digger|2026": {
+    "tmdb_year": 2026,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "fetched": "2026-10-05"
+  },
+  "verity|2026": {
+    "tmdb_year": 2026,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "fetched": "2026-10-05"
+  },
+  "one piece: clockwork island adventure|2001": {
+    "tmdb_year": 2001,
+    "genres": [
+      "Action",
+      "Animation",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/phrVSY5cpUkybc0gU41crWi2XIP.jpg",
+    "fetched": "2026-10-05"
+  },
+  "someone's watching me!|1978": {
+    "tmdb_year": 1978,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "TV Movie"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/o5pIEWzjnMMz7WgOcB6wVXayE0D.jpg",
+    "fetched": "2026-10-05"
   }
 }

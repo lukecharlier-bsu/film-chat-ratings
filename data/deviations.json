@@ -840,6 +840,21 @@
     "deviation": -1.44
   },
   {
+    "movie_name": "Verity",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/movieboireviews/film/verity-2026/",
+    "avg_rating": 1.25,
+    "lb_avg": 2.69,
+    "rater_count": 2,
+    "breakdown": "movieboireviews:1.5, moviebuff501:1.0",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+    "deviation": -1.44
+  },
+  {
     "movie_name": "Purple Rain",
     "year": 1984,
     "letterboxd_uri": "https://boxd.it/1Pta",
@@ -12014,6 +12029,21 @@
     "deviation": -0.52
   },
   {
+    "movie_name": "Amores Perros",
+    "year": 2000,
+    "letterboxd_uri": "https://boxd.it/2bfu",
+    "avg_rating": 3.67,
+    "lb_avg": 4.19,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.5, moviebuff501:3.5, skylerinthecine:4.0",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1lX74fPZsBoOyyE5fWL5xT7k9sV.jpg",
+    "deviation": -0.52
+  },
+  {
     "movie_name": "The Umbrellas of Cherbourg",
     "year": 1964,
     "letterboxd_uri": "https://boxd.it/22fK",
@@ -12271,22 +12301,6 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
     "deviation": -0.51
-  },
-  {
-    "movie_name": "Nowhere",
-    "year": 1997,
-    "letterboxd_uri": "https://boxd.it/286E",
-    "avg_rating": 4.5,
-    "lb_avg": 3.99,
-    "rater_count": 2,
-    "breakdown": "moviebuff501:4.0, skylerinthecine:5.0",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/c1TZKfzvATep5x5DthqWjjWtU2l.jpg",
-    "deviation": 0.51
   },
   {
     "movie_name": "The Post",
@@ -13063,6 +13077,36 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/jSxCIZXudp5q8wQO8VERGX8hRAl.jpg",
     "deviation": -0.49
+  },
+  {
+    "movie_name": "Nowhere",
+    "year": 1997,
+    "letterboxd_uri": "https://boxd.it/286E",
+    "avg_rating": 3.5,
+    "lb_avg": 3.99,
+    "rater_count": 3,
+    "breakdown": "lukecharlier:1.5, moviebuff501:4.0, skylerinthecine:5.0",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/c1TZKfzvATep5x5DthqWjjWtU2l.jpg",
+    "deviation": -0.49
+  },
+  {
+    "movie_name": "On the Beach at Night Alone",
+    "year": 2017,
+    "letterboxd_uri": "https://boxd.it/fqEK",
+    "avg_rating": 4.25,
+    "lb_avg": 3.76,
+    "rater_count": 2,
+    "breakdown": "moviebuff501:4.0, skylerinthecine:4.5",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/mprIyn1rl5ukAVP9Vi9ZaRKtKkw.jpg",
+    "deviation": 0.49
   },
   {
     "movie_name": "Minari",
@@ -14416,21 +14460,6 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
     "deviation": 0.44
-  },
-  {
-    "movie_name": "Amores Perros",
-    "year": 2000,
-    "letterboxd_uri": "https://boxd.it/2bfu",
-    "avg_rating": 3.75,
-    "lb_avg": 4.19,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:3.5, skylerinthecine:4.0",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/1lX74fPZsBoOyyE5fWL5xT7k9sV.jpg",
-    "deviation": -0.44
   },
   {
     "movie_name": "The Bride!",
@@ -17450,6 +17479,22 @@
     "deviation": -0.36
   },
   {
+    "movie_name": "Burning",
+    "year": 2018,
+    "letterboxd_uri": "https://boxd.it/hHUa",
+    "avg_rating": 3.67,
+    "lb_avg": 4.03,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:3.0, moviebuff501:3.0, skylerinthecine:5.0",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+    "deviation": -0.36
+  },
+  {
     "movie_name": "The Darjeeling Limited",
     "year": 2007,
     "letterboxd_uri": "https://boxd.it/24as",
@@ -18894,6 +18939,20 @@
     "deviation": -0.32
   },
   {
+    "movie_name": "I Want Your Sex",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/i-want-your-sex/",
+    "avg_rating": 3.5,
+    "lb_avg": 3.18,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:3.0, skylerinthecine:3.5",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+    "deviation": 0.32
+  },
+  {
     "movie_name": "Caught by the Tides",
     "year": 2024,
     "letterboxd_uri": "https://boxd.it/GZ4Q",
@@ -19275,20 +19334,6 @@
     "deviation": -0.31
   },
   {
-    "movie_name": "I Want Your Sex",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/i-want-your-sex/",
-    "avg_rating": 3.5,
-    "lb_avg": 3.19,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:4.0, moviebuff501:3.0, skylerinthecine:3.5",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-    "deviation": 0.31
-  },
-  {
     "movie_name": "Smiley Face",
     "year": 2007,
     "letterboxd_uri": "https://letterboxd.com/paityne/film/smiley-face/",
@@ -19545,6 +19590,22 @@
     ],
     "poster": "https://image.tmdb.org/t/p/w92/qFpfALhprXmOAbA5upTNupZw8rq.jpg",
     "deviation": -0.3
+  },
+  {
+    "movie_name": "Hope",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/moviebuff501/film/hope-2026/",
+    "avg_rating": 3.5,
+    "lb_avg": 3.2,
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:3.0, skylerinthecine:3.5",
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "deviation": 0.3
   },
   {
     "movie_name": "First Reformed",
@@ -21141,22 +21202,6 @@
       "Crime"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/1oPjkd0200Nt7sdLRqp5Ot1oPxK.jpg",
-    "deviation": 0.26
-  },
-  {
-    "movie_name": "Hope",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/hope-2026/1/",
-    "avg_rating": 3.5,
-    "lb_avg": 3.24,
-    "rater_count": 3,
-    "breakdown": "memoriesomovies:4.0, moviebuff501:3.0, skylerinthecine:3.5",
-    "genres": [
-      "Science Fiction",
-      "Mystery",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
     "deviation": 0.26
   },
   {
@@ -24130,6 +24175,21 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+    "deviation": -0.19
+  },
+  {
+    "movie_name": "Digger",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/batmatt208/film/digger-2026/",
+    "avg_rating": 3.62,
+    "lb_avg": 3.81,
+    "rater_count": 4,
+    "breakdown": "batmatt208:4.0, lukecharlier:3.5, moviebuff501:3.5, skylerinthecine:3.5",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
     "deviation": -0.19
   },
   {
@@ -29336,22 +29396,6 @@
     "deviation": -0.08
   },
   {
-    "movie_name": "The Samurai and the Prisoner",
-    "year": 2026,
-    "letterboxd_uri": "https://letterboxd.com/memoriesomovies/film/the-samurai-and-the-prisoner/",
-    "avg_rating": 3.5,
-    "lb_avg": 3.58,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
-    "genres": [
-      "Drama",
-      "History",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
-    "deviation": -0.08
-  },
-  {
     "movie_name": "Raw",
     "year": 2017,
     "letterboxd_uri": "https://boxd.it/dLd2",
@@ -29881,6 +29925,22 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/xQ5XqZc82dDCcGjxY7voRKjhaKQ.jpg",
+    "deviation": -0.07
+  },
+  {
+    "movie_name": "The Samurai and the Prisoner",
+    "year": 2026,
+    "letterboxd_uri": "https://letterboxd.com/skylerinthecine/film/the-samurai-and-the-prisoner/",
+    "avg_rating": 3.5,
+    "lb_avg": 3.57,
+    "rater_count": 2,
+    "breakdown": "memoriesomovies:3.5, skylerinthecine:3.5",
+    "genres": [
+      "Drama",
+      "History",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w92/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
     "deviation": -0.07
   },
   {
@@ -31056,8 +31116,8 @@
     "letterboxd_uri": "https://boxd.it/6fRg",
     "avg_rating": 4.0,
     "lb_avg": 4.04,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:4.0, skylerinthecine:4.0",
+    "rater_count": 3,
+    "breakdown": "memoriesomovies:4.0, moviebuff501:4.0, skylerinthecine:4.0",
     "genres": [
       "Drama"
     ],
@@ -31621,22 +31681,6 @@
       "Drama"
     ],
     "poster": "https://image.tmdb.org/t/p/w92/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
-    "deviation": -0.03
-  },
-  {
-    "movie_name": "Burning",
-    "year": 2018,
-    "letterboxd_uri": "https://boxd.it/hHUa",
-    "avg_rating": 4.0,
-    "lb_avg": 4.03,
-    "rater_count": 2,
-    "breakdown": "memoriesomovies:3.0, skylerinthecine:5.0",
-    "genres": [
-      "Mystery",
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w92/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
     "deviation": -0.03
   },
   {
