@@ -3103,6 +3103,33 @@
       "uri": "https://letterboxd.com/moviebuff501/film/one-piece-clockwork-island-adventure/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "The Social Reckoning",
+      "year": 2026,
+      "date": "2026-10-09",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-social-reckoning/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Dropout",
+      "year": 2022,
+      "date": "2026-10-08",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-dropout/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Slumdog Millionaire",
+      "year": 2008,
+      "date": "2026-10-07",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/slumdog-millionaire/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "lukecharlier": [
@@ -6752,6 +6779,15 @@
       "uri": "https://letterboxd.com/skylerinthecine/film/someones-watching-me/",
       "reviewed": false,
       "source": "rss"
+    },
+    {
+      "name": "I Knew Her Well",
+      "year": 1965,
+      "date": "2026-10-09",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/skylerinthecine/film/i-knew-her-well/",
+      "reviewed": false,
+      "source": "rss"
     }
   ],
   "paityne": [
@@ -8807,6 +8843,512 @@
       "date": "2026-10-01",
       "rating": 1.5,
       "uri": "https://letterboxd.com/movieboireviews/film/verity-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "R.L. Stine's Monsterville: The Cabinet of Souls",
+      "year": 2015,
+      "date": "2026-10-07",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/rl-stines-monsterville-the-cabinet-of-souls/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Haunting Hour: Don't Think About It",
+      "year": 2007,
+      "date": "2026-10-07",
+      "rating": 0.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/the-haunting-hour-dont-think-about-it/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2002,
+      "date": "2026-10-07",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/resident-evil/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Little Shop of Horrors",
+      "year": 1986,
+      "date": "2026-10-06",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/little-shop-of-horrors/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Monster House",
+      "year": 2006,
+      "date": "2026-10-06",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/monster-house/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Unabomber",
+      "year": 2026,
+      "date": "2026-10-05",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/movieboireviews/film/unabomber-2026/",
+      "reviewed": false,
+      "source": "rss"
+    }
+  ],
+  "darren_ryan": [
+    {
+      "name": "Digger",
+      "year": 2026,
+      "date": "2026-10-07",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/digger-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Invite",
+      "year": 2026,
+      "date": "2026-10-05",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-invite-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "I Want Your Sex",
+      "year": 2026,
+      "date": "2026-10-04",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/i-want-your-sex/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The End of Oak Street",
+      "year": 2026,
+      "date": "2026-09-25",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-end-of-oak-street/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Evil Dead Burn",
+      "year": 2026,
+      "date": "2026-09-24",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/evil-dead-burn/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Tony",
+      "year": 2026,
+      "date": "2026-09-23",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/tony-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Nirvanna the Band the Show the Movie",
+      "year": 2025,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/nirvanna-the-band-the-show-the-movie/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "BlackBerry",
+      "year": 2023,
+      "date": "2026-09-22",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/blackberry-2023/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Operation Avalanche",
+      "year": 2016,
+      "date": "2026-09-21",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/operation-avalanche/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Dirties",
+      "year": 2013,
+      "date": "2026-09-20",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-dirties/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Resident Evil",
+      "year": 2026,
+      "date": "2026-09-18",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/resident-evil-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Blow Out",
+      "year": 1981,
+      "date": "2026-09-08",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/blow-out/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Moon Knight",
+      "year": 2022,
+      "date": "2026-09-08",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/moon-knight-2022/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "date": "2026-09-07",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/shang-chi-and-the-legend-of-the-ten-rings/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "date": "2026-09-05",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/guardians-of-the-galaxy-vol-3/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "WandaVision",
+      "year": 2021,
+      "date": "2026-09-01",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/wandavision/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Loki",
+      "year": 2021,
+      "date": "2026-08-30",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/loki-2021/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Cook, the Thief, His Wife & Her Lover",
+      "year": 1989,
+      "date": "2026-08-27",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-cook-the-thief-his-wife-her-lover/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Road to El Dorado",
+      "year": 2000,
+      "date": "2026-08-18",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-road-to-el-dorado/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Thunderbolts*",
+      "year": 2025,
+      "date": "2026-08-18",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/thunderbolts/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "date": "2026-08-16",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-fantastic-4-first-steps/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Guardians of the Galaxy Holiday Special",
+      "year": 2022,
+      "date": "2026-08-15",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-guardians-of-the-galaxy-holiday-special/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Punisher: One Last Kill",
+      "year": 2026,
+      "date": "2026-08-15",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-punisher-one-last-kill/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Odyssey",
+      "year": 2026,
+      "date": "2026-07-30",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-odyssey-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "date": "2026-07-29",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/spider-man-brand-new-day/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Prince of Egypt",
+      "year": 1998,
+      "date": "2026-07-27",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-prince-of-egypt/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Phantom Thread",
+      "year": 2017,
+      "date": "2026-07-17",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/phantom-thread/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Hand",
+      "year": 2020,
+      "date": "2026-07-15",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-hand-2020-1/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Sorcerer",
+      "year": 1977,
+      "date": "2026-07-15",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/sorcerer/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Phantom of the Paradise",
+      "year": 1974,
+      "date": "2026-07-14",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/phantom-of-the-paradise/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "On the Waterfront",
+      "year": 1954,
+      "date": "2026-07-14",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/on-the-waterfront/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "F9",
+      "year": 2021,
+      "date": "2026-07-12",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/f9/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Funny Games",
+      "year": 2007,
+      "date": "2026-07-03",
+      "rating": 3.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/funny-games-2007/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Superman",
+      "year": 1978,
+      "date": "2026-07-01",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/superman/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Penguin",
+      "year": 2024,
+      "date": "2026-06-27",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-penguin-2024/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "30 Days of Night",
+      "year": 2007,
+      "date": "2026-06-15",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/30-days-of-night/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Backrooms",
+      "year": 2026,
+      "date": "2026-06-04",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/backrooms-2026/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Mandalorian and Grogu",
+      "year": 2026,
+      "date": "2026-06-01",
+      "rating": 2.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-mandalorian-and-grogu/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Obsession",
+      "year": 2025,
+      "date": "2026-05-21",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/obsession-2025/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Ugly Stepsister",
+      "year": 2025,
+      "date": "2026-05-10",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-ugly-stepsister/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Martyrs",
+      "year": 2008,
+      "date": "2026-05-10",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/martyrs/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "All About Lily Chou-Chou",
+      "year": 2001,
+      "date": "2026-05-06",
+      "rating": 5.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/all-about-lily-chou-chou/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Angel's Egg",
+      "year": 1985,
+      "date": "2026-05-05",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/angels-egg/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Ready or Not 2: Here I Come",
+      "year": 2026,
+      "date": "2026-05-05",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/ready-or-not-2-here-i-come/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Exit 8",
+      "year": 2025,
+      "date": "2026-05-04",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/exit-8/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "The Lure",
+      "year": 2015,
+      "date": "2026-05-03",
+      "rating": 1.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/the-lure/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Oddity",
+      "year": 2024,
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/oddity-2024/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Hokum",
+      "year": 2026,
+      "date": "2026-05-03",
+      "rating": 4.5,
+      "uri": "https://letterboxd.com/darren_ryan/film/hokum/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Lisa Frankenstein",
+      "year": 2024,
+      "date": "2026-04-30",
+      "rating": 3.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/lisa-frankenstein/",
+      "reviewed": false,
+      "source": "rss"
+    },
+    {
+      "name": "Project Hail Mary",
+      "year": 2026,
+      "date": "2026-04-29",
+      "rating": 4.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/project-hail-mary/",
       "reviewed": false,
       "source": "rss"
     }

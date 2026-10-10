@@ -1,7 +1,7 @@
 [
   {
     "username": "batmatt208",
-    "rating_count": 478,
+    "rating_count": 477,
     "profile_url": "https://letterboxd.com/batmatt208/",
     "latest": {
       "name": "Digger",
@@ -28,8 +28,23 @@
     "rss_coverage": null
   },
   {
+    "username": "darren_ryan",
+    "rating_count": 2626,
+    "profile_url": "https://letterboxd.com/darren_ryan/",
+    "latest": {
+      "name": "Digger",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/darren_ryan/film/digger-2026/",
+      "source": "rss"
+    },
+    "rss_coverage": {
+      "from": "2026-04-29",
+      "to": "2026-10-07"
+    }
+  },
+  {
     "username": "lukecharlier",
-    "rating_count": 537,
+    "rating_count": 532,
     "profile_url": "https://letterboxd.com/lukecharlier/",
     "latest": {
       "name": "Digger",
@@ -44,7 +59,7 @@
   },
   {
     "username": "memoriesomovies",
-    "rating_count": 1540,
+    "rating_count": 1528,
     "profile_url": "https://letterboxd.com/memoriesomovies/",
     "latest": {
       "name": "Parasite",
@@ -57,37 +72,37 @@
   },
   {
     "username": "movieboireviews",
-    "rating_count": 1591,
+    "rating_count": 1588,
     "profile_url": "https://letterboxd.com/movieboireviews/",
     "latest": {
-      "name": "Verity",
-      "rating": 1.5,
-      "uri": "https://letterboxd.com/movieboireviews/film/verity-2026/",
+      "name": "R.L. Stine's Monsterville: The Cabinet of Souls",
+      "rating": 1.0,
+      "uri": "https://letterboxd.com/movieboireviews/film/rl-stines-monsterville-the-cabinet-of-souls/",
       "source": "rss"
     },
     "rss_coverage": {
-      "from": "2026-08-20",
-      "to": "2026-10-01"
+      "from": "2026-08-23",
+      "to": "2026-10-07"
     }
   },
   {
     "username": "moviebuff501",
-    "rating_count": 1682,
+    "rating_count": 1671,
     "profile_url": "https://letterboxd.com/moviebuff501/",
     "latest": {
-      "name": "Ida",
-      "rating": 4.0,
-      "uri": "https://letterboxd.com/moviebuff501/film/ida/",
+      "name": "The Social Reckoning",
+      "rating": 2.0,
+      "uri": "https://letterboxd.com/moviebuff501/film/the-social-reckoning/",
       "source": "rss"
     },
     "rss_coverage": {
-      "from": "2026-07-28",
-      "to": "2026-10-05"
+      "from": "2026-07-30",
+      "to": "2026-10-09"
     }
   },
   {
     "username": "paityne",
-    "rating_count": 391,
+    "rating_count": 390,
     "profile_url": "https://letterboxd.com/paityne/",
     "latest": {
       "name": "Minions & Monsters",
@@ -102,17 +117,17 @@
   },
   {
     "username": "skylerinthecine",
-    "rating_count": 3253,
+    "rating_count": 3248,
     "profile_url": "https://letterboxd.com/skylerinthecine/",
     "latest": {
-      "name": "Digger",
+      "name": "I Knew Her Well",
       "rating": 3.5,
-      "uri": "https://letterboxd.com/skylerinthecine/film/digger-2026/",
+      "uri": "https://letterboxd.com/skylerinthecine/film/i-knew-her-well/",
       "source": "rss"
     },
     "rss_coverage": {
-      "from": "2026-07-17",
-      "to": "2026-10-03"
+      "from": "2026-07-18",
+      "to": "2026-10-09"
     }
   }
 ]
